@@ -1,0 +1,48 @@
+Title: What we're doing to keep Monzo accessible
+Author: Natalie Ledward
+Position: Vulnerable Customer Analyst
+Date: 16 May 2019
+
+
+Today is Global Accessibility Awareness Day! To celebrate, we wanted to share some of the work we’re doing around accessibility here at Monzo.
+We know that 19% of working age adults have a disability, and approximately 1 in 4 people in the UK will experience a mental health problem each year. 4.6% of customers who have used our tool to share their circumstances with us disclosed accessibility needs, and 26.2% of them disclosed mental health issues. Our Vulnerable Customers team are here to make sure everyone’s needs are considered, so we want to start talking about what we’re doing to improve access to Monzo.
+We’re creating an inclusive culture
+We want everyone to feel included at Monzo, but we know we’ve got work to do on this. We’re working really hard to make Monzo a welcoming workplace, and we want our customers to feel just as welcome too! And we regularly share our Diversity and Inclusion numbers with the world, to keep us accountable.
+We’re also currently hiring for a Diversity and Inclusion Lead - so feel free to apply if you’re passionate about accessibility!
+We’re talking about accessibility
+We use Slack for our internal communication. Last year we created the #accessibility channel for our team to share ideas, knowledge and issues around access to Monzo. It’s been a great way for people focussing on accessibility across different teams to collaborate and share ideas.
+Earlier this year we also created #cops-accessibility so that COps could escalate queries directly to a specialist team, and report issues from customers.
+We’ve called for advocates across the company
+In February this year we stood up at our company All Hands meeting and called for advocates to think about accessibility at Monzo. Our aim is to learn more about accessibility and to identify opportunities where we can be doing more. We plan to encourage a ‘champion’ network to raise awareness through the company.
+We asked the advocates to:
+
+Learn about their area
+Consider accessibility
+Challenge the impact we’re having
+Identify opportunities
+Raise issues
+Awareness
+
+This support network means we’re thinking about accessibility at all levels.
+We’re making small steps to improve
+We’re making small fixes as we go. Our engineering teams have recently run some initiatives to improve accessibility, including one to tackle compatibility with large dynamic type for visually impaired users. We’ve also tried:
+
+Building out component libraries to create consistency across our product and ensure that all our design patterns are accessible.
+Committing to produce an accessibility checklist for our designers & engineers, and we also aim to create training modules for on-boarding.
+Trialing a tool to run accessibility tests against our website, which surfaced a list of issues that we’re looking to fix soon.  We’re also exploring more tooling to help with this.
+Rebuilding our blog (which is where a lot of the issues sit as it’s where most of our web content is) and putting measures in place to tackle things like images without alt tags etc.
+Hiring more product designers, who can help us out with accessibility issues like contrast in the app.
+
+We’re committing to an audit of our product
+We want to assess where our product is in terms of meeting accessibility standards. This year, we want to carry out an audit of our product. We’ll share our findings once this is completed!
+We’re working on our communication
+Our Tone of Voice guidelines help us make sure that all our communications are as inclusive as possible. They focus on making things easy to understand, which is especially important when talking about financial services.
+Our terms and conditions for example, have a reading age of 11 and are only 1500 words long. And just this week, we recorded an audio version of them, so you can listen to them read out loud too.
+We’re talking to experts
+Last year we took part in Money and Mental Health Policy Institute’s Access Review, which generated this report. The Vulnerable Customers team spend a lot of time reaching out to charities and organisations to learn more about the circumstances our customers are experiencing and what support is out there so that if anyone needs it, we know which direction to point people in.
+We also try to attend as many events as possible as a team! You might find some of us at the A11Y London events. If you do, please come and say hi!
+If you think your organisation can help us, we’d love to hear from you.
+But we’ve still got lots to learn
+We would love to get to a point where we are sharing our knowledge with other organisations and setting up partnerships to collectively improve accessibility. To get to that point, we’ve got a lot to learn.
+
+We’d love to hear your feedback around accessibility. If you have ideas of how we can improve access at Monzo and better support you, just let us know!

@@ -1,0 +1,14 @@
+Title: Why Monzo Cards Aren't Working Today
+Author: Oliver Beattie
+Position: Head of Engineering
+Date: 5 Mar 2017
+
+
+Update - March 06, 2017: Our card processor has repaired their systems and our cards are working again. The original post and explanation follows.
+As many of our customers will already be aware, we’ve been experiencing a severe outage meaning that Monzo cards and our app have not worked for most of today. We know our customers depend on Monzo, and we’re truly sorry for letting you down. We’re working to fix the problems as quickly as we can, but we wanted to let you know what has happened and what we’re doing to stop this happening again.
+Until the outage is over, we will post regular updates on our status page. We will also reimburse any extra costs you incur as a result of this outage, for example foreign exchange fees incurred from using another card – just get in touch via customer support, ideally with receipts, in the next week.
+
+During our prepaid alpha and beta, all Monzo transactions go via another company called a “card processor.” A card processor sits between our systems and the Mastercard network, and because all our transactions go via them, their systems must be available at all times for our cards to work. When they are down, we are down, as unfortunately happened today. Our own systems remain online, but until the card processor is repaired, we are effectively disconnected from Mastercard and are unable to approve any transactions.
+Using a third-party processor made a lot of sense when we first started our alpha program – connecting directly to payment networks like Mastercard is a long, costly, and complex process, and at the time it didn’t seem like there would be any benefit to our customers from doing this. However, over the past year we have reassessed this decision; to ensure we have total control over the customer experience, we need to have a direct connection to payment networks.
+We’ve just finished a 12-month project to connect our systems directly to Mastercard. When we launch the current account later this year, it will not use a third-party card processor and instead transactions will be processed entirely on our own technology. We see ourselves as a technology company as much as a bank, and going forward our strategy is to bring all critical systems in-house and continue to develop our own platform atop modern technology which we control.
+While there unfortunately isn’t much we can do until our processor’s systems are back online, we will continue to post regular updates on our status page. If you have any questions, please get in touch – either with customer support in the app, via Twitter, or in the thread below. Thank you for your patience and support during this time.

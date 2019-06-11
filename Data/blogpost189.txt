@@ -1,0 +1,95 @@
+Title: We’re working to improve the performance of our iOS app
+Author: Andy Smart
+Position: iOS Platform lead
+Date: 18 Sep 2018
+
+
+If you use Monzo on iOS, in the past few months you’ll have noticed your app getting slower:
+
+It’s been taking a long time for the app to launch
+Switching tabs takes a long time, even on newer handsets
+Scrolling through your transaction feed isn’t as smooth as we’d like
+
+In the last week we’ve rolled out updates that improve the performance of our iOS app, so you should be able to see a significant difference already!
+
+The app now launches ~60% quicker
+We’ve improved the scrolling of the feed by ~30%
+We’ve sped up the time it takes to switch tabs by ~18%
+
+What we’ve done so far
+We knew that the performance of our iOS app was an ongoing issue, but your feedback in the community really helped us understand how it was affecting you, and pushed us to make it a priority. So, a few weeks ago we set up a squad of engineers to start tackling the problem.
+Here are the improvements you’ll see so far, and a technical insight into how we made them.
+To make sure we were testing in a realistic way, we tried all the actions on an iPhone 5, which is the slowest iPhone the Monzo app supports. We also used staff accounts that have extensive transaction histories that extend back two years.
+
+The app now launches ~62% quicker
+It was taking the app 6.2 seconds on average to launch – which is the time between tapping the icon, to seeing your feed. We’ve cut this down to 2.5 seconds.
+
+
+
+
+
+When we run the Monzo app, we’re dependent on a few third party software development kits (SDKs), for example Alamofire and Realm. They help us perform network requests, persist data on your device and other helpful things.
+But over time, as we’ve added more features to Monzo and made our app more complex, we’ve linked to more and more libraries. This was causing the app to take longer to launch.
+To fix it, we’ve adopted CocoaPods 1.6 beta, which is a tool that helps us link these SDKs to our app. This lets us link those libraries statically rather than dynamically, meaning that the libraries are included and loaded all together on launch, rather than being loaded individually. This change significantly speeds up the time it takes to open the app.
+
+We’ve improved the scrolling of the feed by ~30%, with more fixes planned
+When you looked through your transaction feed, the scrolling wasn’t always smooth. You might see it lag for a while, them jump quickly from one section to another.
+
+
+
+
+
+The choppy scrolling was caused by a few separate issues. So we spent some time diagnosing different things that were causing it, and working out how we could improve each one. We found there were a few quick wins, and some bigger tasks that would have more impact.
+We call each transaction, refund or message in your feed a “feed item.” And every time we add a new style or type of feed item, displaying both the feed item and its detail screen becomes more complex.
+As that happened, what were once efficient routines to render each feed item started to drag the scroll performance down.
+So, we’ve optimised when and therefore how often we render and re-layout the feed, as well as what layout was occurring simultaneously. By reducing the work that’s going on as you scroll, this has helped us make scrolling smoother.
+
+We’ve sped up the time it takes to switch tabs by ~18%
+Switching between the tabs at the bottom of the app can take a second or two, but we’ve improved this by ~18% and we want to make it instant.
+
+
+
+As you move between tabs in the Monzo app, we call out to our backend API to refresh the data we display. These network requests are performed on a background thread, as they can take some time to complete, and we don’t expect you to wait for them to finish.
+But something we hadn’t anticipated was the performance cost of actually generating and serialising the information we need to make the network request itself. Our analysis showed that the number of requests and the time it takes to create an object for each one was starting to add up. We’ve now moved these operations to a background thread too, which has helped us increase the speed of switching tabs.
+Why did this happen?
+
+We’ve made the codebase of our app much more complex
+In the last year, we’ve doubled the number of mobile engineers that are working on our app. They’re shipping more features with every update, and this has made the codebase of our app much more complex.
+Technical debt can be a useful tool, that lets us ship features faster. But it only works if we remember to repay the debt over time, before it accumulates and starts impacting our customers.
+We let this technical debt build up too much, and over time it’s affected the performance of our app.
+
+The way we organise our teams has made paying off technical debt a challenge
+To build the Monzo app, we have eight different squads. We organise our squads according to the two-pizza rule, and each one has an iOS engineer, and Android engineer, backend engineers, a product manager, and a designer. These small teams work on different aspects of the app, like lending, savings, or customer growth.
+We’ve found this model really effective for giving teams ownership of their work and room to focus on one thing at a time. But an unwanted side-effect is that some things don’t explicitly fall under the remit of any squad.
+The technical debt we built up over time wasn’t any team’s clear responsibility to address. And because we didn’t have a good way to prioritise and portion out the work, it had begun to build up.
+What’s next?
+For most Monzo customers on iOS, these updates should dramatically improve the performance of our app, back to the level you should be able to expect.
+But we know this hasn’t totally fixed the issue for everyone, so this is only just the start.
+We plan to keep making improvements, and after hearing your feedback there are a few more things we’re going to focus on next.
+
+Optimising the first app launch of the day
+The first time you launch the app each day, we fetch more historical data to make sure the app is able to display everything you need. But for customers with lots of transaction history, this can cause the feed to stutter while you scroll.
+For the next week, our squad will focus on fixing this, so you should never be able to tell the difference between the first load of the day, or the last.
+
+Making more improvements to scrolling
+As our customers use Monzo more and more, their transaction history begins to grow.  But as this happens, the way the app groups feed items by date has started to become a bottleneck.
+Grouping feed items by date is computationally expensive, so we’ll focus on moving these once efficient routines off the main thread, which is responsible for rendering the UI, and handling interactions (e.g. scrolling). By grouping feed items off the main thread we’ll free up resources for UI rendering and scrolling to occur much more quickly, resulting in a smoother scroll.
+
+Speeding up the interaction between tapping a feed item and displaying the details
+When you tap a feed item, it can take a second to show you the screen with all the details of your transaction.
+We’re looking into ways that we can make this lightning fast, so you can get the information you need immediately.
+How will we stop this happening again?
+This happened because we didn’t have the right processes in place to measure our app’s performance, and make fixing it a priority.
+To make sure this doesn’t happen in the future, we’re going to improve the way we measure the performance of our app, and make sure its clear who’s responsible for repaying any technical debt.
+
+Better performance metrics
+We’ve realised that we don’t have good metrics on how our app performs for all our customers. Performance can be tricky to measure, but we’re going to create dashboards that track key metrics, like the time it takes to launch the app or switch between tabs, for example. This way, we can spot when performance starts dropping, and fix it before it affects you.
+iOS also lets us carry out unit tests focussed on performance (how quickly tasks within the app are performed) rather than correctness (whether those tasks are doing what we want them to). We’re planning to make more use of these tests for expensive or critical routines.
+
+Making one squad responsible for performance
+We’re planning to form a squad of engineers for both iOS and Android, that will be responsible for tracking, maintaining and improving the performance of our apps, (along with other things like how quickly other app engineers can build features). We already have a similar squad in place for our backend infrastructure and reliability.
+It’s not acceptable for things that have a major impact on our customers to fall between the cracks. So, by giving one squad explicit ownership of the problem, we want to make sure this never happens again.
+Why hasn’t this been an issue on Android?
+While the way we structure our code on iOS and Android isn’t vastly different, there are differences in the way we build your transaction feed on each platform.
+Over time, the Monzo apps have increased in complexity. Our iOS app is almost a year older than the Android one, and the transaction feed is one of the oldest parts of our app’s codebase.
+Our Android app is also built on a functional reactive programming design pattern, which lets the app dynamically respond to individual changes, rather than reloading the entire feed every time. To reduce the complexity of our codebase, we decided not to use this model on iOS. But that’s led to some of the problems we’ve been seeing on iOS, so we’re re-evaluating whether this was the right decision now.

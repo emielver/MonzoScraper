@@ -1,0 +1,23 @@
+Title: Launching Monzo.me on Android!
+Author: Tristan Thomas
+Position: Product Manager
+Date: 24 Feb 2017
+
+
+Since we launched Monzo.me in December, we’ve had an amazing response from users who’ve found it perfect for splitting bills and getting friends to pay them back. The loudest request has always been to bring Monzo.me to Android and today, we have! Version 1.5.0 is now live in the Play Store with full Monzo.me support and a couple of other features.
+Monzo.me on Android
+Get your own personal Monzo.me link and let anybody pay you using a debit card, Apple Pay or their existing Monzo account. You can use your generic URL and let people choose what they send you or customise it in-app with a specific amount and message, perfect for splitting a bill!
+
+
+
+People don’t need a Monzo account to pay you money, it’s totally free, both for you and anyone who pays you, and the money is transferred instantly to your Monzo account. If someone clicks on your link who already has a Monzo account, it’ll automatically open up their iOS or Android app pre-filled with the amount you requested.
+We’re also going to release Split the bill with Monzo.me to Android in the next update (1.5.1). It didn’t quite make it in this release but it’s coming very soon!
+Other improvements
+We also:
+
+redesigned the category picker so it should now fit better on small screens
+significantly improved the notifications — they now don’t cancel each other, they group together on Android 7 (Nougat) and they feature the Monzo ‘ka-ching’ sound like on iOS
+fixed a bunch of bugs that had been reported
+and added full support for the big day on Tuesday!
+
+We hope you enjoy using Monzo.me and would love to hear what you think. Let us know on the forum or on Twitter. And as always, if you’d like to leave a nice review in the Play Store, it would make us very happy!

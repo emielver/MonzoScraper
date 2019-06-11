@@ -1,0 +1,17 @@
+Title: Payments on Android!
+Author: Tristan Thomas
+Position: Product Manager
+Date: 6 Dec 2016
+
+
+Three weeks after we launched Spending on Android, we’re very excited to release another huge update to the Monzo Android app. Payments!
+
+
+
+  Sorry, your browser does not support the video tag. Please update.
+  
+
+You can now send money to anyone else who has a Monzo account, on iOS or Android. It’s sent instantly, securely authenticated with your PIN and of course, it’s totally free. We’ve also built in all of the Monzo with friends functionality we just released on iOS, so you can see which of your contacts are already on Monzo and invite anyone else to join. Check it out from the floating action button (the big red + on the bottom right).
+We’ve worked hard to make this feature private and avoid sending any personally identifiable information about your contacts to our servers until the moment you send them money. There’s a short outline of how we do this on the forum here and we’d love to hear your thoughts!
+Additionally, we have a variety of improvements to this feature coming soon, so you’ll be able to add a contact from within the Monzo app, search your contacts and find out when new friends join.
+We can’t wait to hear what you think about being able to send and receive money on Android! If it’s something you’ve been waiting for, we’d love some reviews in the Play Store 😍

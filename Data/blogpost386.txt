@@ -1,0 +1,15 @@
+Title: Introducing Monzo Insider!
+Author: Naji Esiri
+Position: Community Manager
+Date: 27 Jul 2017
+
+
+Ever wondered how emoji find their way into your instant notifications? Or how the in-app Help screen predicts your query so accurately? There are so many interesting stories behind the projects we’re working on here at Monzo and we want to share as many of these as we possibly can with the community!
+Video feels like a great way to bring some of these ideas to life and it’s been a popular request from our community, so we’ve decided to hand the power over to you with our new community-hosted web series, Monzo Insider!
+For those of you who missed the pilot, the concept is simple - each month we invite a community host to bring their own burning questions to Monzo HQ in search of answers. We’ll switch hosts each month to keep things fresh and encourage each person to give their own unique take on the chosen topic. We were amazed how well the first episode was received - the feedback from the community has given us the confidence to commit to a series of future Monzo Insider episodes 🎉
+Some of you may have already tried out the new machine learning powered help search function. For episode two, director Ross McClure dives head first into the world of machine learning, exploring the core concepts and their relevance to things we’re working on at Monzo, with the help of Data Scientist Nigel.
+
+
+
+We’re on the lookout for charismatic community hosts for episode 3 and beyond! If you’re a filmmaker, vlogger or director (and a Monzo customer of course!) and are interested in taking part we’d love to hear from you
+It would be great to hear what other topics you’d like us to cover on Monzo Insider and  ideas for other great video content too. Share them with us and the wider community via the community forum or Twitter.

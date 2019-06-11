@@ -1,0 +1,64 @@
+Title: Monzo Monthly Update: March
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 28 Feb 2018
+
+
+To keep you in the loop about what we’ve been working on, we plan to share an update at the start of every month. As February comes to a close, this is the second in the series. We hope you find it useful! Let us know what you think in our community forum.
+In the meantime, here it is! A quick recap of what we’ve done so far, and an insight into our plan for the coming month.
+Done in February ✅
+We brought Monzo.me to everyone 💰
+To help make it easy for everyone to split bills and collect cash from their friends, we brought Monzo.me to all new Monzo users.
+By sharing one simple link, you can request money from anyone, even if they aren’t on Monzo.
+
+
+
+We added the Pulse to Android 📉
+A simple graph that appears above your transactions, the Pulse allows you to understand your spending at a glance.
+We added the Pulse to Android, so you can see how much money you have in your Monzo account, and how your balance has changed throughout each month – whether you use iOS or Android!
+
+
+
+We gave Android users the ability to feedback about merchants 🔉
+You can help improve the information everyone sees in their app, by giving feedback about the data we display for each transaction.
+When you see a purchase in your Monzo feed that doesn’t quite have the right information, you can now help us correct it, on both iOS and Android.
+
+
+
+
+To come in March 🔜
+
+
+
+Making merchant feedback even better on Android 😃
+We’ll add some finishing touches to the merchant feedback feature we brought to Android last month. You’ll now be able to enter the address of the shop, restaurant or other retailer manually too.
+Add Direct Debit merchant feedback ↪️
+On both Android and iOS, we’ll also make it possible to give feedback about companies you pay via Direct Debit in a similar way. So everyone can see better information in their apps!
+Back in January, we said that our plan was to add this to iOS in the next few updates, but we’re happy to say we’ll be bringing it to both platforms this month!
+Adding fingerprint unlock to Android 👆
+We know a lot of you would like to have an extra level of privacy, so we’ll be adding the ability to unlock the Android app using your fingerprint.
+This doesn’t mean you’ll be able to use your fingerprint to authorise payments you make through your app (though this is something we want to add in the future!) But, if you want, you can use it to make sure only you are able to unlock your app.
+
+
+
+Adding profile photos 📸
+From a professional headshot to the perfect mirror selfie, you can add a photo to your account so your friends can see who you are.
+This is already available on iOS, and we’ll be bringing it to Android in March.
+Continuing work on CASS ➡️
+We’re working hard to make the Current Account Switching Service (CASS) available in next few months.
+If you want to use Monzo as your main bank account, CASS can eliminate a lot of the admin, and help us transfer all your payments over to Monzo automatically.
+Working on improving scheduled payments ⬆️
+There are a few improvements to schedule payments we planned to make in February, but these are now more likely to happen a little later in the year, to coincide with our work on CASS.
+Right now, you can schedule standing orders to repeat at regular intervals, like on a certain day of the week, or the same date each month. But you can’t set up standing orders that repeat in more complex ways.
+As we continue to work on CASS, our priority is to give you the ability to transfer over all your standing orders when you switch. Then, we’ll make it possible for you to create your own, more complex standing orders directly through Monzo.
+Working on redesigning spending 📊
+As we revealed in a recent sneak peek, we’ve begun to redesign the way you see information about your spending.
+At the moment, the tools we have for tracking your spending make sense if you’re adding money to Monzo periodically, and using it to make payments day-to-day. But, as more and more of you start using Monzo as your main account, these tools won’t work as well.
+We’re making some changes to the Spending tab in your app, so that you can track your spending effectively if you’re getting your salary paid straight into your account, and paying bills, rent or mortgages out. You can find out more about our plans in this presentation one of our designers Zander gave at a recent meetup.
+Because these features help you track your spending month-by-month, we need to test the new designs over a longer period of time. We’ll keep you updated about our progress on the community forum and in these posts.
+
+
+
+
+At the start of every month we’ll share updates about our progress, and plans for what’s to come 📆
+You can read more about our early plans for 2018, then come and have your say on how we’re doing in our community. We’d love to hear what you think!

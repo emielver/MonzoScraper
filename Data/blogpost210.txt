@@ -1,0 +1,58 @@
+Title: How to automate your financial life with Monzo
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 16 Aug 2018
+
+
+We believe that managing your money should be easy, and that you should be able to keep on top of your finances with very little effort.
+From saving as you spend to eliminating your admin – here’s how you can use Monzo to automate your finances.
+1. Save spare change by rounding up your transactions to         the nearest pound
+Setting aside money little and often can be a useful way to save. So, whenever you make a purchase that’s over £1, we can round up the amount to the nearest pound and automatically put the spare change in a Pot.
+To start rounding up your transactions:
+
+Head to the Account tab in your app
+Edit an existing Pot or create a new one
+Turn on the switch to ‘Round up transactions’
+We’ll show you the spare change we added to your Pot alongside the original transaction, so you can see what you bought as well as the amount we rounded up.
+
+You can only add the spare change to one Pot at a time.
+And if your balance is low, remember that round ups could take you into your overdraft or below your limit. As usual, we’ll tell you when that happens, and you can turn off round ups at any time by tapping on the Pot and turning off the switch.
+
+
+
+2. Set money aside regularly by scheduling payments into        pots
+Whether you’re preparing for a rainy day or saving towards a goal, you can automatically set aside a certain amount of money each month.
+So if you’re saving up for a bigger purchase (like flights or a new phone), or want to set aside some money each month so you have enough for presents come Christmas, just schedule payments into the right Pot and we’ll move the money for you!
+To get started:
+
+Head to the Account tab
+Swipe left to create a new Pot, or add money to an existing one
+Tap Set scheduled payment at the bottom of the screen
+Set an amount, start date, when it should repeat, and when it should stop
+Tap Schedule
+
+You can change or cancel the scheduled payment whenever you want. And you can always withdraw the money if you decide you want it back in your main balance.
+
+
+
+3. Automate away your admin with IFTTT
+IFTTT is the world’s largest automation platform, and we integrated with them to help you automate your financial life in a way that suits you.
+By creating your own rules (called ‘Applets’) you can connect your Monzo account to the services you use all the time – like Google Drive, Twitter, Spotify and Strava.
+You can use it to automate some of the annoying admin that comes with managing your money. For example, you can add all your card purchases to a spreadsheet for your records, send yourself a weekly summary of your spending, or send your receipts to your expenses provider.
+
+
+
+
+4. Use IFTTT to nudge yourself into good habits
+You can also use Monzo and IFTTT to reward yourself for good habits, and fine yourself for bad ones!
+Try rewarding yourself for going to the gym or running or cycling with Strava. If you’ve been using bad language, add money to a virtual swear jar. Or if you’ve been buying your lunch too much you can send yourself a message to remind you to stop!
+What’s next?
+There’s plenty more you can do with Monzo and IFTTT, from paying yourself a daily allowance to taking on the 1p Savings Challenge. Take a look at the Applets we’ve already made, and see how other people are using Monzo and IFTTT to manage their money.
+Just as you can schedule payments into pots right now, we’re also looking to add the ability to withdraw money out of pots automatically too.
+
+Want to go #FullMonzo? Making Monzo your main account is easy with the Current Account Switch Service. Find out more here. Or if you’re reading this on your phone, you can start your switch to Monzo now!
+
+
+      Switch to Monzo Now!
+  
+

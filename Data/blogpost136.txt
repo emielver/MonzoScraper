@@ -1,0 +1,49 @@
+Title: Monzo Monthly Update: December
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 11 Dec 2018
+
+
+December’s already been an incredible month and seen you invest £20,000,000 in Monzo! And we’ve still got a few more things in the works before the end of the year.
+Done in November
+We helped you pay cash into your Monzo account 💸
+We partnered with PayPoint to give you a convenient way to pay cash into your Monzo account at more than 28,000 convenience stores across the UK.
+Find out how it works here.
+
+
+
+We updated Summary so you can budget in a way that works for you 📆
+Summary lets you budget from payday to payday, but lots of you told us that schedule doesn’t work for you. So we’ve started making some changes to Summary to give you the flexibility you need.
+You can now do things like track your spending in four week periods, and start budgeting earlier or later when your payday falls on a weekend.
+See the changes we’ve made so far, and tell us what we can do to make Summary work for you in the community.
+
+
+
+We started testing loans 💷
+We explained why we’re lending, shared some of the problems we’re trying to solve, and announced that we’ve started testing loans.
+Read the full update here.
+We’ve helped you start using Monzo immediately after you sign up 💳
+When people sign up to Monzo, they can now add their cards to Apple Pay or Google Pay to start spending straight away!
+To come in December
+Adding Pots to Joint Accounts 🍯
+We just brought Pots to joint accounts yesterday, to help you set aside, save and manage your money together.
+Head here for all the details.
+Helping you keep track of shared expenses 👯
+Shared Tabs let you keep track of who owes what, and make it easy for you to settle up. They’re useful for ongoing expenses, like when you’re on holiday with friends or you live with a partner.
+We’ve been testing them in Monzo Labs for a month and we’ll be bringing them to everyone soon!
+Letting you lock your Pots 🔒
+To help you stick to your budgets, we’ll be adding some extra friction to Pots. You’ll be able to lock them until a chosen date, so you don’t dip into money that’s meant for something specific.
+Working on helping you pay anyone easily 🌏
+We’re going to start testing a new feature that will let you pay anyone – even if they’re not on Monzo – just by sending them a link! We’ll share more details when we bring it to Monzo Labs later this month.
+
+
+See the other features on our radar for the next few months, and keep track of the ones you're most interested in with the Making Monzo roadmap:
+
+
+     View the in-app roadmap
+       
+
+Or check it out online here!
+
+
+

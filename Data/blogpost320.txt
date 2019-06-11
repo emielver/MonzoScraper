@@ -1,0 +1,46 @@
+Title: Terms and Conditions: Why the Small Print Matters to Monzo
+Author: Dean Nash
+Position: Head of Legal and Compliance
+Date: 20 Mar 2018
+
+
+At Monzo, we’re committed to transparency. That means being honest and open about everything we do. And it also means communicating in a way that’s clear and easy to understand. There’s no point in being honest, if no one knows what we’re saying!
+Clarity is also important because it helps people make more informed choices. According to a consultation carried out by the Financial Conduct Authority (FCA), “Effective communications can help improve consumer choice and decision-making.” Put simply: the right information, given at the right time, in a way that’s engaging and easy to understand, gives you the power to make better decisions about your financial life.
+So, from the words you read in the Monzo app, to the emails we send you about your account, we make an effort to write clearly and concisely, whenever we communicate with you.
+We believe that should extend to our terms and conditions too. Written in plain, straightforward English that the average person can understand, our terms and conditions are one page long, and take around three minutes to read. We’ve worked hard to keep them short and simple, so that anyone who uses Monzo can understand what they’ve agreed to.
+What’s more, the terms and conditions you agree to when opening a Monzo current account have been awarded the Clear & Simple Mark by Fairer Finance. This means the terms and conditions you see are recognised as an outstanding example of clarity and transparency, and that we communicate clearly with our customers.
+
+
+
+
+
+What’s the problem?
+Terms and conditions are notoriously dense and difficult to understand. Dozens of pages long and written in impenetrable legalese, it’s little wonder people rarely read them.
+However, they also contain incredibly important information about the service you’re using and your rights as a customer.
+It’s in your interests to read them, but why do they always end up being so long and complicated?
+One of the biggest reasons is that business writing can be incredibly bad. When we’re dealing with ‘serious’ subjects, our writing becomes needlessly complicated. We conflate the need to be serious with the need to be formal, and fill our writing with obscure words and overwrought sentences.
+There are no legal reasons that a bank has to say “We require that you provide us with the aforementioned appropriate documentation,” when what they really mean is “We need you to give us the documents we asked you about.”
+This unnecessary complexity is a large part of the reason that terms and conditions end up being so unreadable.
+Terms and conditions also include information we’re required by regulations to tell you, like how to get in touch with your bank, or do certain things with your account. For example, traditional banks need to explain how you can interact with them at a branch, over the phone and through online banking, as well as how you can use your cheque book and debit card to make payments. When you can interact with your bank in a variety of ways, describing those in detail can make terms and conditions long.
+Terms and conditions describe how a product works. When a bank has a portfolio of a dozen financial products, like mortgages, loans, credit cards and ISAs, each with their own interest rates, fees or charges, it becomes particularly difficult to explain how each product works in a concise, simple way.
+They also contain a lot of specific legal language, designed to make clear who’s responsible in a range of different situations. This is usually a way for banks to protect their own interests, and make sure they can enforce all of their rights against you if anything goes wrong.
+What are we doing differently?
+We write in plain, straightforward English, that anyone can understand. Our terms and conditions are free from jargon and pared back to communicate critical information, as clearly and concisely as we can.
+All your interactions with Monzo happen through the app. Because you can do everything in one single place, we don’t have to go into detail about how you can interact with us across a bunch of different channels.
+Intuitive design means you don’t need instructions. Our app is also easy to understand and simple to use. It’s designed to help you do the things you need to do intuitively, while clear, concise copy that tells you what you need to know, when you need to know it.
+Any instructions about how to use Monzo should be inherent in the app, so there’s no need to turn our terms and conditions into an instruction manual. For example, it’s clear that you can make and manage payments from the Payments tab in your app, and reach out to customer support by tapping Help and starting a chat.
+
+
+
+Rather than protecting our own interests, we focus on preventing problems in the first place. Instead of adding long paragraphs into our terms and conditions that are designed to protect ourselves, we work to anticipate your problems, and design features to prevent them.
+For example, imagine an unauthorised transaction appears on your account. Usually, banks include a bunch of security advice in their terms and conditions. This lets them say that unless a customer has followed that advice to the letter, they aren’t responsible for the unauthorised transaction, and they don’t have to refund your money.
+Rather than trying to reduce our responsibility, we’d rather you didn’t have unauthorised transactions on your account in the first place. It’s why we send you instant notifications each time you make a transaction, so you can identify if someone else is using your card. It’s also why we give you the option to freeze your card from within your app, so you can stop someone from using it if it’s been lost or stolen.
+These simple features can help you identify and even prevent someone using your card without permission. Neither you nor we will have to cover the cost of an unauthorised transaction, because it hasn’t happened in the first place. We’ll still give you guidance on how to keep your card and your app safe and secure, without using it as an argument against you!
+That means our terms and conditions can focus on the rights that are really important to us, like the right to close your account if you’ve done something illegal, or the right to evolve the product in the future, as your needs change over time.
+
+
+
+Have a read
+From the moment you sign up, every aspect of your experience with Monzo should be accessible, engaging and easy to understand. We’ve worked hard to write a set of terms and conditions that match up with those values too.
+They take about three minutes to read, and you can find them at monzo.com/terms
+We’d love to know what you think! Have your say in the discussion on the community forum, and share ideas for how we can improve.

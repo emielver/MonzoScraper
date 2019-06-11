@@ -1,0 +1,52 @@
+Title: Monzo Time: Working on projects outside our product roadmap
+Author: Emma Guy
+Position: Android Platform Lead
+Date: 26 Jun 2018
+
+
+We divide our year into four, and each quarter the whole company works towards different goals, whether that’s growing our user base, making money through lending, or encouraging more people to use Monzo as their main account.
+But although we set goals as a company, we work in small, cross-functional teams of engineers, designers, and product managers, each focussed on a feature, project or area of the business. It means each team can work quickly and independently, because they aren’t reliant on anyone else. And it also creates a sense of shared ownership, that together we’re building something amazing!
+To plan our work for the quarter, each team looks at the company goals, then figures out what we can do to achieve them. We then set our own goals and update our product roadmap to reflect what we’ll be working on.
+This gives us a clear direction. But it’s also important to have space to work on things that aren’t in the roadmap and don’t directly impact our goals.
+It helps us build a better product. There are lots of useful features people need (and delightful features they might love!), that might not make it onto our roadmap because they won’t help us achieve those goals.
+But if they help make our users’ lives easier, solve annoying problems, or just add a bit of magic to the app, we should be building them.
+It also helps us become better engineers. It’s nice to have room to try out ideas we’ve seen or come up with, use new APIs, or practice using different tools or techniques.
+It means we can experiment, expand our skills and exercise our creativity. Plus, it’s really satisfying to be able to build something in a few days and see it make its way into the app!
+Monzo Time
+So we set aside one day every month where engineers can work on anything they want. Whether that’s building a feature someone suggested on the forum or trying out a new API, we work alone or with other engineers or designers to work on new features and add them to the apps.
+We call this day ‘Monzo Time’ (although we all agree the name doesn’t make much sense!) Here’s a look at what’s on our Monzo Time roadmap right now.
+
+
+
+Here are some familiar features you’ll recognise from the app, that began life during Monzo Time.
+Pay people near you
+Emma Guy, Android Plaform Lead
+Nearby Friends is a feature that lets you pay other people on Monzo who are near you, even if you don’t have their number.
+We launched it this May, but I started working on it almost a year earlier.
+I’d just seen that Google had released Google Nearby, an API service that lets us send messages to other devices near yours. I wanted to give it a go, so I built a very hacky version that let you find friends nearby and send them money. It worked, but it was super rough around the edges. For example, it didn’t take important things like privacy into account and actually broadcast your name and phone number for anyone listening! This early version wasn’t fit and safe for customers to use, so we never could have shipped it as it was.
+At the time, the Android app was still extremely far behind the iOS one, so we made catching up a priority, rather than focussing on a feature that was cool but not crucial, and that would need significantly more work to make it shippable. Because we’ve almost reached parity between the two platforms, we were able to start work on it again, and it was great to finally make it a reality earlier this year!
+
+
+
+Tap to activate your card
+Kavi Dhokia, Android Engineer
+If you use Monzo on Android (and have a device that supports NFC), you can activate your new Monzo debit card just by tapping it on your phone!
+Google lets third party developers build features for Android devices using NFC technology, and I’d done some work with NFC tags in the past. So I wanted to see if we could use NFC to add some magic to the signup process and give our Android users something to get excited about.
+Activating your card with NFC also has some really tangible benefits, beyond just being futuristic! It’s quicker than typing out your card number, and means you can’t make a mistake, which can sometimes cause problems when you sign up.
+So I threw together a working proof-of-concept in about a day, then did a live demo at the company all-hands meeting. The demo went smoothly and, after a few weeks and some polishing, the feature ended up in the app!
+
+
+
+Block gambling spending straight from your Monzo account
+James Nicholson, iOS Engineer
+We have a team dedicated to supporting vulnerable customers, who were keen for us to add a feature that lets gambling addicts block gambling spending straight from their Monzo account.
+So I used a few days of Monzo Time to work with Natalie in the Vulnerable Customers Team and Kavi to build the feature and bring it to both apps.
+Using Natalie’s research to guide us, in just one day we set up a team, came up with a plan and built most of the feature!
+Once we’d built a basic version, we gave it to a group of users who’d been in touch with our Vulnerable Customers Team and wanted to try it out. We then worked with the Design team to iterate on the feature based on their feedback and the other experiences they shared.
+We launched the feature earlier this month, and you can find out about what we built in this blog post!
+We want Monzo to work for everyone, including those who struggle with mental health problems or who are in financial difficulties. We’ll be using more of our Monzo Time to work with the Vulnerable Customers Team, so keep an eye out for updates.
+
+
+
+
+If you do a similar thing in your own organisations, let us know how it works and share you’ve built! Got ideas for what we should work on next? Let us know in the community forum! 📣

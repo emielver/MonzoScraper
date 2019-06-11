@@ -1,0 +1,71 @@
+Title: The Year Ahead, 2018
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 11 Jan 2018
+
+
+Now we’ve taken some time to reflect on everything we learnt and did last year, it’s time to look ahead to 2018! This year we want to focus closely on making upgraded Monzo accounts as amazing as they can be, and work to solve even more of your problems around money.
+Things change often here at Monzo, so of course these early plans aren’t totally set in stone. This year we plan to share updates like this every month, so we’ll always keep you informed about when you can expect to see changes! 🚀
+
+
+
+Make bank statements available 📄
+While they may sound old school, we know many of you need bank statements – whether you’re taking out a mortgage or just want one for your records.
+In the next few weeks we’ll be adding the ability to create bank statements of your transactions in any given month, and download them as a PDF. You’ll be able to do this yourself, all from within the app, just like you can export your transactions as .csv files at the moment.
+Timeline: 3-6 weeks
+Make managing your bills easy 💷
+Paying bills is one of life’s necessary evils, but we want to make managing them as painless as possible.
+We’ll move Direct Debits and Standing Orders to a more logical location (to the Payments tab, rather than the Spending one!).
+We’ll also improve the merchant information you see when you pay Direct Debits, so you can see their name, location, category and logo with the same clarity you’re used to.
+We’ll send you notifications to let you know when you set up new Direct Debits, or when they’ve failed or need to be retried. And we’ll make it easier for you to reuse past references when sending Faster Payments and setting up standing orders, and allow you to edit standing orders without having to delete and add them all over again.
+Timeline: 4-6 weeks
+Put an end to the prepaid programme ⬆️
+Our goal has always been to build the best bank account in the world, and at the start of this year we’ll be closing down the prepaid programme so we can focus on doing just that.
+Upgraded accounts come with all the familiar Monzo features, plus an account number and sort code so you can make bank transfers, set up standing orders and Direct Debits and get your salary paid in.
+To upgrade your account, just tap the banner in your app. Or if you’re a new user just download the app and sign up to start using Monzo!
+When we first launched the prepaid Monzo card back in 2015, we thought that just a few thousand people would help us test the product, and share their feedback to help us make it better. Now, hundreds and thousands of you are using Monzo, and more than 200,000 of you have already upgraded your accounts.
+We’ll give you more information about when and how we’ll be bringing the prepaid programme to a close in the next couple of weeks – as well as ample time to upgrade your account!
+Timeline: 3-6 months
+Make it as easy as possible for people to switch payments to Monzo ↪️
+We know that some of you are keen to use Monzo to manage more of your money, but the prospect of manually moving payments over seems like a lot of work.
+With help from the Current Account Switching Service (CASS) we’ll be able to help you avoid all the admin, and make it super simple for you to switch their existing bank account to Monzo.
+All your payments will be transferred over to your new account automatically, including outgoing payments like standing orders for bills and direct debits for rent. As well as incoming payments like your salary. You’ll even be able to choose a date to switch that suits you, all in minutes from within the Monzo app!
+Timeline: 3-6 months
+Give more people the option of an overdraft 💵
+We launched the Overdraft Preview last August, and over the next few months our goal is to give as many of our eligible customers as possible the option to open an overdraft.
+Overdrafts at this stage will cost 50p each day that your account is overdrawn, after a buffer of £20 so you can use some of your overdraft for free, for as long as you need.
+If you use an overdraft at the moment, or have done in the past, you’ll know it’s often tricky to stay in control. We want to find a fairer, more transparent way of lending, that allows you to use an overdraft as part of your Monzo account, whilst making sure you always understand when you’re in it, and how much you’re paying.
+Timeline: 3-6 months
+
+
+
+Help you better understand and manage your money 🤓
+Another of our New Year’s resolutions is to make some serious improvements to the way we show you information about your spending.
+This will see us work to bring the Pulse graph to Android, so everyone can see a timeline of their spending, and instantly understand whether or not they’re on track for every month.
+We’ll update the Spending section of both apps to better help you to understand your income, bills, and spending, which includes adding Targets to Android.
+We’ll also work to eliminate some small but significant annoyances, like making sure the app remembers the categories you assign the first time you set up Direct Debits, standing orders or other Faster Payments.
+When people pay you back through Monzo-to-Monzo payments, we want to make sure your spending calculations reflect that. So when you pay the bill at a restaurant or buy a birthday present for a friend, it won’t throw your spending targets off kilter.
+Timeline: 3-6 months
+
+
+
+Make Monzo make sense as a main account 💰
+As more and more people start using Monzo for more of their spending, we also want to make updates to our spending analysis tools so that they make sense for people getting salaries paid in, and paying bills, rent or mortgage payments out.
+You’ll be able to set custom start dates for Targets and spending breakdowns, so you can track from the date your wages are paid, rather than according to each calendar month.
+We’ll also help you understand how much money you have left to spend each month, after regular expenses like bills and rent are paid. You’ll be able to set targets and see your spending according to your disposable income, with the same amount set aside each month for regular, planned expenses. You can see one of the proposed designs below, and see more sneak peeks on the forum 😉
+Timeline: 6-12 months
+
+
+
+Make Pots amazing 🍯
+Pots are a simple way to set money aside, within your main Monzo account but safe from any spending. More than 52,000 people are already using Pots to set money aside for savings, summer holidays, dream purchases and rainy days. They’re available to use once you’ve upgraded your account – just tap the banner in your app if you haven’t already!
+At the moment you can create up to 10, give each of them a name, and add money to them manually. We hope people are already finding them useful, but we have ambitious plans to make Pots much more amazing.
+This year we hope to make a serious start on some of these ideas, maybe adding the ability to set up payments straight from pots, or to automatically move money over each month. We’ll keep you updated throughout the year on exact plans and timings, but in the meantime please share any ideas about how we can make Pots more useful for you. Just join the discussion on the community forum!
+Timeline: 8-12 months
+Build new partnerships 👯
+We’ll continue to explore new partnerships, and improve on the tests we did last year. From cashback and insurance, to savings and investments, please share your ideas on the forum!
+We don’t have any new details to share right now, but we will do very soon! Stay tuned for updates on our plans and progress, as soon as we have them.
+Timeline: 8-12 months
+Plus, we’ll be working to bring fingerprint support to Android this year 👆 and making sure new users joining with upgraded accounts are able to use Monzo.me!
+
+Phew! Let us know what you think about our plans for the upcoming year on Twitter, or join the discussion (and share more of your bright ideas 💡) in the community.

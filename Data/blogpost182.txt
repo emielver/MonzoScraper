@@ -1,0 +1,51 @@
+Title: Making our company goals public: Q4 2018
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 3 Oct 2018
+
+
+
+
+
+At Monzo we’re transparent by default, which means we put policies and practices in place that bring information out into the open as much as possible. Over time transparency becomes the norm, and we create a “burden of secrecy” where we have to argue to keep something secret, rather than to make it open.
+That’s why three months ago, we made our company goals public as an experiment.
+We hoped sharing our goals would give you the context you need to understand the decisions we make, and see how new features, updates and other changes fit into our broader strategy. And because you’d know what we’re aiming for, we wanted to make sure we could hold ourselves accountable to you. There are still some risks, like people taking our goals out of context, which we outlined in our original post.
+But overall we think it’s worked really well, so we’re going to give you an update about how we did on the goals we set last quarter, and share our aims for the months ahead too.
+
+The Q3 Debrief
+We set three goals, and used them to define our work over the last three months. These goals were ambitious, and overall we’ve made significant progress.
+Here’s a recap of the goals, and an update on how we did.
+Grow!
+At the beginning of Q3, we had about 770,000 customers, and in the last three months we’ve grown that to more than one million!
+We’ve done that by making sure Monzo is available for everyone who wants an account, and chipping away at the reasons you might have for not switching. For example, we’ve brought Monzo to 16 and 17 year olds and launched joint accounts.
+We also said we’d drive growth by adding product features that make Monzo better when you use it with friends. We’ve already started testing better bill splitting in Monzo Labs, and plan to bring it to everyone in the next few weeks.
+Increase revenue and decrease costs
+Our ultimate goal is to build Monzo into a sustainable business, that’s around for years to come. Right now, that means being able to run each customer’s account for £0 (or positive).
+This quarter we made massive progress, primarily by finding ways to provide our customer service more efficiently.
+The cost to run each account is now almost at £0 across our active users. That’s down from -£35 in January 2018, and -£65 in September 2017. Certain groups of customers are actually positive, as we’ve started growing significant revenue through lending too. This means we can keep bringing Monzo to more and more people, without spending significantly more money as a result.
+We’ve done this while measuring your happiness, to make sure all our customers still get amazing support. That’s shown by our Net Promoter Score (NPS), which has increased from +71 at the start of the year to +80 now.
+Make Monzo the best account to use as your primary account
+About 20% of new customers used Monzo as their main account at the start of July, and in the last three months we’ve grown that to 25%.
+We’ve done that by building features that make it easy to manage your bills with Monzo, and working through the Big List.
+We’ve also made more of an effort to show you the benefits of using Monzo as your main account, by highlighting features or adding education to the app. And we’ve been writing guides about how to manage your bills, budget, and switch to Monzo through the Current Account Switch Service.
+
+Our Q4 goals
+We think we’re going in the right direction, and we want to build on the progress we’ve made so far. So our goals for the quarter ahead are similar to our previous ones.
+They’re designed to give us a clear direction, without being too prescriptive. Each team in the company defines their own, specific goals, using these company ones as a guide.
+Here’s what we’ll be working to over the next three months.
+Bring Monzo to even more people!
+Because we’ve made progress and the cost to run an account is almost £0, we’re now able to grow as quickly as we can, without losing money on each customer.
+We’ll test new ways to get new people to sign up, and encourage existing users to refer more people to Monzo.
+We’ll also build more and better features, that make Monzo more useful and encourage more people to use it as a result.
+And we’ll try out different kinds of paid marketing too, like ads on social media or campaigns on the tube, to find out whether this is effective for us.
+Grow revenue
+Now that we’ve made good progress on running each account more efficiently, next we need to grow more revenue. As we explained last quarter, becoming profitable at the individual customer level isn’t enough, because we have fixed ongoing costs. So the next step is to reach company-wide profitability through new revenue streams.
+In the short term we’ll do this by offering great-value lending products that allow users to live their life stress-free and achieve their goals. And we’ll keep working to make overdrafts available to more people.
+We’ll also explore partnerships with other companies that make us money. For example, we’ll let you get interest paid on your savings through a partner bank, from which we’ll also be paid a small amount by them.
+Keep making Monzo the best account to use as your main account
+Whether that’s because you get your salary paid in, pay some of your bills, or you use it for your day-to-day spending, Monzo works best when it’s your main account. So we’ll keep focussing on building the best current account around.
+That means making it even easier to pay bills, send payments, budget, and save. We’ll also add extra polish to some of our existing features like Summary and the Payments tab.
+And that’s not all!
+This is just a summary of the headlines for the quarter. But we’ll be focussing on lots of other things too, like new ways for you to follow along with our roadmap, and some very exciting ways to get even more involved with the future of Monzo. Stay tuned!
+
+What do you think of our Q4 goals? And how do you think Q3 went? We’d love to hear your thoughts, so come and join the discussion on our community forum.

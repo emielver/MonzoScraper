@@ -1,0 +1,45 @@
+Title: Launching 3D Secure!
+Author: Rika Raybould
+Position: Backend Engineer
+Date: 22 Aug 2018
+
+
+We’ve built 3D Secure to help you make online payments safely 🔒
+3D Secure is the experience you go through when you buy something online with your traditional bank.
+
+
+
+It can be a bit of an awkward experience (if you’ve forgotten your password or don’t recognise the webpage!) But it’s useful for security, and some sites (like Coinbase) require banks to support it.
+So we’ve built 3D Secure the Monzo way and made it available to everyone today!
+
+
+
+How it works
+If you’re paying on a website that uses 3D Secure, we’ll send you a notification. Just open the app, tap ‘Confirm’ and we’ll put your payment through!
+If you like, you can ask us to send you a code by text message instead, which you can enter to confirm your payment.
+It lets us confirm you still have access to your mobile phone, your Monzo app and your card details.
+So next time you buy something online, you might see it in action!
+
+
+
+We don’t use passwords because they’re hard to remember (and easy to guess!) And we ask you to confirm your payment from the Monzo app to make it more difficult for fraudsters to confirm payments on your behalf. This means Monzo 3D Secure is even more secure than usual.
+What we learnt from testing
+Last week we made 3D Secure available in Monzo Labs and asked for your help with testing. We asked you to share your feedback and report any bugs in this dedicated thread.
+Thanks for all your feedback! Here’s what we learnt and improved so far as a result.
+We made sure it worked with even more merchants
+Every merchant uses a slightly different version of 3D Secure, so we wanted to find out which ones weren’t working, and fix as many as possible.
+Thanks to your feedback, in the past week we’ve fixed almost 20 merchants and made sure we’re compatible with one large payment provider that powers dozens more! That means Monzo 3D Secure now works with merchants like Domino’s, Barclaycard, MoneySuperMarket and the Thameslink app.
+We brought in-app approvals to both platforms
+For the first few days of testing, Android users only had the option to confirm payments by text message.
+Now, we’ve added in-app approvals to Android, so both options are available on both platforms.
+We made the experience look nicer
+We added ticks and crosses to give you more visual feedback when your payment’s confirmed or rejected. And we added a little illustration to the in-app approval page!
+We made it work in more browsers
+You told us you were having trouble using 3D Secure on certain browsers (like Firefox and Microsoft Edge), so we made sure everything looks right and works well.
+When your credit card provider doesn’t like you leaving the app, we ask you to approve the payment by text instead
+You told us that for some credit card providers, leaving the app was causing the payment to fail. When you try to make payments to those card providers and they fail, we’ve made sure that we ask you to approve the payment by text instead.
+We’ve started improving merchant names and logos
+We’ve started collecting logos and more accurate merchant names, using data we’ve been able to gather during testing.
+We’ll keep collecting information so in a few weeks we can add them to the experience! It’s an ongoing process and we’ll keep working to improve it, so you can clearly understand exactly who you’re paying.
+
+Thanks again to everyone who helped with testing and given us your feedback so far! Like all our features, we’ll keep improving 3D Secure, so tell us what you think and report any issues in the community.

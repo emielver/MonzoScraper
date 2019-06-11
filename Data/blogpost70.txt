@@ -1,0 +1,57 @@
+Title: Monzo Monthly Update: March
+Author: Sheri Farsani
+Position: Product Marketing Manager
+Date: 6 Mar 2019
+
+
+We’ve been making progress with our new and exciting 2019 plans - from business accounts to Monzo Plus, here’s what we’ve been up to!
+We started testing Monzo Plus
+At the start of the year, we shared some of the ideas we’d be exploring over the next few months. One of those was the option to buy add-on services for your Monzo current account.
+We started testing an early version with 3,000 customers last month, and called it Monzo Plus. The extra services we’re thinking of offering range from travel insurance to different debit card colours.
+You can see what the test looks like and hear what people think in the discussion on the community forum.
+We launched the first Monzo Business Accounts
+We started a small test with 100 sole traders and limited companies, to help us learn more about what you need from your business accounts.
+You can learn more about how we’re approaching business accounts, and join the waitlist.
+We gave you the ability to see KFC receipts in Monzo
+In January, we partnered with Flux to let you see receipts from certain retailers in your Monzo app. We started with EAT., Itsu, Pure and Pod, but we had lots of feedback from our customers that these retailers are mostly based in London.
+We’re delighted to let you know that you can now see KFC receipts too, from almost 900 branches across the UK - so you can see the receipt for your Zinger Burger or Boneless Banquet in your Monzo app. And Flux is working on adding even more retailers soon!
+
+
+
+Coming soon
+Launching ISAs
+Individual Savings Accounts (ISAs) let you save money without paying tax on any interest you earn. And our goal is to bring tax-free savings to your Monzo account before the end of the financial year.
+Join the waiting list and find out more about our plans here.
+
+
+
+See your American Express balance in Monzo
+We want to give you more visibility of all your money, so we’re working on helping you see your American Express balance in your Monzo app. This can help you better keep track of how much you’ve spent, and how much you can pay off every month.
+We’ve started with American Express as it’s the most popular credit card among Monzo users, but once we launch we’ll work on adding others. We’ll start by letting you see your balance, and we’ll find out what other information you’d find useful and work on adding that too.
+
+
+
+Add your own images to Pots
+You’ll soon be able to add your own images to your Pots, to help you organise them better and to hopefully give you a little more motivation!
+One study in India found that adding photos of people’s savings goals to envelopes of their pay meant that they were less likely to spend it! So, a custom image might even nudge you away from dipping into your savings.
+
+
+
+Redesigning the Payments tab
+We’re working hard to make payments painless - and we’ve recently added a bunch of friction-free ways to pay and be paid, like this.
+To make sure the Payments tab helps you do what you need to do quickly and easily, we’re working on a redesign that we’re aiming to bring to the app in March. It’ll be released on iOS first, with Android soon to follow.
+
+
+
+
+
+Interested in upcoming features? Keep track of them on the Making Monzo roadmap:
+
+
+     View the in-app roadmap
+       
+
+Or check it out online here!
+
+
+

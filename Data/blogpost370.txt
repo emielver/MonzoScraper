@@ -1,0 +1,17 @@
+Title: Delays Sending Out Cards
+Author: Leah Templeman
+Position: Head of Operations
+Date: 5 Oct 2017
+
+
+At Monzo, we aim to be transparent by default, both internally and externally, even when things have not gone as well as we’d like. Over the last week and a half, we’ve had issues sending out our Monzo Mastercard® Prepaid Debit cards to new customers, and we’d like to explain why.
+When you reach the top of the waiting list and are ready to set up your Monzo account, we ask you to enter your personal details and make your first top up. It’s at this point that we create an order for your hot coral card. Assuming you make your first top up before 3pm, we post your card via Royal Mail 1st Class on the same working day. Over the last six months, 93.2% of Royal Mail’s 1st Class post arrived on the next postal day.
+On September 22nd we ran out of card stock, due to unexpected delays following a machine upgrade at our card manufacturer. On Monday 25th, we sent a message to the 5,000 or so customers impacted to let them know that there would be a delay in receiving their cards. We also stopped unlocking new people from the waiting list, although golden tickets could still be used to skip the queue and unlock the app.
+Once the upgrade at our manufacturer was complete, we started receiving new cards on 29th September. Unfortunately, a small portion of the new card stock was faulty, meaning it wasn’t possible to make transactions using any of these cards. We decided not to send out more of these new cards while we tried to solve the problem, which caused further delays.
+The good news is that we are now sending out cards again, but there is a backlog to get through as our card manufacturer can only produce so many cards in one day. Because of this backlog, we have made the decision to turn off golden tickets on the prepaid programme. If you have already sent a golden ticket to a friend, they will still be able to redeem it but new golden tickets will no longer appear in your feed.
+We are making sure everyone impacted by the delays is kept up-to-date directly with the progress of their card.
+However, this is an issue we should have foreseen sooner and we could have been more proactive with our communication to the people who’ve been impacted. We’d like to apologise to everyone affected by the delays – it is something we will certainly learn from.
+As we move from the prepaid card to the current account, we will be working with multiple card manufacturers. This will help us make sure that if there are ever any issues with one manufacturer in the future, we will be able to move the process to another at short notice. In the long term, we are investigating how to bring part of this process in-house, to make sure we can be flexible and give our customers the best service possible. ❤️
+The good news is that we’ll be inviting all our customers to upgrade to a current account over the coming weeks, before we start rolling them out to the wider public later in the year. They’ll come with all the familiar features from the prepaid – including golden tickets – and you’ll be able to set up standing orders, direct debits, have your salary paid in and more.  🔜
+
+If you have any questions, please connect with us on Twitter or ask us in the dedicated discussion on the community forum.

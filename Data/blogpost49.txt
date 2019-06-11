@@ -1,0 +1,41 @@
+Title: Why we sometimes freeze or block Monzo accounts
+Author: Lizzie Morgan
+Position: Financial Crime Analyst
+Date: 4 Apr 2019
+
+
+Finding out that your bank has blocked your account isn’t a great experience. And it’s obviously distressing if you know you’ve done nothing wrong. You might not understand the reasons why it’s happened, and feel powerless to put things right. But blocking accounts is something all banks have to do sometimes.
+It’s a topic we see coming up on online review sites, or our community forum. And we don’t want people to get the misleading impression that we’re always blocking accounts for no reason, or stealing anyone’s money. So we wanted to share some more information about why this (very rarely) happens, and what you can do.
+Blocking accounts is a legal requirement
+We’re a regulated bank. That means as part of our banking license, we have to follow a lot of very specific rules and codes of conduct. Our regulators are the Financial Conduct Authority and the Prudential Regulation Authority (part of the Bank of England). These bodies keep us in check and make sure we’re following all the relevant laws.
+In particular, there are anti-money-laundering and counter-terrorism-financing rules. These mean we have obligations to act in certain ways when we detect or suspect Monzo accounts are being used for criminal activity. And that’s a good thing. It protects us from terrorists and money launderers, and protects you from crime.
+We freeze accounts when we think your money might be in danger
+If our fraud systems believe someone else may have access to your account, then they can freeze the account to protect your money. This happens very rarely - less than 1% of new logins are flagged as high risk.
+Once we’re happy that it’s definitely you, we’ll automatically unfreeze your account.
+
+
+
+We also freeze accounts when we suspect criminal activity
+We can’t spell out every reason why we might block an account or explain the ways we detect fraud, otherwise criminals would figure out how to get around them. But we can give a broad description of times we might do it:
+
+
+We spot unusual activity. There are some common signs that an account is being used for criminal activity like money laundering. To protect people’s money and to stop criminals using Monzo for illegal activities, we’ll freeze accounts when we suspect this is happening.
+
+
+We identify a high-risk customer. Sometimes we’re told by other banks that a Monzo account has been linked to financial crime in their systems. So we’ll freeze the account on our side to investigate.
+
+
+The police tell us to block an account. This can happen as part of financial crime investigation, and we’ll co-operate with any requests from law enforcement.
+
+
+What happens next
+If we decide an account looks suspicious enough, we’ll freeze it and report this to the National Crime Agency (NCA)
+Once we do this, the situation is out of our hands. We’re not allowed to do anything more until we hear back from them.
+We’re not allowed to say why we’ve blocked an account
+We know this can be very frustrating. But we’re not being deliberately difficult, it’s just the way the law works.
+And sadly it’s common for criminals to try and get into their accounts by putting pressure on us, and sometimes getting other people to join in too. This can be as simple as phoning up with a sob story or posting on our forum that their family can’t eat because of Monzo. This is all part of the job and unfortunately just something we have to deal with. But it means that you should always take these stories with a grain of salt.
+There are some false positives
+Rarely, we’ll block an account that looks suspicious, but after investigating find there’s a perfectly reasonable (and legal) explanation for the activity. When this happens we unblock the account and apologise to our customer.
+Freezing accounts can save people from losing money
+For example, money muling is a type of fraud where people are coerced to funnel illegal money through their accounts as a way to launder money. These people could stand to lose their entire life savings if banks didn’t do something to step in so there’s a difficult balancing act between stopping people from having access to their money and protecting them from criminals draining their account. So far in 2019 we have been able to return at least £605k to victims of financial crime.
+Banking is a highly regulated industry, and for good reason. Following the misconduct that’s led to global financial disaster in the past, and other banking scandals over the years, these laws exist to help keep your money safe.

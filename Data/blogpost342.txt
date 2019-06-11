@@ -1,0 +1,45 @@
+Title: An Update on the Monzo API
+Author: Simon Vans-Colina
+Position: Engineer
+Date: 12 Jan 2018
+
+
+To coincide with the arrival of Open Banking regulations, we’re excited to say that we’ve chosen to make an interim API accessible to third party companies authorised as Account Information Service Providers (AISPs).
+APIs make possible so many things we take for granted, big and small. Transport for London’s API helps Citymapper plan our journeys, while Spotify’s API lets Alexa find and stream the latest Taylor Swift track. By giving developers access to information, they advance innovation and make it possible for regular people to build really cool things, even without the clout of a major global company behind them.
+APIs affect everyone, but of course it’s developers that actually use them to build things. We’re a company full of developers (almost 50!) and we’ve placed transparency and fairness at the heart of everything we do. So when we started Monzo back in 2015, we knew we wanted to offer API services, and build a bank that is “API-first.” That means everything that Monzo can do is done via our API. Every single system at Monzo is built in this way. It’s an important part of the reason we’ve been able to build Monzo into what it is today: having a consistent API for everything means we don’t need to make architectural or topological changes to build new features. It helps us work quickly, and makes building new features at Monzo a breeze.
+
+
+
+The API so far
+The Monzo API has so far served two purposes. First, we use it to actually power the app: our iPhone and Android apps use it to talk to our backend systems.
+Second, a large subset of our API is also documented as the Developer API. It’s accessible to developers who can build things on top, like this internet of things piggy bank for kids (or grown ups) 🐷 or these cashback offers courtesy of Tail 💸
+For much of last year, our priorities were to launch current accounts, give everyone the chance to upgrade and build a product and platform that can scale. In order to focus on that, in May we decided to postpone opening up third party access to this API.
+In part, the reason for that is internal: we’ve switched to use a new, more fine-grained authorisation system we call “Auth V2”. It allows us to more carefully control the data that third parties can access. Practically, it means you could give a third party access to view your balance, but not to see your individual transactions, for example.
+This switch to “Auth V2” meant that new features, like Pots were not automatically accessible to developers using the Developer API.
+For Pots, we backported the ability to see the names and balance in each pot. (Notice the awkward looking V1 URL of the “/pots/listV1” endpoint https://monzo.com/docs/#list-pots 😖)
+PSD2 and Open Banking arrive
+Tomorrow, the revised Payment Services Directive (PSD2) becomes law. Legislation put in place by the EU, it requires all payment service providers (mainly banks or building societies 🏦) to make their data accessible to third party companies.
+In the UK, we expect that a common API will become the standard, that all banks – from high street giants to challengers like Monzo – will be required by law to adopt. That API is currently being designed by the group tasked with implementing Open Banking, but isn’t ready just yet.
+By opening up access to this information, these changes not only allow developers, fintech companies and challenger banks to build useful new products, but they in turn stand to totally transform the banking industry, and the way we use and manage our money day-to-day.
+For so long banking has been dominated by just a few traditional players. If they work as intended, these rules could help more challengers enter the market, and make our products even more useful to customers. The hope is that increasing competition will give customers more choice, better choices, and incentivise all banks to do better.
+Launching the AIS API
+We have plans to make some serious improvements to our API in the future but, spurred on by the arrival of these new rules, we’ve decided to make a new, updated API available in the interim.
+From today, what we’re calling the AIS API will be made available to particular companies, that have been granted authorisation as Account Information Service Providers (AISPs) by the FCA. Companies applying will have to show that they will follow the regulations laid out by PSD2, including rules about keeping your account and data safe and secure, and only using their access to provide the service that you’ve asked for.
+Companies like Yolt, Chip, Emma or Plum (to name a few!) could be able to rely on this new API to build integrations that they can offer to everyone that uses Monzo. We’ve already seen apps that help you save money automatically, budget better, or view all your bank accounts in one single app. The best and most exciting thing is that we don’t know what you’ll build yet! 😃
+The AIS API does not expose all the functionality of either the main Monzo API or the subset known as the Developer API, but the functionality it provides is frozen. This means companies can be sure that it stays the same and remains available – two things they need to be sure of when building products and offering them to people.
+We’ve deliberately kept it simple, replicating the functionality that will be available through the Open Banking API, and through other banks’ existing APIs.
+The three core functions supported, are:
+
+Getting a list of accounts
+Listing an accounts balance, including any money in pots
+Listing an account’s transactions
+
+Remember that these third parties will not have access to the parts of the Monzo API that allow our app to show you personal information like your name, date of birth or home address.
+Information is only ever shared when given a customer’s explicit consent, like if you actually choose to use an app that integrates with Monzo, and actively agree that it can access certain parts of your account data.
+If you give a third party access to your Monzo account information through the AIS API, and at any point want to revoke that access, you should first contact that company directly. Otherwise, you can reach out to us via in-app chat and we’ll help sort it out on your behalf.
+API V2
+We plan to begin work on a new V2 Developer API, that will make available a much more comprehensive, complete API to developers and third parties. This API will be able to access functionality like making payments, updating and creating feed items, and full access to a customer’s data and accounts. The V2 Developer API will also use our new Auth V2 system, so will have precise controls over exactly which data and functionality third party apps can access. Our goal is that it will significantly broaden the scope of what’s possible to build with our API, in a totally secure, highly controlled way.
+We expect design of the Open Banking API to finish later this year. At the moment, it’s unclear whether all UK banks, or only the nine largest will be required to implement this API. But we may if it’s a good standard and our customers will benefit.
+We’re so excited to take the next step towards building a beautiful API and making it much more widely available. Please email [email protected] if you work in a company that’s applying for AISP permissions and would like to build an integration with Monzo. We’d love to help and hear about what you’re working on!
+
+Tell us what you think on Twitter, or share your ideas and feedback in the community. If you’re a developer, join 3,000 others in our busy developers Slack channel.

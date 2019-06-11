@@ -1,0 +1,37 @@
+Title: A Current Account Rollout Update
+Author: Tom Blomfield
+Position: CEO and Co-founder
+Date: 25 Oct 2017
+
+
+It’s been a difficult week for the stability of our prepaid card. Issues with our payment processor have meant customers haven’t been able to make payments on four occasions over the last few days. I’m hugely frustrated by this, and I’d like to extend our apologies to the people who’ve been impacted.
+Current accounts have not been affected by these issues, so I’d like to share an update on our plans to bring current accounts to all our users over the next few weeks.
+A quick recap
+Our prepaid card uses a third-party payment processor, which sits between Monzo and Mastercard and processes all the transactions you make using your Monzo Prepaid Mastercard® Debit card. We decided to work with a third-party back in 2015, which allowed us to launch the Alpha and Beta cards quickly, and start testing the Monzo app with real customers straight away.
+By contrast, for the current account, our engineering team has built a new payment processor from the ground up. By taking control of the whole experience, we are confident that we can avoid issues like the ones we’ve seen this week, and deliver a service that is significantly more reliable.
+Getting everyone a current account
+Between July and October this year we ran the Current Account Preview, which saw nearly 20,000 people help us test the current account. This has allowed us to iron out early issues and ensure they’ll work reliably when we bring them to all our customers.
+Two weeks ago, we announced the end of the Preview, signifying our readiness to move to a wider rollout. Here’s what’s going to happen over the coming weeks.
+
+
+Later this week, a new update is being released to our Android customers that includes the functionality to upgrade prepaid accounts to current accounts. We’ll test this with a few hundred Android customers at first so we can be sure everything is working.
+
+
+Next week, we’ll release the same update to iOS customers. Similarly, we’ll test the new functionality with a few hundred iOS customers.
+
+
+Once we’re happy that the process is working well, we will begin inviting all of our customers to upgrade. This will be a staged process – we need to spread out the invites for a number of reasons:
+
+To ensure that we have enough cards ready every day – so customers can count on next-day delivery of their debit cards
+To ensure that we always have enough customer support staff – so that customers get quick replies
+To ensure our systems can cope with the increased numbers – so payments aren’t rejected!
+
+
+
+More than 450,000 customers are now using our hot coral cards, so it will take a few weeks for everyone to be invited to upgrade. Our aim is to have invited all our users to upgrade by the end of November.
+We’ll send invites to existing Current Account Preview customers and previous crowdfunding investors first. You’ll receive a notification in your Monzo app as well as an email as soon as we’re ready, and the upgrade process will only take a couple of minutes. A debit card (with your name on it!) will arrive in the post, and the upgrade will be complete as soon as you’ve registered it in the app. Your money and all of your previous transactions will be moved across too. If you’ve been helping us test the current account already, your existing debit card will continue to work.
+After existing preview customers and investors, we’ll invite the rest of our customers in stages, starting with those who tried to join our crowdfunding earlier this year but weren’t successful, with the aim that every person should receive an invite by the end of November. If this changes, we’ll let you know.
+At the end of this year or early next year, we’ll begin shutting down the prepaid card programme and asking anyone still on it to move to a current account or close their account. We’ll of course give you plenty of warning and hopefully you’ll find the current account to be just like your prepaid card, but with added functionality!
+Summary
+I hope this gives some reassurance to customers who are worried about the stability of Monzo going forward. Being unable to make payments with your card is unacceptable and I totally understand why you might be concerned, but please know that the whole team are doing everything they can to offer you a current account as soon as possible.
+Thank you again to everyone who’s been supportive during these issues. We’re building this bank for our community of customers and we’re 100% focussed on making it one that you can trust, always.

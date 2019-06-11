@@ -1,0 +1,85 @@
+Title: Diversity Debt
+Author: Leah Templeman
+Position: Operations at Mondo
+Date: 16 Nov 2015
+
+
+Leah has been with Mondo since day one and currently runs the prepaid operations. Here, she writes about diversity in the workplace.
+The term ‘diversity’ often starts the wrong business conversation.
+In my experience, conversations about diversity in the workplace too often focus on solving the diversity “problem”; on “helping” underrepresented groups. Whilst increased awareness and more conversations are certainly a step in the right direction, this always riles me slightly; I am not in need of assistance simply because I am a woman. Throwaway comments with the best intentions can lead to feeling like I am a statistic, a token hire to fill a quota.
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+Conversations about diversity in the workforce need to focus on what underrepresented groups can do for the business, instead of what the business can do for underrepresented groups.
+A diverse workforce makes good business sense.
+
+
+
+    Stats from Facebook presentation: Managing Bias
+
+
+According to McKinsey’s Why diversity matters report, ethnically-diverse companies are 35% more likely to outperform financially, with gender-diverse companies 15% more likely to outperform. But why? What fundamentally drives this performance increase?
+A diversity of thinking with an ability to see things differently and to create unexpected solutions to complex problems is a huge benefit to any intellectual activity, especially running a business. The ability to stand in the shoes of your customer and to understand their needs is key for product development; a more diverse workforce is better at attracting a more diverse customer base.
+However, my hypothesis is that the biggest driver of increased performance in these companies is that a diverse workforce gives you the best chance of attracting and retaining the top talent from the widest pool possible. The top performers in any field are found across all different ethnicities, genders, nationalities, religions etc.. To attract this top talent, you need to create an environment which is appealing in the first instance and in which they can thrive long-term i.e. one where there are sufficient differences in opinions to challenge the way you think but enough homogeneity for each individual that nobody feels like an outsider.
+But a diverse workforce doesn’t always make good business sense.
+Perhaps the argument against diversity is summarised best by Max Levchin. “If you have people that went to five different computer science schools and one group knows Java as their primary language and loves it, and the other group loves PHP, and the third group was convinced that PHP is the work of the devil and Python is beautiful, you’re just going to have debates.”
+The first 10 engineers Levchin recruited at PayPal attended the same university as he did. The first five business hires all came from Peter Thiel’s network at Stanford. Diversity of thought can be an inhibitor of speed which can be fatal to an early-stage startup. In other words, startup businesses may need to sacrifice diversity for speed.
+Businesses should recruit for their current priorities, but be aware of ‘diversity debt’
+There are many reasons for early-stage startups not to prioritise diversity in the hiring process. They may not have the time or resources to hire a diverse team in an industry with a skewed talent pool; they may be actively seeking uniformity of thought rather than diversity of thought; whatever the reason, they are accruing ‘diversity debt’.
+Just like all kinds of debt (financial, technical, etc.), diversity debt needs to be tracked and there needs to be a plan to repay it. Like most debt, it is the result of a trade-off, forgoing long-term benefit to obtain near-term success. Issues arise firstly, when companies are unaware of the trade-off they have made and secondly, when they take on so much debt that they cannot repay it—easily done since as you stray further, it becomes exponentially harder to correct.
+At Mondo, we are tracking our diversity debt and starting our repayments
+We are acutely aware of the diversity debt we are building up. Mondo has 22 employees already. Whilst we span over 30 years of age and represent 7 different nationalities, the vast majority of employees are white. 50% of our board, including the chair, are women but this figure falls to 18% across the team. We have (to the best of my knowledge) no-one who identifies as gender non-binary.
+We are mitigating the impact of our diversity debt in the following ways:
+
+
+Fortnightly discussions about how we can widen the pool of talent we attract
+
+
+Reviewing job ads and website material to remove unconscious bias
+
+
+A conversation before we make any job offer, open to the whole team, to discuss strengths and weakness of the hire, including the diversity they bring to the team
+
+
+Outreach to encourage a more diverse group of applicants for open positions, for example by hosting events with diversity-focussed groups such as Geek Girl Meetup
+
+
+Starting the conversation externally—I want to hear from you! Let me know what we could do to make Mondo a great place for you to work via Twitter/email
+
+
+Further reading.
+Whilst writing this article, I found these posts to be particularly thought-provoking:
+
+
+The other side of diversity
+
+
+Why diversity is difficult
+
+
+Better decisions through diversity
+
+
+How our engineering environments are killing diversity: introduction
+
+
+What we’re doing to keep building a diverse editorial operation
+
+
+Inclusion and diversity at Slack
+
+
+
+We recently updated our name to Monzo! Read more about it here.

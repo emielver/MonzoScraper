@@ -1,0 +1,35 @@
+Title: New Mondo Update: Touch ID, Profile Editing and More
+Author: Tristan Thomas
+Position: Product
+Date: 18 Jul 2016
+
+
+We’ve been hard at work on a new update to the Mondo iOS app, which we’re releasing to the App Store today as version 1.5.3. This update includes three of the items on our public product roadmap and we’ve already started work on the next one. We also have some exciting news for our Android compatriots coming very soon so watch this space…
+Touch ID Protection
+
+
+
+  Sorry, your browser does not support the video tag. Please update.
+  
+
+This was one of the most requested features on our forum and we’re excited to make it public. If you have a compatible iOS device, you can now turn on Touch ID. This will require your fingerprint to unlock the Mondo app whenever it’s not in use, although we also recommend turning on Touch ID/password to lock your device so that it’s fully encrypted. Regardless of whether you turn on Touch ID protection for the app, your fingerprint/PIN will always be required for payments and other sensitive actions.
+Profile
+
+
+
+This brings us neatly on to the new Profile screen, from which you can see and ask us to change your personal details including email and address, as well as turn Touch ID on. Over time, we’ll improve this screen with more useful functionality, some of which we’ve given a sneak peek of over on the forum.
+Your User Number
+
+
+
+We now have more than 20,000 people using Mondo cards all over the world. As we continue to grow and send out more cards, we thought it’d be fun to show how early you signed up to Mondo so you get some extra bragging rights. Take a look at the bottom of the Profile to see which Mondo user you are!
+Tips and Tricks
+We’ve made it even easier for new users to get started with handy tips and tricks to guide you through some of the more hidden Mondo features. If you’ve recently signed up, you should see it at the bottom of your home screen (and you can always skip it if you’re already a pro).
+Update Banner
+
+
+
+Believe it or not, not everybody reads our release notes in the App Store 😢 so we thought we’d make it a bit clearer what’s changed when we release big updates, with a new update banner at the bottom of the screen. You might even be reading this because you clicked on the details for this update!
+That’s it for now—we’d love to hear what you think! The next update is going to be great for those of you who like to see the world 😉 Join in the comment thread below or drop us a message on Twitter.
+
+We recently updated our name to Monzo! Read more about it here.

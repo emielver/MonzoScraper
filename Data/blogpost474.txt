@@ -1,0 +1,24 @@
+Title: Launching The Bank
+Author: Tom Blomfield
+Position: CEO
+Date: 15 Aug 2016
+
+
+Last week we received news from the Bank of England that we’d been granted authorisation to conduct banking activities. It’s a huge milestone, and one that we couldn’t have reached without the help of our thousands of supporters. Thank you!
+At the moment, that authorisation comes with restrictions – the main one being that we can only hold a maximum of £50,000 of deposits in total. The intention of this restricted licence is to allow new banks to test systems with live payment networks before fully launching to the public. We’ve got up to 12 months to get the restrictions lifted, so we’re currently aiming to launch a full current account in Q1 or Q2 of 2017.
+What’s involved in getting the restrictions lifted?
+We’ve got a busy few months ahead of us!
+The engineering team is focussed on building connections to the main payment networks that we’ll support; MasterCard, Bacs (for Direct Debit and Standing Orders) and Faster Payments. These are well underway, and we’ll be doing live testing over the next few months to ensure everything’s working as expected. We’re also working with a number of security firms and auditors to give an extra layer of assurance that everything is ready for launch.
+We’ll be steadily improving the Android app, rolling it out to more users, and bringing it up to feature-parity with iOS.
+At the same time, we’re busy building out the team to make sure we’ve got the breadth and depth of experience required. A few crucial hires include the Head of Lending, Head of Compliance and Head of Risk. We’ve also got a number of open positions in Engineering and Customer Support. Check out our jobs page if you’d like to get involved!
+Finally, we’ll be raising the investment capital required for life as a full bank – we’ll be raising another £15-20M, and we hope to include a significant element of crowdfunding in this round.
+What does it mean for Mondo prepaid cardholders?
+Our prepaid cardholders have given us a huge amount of useful feedback over the last 9 months, and we’re intending to keep adding features to the app until we fully launch as a bank.
+When we’re ready to launch the full current account, we’ll send out new debit cards and ask you to opt-in to updated Terms and Conditions. Your balances will be transferred over immediately, and your historic account data should be unaffected. You’ll get an account number and sort-code, and you should be ready to make bank-to-bank payments and set up Direct Debits immediately, including getting your salary paid into your Mondo account.
+If you want to switch all of your Direct Debits and standing orders from your old bank account, we will be supporting the Current Account Switching Service, but this may not be available on day one. We’re still figuring this out.
+We will be offering overdrafts after we launch, but availability will be pretty limited until we’re happy that everything’s working as expected.
+It’s important to note that the “Alpha” and “Beta” cards are still prepaid MasterCards issued by Wirecard Card Solutions. Your deposits are not yet covered by the Financial Services Compensation Scheme - this will change when we launch the current account.
+If you’re currently on the waiting list, we’ll be rolling out substantially more cards over the next 6 months, so you shouldn’t have to wait long. And even if you’ve not yet got your card, you can see previews of the things we’re building in our community forum, and give your feedback.
+More questions? I’ll be doing a Periscope Q&A at 6pm tonight! Follow @monzo on Twitter for more information
+
+We recently updated our name to Monzo! Read more about it here.

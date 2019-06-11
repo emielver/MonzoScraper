@@ -1,0 +1,35 @@
+Title: Meet Hugo Cornejo: Head of Design
+Author: Tristan Thomas
+Position: Community Manager
+Date: 8 Apr 2016
+
+
+This week in Meet Mondo, I talk to Hugo Cornejo, Mondo’s Head of Design. You can follow him at @hugocornejo on Twitter.
+Can you tell us a bit about what you do at Mondo?
+I design stuff. Mondo is a really exciting place to be because we do everything from scratch, in-house. One day I might be drawing a small icon for the app or designing an exclusive hot coral neon card for our investors. The next day I’m spending my morning talking with customers, and the afternoon thinking about a completely new feature at a purely conceptual level.
+As Head of Design my second responsibility is to define and implement the design principles that shape Mondo. When you design something you make lots of micro decisions that together have a macro impact. I need to constantly switch from the details (trees) to the overview (forest) to ensure everything we design makes sense in the whole, while being delightful and polished when you look closer.
+If you ask me, I think I have the best job in the company.
+How did you come to work at Mondo?
+Almost two years ago I left Madrid (where I was born) and moved to London to study English and enjoy a short sabbatical. A few months later while I was working on a personal project, a sketching tool for iPad called Thoughts, all that suddenly changed. I met the team and I couldn’t help but call off my sabbatical and jump on board. Do you want to design a bank from scratch? YES!
+What is the most challenging part of designing a bank?
+Probably the biggest challenge is the lack of a good benchmark. Banking apps are usually so poor that it’s really easy to make something better. But that’s not enough – the actual challenge is to design something as good and compelling as any other world-class service (like Gmail, Amazon, Spotify, etc). That’s the real challenge for us: how do we become one of those apps that everybody keeps on the home screen of their phones? One that you can totally rely on and feel is crafted with attention to detail and an honest passion for customers.
+What are your favourite apps design-wise on your iPhone?
+I like apps that really understand and embrace platform conventions enough to feel “native”. That makes them really easy to use and enables them to naturally evolve as operating systems grow (new phone screen sizes, new interactive paradigms, new input methods). On the other hand good design often requires innovation so you need to know when to break the rules and push the envelope a bit.
+It’s a difficult balance but there are some very good examples of that out there: Fantastical, Dropbox, Tweetbot, iA Writer and Weather Line. If you play a bit with some of those apps you’ll see (I hope) that they follow similar principles to those that we follow in the Mondo app.
+What are you working on at the moment?
+Tons of things, probably the coolest of which is designing the long-overdue Android app. We’re not making a direct port of the iOS app; we’re building it from scratch, following Android conventions with the same rigour that give its iPhone sibling.
+What Mondo feature are you most excited about?
+My current favourite feature is “Your Spending”. I’ve always been quite diligent with my personal finances but now that I have that feature in my pocket I realise how much money I actually spend. I’m already changing my behaviour! For example, I love junk food and I’m always ordering pizzas. Thanks to Mondo I can now track how much money I spend and take better decisions for both my pocket and my belt. Related to that, I’m dreaming up a hackathon project to connect my food spending with my HealthKit info (weight and heart rate).
+When I look at the roadmap I’m really excited about tracking recurring payments and getting to explore the future of my current account. I want to know that 5 days from now I need to pay my water bill with no effort on my part.
+However it’s not just Direct Debits and standing orders, it’s all kinds of recurring payments. I’m subscribed to lots of services that charge me every month or every year (like Apple Music, iCloud storage, Netflix, Dropbox, Amazon Prime, hosting and domains) and I don’t really have a clue when they will charge me or how much I’ve already spent on them. I hope Mondo will fix that forever.
+
+
+Hugo driving his dream vehicle in London
+
+How do you spend your time outside of Mondo?
+I tend to do pretty basic stuff. I really enjoy walking around London parks with my partner. I play video-games (even though I’m not very good at them). I watch Japanese animation and read a bit of manga from time to time. I try to go to the cinema at least once a month (I love the smell of popcorn and the old-school isolation of watching a film in which you can’t change the volume or pause it to answer an email). Lately I’ve been doing a bit of gardening in the small pots on my patio. Last but not least, I’m always designing small stuff and pet projects – things that I never get to build but I enjoy thinking about.
+Ah, on top of that I try to keep studying English grammar and pronunciation. My accent is terrible and I still make lots of mistakes so I need to keep working on that.
+By the time I’m an old man I’d love to be a stand up comedian, a rally driver, a writer, an airline pilot, an architect, a private investigator, a mentalist or an amazing combination of all of them.
+Please follow me on Twitter so I can stop buying followers to increase my numbers. Thanks!
+
+We recently updated our name to Monzo! Read more about it here.

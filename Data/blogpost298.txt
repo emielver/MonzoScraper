@@ -1,0 +1,18 @@
+Title: You've saved over £1,000,000 with Coin Jar!
+Author: Simon Vans-Colina
+Position: Engineer
+Date: 11 May 2018
+
+
+Just over two months ago, we launched an early experiment called Coin Jar to the world. If you create a pot and call it ‘Coin Jar,” whenever you make a purchase that’s over £1, we round up the amount to the nearest pound and help you set aside the difference.
+This was a passion project that I built in a couple of days, mostly because I really wanted to use it. And it looks like other people wanted to use it too! Before you realise it, those savings quickly stack up. In just a couple of months, here’s how you’ve been using Coin Jar, and how much you’ve saved so far.
+
+
+
+
+
+
+We’ve seen people making donations to JustGiving pages by clearing out their Coin Jar, not touching the money and treating it as savings and lots of other interesting approaches! We’d love to keep working on Coin Jar and make it even better.
+When you use Coin Jar now, you see two transactions in your feed: one for the purchase you made, and one for the money we rounded up and set aside. We want to improve the way you see these transactions, so everything’s clear and doesn’t clutter up your feed. The plan is to show both your original purchase and the money we put into your Coin Jar, in a single transaction in your feed.
+We initially planned to do this in April and put it in the April Monthly Update. Unfortunately it’s taking longer than we thought, as the solution we found needs us to do significant amounts of engineering work. So it’s definitely on our list, but for the time being we’ve decided to make other new features a priority instead.
+How are you using Coin Jar? Tell us in the comments below!

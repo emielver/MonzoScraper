@@ -1,0 +1,55 @@
+Title: Block gambling transactions from your Monzo account
+Author: Natalie Ledward
+Position: Vulnerable Customer Specialist
+Date: 19 Jun 2018
+
+
+Last month we said that we’d started work on a feature to help people self-exclude from gambling.
+Since then we’ve tested it with a few people who’d requested the feature before, and listened to the feedback and experiences you shared with us on the forum.
+We’re pleased to say that from today, you can now block yourself from making gambling transactions on your Monzo account, straight from the app.
+Switching it on
+You can turn on the block by switching it on in the app, or by reaching out to someone in our customer support team.
+When you turn the feature on, we’ll block any payments you try to make to gambling merchants using your Monzo account, both online and in person.
+To switch it on from the app:
+
+Go to the Account tab in your app and tap on ‘settings’
+Look for the section called ‘Controls’
+There you’ll see the option to block gambling transactions
+Simply tap to turn on the switch!
+
+If you’d prefer to talk to someone first, you can also start a chat with someone in our customer support team by heading to the Help tab in your app. They’ll be able to tell you more about how it works, help you switch it on, and point you to other sources of support and information.
+Turning it off
+We know that the decision to gamble can often be an impulsive one. So we’ll ask you to make some extra effort if you want to remove the restrictions.
+To turn off the block, you’ll need to talk to someone in our customer support team first. We might use that conversation to ask you questions like, “Has your situation changed since you first switched on the restrictions?” to help you think through your reasons for turning it off.
+If you decide that you do want to turn off the block, we’ll give you 48-hours before you can switch it off from the app yourself.
+We hope this added ‘friction’ gives you a little time and space to work out whether the decision to gamble again is the right one for you.
+
+
+
+How does it work?
+When you buy something with your Monzo account, each transaction is tagged with a code. These codes help us identify the kind of merchant you’re paying, and we usually use them to sort your spending into categories, like Bills or Eating Out.
+To build the gambling block, we put together a list of codes that let us identify when you’re making a payment to a gambling merchant, like a bookmakers or online gambling site. When the feature’s turned on, we’ll do our best to block any payments you try to make to those merchants.
+Why are we doing this?
+People who have gambling problems and decide to stop can choose to self-exclude from gambling to get support with their decision.
+You can use software to block online gambling sites, and betting shops are required to support self-exclusion in person.
+These are both helpful ways for people to get support. But we believe that banks can do more to support self-exclusion too. We want to do more to prevent people from having financial problems because of gambling, instead of just supporting them once they’re already in trouble.
+Where else can I find support?
+Gambling addiction is a complex problem, that doesn’t have a simple, catch-all solution.
+We know that this feature isn’t perfect and that it won’t be right for everyone. But we hope that, with the right support and alongside other features and self-exclusion schemes, it will help people recover.
+Here are some places that you can find more information and get help with self-exclusion:
+
+
+Gamstop and Gamban can both help you stop accessing gambling sites
+A charity called GamCare also offers information about other software you can use to self-exclude online
+Casinos and bookmakers support self-exclusion in person, and must be part of schemes that let you make a single request to self-exclude from everywhere that offers the same kind of gambling in your area
+
+The Money and Mental Health Policy Institute recommends that banks and other card providers give customers the option to block gambling spending by blocking merchant category codes. And we aren’t the only bank that offers this:
+
+Starling Bank supports self-exclusion with a switch in the app you can turn on and off to block gambling transactions
+Barclays lets you turn off gambling spending on its Barclaycard credit card, if you call their customer service
+
+What’s next?
+We added this feature because you asked us to and told us it would help. Your feedback and experiences have shaped the way we’ve built the gambling block, and we’ll keep improving it based on what you think and how you’re using it.
+There’s also plenty more that we can do to support people with gambling problems, and we plan to work on more features in the coming months.
+We shared some of our ideas in our original post, but we’d love to hear from you. Let us know what you think about the solutions we’ve suggested, or what we should work on next.
+Thanks to everyone who’s shared their experiences with us so far ❤️

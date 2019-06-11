@@ -1,0 +1,31 @@
+Title: Putting transparency into practice
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 8 Nov 2018
+
+
+At Monzo we’re committed to transparency. We hope it’ll help us earn your trust and prove we’re really doing things differently. And we think it’s the right thing to do.
+But what does that actually mean day-to-day? How do we communicate what we’re doing to our customers (and to the world!) in a way that’s clear, compelling and that they’ll see in the first place?
+Finding answers to these questions is a big part of what we do in Monzo’s Marketing and Community team.
+Whether that’s sending you an email to tell you we’ve changed our terms and conditions, writing app copy that explains charges upfront, or starting a discussion to get your feedback on a feature we’re building, we’re often responsible for putting transparency into practice.
+And our blog is a big part of how we do that. It isn’t an afterthought where we share the occasional update, or a collective diary where we post every idea that pops into our heads. Instead, it’s a crucial tool we use to share information with you.
+Avoiding information overload
+Because we default to transparency, we make things public unless there’s an argument not to. Which means we share an incredible amount of information with our community.
+So far we’ve given you insights into how we build stuff, shared internal documents like our engineering progression framework, and even made our quarterly company goals public.
+Every day we’re asked hundreds of questions about how Monzo works, what we’re doing as a company, and lots of other things. A customer who’s chatting with us in-app might find it useful to understand how card payments work. Our community might be eager to know when we’ll be launching a new feature, like savings or bill splitting. Or a journalist might have questions about our latest financial statements.
+But putting a whole host of information out there whenever someone happens to ask, isn’t the best way to fulfil our commitment to transparency.
+Being transparent means being honest and open. But it also means communicating what we do share in a way that people can access easily and understand. Our blog gives us a clear way to share and organise that information.
+Information overload is a problem we face when we communicate within the company. Our team is growing quickly, and has more than doubled in a year. And making sure 400+ people can find the information they need isn’t always easy. People often end up having the same conversations in tandem, and there usually isn’t a single source of truth on a subject that everyone can refer to.
+This is normal for a growing company, and it’s something we’re trying to fix. But it’s something we’re especially keen to avoid when we communicating outside the company. We don’t want it to be as confusing for our customers as it can be for us!
+So instead, we share information intentionally, rather than ad hoc. If you have a question, we’ll do our best to answer you then and there. But sometimes there’s information that’s useful for everyone to know, or that we can’t communicate in 240 characters. When that happens, we’ll use our blog to go into more detail.
+Creating a single source of truth
+Writing blog posts help us make sure the information we share is accurate, and really reflects what we’re doing or thinking at the time.
+Every single person at Monzo has their own perspective, which might not be comprehensive, representative or even correct! Those different perspectives and opinions are important, but our blog posts are often team efforts. We work together and spend time writing them, to make sure the information’s right and its communicated clearly.
+This hopefully means what we share is well-considered and accurate. So our posts can be a source of truth for anyone looking to find out more about what we’re doing, how and why.
+Sharing information in the right place, with the right people
+Once we’ve put information out there, we share it with people who might want to know.
+We might share a technical post with other developers on Hacker News, let charities know you can block gambling transactions from your Monzo account, or tell a journalist that one million people are now using Monzo. We can show you a new feature by sending you a message in the app, give you live updates about what we’re up to on social media, or catch you up on what you missed in our monthly newsletter.
+Doing this means the information we share reaches the people who’ll be interested.
+What’s next?
+Our goal is to build our blog into a central hub where you can find everything we’ve ever shared, and everything you’d ever want to know about Monzo. And we want to make it more beautiful and easier to navigate, so you can find what you need easily.
+We’ll also keep finding new opportunities to put transparency into practice, so please let us know what we can do to improve!

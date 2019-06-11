@@ -1,0 +1,40 @@
+Title: We’re helping The Big Issue sellers get more out of each magazine
+Author: Lew Isaacs
+Position: Vulnerable Customer Specialist
+Date: 1 Apr 2019
+
+
+Across the UK, almost 5,000 people are sleeping rough and more than 300,000 are homeless. And this number’s only growing.
+The Big Issue’s mission is to help people facing poverty and exclusion. Selling The Big Issue gives vulnerable people the means to earn a legitimate income, develop money management skills, build networks and ultimately reintegrate into society. And many of you will have seen one of the 1,500 magazine vendors working across the UK.
+But as we increasingly start to favour cards over cash, Big Issue sellers are finding it more challenging to sell the magazine. 10 years ago, six in every 10 transactions were made in cash, but now it’s three in 10.
+That’s why we’ve been working with The Big Issue to help sellers grow the profits they make from each magazine, and we’re launching a trial today!
+How to Pay It Forward
+Once you’ve bought a copy of The Big Issue, Pay It Forward lets you pass the magazine onto a friend, who can pay for it again just by scanning a code with their phone.
+We’ll be testing Pay It Forward for four weeks from today, with up to 20 Big Issue vendors across the UK.
+These vendors will be selling their copies of The Big Issue with a scannable code on the front of the magazine.
+Once you buy a copy of the magazine, your friends can scan this code with their phones to pay for the issue again. It works using monzo.me, a feature that lets you pay anyone with a Monzo account easily.
+
+
+
+The code looks like this:
+
+
+
+Just get your friends to scan the code with their iPhone or Android (they don’t need to download a special app), and we’ll take them to a customised monzo.me page.
+They’ll see a verified ‘The Big Issue’ badge next to the vendor’s avatar, and can find out a bit about the seller by tapping to see more.
+
+
+
+Every time someone scans the code, they’ll pay £2.50 for the magazine. Behind the scenes, we’ll split the payment down the middle: half will go to The Big Issue, and half to the seller. If you choose to pay more, £1.25 will go to The Big Issue and the rest goes to the vendor.
+You can buy the magazine from sellers across the UK
+You can use this map to find sellers that are part of the pilot:
+
+
+
+And we’ll be adding more people as they join the pilot over the next few weeks!
+We’re doing this because we’re committed to improving financial inclusion
+Big Issue vendors sell on average one magazine for every hour they work. And for each sale, they earn £1.25. The new system could help each sale go further.
+We’ll also ask all the sellers who are part of the pilot to open Monzo accounts, and the money they make from selling the magazine will go straight there. This means sellers will get access to the financial system, and be able to safely save and even pay for new issues of the magazine using their Monzo debit cards. This is part of our broader commitment to improve financial inclusion, and you can find out how to get involved with our #NoBarriersToBanking campaign.
+We built Pay It Forward during Monzo Time (a day every month where our product teams work on projects that aren’t on our roadmap).
+
+As always, please let us know what you think! This trial will inform where The Big Issue takes this idea next ❤️

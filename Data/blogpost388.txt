@@ -1,0 +1,33 @@
+Title: Launching Machine Learning Powered Help on iOS
+Author: James Nicholson
+Position: iOS Engineer
+Date: 18 Jul 2017
+
+
+There are currently more than fifty topics on the Monzo help screen, and that number is only going to increase as we launch fully-fledged current accounts. Up until now, looking for an answer requires knowing what category your question falls into, and then finding the specific topic within the category.
+We wanted to make these answers to commonly asked questions more relevant and more easily discoverable. If you’re on the latest version of the iOS app (1.9.10), you should see your help screen now has a search bar! 🎉 This looks simple but hides some considerable intelligence under the surface.
+
+
+
+    Sorry, your browser does not support the video tag. Updating to the newest version should fix it.
+  
+
+Intelligent Search
+We developed this feature by working closely with our Data team. By feeding our search algorithm conversations we’ve received through in-app chat, it now has an understanding of natural language which should make the search more useful and also help it to feel a bit “magical”.
+For instance, if you ask about getting your partner a card, our model thinks that there is a chance you may be asking about joint account. But if you ask about getting your friend a card, the joint account option doesn’t show up, as we’ve tried to make the search have a modicum of “common sense”.
+
+
+
+Our trained algorithm has also learned linguistic nuances such as the concept of countries, synonyms, and intentions:
+
+
+
+Pre-populating search query in chat
+Our help content won’t cover every single use case, so if you typed your question into the search bar and realise none of the FAQs are relevant, you can go to our in-app chat and even pre-populate the chat with your search query!
+
+
+
+    Sorry, your browser does not support the video tag. Updating to the newest version should fix it.
+  
+
+With search-as-you-type and an intelligent understanding of language, we want to make the experience of getting answers a lot easier. Give it a shot - throw it a curve-ball question and see how it does! We’d love to hear what you think — Twitter and the forum are all open, accessible and waiting to hear from you 😄

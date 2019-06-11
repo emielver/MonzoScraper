@@ -1,0 +1,40 @@
+Title: An Android Progress Report
+Author: Jami Welch
+Position: Product Manager
+Date: 25 Sep 2017
+
+
+Hi there! 👋 My name’s Jami, and I joined Monzo a few weeks ago as the product manager for our Android app. Now I’m settled in, I wanted to say hello, and give an update on Android progress.
+Over the last couple of months we’ve hired a few more Android engineers, bringing the team up to five (soon to be six in October!) This means one person has been able to focus on reducing the need for you to contact support, while the rest of us put our energy into getting current accounts ready.
+We’re now at the very exciting point where our Android and iOS apps are essentially neck and neck when it comes to current account features (not that it’s a race!) 🏃 🤖 🍏
+
+
+
+We’re also hiring for another Android Engineer, so if you or someone you know is interested, get in touch 📩
+Current account features and platform parity
+We’ve begun rolling out current accounts with events at Monzo HQ. At each event, we’ve said that our aim is to achieve parity between iOS and Android by the end of the year. What this means is that all new current account features will be on both platforms. That includes easy sign up and migration from prepaid to current accounts, Faster Payments, standing orders, Direct Debits and overdrafts.
+With help from Faster Payments and Direct Debits, we’ve now got the basics in place, and have started working on creating a smoother sign up process.
+
+
+
+Everything else
+There are some prepaid features that are only available on iOS at the moment, and require big changes to work well with current accounts on Android. For example, right now the Spending tab only tells you the bad news (how much money you’re spending!) and leaves out the good (how much you’re saving month to month). It also monitors your spending according to calendar months, instead of taking into account when you get paid.
+Rather than rushing out outdated Android versions of things like spending targets and travel reports, we’re going to wait till we’ve rolled out current accounts, then work on improving features to better suit the way you use your new bank accounts.
+
+
+
+If you take a look at our transparent product roadmap, there are some features on the 6-12 month backlog that aren’t related to current accounts, like fingerprint support and the Pulse graph. As the Android app was started a year later than the iOS app, we prioritised core functionality to get the app out as quickly as possible, so a few of these other features have been on the backlog for a while.
+Soon after we launched on Android we started preparing for current accounts, which has required most of our attention since. So while we continue to focus on getting current accounts ready and migrating everyone over from prepaid, these features will continue to take a back seat.
+
+
+
+That being said, when we’re able to fit something in between current account work, we’ll look at implementing features that aren’t dependant on current accounts, and that don’t pose a risk of delaying them. Right now, our priorities are roughly:
+
+The Pulse graph, which gives quick feedback on how much money you’re spending  at the top of your feed
+Crowdsourced merchant feedback, so every purchase looks perfect
+Fingerprint support, so you can lock the app behind your fingerprint, and use your fingerprint to check your card PIN and confirm transactions
+
+I hope this helps give a little more insight into where we’re at, and what’s to come. We’re super excited to have so many people using Android to try out the current account, and really appreciate all the feedback we’re getting in the Community Forum.
+There are also some Android-specific goodies coming soon, so watch this space! 🔜
+
+In advance of October’s Android Open Office event, all week we’ll be focussing on what’s new and next on Android 🤖

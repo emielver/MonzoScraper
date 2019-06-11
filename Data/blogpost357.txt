@@ -1,0 +1,53 @@
+Title: Our 2017 To-Do List
+Author: Tristan Thomas
+Position: Head of Marketing and Community
+Date: 23 Nov 2017
+
+
+This year has gone so quickly, but we’ve packed in quite a lot: we got our full banking licence, built a fully functioning current account, and brought Monzo to almost half a million people.
+But there’s plenty still to do! As the end of the year approaches, we wanted to share what we’ll be working on in the last few weeks of 2017.
+Things might change, but this is our best guess for the rest of November and December as it stands.
+
+
+
+Offer upgrade to all our wonderful users
+We’re now in the process of bringing new and improved Monzo accounts to everyone 🎉 More than 50,000 people are already using them, and we plan to invite all existing Monzo users to upgrade by the end of November (that’s next week!).
+If you want to upgrade sooner, just fill out this form and we’ll invite you in the next few days.
+
+
+
+When you upgrade, you’ll get your own account number and sort code (to receive your salary and other payments), you’ll be able to make bank transfers (to send money to friends not on Monzo), and set up Direct Debits and Standing Orders (to pay your rent and other bills).
+Upgraded accounts also use our in-house payment processor, rather than a third party, which we expect to be much more reliable.
+You’ll also get access to new features we’re launching, like Pots!
+Bring Pots to everyone
+We launched Pots on iOS this Monday, and they’ll be coming to Android at the start of next week 🍯
+Pots are a simple way to set money aside, within your main Monzo account. Whether you’re planning a wedding, budgeting for Christmas, or simply saving for a rainy day, pots allow you to save towards specific goals.
+You can read all about Pots in this blog post, but suffice to say we’re pretty excited!
+
+
+
+(Re)release top ups
+For those of you that have already upgraded, you’ll have noticed you can’t currently top up your account by debit card, Apple Pay or Android Pay.
+Monzo is much better if you get your salary paid straight into your account, or set up a regular standing order to add money from your old-school bank. However, we’re bringing back top ups as we know it’s sometimes useful to top up when you need — look out for that in the coming weeks.
+Send out Investor debit cards
+For everyone who invested in our crowdfunding round earlier this year, thank you! As part of your investment, we promised you limited edition Investor debit cards, which have taken a little longer than we expected to get off the ground. Sorry about that. The good news is they’ll be available by Christmas! 💳
+We’ve also decided to make these cards available to people who invested in our first crowdfunding round, so no one misses out 🙂
+We’ll email all investors with instructions on how to claim a card as soon as they’re ready.
+
+
+
+
+
+Add card replacement, change address, Monzo.me and bill splitting
+A few features are yet to make it into the upgraded Monzo current account, including the ability to order a new card if you lose yours, change your address from within the app, use Monzo.me and split bills through Monzo.me.
+We’ve been hard at work and expect to have these all back in the app by the middle of December. Monzo.me and bill splitting will initially only work for customers who upgrade from an existing Monzo card, rather than sign up totally afresh. We’re working to bring them to new users too ASAP.
+
+
+
+Slowly open up overdrafts
+We began testing on iOS a few months ago with very small numbers of people. The Monzo Android app now supports overdrafts, so we’ll be testing them with more and more people over the coming months.
+To ensure we get overdrafts right, we want to take this slowly, so overdrafts won’t be available to everyone to start with. We’ll be in touch with people as we roll them out to let them know.
+
+
+
+It’ll be a busy few weeks as we work to cross each off these off our list, but we can’t wait to get all these features into your hands, and will keep you updated on the blog and on Twitter as we do 📝 ✅

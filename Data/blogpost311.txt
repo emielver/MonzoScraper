@@ -1,0 +1,24 @@
+Title: #TagYourTransactions
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 12 Apr 2018
+
+
+To help you sort through, search and better organise your spending, we’ve added the ability to add tags to your transactions! It’s available on both Android and iOS from today.
+Adding a tag is easy:
+
+Go to your feed and tap on the transaction you want to tag
+Tap on “Add notes and #tags”
+Then add as many tags as you need!
+
+Just search for or tap on a tag to see all your other tagged transactions.
+
+
+
+Adding the ability to create your own payment categories has been a popular request from our community, so we know that loads of you would like the option to organise transactions in your own way.
+Tags work in a similar way to categories, but you’re completely in control of what they’re called, and which payments they belong to.
+So if your cat food, treats and toys don’t fall neatly into one category, add the tag #pets to keep track of how much you spend on your furry friend.
+As always, we’ll automatically put your transactions into categories, like Transport, Groceries Entertainment or Bills, to help you see your spending breakdowns and set targets, without doing any of the admin.
+
+Give it a try! Let us know what you think and how you’re using it on the forum.
+We added this feature based on feedback and ideas from our community. Have your say on what else we can do to improve Monzo 💡

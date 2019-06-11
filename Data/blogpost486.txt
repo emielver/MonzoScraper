@@ -1,0 +1,20 @@
+Title: What Makes A Bank Ethical?
+Author: Tristan Thomas
+Position: Product
+Date: 7 Jun 2016
+
+
+“Sunlight is said to be the best of disinfectants”
+– Louis Brandeis
+
+We started Mondo because we believe there should be an alternative to the banking of the past. We are focussing on solving customers’ problems, rather than selling financial products, to create what we hope will be the best current account in the world.
+One of our core tenets is transparency. We want to get rid of punitive fees that hit when you’re most vulnerable, show you exactly what you can expect to pay for an overdraft, and give you instant insight and control over where and how you spend your money.
+This approach to transparency directly influences our product development. Over the last six months we’ve given versions of our Alpha and Beta product to thousands of people and invited them to join in, criticise our approach, and suggest things we can do better. We firmly believe this approach helps us build a better product, so that when we launch as a fully licensed bank, we have something that people actually want to use.
+One of the questions people regularly ask is how depositors’ money is put to use by their bank. The Co-operative Bank has a 27-page ethical policy outlining how they combine their business and their ethics, while smaller companies like Ecology Building Society and Triodos Bank focus solely on ethical banking. We support and applaud such progress on ethical issues in banking, and want to contribute. But, as a relatively small company (we currently employ 33 people compared to Co-Op’s 7,526), we have not yet developed a comprehensive ethical policy that is fair, inclusive, and up to date. We won’t ignore this though – it is important to us as a company and to every single person in our team. So what we are doing is putting into practice the core tenet I mentioned earlier: transparency.
+We believe the best way we can give you confidence in what we do with your money is by telling you exactly how we use your deposits, at all times. You can then make your own decision whether you want to trust us to look after your money.
+To that end, we have created a new page at monzo.com/ethics. This will always show you where your money is held. Currently, as of June 6th 2016, that shows the following:
+“Before we become a fully licensed bank, your deposits are held by Wirecard Card Solutions Ltd. in a ring-fenced client-monies account. Once we become a bank (and therefore hold your deposits on our balance sheet and your deposits are protected up to £85k by the FSCS), a very small proportion of your money (around 10% of total deposits) will be lent to Mondo customers in the form of unsecured personal overdrafts. The rest will sit in cash in our Reserves Account at the Bank of England or be used as collateral for payment schemes. In the future, we are likely to do more personal lending and invest some of the money in UK government bonds.”
+If and when that changes, we will update that page. We’d love to hear your thoughts on our approach and any suggestions you have.
+This is an iterative process and we want to improve on everything above – think of this as the beta version of our ethical approach! You can join the discussion in our public community forum below, Tweet us (or me), or send me a private email to [email protected].
+
+We recently updated our name to Monzo! Read more about it here.

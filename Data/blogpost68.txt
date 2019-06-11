@@ -1,0 +1,92 @@
+Title: How to get a job as an engineer without a computer science degree
+Author: Jack Kleeman
+Position: Backend Engineer
+Date: 6 Mar 2019
+
+
+It’s a common misconception that programmers need to have a computer science degree to get hired by a great team. It’s a misconception that makes the field less diverse, because people without degrees don’t think about software as an option.
+At Monzo, we’re committed to hiring the best people regardless of their background. And we’ve found that having a computer science degree (or any degree at all) isn’t always a useful indicator of engineering ability. A lot of our engineers don’t have technology degrees.
+4 top tips from Monzo engineers
+Monzo engineers recently explained how they started out in the software industry, without a background in computer science.
+For anyone wanting to do exactly that, here are their top tips:
+
+Pick a language quickly, and keep it simple
+Take advantage of self-learning resources
+Look into bootcamps if you can find the time (and money) for one
+Find a project, even if you’re not sure you’re ready
+
+1. Pick a language sooner rather than later
+A lot of people who want to get into programming get stuck at this step. It can feel like if you pick the wrong language, then learning it’s a waste of time. What people sometimes don’t realise is, moving from Python to Javascript isn’t like moving from Chinese to Swahili. Once you’ve learned any programming language, you know the fundamentals of almost all of them. That said, you still have to pick one to get going, and some are definitely a lot easier than others.
+
+
+
+Comment from Alessando Mencarini: Perhaps controversial, but I somewhat disagree; especially for someone starting out that doesn't have 16hs a day to study programming, it's important to have a good experience and a sense of progression, otherwise giving up might be an option. Choosing a language that eases you in with the first steps and basic concepts is important, IMO. To clarify further: I've started out randomly picking a C# book, and was very close to just give programming up as I couldn't grasp the complexity of the language as a total newbie. A friend pointed me towards Ruby and that put me back on track.
+
+Comment from Naz Malik: Totally makes sense. I guess better advice would be: Pick between beginner-friendly languages with a large communities (ruby, python, js), and bias towards one if you know a mentor who practices it. My point was more that these languages aren’t _that_ different, and switching language later on isn’t a big deal. What is a big deal is getting going and learning programming fundamentals that are universal to languages (writing functions, assigning variables etc).
+
+Comment from Liam Nicholson: I was really fortunate in that I had a computing teacher in school who used to work for IBM and he pushed me quite a bit to just start making things and looking into how things worked - I started off by building a few simple static websites before progressing through to PHP and finally ending up at Rails before joining Monzo (this made for an interesting interview when put in front of Jonas - turns out, there was a lot I still had to learn/still do have to learn) One thing that I would definitely recommend is getting a good grounding in the fundamentals in a single language first, I didn’t really do this and it made things a bit harder, especially when you’re juggling A level coursework in Python and side projects in Rails (which definitely abstracts a _lot_ of things away from you) - however, now I’ve got knowledge of the basics, moving between languages isn’t as hard as it used to be and now I switch between JS and Go every day. I think now, I’d recommend starting off with Python, it’s what most schools are starting with now and there’s a ton of resources available, especially now the GCSE and ALevel computing specs are written around it (finally, it was Macromedia Flash for my GCSE’s and that was only 6 years ago). Apart from that and I know that this isn’t really an option to everyone, but I’m really grateful for the opportunity I was given when joining here, I’ve learnt a load and still learn new things every day.
+
+
+
+2. Teach yourself in your spare time
+Most people can’t have time off work to take a gamble on becoming a great programmer. Learning little-by-little genuinely works if you commit to it over a long period. Fortunately, the web is full of resources that can help you develop the skills you need.
+
+
+
+Comment from Marcelo Grundig: I'm in the same situation as Tally, considering moving (not a developer...yet). I did a bit of freecodecamp and enjoyed - would definitely recommend. Le Wagon I went there, but it's paid. I didn't do it but it seemed quite good. I'd also suggest doing the Introduction to Computer Science from Harvard at EDX, the "CS50" course. Very good if you're more into the server side of things.
+
+Comment from Alessandro Mencarini: I spent my evenings and weekends for ~4 months learning Rails while the company I was working for in marketing was about to go under. Eventually I found a job at a web agency and here I am, 10 years after. I wouldn't recommend going full solo learning as I learned so many bad things at the beginning, took a while to straighten many habits I've previously interviewed and hired people from Makers and Founders and Coders and they both seem to do a good job for beginners.
+
+Comment from Robin Bilgil: I don’t have a CS degree either. The first year or so I watched a really great/entertaining CS lecture series from the university of new south wales on youtube and I think it really helped!
+
+Comment from Yvette Cook: https://codebar.io/ is a fab resource, if you're nearby to a event. Super friendly community and good learning resources.
+
+Comment from Naz Malik: This is the most beginner friendly thing i’ve ever seen. Not sexy but so empathetically written. You make a tamagotchi a few weeks in which was the first thing I made where I was like “whoa, this is cool”. I think trying to have as many of those moments early on is really great for gumption https://pine.fm/LearnToProgram/.
+
+
+
+Here are some of the resources our engineers recommend checking out.
+
+freeCodeCamp
+Introduction to Computer Science (by Harvard University)
+Makers
+Founders and Coders
+CS1: Higher Computing – Richard Buckland
+codebar
+Learn to Program
+Roadmap to becoming a Web Developer
+
+3. Go to bootcamps (if you can)
+If you can take time off work (or maybe you’re not working yet?), a lot of people find their way into software through short immersive courses. The advantage of these is that you’re living and breathing the work, and much like with a spoken language, you adapt to the concepts far quicker. You also get to work on projects with other people, so you’re learning in a way that’s more like a real work environment.
+
+
+
+Comment from Sophie Koonin: CS50X made me decide to do my masters in CS :slightly_smiling_face: It’s certainly not the only route though. I’ve got friends who have come from bootcamps such as Founders & Coders, Makers Academy (@irina knows about that) and General Assembly - all of those are highly rated.
+
+Comment from Yvette Cook: I did Makers Academy (graduated in 2014), and can talk/write for far too long about it for this thread, but always happy to chat 1-2-1 with anyone whose considering the bootcamp route. The TLDR - it's hard work, a big upfront cost (although there are cheaper routes now), and without question the best thing I did for my career. I (personally) needed the guidance, pathfinding and kick to make the jump from history grad/project manager to software dev.
+
+Dialogue between James Nicholson and James Routley: James Nicholson says: am I right in thinking Recurse also has really good scholarships for women? James Routley replies: Yes they'll pay for your accommodation etc.
+
+Comment from Paul Bowsher: I've hired umpteen Makers graduates in the past, to multiple organisations. It consistently gives people a really good baseline of knowledge for them to come into teams and hit the ground running, certainly in web teams. When I saw Makers on a CV I knew there was a good chance the candidate was going to be what we were looking for.
+
+Comment from James Routley: I don't have a computer science degree! I'd recommend coding a lot - I think coding is both theoretical and practical, and I think it's simpler to get good at the practical side before tackling the theoretical. I'd also highly highly recommend https://recurse.com, it's a free, three month "writers retreat for programmers" in New York. I went last year and it significantly improved my coding/understanding of how things work. There are a couple of ex-Recursers dotted around Monzo. Happy to answer questions if you've got any.
+
+Comment from Matt Heath: Yep I taught a part time backend engineering course (ruby/rails) at General Assembly for a year or so. I think GA can be really good — their 3 month immersive courses in particular. The course I taught was a 10 week 60 hour part time course, which (with hindsight) was a bit hard on students — you really had to do a lot outside of the classes to get the best from it as the amount of contact time was so low, and that's pretty hard if you're also working a full time job! The immersive 9-5 courses are great though, and give people a really good foundation. The various bootcamp style courses (GA/makers et al) also have career support, so they'll help build up portfolios, intros to potential employers etc.
+
+
+
+4. Sign up for projects, not courses
+With so many software courses available, you might think that you need to do a bunch of book learning before you can build anything. This is a classic mistake. It’s actually really hard to develop real-world software skills without writing some real-world software projects. Remember, it’s never too early to start working on something, even if it’s really small.
+
+
+
+
+Comment from Jack Kleeman: I studied economics until last June and have no formal CS education at all. 1) I hated my first year economics internship and started applying to random startups knowing a little bit of python and JS. My first one made me learn Go, and two Go startups later this helped my application to Monzo a lot. 2) I’ve never really stuck to a formal course pathway. I would recommend projects instead. 3) Hackathons and having an actual project did more for my ability than anything else I’ve tried. I do not recommend the online ‘project for the sake of a project’ sort of courses and instead I think it’s worth thinking of something you are actually excited to build, and then build a small component of it.
+
+Comment from James Allison: I also have no formal education or training in software engineering. I taught myself entirely through online materials (Udemy is great for video courses). I agree with Jack that focussing on projects is a great way to learn; I’ve always found that learning with a tangible goal in mind was a great way to provide direction and motivation. Once you’ve picked up the basics of programming in a language, if you don’t have something in mind that you want to be build, I recommend picking up simple jobs on Freelancer.com. I used to pick up scrappy jobs like “I have this huge spreadsheet and I need it to be converted into a simple web-based CRUD app”. I appreciate this might sound a bit daunting at first, but I found it a great way to build confidence and the external pressure kept me motivated.
+
+Comment from Aishwarya Pant: I would highly recommend applying for an internship with Outreachy. It’s a paid 3-month remote internship to work in Free and Open Source Software (FOSS), for under-represented minorities. There’s a range of projects across graphic design, user experience, documentation to people hacking on kernel code. I was an intern in 2017 and honestly I’m a much better and confident programmer because of that experience.
+
+
+
+

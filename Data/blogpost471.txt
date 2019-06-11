@@ -1,0 +1,65 @@
+Title: How We Picked 'Monzo'
+Author: Bailey Kursar
+Position: Head of Marketing
+Date: 26 Aug 2016
+
+
+Yesterday was a big day for us. Amid all the excitement, the live stream and the confetti, at the heart of it we actually made just one big change. ‘Mondo’ became ‘Monzo’.
+It’s a change of just one letter. You’d think that it was a simple process, right? Wrong! This name change is the culmination of hundreds of hours of work.
+So now that ‘Monzo’ is live, here’s our chance to tell you the story from behind the scenes.
+Why did we rename?
+The story starts about a year ago, when an undisclosed company with a similar name legally challenged our right to the trade mark ‘Mondo’. After talking to them over many months, we decided that as a startup, we didn’t want the hassle or the expense of fighting it. So we needed a new name.
+After some consideration we knew one thing - we wanted to keep our ‘M’ logo. After all, we’d already got the t-shirts printed! So the hunt was then on for a new name beginning with ‘M’.
+Asking our community
+By June we were ready to go public about the name change. Now we just needed to decide on a name.
+We started by writing up a list internally of any ‘M’ words that we could think of, and came up with about 150 between us.
+However, we knew our community would have ideas. We ask for feedback all the time on our forum, on Twitter and on Facebook, so why should asking for new name suggestions be any different? So, for two days in June, we asked people to fill in a quick form on our website, suggesting an ‘M’ name that could replace ‘Mondo’. We also asked for photos so we could put faces to all the names.
+We were completely overwhelmed with the response. Remember the 150 potential names we’d come up with internally? We now had over 4,500 unique name ideas, from over 9,000 people (who gave us, on average, 1.3 suggestions each). It was incredible ❤️
+
+
+
+Picking a shortlist
+When we stopped accepting ideas at midnight on 14th June, we didn’t know quite where to start. There was a Google Sheet circulated internally of all the name ideas, and we started going through them as a team, adding notes and crossing them off if we didn’t like them. We created a Slack channel to discuss the best (and the worst!), while also trying to be careful not to fall into the ‘groupthink’ trap.
+The biggest help at this stage was when Hugo, our Head of Design, ran a script that created over 4,000 new versions of our logo, with all the different potential names in one (huge!) PDF. Running through each and every one of them, assessing how they looked, and saying them out loud (yes, all of them!) really helped us whittle down the list to around 50 that we wanted to explore further. People from all across the company contributed, so it wasn’t just one or two people’s tastes which dictated the shortlist.
+Checking out potential names
+We really didn’t want to be fighting any more legal battles over our new name, so the next step was to do some spot checks on the shortlisted names. How did we do this? Initially it was pretty simple. We checked Google, the App Store and the Play Store for any companies with the name, or something similar. Then we searched the UK’s Intellectual Property Office database for that and similar names, in case it was registered already.
+The shortlist quickly became a shorter-shortlist as we went through. You wouldn’t believe how many existing companies are out there with ‘M’ names, particularly in the financial services industry!
+At this point, now with 10 names on the list, we wanted to get some user feedback. But we had a dilemma - asking our community for feedback would make it impossible to secure the necessary trademarks, domains and social media usernames we needed for launch. They’d all be snapped up.
+So to gather feedback, we turned to a couple of online user survey tools - UsabilityHub and OnePulse. Both of these allowed us to stay undercover, and gather feedback from people from all walks of life on the 10 names we’d shortlisted. We asked two key questions on the survey:
+
+Does this name mean something to you?
+What does this name remind you of?
+
+The key objective? We wanted to find out if there were any unwanted connotations, or if people felt negatively about the suggested names. We asked 1,000 people from all over the UK, using OnePulse, and 1,000 from across the globe with UsabilityHub, giving us a fairly comprehensive picture of what these names might mean to a variety of people in a variety of languages.
+Getting the results of each survey, we tried to group findings and present the data in a visual way on a whiteboard, so that the whole team could take time to read and consider next steps.
+
+
+
+A couple of the potential names
+
+
+From the ten there were some clear favourites, and two were then taken to the next stage - ‘Mido’ and ‘Milo’.
+Yes, just two!
+It actually took another month or so for us to move ‘Monzo’ to the next stage, and we also considered ‘Motion’ at this point too.
+Of course, looking back, ‘Monzo’ is by far the best 😉
+We owe a lot to one of our co-founders, Jason Bates, who jumped on Slack while he was on holiday and alerted us to the fact that Monzo, which we’d missed in our initial scan of suggestions, was not only relatively trademark-free, but we could also buy the .com domain… thank you Jason!
+Legal work
+With these four potential names now at the final stages, we spoke to our lawyers and they started doing their due diligence. They produced trade mark reports on each of them, not only from a UK and EU perspective, but also looking at what might be an issue further afield in the US.
+We then went ahead and registered trade marks for ‘Mido’, ‘Milo’ and ‘Monzo’, all under a decoy company name so that they wouldn’t be public yet (sneaky, I know!).
+The trade mark process allows a certain period of time for objections to be raised, and by the end of the first fortnight, not only had everyone in the company grown to love ‘Monzo’, but we also had potential issues crop up with both ‘Mido’ and ‘Milo’. Sorted!
+We snapped up monzo.com as well as some other important assets, like the @monzo Twitter handle.
+The last step? Getting board approval. Thankfully, everybody loved it!
+So, we’re now Monzo!
+This is the end of a big project. A huge thanks goes from everyone at Monzo to all the people who helped. We know everyone in our amazing community will start to love the name as much as we do over the coming days and weeks.
+And, just for fun…
+
+The most suggested idea was ‘Mybank’, with a whopping 332 people suggesting it
+Other names in the top 10 were ‘Moolah’, ‘Moola’, ‘Money’, ‘Mundo’, ‘Moneta’, ‘Midas’, ‘Mango’, ‘Mint’ and, simply, ‘M’
+10 people suggested ‘Mido’ and 12 suggested ‘Milo’
+52 unique suggestions were plays on the phrase ‘Banky McBankface’
+
+Lastly, a shout out to the five people who suggested ‘Monzo’ - Kamilla, Ashley, Matt, Martin and Chris, and of course the sixth - our co-founder, Jason. We’ve got custom swag for you, and we’ll make sure you get the first ever Monzo cards when they come out in a few weeks!
+
+
+
+As ever, if you have questions or feedback, join the conversation on Twitter or on our forum.

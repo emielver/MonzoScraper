@@ -1,0 +1,37 @@
+Title: We’re making Summary more flexible
+Author: Jami Welch
+Position: Product Manager
+Date: 20 Nov 2018
+
+
+Summary helps you manage your day-to-day spending. By looking one month ahead, it works out how much you have left to spend after you’ve paid your bills and other committed spending.
+By default, Summary starts tracking your spending at the start of every calendar month. If you want to start budgeting from a different date, you can choose a recent payment (like your salary) and Summary will track your spending from there. Lots of people use this option to track their spending from payday to payday.
+But you’ve been telling us that these options were a bit too restrictive, and could do with some tweaks to make them work for you.
+So we’ve started making some changes to Summary to give you the flexibility you need!
+
+You can choose the date you want your Summary to start each month, without selecting a recent payment
+If your Summary is due to start on a weekend or bank holiday, you can tell us if you want to make it earlier or later
+
+You can track your spending in four week periods, because lots of you get paid every four weeks, not every month
+If you set a custom period, you can ask Summary to start on the 1st of each month again
+
+
+
+
+
+To try out these updates:
+
+Make sure you have the latest version of the Monzo app
+Tap on your Summary tab
+
+On iPhone tap ‘This Month’ at the top of the screen, on Android tap the calendar icon
+
+Tap ‘Change’ next to your current start date
+
+
+
+
+We hope this means more of you will be able to set up your budgeting once, then leave Summary to do the work for you – without the hassle of fixing things every time your payday falls on a weekend.
+We know some of you get paid at other intervals, like every week, every two weeks, or on the last Thursday of the month.
+What we’ve built already supports adding more frequencies in the future, but we wanted to get feedback on these basics first. Once we’re happy that everything’s working as it should, we’ll look at supporting more options soon!
+Let us know what you think in the community forum!

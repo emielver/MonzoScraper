@@ -1,0 +1,24 @@
+Title: Tap to Activate Your Debit Card
+Author: Kavi Dhokia
+Position: Android Engineer
+Date: 14 Nov 2017
+
+
+Whether you’re a brand new user or you’ve been with us from the start, we want to make sure it’s as simple as possible for you to signup for Monzo and start using it straight away.
+It’s why we only ask you for essential information when you join, instead of making you fill in a load of forms. And it’s why you can verify your identity by taking a selfie video, rather than having to visit us at a branch.
+We’ve also been working on a nifty new feature that uses NFC (near field communication) to add a bit of magic to the signup process.
+If you use Monzo on Android (and have a device that supports NFC), you’ll now be able to activate your new Monzo debit card just by tapping it on your phone. Tada! 📱💳 🎉
+
+
+
+Once your new card arrives in the post, simply open the app and tap to activate your new card. Rather than typing in the card number, or even having to take a picture, simply tap your card and phone together to activate it immediately.
+The whole process is made possible by NFC, a technology that allows two devices to talk to each other when they’re nearby. It enables contactless payments, and underlies features like Android Pay.
+Now for the technical details
+NFC uses a specific radio frequency to allow information to be shared between different devices at close-range.
+Tapping your debit card to the back of your phone triggers an NFC event. We read the NFC tag and check whether it has the expected data about your card, and from there we extract the PAN number i.e. the long number on the front of your card.
+The PAN number is then sent to our backend servers (the underlying systems that power Monzo), and used to activate your card. This is the same thing that happens when you manually type in the number. The difference is that NFC allows us to fetch the number for you, directly from the card.
+You can find out more about how this technology works in the latest episode of Monzo Insider!
+One-tap card activation is available on Android because Google allows third party developers to build features for Android devices using NFC technology. That means engineers like us can build cool things like this! 😎
+Our goal is to take advantage of all the features and functionalities each platform makes available, to make your experience of Monzo as simple and surprising as possible.
+
+If you have any mind-blowing ideas for more things we should be doing to make Monzo amazing, share them on our community forum. If you’re an Android engineer and want to help us put some of these ideas into practice, we’re hiring!

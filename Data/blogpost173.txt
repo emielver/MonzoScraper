@@ -1,0 +1,26 @@
+Title: What is FSCS protection?
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 22 Oct 2018
+
+
+The Financial Services Compensation Scheme (FSCS) is an independent fund set up by the government to help protect people’s money.
+The FSCS covers companies that have been authorised by the UK regulators, the Financial Conduct Authority (FCA) or the Prudential Regulation Authority (PRA). And because Monzo is a regulated bank, it means you’re protected.
+So if Monzo or any other bank or building society goes bust, you won’t be left out of pocket.
+How does it work?
+If a bank, building society or other financial services firm fails, the FSCS will protect up to £85,000 the money you have at each institution. That means you’ll get any money in your account back within a week if your bank goes out of business.
+Because of the way the £85,000 limit works, there are a few things you need to bear in mind:
+
+
+Don’t exceed the £85,000 limit: If the money in your current account is over the £85,000 limit for FSCS protection, you might want to spread your money across multiple accounts, to make sure it’s all protected.
+
+Some banks are linked: Remember that some banks (like HSBC and First Direct) share the same banking licence, which means the £85,000 limit applies to the money you have at both banks.
+
+Joint accounts are covered: The £85,000 limit applies to each person, not each account. So if you have a joint account with a partner, your money’s protected up to £85,000 each, or £170,000 altogether.
+
+There are also some exceptions to the £85,000 limit. If you have a big balance in your bank account temporarily because of a life event like inheriting money, being made redundant or selling your house, the FSCS will cover up to £1 million. Just remember that this extra cover only lasts for up to six months!
+Is Monzo covered?
+Yes! Because we’re a bank, Monzo accounts are covered by the FSCS. That means up to £85,000 of the money in your account is protected, if anything should ever happen to Monzo.
+You can find out more about how your money’s protected on the FSCS website.
+
+New to Monzo? Find out more about us on the blog, and head to the Simple Questions Thread on the community forum to ask us anything you like!

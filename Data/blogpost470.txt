@@ -1,0 +1,35 @@
+Title: Our Approach to Overdrafts
+Author: Paul Rippon
+Position: Deputy CEO, Monzo
+Date: 7 Sep 2016
+
+
+Looking around the Monzo team, I’m sure our personal bank accounts look a lot like many of yours. Below you can see what mine often looks like - I get paid at the end of the month; standing orders and direct debits go out a few days later; and then the cost of day-to-day living takes its toll in the final stretch. Suddenly I’m in overdraft city - sound familiar?
+
+
+
+We’re working on ways to help you avoid the sting of overdraft charges if you use Monzo, even with our current prepaid Beta card scheme. If you’ve seen the sneak peeks of upcoming work on our Community Forum, you’ll know that we’ll be launching more features to help with budgeting very soon, and there’s lots more we want to do after that.
+Overdrawn? Not me!
+Interested in how your spending compares to the UK average? A recent report from the Competition and Markets Authority found:
+
+The average salary is £1,765 per month after taxes
+The average balance when you’re in credit is £4,322
+The average balance when you’re overdrawn is £393
+38% of actual overdraft users don’t believe they go overdrawn
+
+Imagine that - nearly 4 out of 10 people who use an overdraft don’t believe they go overdrawn. Alarming, eh?
+This picture matters because traditional banks make over £9bn per year from current accounts - that’s about £130 from each of us - and £1.2bn of that comes from unauthorised overdraft charges.
+Managing Your Deposits
+So, what’s this got to do with Monzo? Well now we’re a bank, rather a lot.
+The defining feature of a bank is the ability to take deposits. We get to look after your money and that’s a big responsibility that we take very seriously. We also have to actually do something with those deposits and this is where Monzo is different to the traditional banks.
+Whereas other banks tend to lend out most of their deposits across a range of products like loans and mortgages, we will lend out only a small amount (less than 10% initially) and it will only be to Monzo overdraft users. This is how Monzo will make money over the next few years. Our business model is incredibly simple.
+The Challenges of Charging
+We initially formed Monzo because we wanted to build a bank that we would use, and that our friends and family would be proud to use. We never liked penalty fees because they are, by nature, disproportionate and unfair. So, unlike traditional banks which might charge you £25 for the ‘privilege’ of going over your overdraft limit, if you can’t pay one of your direct debits, we won’t issue a penalty charge.
+We do, however, plan to charge for using an overdraft. I’m spending a lot of time considering how this will work, and would love to hear your feedback. Here are two challenges we need to solve:
+
+How we work out what is the ‘right’ amount we are able to lend you
+What we charge for using an overdraft
+
+We don’t have answers to these questions… yet. We’re hiring a Head of Lending who will lead efforts to solve these (if you know one please send them my way!), but until then I’d love to hear your thoughts.
+I’ll leave you with this - the ‘average’ rate of overdraft interest charged by UK banks is about 20%. In other words, if you borrow £100 it will cost you about 5p per day. However, over the last few years many banks seem to have concluded that their customers don’t understand percentages, and so instead they charge 50p or £1 per day for going overdrawn. You do the maths! I reckon that’s more like 200-400% in terms of interest. And I thought payday lending was supposed to be expensive…
+Email me at [email protected] or add your comments below to let me know your feedback.

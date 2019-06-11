@@ -1,0 +1,60 @@
+Title: Celebrating Pride 🏳️‍🌈
+Author: Angus Preston
+Position: Financial Crime Specialist
+Date: 6 Jul 2018
+
+
+Earlier this year, a group of us decided we’d like to find a way to mark Pride Month. Tomorrow, 100 Monzo staff, our friends, partners, and a few people from our community will march through the city as part of Pride in London.
+I spoke to some of my LGBT+ colleagues to learn more about what they do at Monzo, what it’s like to work here, and why they’re coming to Pride this Saturday.
+
+
+
+Priscila Minks Zanuzzo, Product Tester
+
+
+
+Priscila works with our product teams to test the Android and iOS apps and make sure everything works as it’s meant to. Before joining Monzo, she used to test localisation in games!
+What’s the best part of your job? I love trying to predict scenarios that could cause a bad outcome for our customers, and getting them fixed before anyone actually experiences them.
+Can you tell me about your experience of being LGBT+ at work? If you ask me a handful of personal questions I’ll probably mention that I have a wife. I advertise it because I don’t have time for bigotry.
+Soon after I joined Monzo, our head of financial crime Tash got married, and we all took a moment to congratulate her during our weekly all-hands meeting. It was a celebration for a specific person, but it made me feel welcome here.
+Valerio Magliulo, Product Manager
+
+
+
+Valerio works in the Revenue team, creating new products that make it easy for you get on top of your finances, and that help us build Monzo into a sustainable business.
+What would you be doing if you didn’t work at Monzo? I’d be a politician in Italy or the presenter of my own cooking show.
+Can you tell me about your experience of being LGBT+ at work? I started my career in a very toxic, alpha male environment, where I wasn’t comfortable being gay and out. I went to work every day thinking that my sexuality would stop people from assessing my performance fairly.
+By contrast, Monzo is a place where we embrace and celebrate diversity. The only way we can build a product that works for everyone is by having an employee base that’s reflective of the wider population. I’ve always felt at ease with my sexuality here, and it’s never been something that defines me.
+What can companies do to make workplaces more inclusive? Change starts from the bottom, not with some top-down diversity policy that no one ever reads. That means building a diverse team, and hiring people that show traits of inclusiveness and respect for others.
+Natasha Vernier, Head of Financial Crime
+
+
+
+Leading our financial crime team, Tash’s job is to protect Monzo customers, and the company itself, from fraud and financial crime. She used to work in corporate finance, buying, selling, and raising money for companies.
+What would you be doing if you didn’t work at Monzo? I’d be living in a wooden cabin in the mountains in Switzerland, skiing in the winter and swimming in lakes in the summer.
+What’s the most valuable thing you’ve learned while you’ve been here? I came from a very traditional company, and wasn’t prepared for how things work in a fast-growing startup. I didn’t know how to think in the right way, to tackle problems from first principles and challenge everything to make sure we always find the best answer.
+Why are you going to London Pride? To celebrate the fact that I can walk down the street and hold hands with my wife.
+Wayne Tsai, Backend Engineer
+
+
+
+Wayne works in the Platform team, helping other teams run the code they write, and managing the infrastructure that the bank runs on. Day-to-day, he does everything from responding to incidents to improving our developer tooling.
+What are you working on at the moment? Right now I’m improving our integration pipeline, which is the workflow that starts with an engineer writing some code, and ends with that piece of code running on our physical infrastructure. It covers stuff like automated testing, service scheduling, deployments, and much more! We continually iterate on this workflow so our engineers can deploy faster and we can reduce the friction in writing correct and robust services.
+What were you doing before you joined Monzo? A friend and I built a small startup at university that helped gamers around the world follow live Dota 2 Esports. We were acquired and I joined the acquiring company as a full-stack engineer, and helped to operate some of the largest video-game statistics websites.
+Why are you going to Pride in London? Pride is instrumental in helping raise visibility and support of the LGBT+ community. And it’s also a time where I can express myself, without feeling too self-conscious. It’s a safe and welcoming environment, and it’s just a lot of fun! I’m normally a reserved person, so Pride becomes a time where I kinda loosen up a bit. It’s a great feeling being surrounded by people when you know you already have something in common.
+What can companies do to make their workplaces more inclusive? Before I applied for Monzo, I knew it would be a welcoming workplace because I read a blog post about the company’s approach to diversity and inclusion. It reassured me that I wouldn’t have to worry about what my colleagues might think if I came out. And I knew it wouldn’t be a workplace where saying, “that’s gay” or ,“don’t be a pussy” would be tolerated.
+I think companies need to have a public diversity policy, that shows any prospective candidate that they’re accepting of LGBT+ people. If you don’t, it’s difficult for us to know, and having to ask can often be an awkward process! A public policy is a simple way to answer that question, and commits you to supporting LGBT+ employees.
+Mikey Morton, Financial Crime Specialist
+
+
+
+Mikey works in our customer operations team, focussing on dealing with fraud and financial crime.
+What would you be doing if you didn’t work at Monzo? I’d be cooking in a kitchen somewhere hot. I have a dream of opening an osteria-type restaurant with a weekly changing menu, lots of organic wine, and some allotments out back.
+Tell me something unexpected. I hold a Nidan black belt in Karate.
+Why are you going to London Pride? For me it’s about celebration and visibility. As someone who struggled with their sexual identity into their early twenties, I’m acutely aware there are other people in a similar position now.
+Accepting and acknowledging my own identity was such a relief, and I want to celebrate both jumping that hurdle, and the identities of others. Being part of a physical, visible movement highlights that it’s more than okay to be exactly who you are.
+What can companies do to make workplaces more inclusive? Being open about your commitment to diversity and inclusion not only makes you an attractive employer, but also mitigates any concerns potential or existing employees could have about being “out” in the workplace.
+If the MI5 can be open about it (they’re listed as Stonewall Employer of the Year for 2016!) then all companies can.
+
+Earlier this week we explored the legacy and impact of Pride at a panel event with some of London’s most inspirational LGBT+ voices. Watch it back here, and find out what Pride means to our speakers.
+You can also find out more about what we’re doing to improve diversity and inclusion at Monzo here. And if you’re going to Pride in London tomorrow too, say hi!

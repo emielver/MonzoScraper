@@ -1,0 +1,18 @@
+Title: Set goals for your Pots!
+Author: Jami Welch
+Position: Product Manager
+Date: 2 Aug 2018
+
+
+A couple of weeks ago, we released Pots Goals into Monzo Labs to hear what you thought and find any bugs we missed in testing.
+You gave us lots of really useful feedback, and we’ve made some improvements as a result.
+Today, Pots Goals are graduating from Labs and are now available in everybody’s apps!
+
+
+
+How it works
+You can set goals for existing pots or add them to brand new ones. Just create a new pot or edit an existing one from the Account tab.
+We’ll show you the goal for each pot underneath the amount you’ve saved so far. And you can also track how you’re doing with a progress bar.
+Once you reach your goal, we’ll let you know so you can celebrate!
+Give us your feedback
+We’ll keep improving Pots Goals based on your feedback, so please let us know what you think on the community forum! And share which goals you successfully hit 🎉

@@ -1,0 +1,35 @@
+Title: Launching Monzo.me!
+Author: Tristan Thomas
+Position: Product Manager
+Date: 7 Dec 2016
+
+
+Collecting money from other people has always been a pain. Whether it’s dividing the bill after dinner, contributing to the pot for someone’s present or splitting household costs with friends, the rigmarole of giving out your sort code and account number often makes it easier to just use cash or even not bother.
+We’ve always wanted to fix this and today we’re releasing the first version of something that we think makes this whole process much, much easier. Introducing, Monzo.me on iOS 🎉 (read on below for Android specifics).
+
+
+
+Get your own personal Monzo.me link in the Request tab of the Contacts section and let anybody pay you using a debit card, Apple Pay or their existing Monzo account. You can use your generic URL (eg. mine is monzo.me/tristanthomas) and let people choose what they send you or customise it in-app with a specific amount and message, perfect for splitting a bill!
+
+
+
+People don’t need a Monzo account to pay you money, it’s totally free, both for you and anyone who pays you, and the money is transferred instantly to your Monzo account. If someone clicks on your link who already has a Monzo account, it’ll automatically open up their app pre-filled with the amount you requested.
+
+
+
+Please try it out and let us know what you think. We can’t wait to see what Monzo.me gets used for!
+Some specifics:
+Usernames
+As you know, we’re committed to being as transparent as possible and sharing new features as soon as we can so you can try them. This is very much version 1 of Monzo.me and for now, everyone gets an automatically generated username based on their name (even our CEO). Over the coming months, we’ll be working to improve Monzo.me across the board and will look to let you choose your own username. When that happens, we’ll find a way to do it fairly to ensure everyone gets a chance to grab their favourite username.
+Monzo.me on Android
+Yesterday, all Android users received an update that lets them send money to other Monzo users and see who else has an account 🎉 We’re also working on full Monzo.me support for Android so you can generate and customise your link. In the meantime, we’ve outlined a clever way you can find your own Monzo.me page on our forum 😉
+Limits
+There are a few limits on Monzo.me to help protect against fraudulent activity that we want to ensure you’re aware of. These will also be available in-app in your Profile very soon so you can check on whether you’re near to them.
+
+Maximum payment through Monzo.me: £100
+Minimum payment: £1
+£1000 incoming Monzo.me payments per 30 day rolling period
+One debit card cannot send more than £500 per 30 day rolling period
+
+Other improvements
+Of course, we didn’t want to just put one thing in this update. Golden tickets now automatically refresh so if you send yours to someone else and they use it, we’ll send you a new one to invite someone else. We also fixed a bunch of pesky bugs and implemented a beautiful new animation when you freeze your account. Check it out!

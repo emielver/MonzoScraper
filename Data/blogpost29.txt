@@ -1,0 +1,68 @@
+Title: Writing customer-friendly terms and conditions
+Author: Harry Ashbridge
+Position: Writer
+Date: 3 May 2019
+
+
+Clear, fair and not misleading.
+That’s the FCA’s (the Financial Conduct Authority, the body who regulate financial services companies in the UK) criteria for banks’ communications. And over the last few years, banks have certainly moved in the right direction.
+But one crucial area of communication seems stuck in the dark ages – terms and conditions. It’s become an accepted part of life that people don’t read Ts&Cs*. They’re something you scroll through on your way to tapping ‘Accept’, even when you’re signing up for something with potentially serious financial implications.
+That’s not surprising: on average, standard big bank Ts&Cs come in at around 20,000 words (based on our analysis of 5 big bank Ts&Cs on 3 May 2018). Back in 2016, the FCA said:
+One fundamental barrier to improving T&Cs is the over-disclosure approach adopted by firms as a mechanism to mitigate perceived risk of litigation.
+Essentially, banks write a lot to cover themselves, not to help customers.
+
+
+
+But beyond the sheer amount you’re given to read, there’s also the problem of how tricky it is to understand. Terms and conditions are notoriously complicated, with long sentences, convoluted language and LOTS OF RANDOM CAPITAL LETTERS FOR NO APPARENT REASON.
+All of that contributes to a lack of understanding about financial services, a lack of trust in financial institutions and an overall sense of anxiety about money in general.
+We’ve made a serious effort to make our Ts&Cs different. Right now, they clock in at around 1,400 words and are considerably easier to read than those of any other bank in the UK.
+Obviously we’re delighted to be ahead of the competition, but it’s more important to us that people get a fair deal. So we’re sharing some tips here which we hope other companies will find useful in making their own Ts&Cs more customer-friendly.
+*It’s Ts&Cs, rather than T&Cs, because both the terms and the conditions are plural. So, to be consistent, it should be either Ts&Cs, or T&C. We prefer the former.
+The easy changes
+1. Swap the formal words for normal ones
+So much of the length and complexity of Ts&Cs is down to unnecessarily formal language. For example, why say:
+In order to provide you with the previously mentioned services it is necessary that some data collection is carried out by the bank.
+When you could say:
+To give you these services we need to collect some data.
+The meaning here is identical, but the latter version is half the length and much easier to understand. Taking that same approach across all your Ts&Cs will make a big difference even if you don’t take out any of the content.
+2. Use more verbs and fewer nouns
+When we speak, we naturally use a lot of verbs. But the odd formality of business writing makes us abandon them in favour of nouns.
+Remember: a noun is a naming word (like management or production), and a verb is a doing word (like manage or produce). There will often be noun and verb versions of the same word, and using the verb version will make you more concise and easier to understand.
+Watch out for that, and you’ll definitely cut down your terms, as well as making them sound more natural and less intimidating to customers. Here are a few examples:
+Before, with the noun:
+We do this for fraud prevention reasons…
+After, with the verb:
+We do this to prevent fraud…
+Before, with the noun:
+We conduct analysis of data…
+After, with the verb:
+We analyse data…
+Before, with the noun:
+To make a payment with your card…
+After, with the verb:
+To pay with your card…
+3. Avoid the dreaded passive voice
+There’s a fuller explanation of the passive voice in part 5 of our tone of voice guidelines. But in brief, the passive voice is when you don’t say who’s responsible for something. For example:
+Passive:
+A refund will be given to you.
+Active:
+We’ll give you a refund.
+Writing in the passive voice will often make your sentences longer. But more importantly, it doesn’t give readers the information they need. To be clear, fair and not misleading, it’s only right that we’re as open as we can be, and that means being straightforward and saying who’s responsible each step of the way.
+4. Stop the numbering and random capital letters
+Legal documents like Ts&Cs will often be numbered. That’s to help navigate through to relevant clauses if someone needs to refer to a particular point. It’s easier to skim through and find clause 11.3.2, rather than page 13, paragraph 8, lines 4-7.
+But Ts&Cs will often number every single line of text, which just makes things very messy. It also gives the impression the document has been designed with future court cases in mind, rather than being easy for customers to understand. By all means give each new section of terms a number, but try to keep them at a minimum.
+Another common theme in Ts&Cs is sections written in block capital letters. There’s no legal reason for that, and all it does is make it seem like you’re shouting. Sentence case works just fine!
+The hard part
+5. It’s all about culture
+Our 1,400 words Ts&Cs didn’t happen in isolation. They’re the result of collaboration between writers, lawyers, compliance people, engineers and product teams. If you want to make your terms easier for customers there are simple linguistic things you can do (which we’ve spoken about above), but to have a really big impact you need a genuine culture of care for customers.
+Our approach is not to say “let’s include another paragraph to cover us in case this goes wrong”, it’s to build the app so that thing (hopefully) can’t go wrong in the first place. We also try as much as possible to explain in context what’s happening so we don’t need to repeat it later on in our Ts&Cs. Our Chief Legal Officer Dean has written before about the way we design Monzo to be intuitive to use, so we don’t need reams of Ts&Cs to explain how it works.
+All of that comes from our focus on what’s best for customers. It would be much easier to just write longer terms, but that’s not how we do things.
+There’s a natural healthy tension between protecting yourself as a business and making things easier for your customers. But, as the FCA pointed out, companies tend to lean too far towards the former. So if you’re planning to work on your Ts&Cs, think about:
+
+which other people you need to buy in to the plan, in particular legal, compliance and regulatory teams
+where else in your product experience you can shift some of the information that’s in your terms now.
+
+That’s tougher, longer-term work. It takes more than just sitting down and rewriting an existing document – it takes a mindset shift on the part of the teams involved.
+But if you really want to improve things for customers, it’s the most useful work you can do.
+
+We hope these tips are helpful, and we’d love to hear from anyone who’s taken them on and made a difference to their Ts&Cs. Please get in touch with any thoughts or comments!

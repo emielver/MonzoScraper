@@ -1,0 +1,47 @@
+Title: Try out joint accounts in Monzo Labs!
+Author: Jordan Fish
+Position: Product Manager
+Date: 13 Jul 2018
+
+
+We’re now over halfway through the ‘Big List’ - a list of features our customers told us they needed before they’d switch to Monzo. One of the most exciting remaining features on that list is joint accounts. And today, we’re excited to say that you can try them out for yourself!
+Quick progress update
+We’ve been working on joint accounts since the end of April.
+
+We started testing with a few staff internally.  Then we asked for small groups of users on Android and iOS. And we recently added another group of users who’d shown interest in Joint Accounts by ‘liking’ the feature through the Sneak Peeks feature in the app.
+And now we’re excited to say that anyone who wants to try it can do so in Monzo Labs - our place in the app where you can try out new features before they’re released, and give us your feedback.
+We launched joint accounts into Labs at a special event at our office last night, which you can watch back here.
+Get started
+
+Head to your Account tab
+Tap your name at the top of the screen
+Scroll down and tap Monzo Labs
+
+Switch on the toggle next to Joint Accounts
+
+Head back to your main feed and tap on the item about joint accounts
+Follow the steps to get started with a joint account
+
+The person you invite to create a joint account will need to have a Monzo account too. If they don’t already have one, ask them to set it up before you invite them.
+They won’t need to turn on joint accounts in Monzo Labs, we’ll do that automatically after you invite them.
+Once you’ve both set up your joint account, you won’t be able to use the toggle in Labs to ‘turn off’ your joint account.
+What you’ll get with joint accounts in Monzo Labs
+You can do most things with joint accounts that you can do with your main account.
+But we’re still working on these:
+
+The Current Account Switch Service
+Shared Pots
+Adding money to your account before the card arrives
+Overdrafts
+
+You can’t add money to a joint account by topping up with another debit card, and we don’t plan to support that feature. The best way to add money to your joint account is by making a bank transfer or setting up a regular standing order instead!
+As with anything in Monzo Labs, this is a work in progress. It’ll be a little rough around the edges and can’t guarantee it’ll be a 100% smooth experience. But your feedback will help make it great before we finally bring it to everyone!
+
+
+
+A note on cards
+Our new-look cards for joint accounts are still in production. So the card you get will still look like your old one. Some beta testers have got around this with stickers or marker pens - so it’s a good opportunity to get creative!
+We expect the new card designs to be ready in a few weeks. When this happens, we’ll let you know in the app and you can order replacements.
+Give us your feedback!
+We want to hear what you think about our joint accounts. The good, the bad, and even the ugly. So let us know through the in-app chat, or in this dedicated thread on our forum.
+We’re really excited to bring another feature to Labs. And we can’t wait to see joint accounts in the hands of even more Monzo customers. Thanks for helping us make them the best they can be!

@@ -1,0 +1,58 @@
+Title: Monzo Monthly Update: January
+Author: Sheri Farsani
+Position: Product Marketing Manager
+Date: 9 Jan 2019
+
+
+New year, new features. Here’s what we’ve been up to recently!
+Done in December
+We improved Pots (a lot!)
+You can now lock your Pots. It can be tempting to dip into your savings, so to help you stick to your savings goals you can now lock your Pots until a date you choose. You’ll have to get in touch with us if you’d like to take your money out before then.
+
+
+
+Read more about locking Pots here.
+Pots are now available on Joint Accounts. You can now use Pots with joint accounts, so you can set aside, save and manage	your money together.
+
+
+
+See how you can set yours up, and learn more about our future plans for joint accounts here.
+Savings Pots are now available to everyone. In November, we announced that we’d teamed up with Investec to bring you 1% interest on your savings. We’ve finished rolling these out, so everyone can start getting more out of their money.
+
+
+
+Many of you had asked for savings accounts, so we’re glad to have launched our first integration with a savings partner. Our aim is for this to be the first of many, with different options and account types in future, so stay tuned!
+We launched Shared Tabs, to help you keep track of shared expenses
+Forgetful flatmates? Big group trip? We’ve launched Shared Tabs, making it easy and painless to keep track of what everyone owes.
+
+
+
+You can create a Shared Tab in your Monzo app, with as many people as you like. You and anyone else on the Shared Tab will be able to add in things paid for with Monzo, as well as things paid for outside of Monzo. We’ll keep a running tally of what you’re owed (and what you owe!).
+Settling up is easy too, and you can do it whenever you like. See our blog post about Shared Tabs here.
+Coming soon
+We’ll show you tomorrow’s scheduled payments
+Last year, we started showing you upcoming payments (like Direct Debits and salaries) the day before they come out. We heard from many of you that you’d like to see upcoming scheduled payments too, to include rent or service charge payments. So, that’s exactly what we’ll do 🎉
+
+
+
+We’ll make it quicker to move your joint account to Monzo
+You’ll soon be able to switch your joint account to Monzo using the Current Account Switching Scheme. This means any payments and balances on your existing account will be automatically moved across to Monzo, within 7 working days. Learn more about how account switching works here.
+We’re making it easier to pay anyone from your Monzo account
+If you need to pay someone who’s not on Monzo, you’ll soon be able to do this by sending them a simple link. No sort codes or account numbers needed.
+
+
+
+We’ve started testing this in Monzo Labs, and based on your feedback, we’ll make improvements to the feature before rolling it out to everyone, starting later this month.
+(Monzo Labs is where all of our new features go to be tested by our community. If you’d like to be first to test out new features, check out Monzo Labs in your app.)
+
+
+See the other features on our radar for the next few months, and keep track of the ones you're most interested in with the Making Monzo roadmap:
+
+
+     View the in-app roadmap
+       
+
+Or check it out online here!
+
+
+

@@ -1,0 +1,25 @@
+Title: Move money out of Pots automatically!
+Author: Jami Welch
+Position: Product Manager
+Date: 23 Aug 2018
+
+
+Pots are a simple way to set money aside, within your Monzo account. Last month we let you schedule payments into Pots, so you can add money automatically on a regular basis.
+Today, we’re adding the ability to schedule withdrawals out of pots, so you can move money back into your main account automatically too!
+Make managing your money easier
+You could try setting money aside for all your bills by scheduling payments into a Pot. On the date you need to pay them, schedule the money back into your account so it’s there when the Direct Debit’s taken!
+If you’re a student, you could try putting your loan into a Pot when you get it, then giving yourself a regular allowance by scheduling payments back into your main balance.
+Or, if you want to make sure you have enough money set aside for regular costs like travel, you could move the money you need for the month into a Pot, then automatically withdraw the cost of your fare every day.
+Get started
+Setting up scheduled payments out of Pots is simple!
+
+Go to withdraw money from one of your Pots as usual
+Tap ‘Set scheduled payment’ at the bottom of the screen
+Set an amount, start date, when it should repeat, and when it should stop
+Tap ‘Schedule’
+You’ll see the scheduled withdrawal in your scheduled payments screen (as a credit)
+You can still move money in and out of the Pot like normal, and can cancel the scheduled payment whenever you want
+
+Share your feedback
+We hope you find it useful! Tell us how you’ve been scheduling payments in and out of Pots and share your tips with the community.
+Or find out more about how you can use Monzo to automate your finances 😃

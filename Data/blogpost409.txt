@@ -1,0 +1,23 @@
+Title: An update on our API
+Author: Jonas Huckestein
+Position: CTO & Co-Founder
+Date: 11 May 2017
+
+
+We hosted our first hackathon all the way back in September 2015 and then followed up with three after that, culminating in #monzohack IV in April last year at Makers Academy. These were incredible weekends in which we got to see the power of open banking APIs and build some amazing projects that could really help people everyday, as well as meet the core of our amazing community. That community has continued to grow rapidly — there are now more than 2000 people on our busy developers Slack channel and nearly 100 personal projects integrating with the API. We can’t thank everyone who has been involved enough.
+Transparency goes both ways, even when things don’t go as planned. In the spirit of that, we wanted to give an honest and public update on our API plans.  A startup’s most valuable resource is time and this year our focus is to launch current accounts to our 190,000+ customers. As a result, it is unlikely that we will be able to spend a lot of time on our public API work this year. This doesn’t mean the existing API is going away — you can still use it for everything you have been up to now, but we are not going to expand the scope of the APIs or allow developers to publish their applications, yet.
+I would also like to take the opportunity to explain why we are not yet allowing developers to build public applications on top of our existing API. There are three reasons for this:
+
+
+We will make backwards-incompatible changes to the API. Our initial prototype was full of leaky abstractions that don’t work well for current accounts. To give you an example, a model in which each transaction happens at exactly one point in time and has exactly one balance associated with it is not helpful. In reality, it is possible to receive transactions today that were meant to be inserted into the ledger last week. In many payment schemes, such as Mastercard, “transactions” are comprised of multiple individual messages from the scheme, which can result in the amount changing even after the transaction was first inserted.
+
+
+We don’t want other companies to rely on a product we cannot afford to support. In the early days of our API we had other startups include their “Monzo integration” in their investor pitches. Whilst we were very flattered by this commitment and share these companies’ visions, it ended up being stressful for everyone. We didn’t want to let down  our partners, but equally, we didn’t want to treat our API as a critical component of our system, yet.
+
+
+PSD2 is coming next year and is likely to hugely change how banking APIs can be used. We don’t want someone to build something amazing on our API to then have to be shut down because it doesn’t comply with the regulations.
+
+
+All of this means that it’s unlikely we’ll have a full featured public API for at least the first few months after we launch current accounts. The functionality we already have may well remain (this has not been decided yet), but we do not plan to add further functionality, such as payments, or the ability to publish your OAuth client before the end of the year.
+Long term, absolutely nothing has changed. We are still fully committed to our long-term strategy of building a banking platform that developers can easily integrate with. At some point next year, we hope to launch a public bank API and developer tools we’re truly proud of.
+We’re constantly hiring, so if you’d like to help accelerate our API plans, please come and work with us.

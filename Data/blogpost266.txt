@@ -1,0 +1,38 @@
+Title: What is Open Banking?
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 14 Jun 2018
+
+
+
+
+
+January 2018 saw the arrival of Open Banking, new rules that require the big banks to allow their customers to share their own transaction data with third parties.
+It’s been lauded by some as the start of a new revolution in banking, while others have warned about potential dangers of sharing data. According to a survey by Which?, last year 92% of people had never even heard of it! So what is Open Banking? How does it work? And what impact might it make on the way we use and manage our money?
+Open Banking
+The goal of Open Banking regulations is to transfer ownership of account information from the banks, to the customer. It lets people securely share their own transaction data with other banks and third parties.
+So what?
+We’re seeing more and more new companies emerging, with smart ideas to help make managing money easier. But, to provide these clever services, those companies need access to your transaction data. They have to see and understand what you’re spending, to build these useful things on top.
+Say you want to use Emma to help you save money, or view multiple bank accounts in one app through Yolt. By signing up to use their apps and explicitly agreeing, you can choose to give these companies access to particular transaction data from your bank accounts. In turn, they’ll let you access a useful new service, that your existing bank might not yet offer.
+How does it work? And is it safe?
+Under the Open Banking regulations, sharing your transaction information with third party companies will be made possible through APIs.
+Short for application programming interface, APIs make it possible for the software at one company to access information from the software at another company. When you order an Uber, the Google Maps API helps you track your car’s progress towards the pickup point. When you browse Airbnbs, the same API lets you see the location of each apartment on a map.
+So far the nine biggest UK banks have been asked to make an API available to authorised third parties. To use bank APIs, these companies have to be authorised by the UK regulator as Account Information Service Providers (AISPs). To do that, they’ll need to prove they will comply with regulations by keeping your account information safe and secure, and only use their access to provide the service that you’ve asked for.
+Without these APIs, if you want to share the data in your bank account with another company, you have to actually give them your login details. These new APIs will allow you to share the data in your bank account safely and securely, without having to hand over your password.
+When you first set up a Monzo account and whenever you log in afterwards, we verify that it’s really you by sending a magic link to your email, rather than asking you to remember a password. Because we don’t use passwords, secure APIs are the only way our customers will be able to share their data with these third parties.
+What’s it for?
+By requiring banks to make this information accessible, these changes will let fintech companies and challenger banks build a some really useful things. But, they also stand to totally transform the UK banking industry, and the way we use and manage our money every day.
+At the moment, we tend to choose our banks for relatively arbitrary reasons, then stay with them for years. According to the Competition and Markets Authority (CMA), only 3% of people switch to a different bank each year. It’s inconvenient, admin-heavy, and we don’t have any real incentive, beyond the offer of a hundred quid or a free Railcard.
+As a result, banks don’t see a reason to deliver better products or lower prices, which in the end means that the customer loses out.
+By making it easier for challengers to enter the market, grow and thrive, Open Banking is designed to increase competition within the industry, which for so long has been dominated by just a few big names.
+What does it mean for Monzo?
+If they work as intended, these rules could help challengers like Monzo make our products more useful, give consumers greater choice, and encourage the big banks to do better.
+At the moment, only the nine largest banks are required to implement the Open Banking API. We expect that a common API will be introduced, that all banks (from high street giants to challengers like Monzo) will be required to adopt by law. That API is being designed by the group tasked with implementing Open Banking, and we expect it to arrive later this year.
+Because we’re excited about the possibilities, we’ve already made an API available to companies authorised as Account Information Service Providers (AISPs).This means that companies who have been authorised by the FCA will be able to integrate with our API and safely access the Monzo transaction data of customers who choose to use their apps.
+What does the future look like?
+At Monzo, our goal is to give you access to your pick of the best products and services that the market has to offer, whilst helping you manage all of your finances from one single place.
+This doesn’t depend on Open Banking, or on the big banks opening up their APIs. But the new regulations could stand to help us build a product that’s more useful to our customers. Imagine being able to view and manage your savings account with Barclays, alongside your Nutmeg investment portfolio and the day-to-day transactions you make using Monzo – all from the Monzo app.
+You’d have all the benefits of using the best products around, with the same convenience of managing everything from one single place. You can find out more about our grand plans for the future on the blog.
+And for more recommended reading, check out this useful guide in WIRED, and this analysis from The Telegraph.
+
+We hope you found this useful! We’ll be answering more common questions about managing your money. Tell us what you think on Twitter or let us know what else you’d like us to cover on the community forum 📣

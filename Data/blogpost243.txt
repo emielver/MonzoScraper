@@ -1,0 +1,51 @@
+Title: How we’ll work towards our quarterly goals
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 11 Jul 2018
+
+
+
+
+
+Yesterday we shared our goals for the quarter ahead. We want to be totally transparent, help you understand what we’re doing, and hold ourselves accountable to you.
+They’re the goals we set as a company, and define the direction we’re going over the next three months. They give a good sense of what we’re aiming for, but it isn’t easy to see how we use these goals in practice, to make decisions and define what we do day-to-day.
+Teams set and work towards their own goals
+We work in teams that are each focussed on a feature, project or area of the business, whether that’s marketing, risk and compliance, or customer support. So although we set goals as a company, each team sets its own goals and spends the quarter working to achieve them.
+Company goals are designed to give us a clear direction, without being too detailed. Team goals, by contrast, are usually more specific. Each team uses their own goals as a practical guide that shapes their work for the upcoming quarter.
+Achieving our company goals is a company-wide effort
+Of course achieving these goals isn’t something we do on our own. Teams across the company work together towards them, and the work each team does either supports or contributes to our company goals. To borrow a metaphor from our co-founder Jonas, think of the company as a rocket ship.
+Some teams are the fuel that propels us forward. By building amazing new product features or helping us bring Monzo to more and more people, teams like Revenue, Product and Marketing bring us closer to our destination.
+Other teams make sure that as we advance, the ship still stays intact. Whether that’s by making sure we can process more and more payments, or support a growing number of customers, our Payments, Platform and Customer Operations teams make sure nothing breaks on our way.
+Sharing our teams’ quarterly goals
+To show you how we use our company goals in practice, we asked a few teams to share their own goals for the quarter. They explain how they’ll impact our company goals, and the work they’ll be doing to achieve them.
+If you missed them yesterday, it might be useful to read our company goals for the quarter first!
+Product
+
+
+
+Our mission is to make money work for everyone, which means bringing Monzo to as many people as we can. More than 750,000 people are already using Monzo, and around 60,000 open new accounts each month. But we want to be growing twice as quickly by the end of the quarter!
+We’ll do that by making sure everyone that installs Monzo can understand and engage with our features from the start, with better education and onboarding in the app. We’ll also explore how we can reduce the time you have to wait between signing up for Monzo and being able to use your account, so you can get started much faster.
+Now that there’s no more waiting list, you don’t really need a golden ticket to help you skip the queue. So we need to build a better way to help you spread the word! This quarter we want to develop a new referral programme so you can share Monzo with more of your friends.
+And speaking of friends, we’ll also be adding product features that make Monzo better when you use it together. We already let you split the bill and pay people near you, but we’ll find other ways to help you use your money in the social way you live your lives.
+Our other company goal is to making Monzo the best bank account to use as your main account. So over the next few weeks we’ll be working our way through the rest of The Big List, adding all the basic but essential features you really need from your bank.
+We’ll also work on useful features that support you if you pay your bills and do most of your spending through Monzo. We already help you budget, keep track of regular payments, and tell you when a regular bill changes, and we’ll build on these existing features so it makes sense to manage most of your money through Monzo.
+Revenue
+
+
+
+When we think about how we can grow our revenue as a company, the best place to start is with our customers’ problems. By finding out your needs and building features that meet them, our goal is to show that we can make enough revenue per user each year to cover the costs of running an account. For context, our latest annual report showed we’ve reduced the cost to run a full account to about £15 today.
+To do that we’ll make our transparent overdraft available to more people, and make sure it gives them complete control. We’ll also improve our understanding of how and why people borrow money. You’ve already told us that you borrow money to pay for big, one-off purchases like holidays or unexpected expenses like home repairs. So we’re going to start by making that as stress-free as we can.
+We also want to help you make the most of your money. Whether that’s earning a return on your savings, or investing any extra cash you have at the end of the month, we’ll start to explore how we can let you save and invest your money through Monzo.
+We’ll also work with Product to make sure Monzo is the best place to pay your bills, manage your money, and get visibility into your finances elsewhere.
+As we do this, we’ll remember that being someone’s main account means different things for different people, and everyone has different needs. For many it means getting your salary paid in, but if you’re a student or you’re on benefits, it means something slightly different.
+Customer Operations and Scalers
+
+
+
+Our Customer Operations team is made up of the people who help answer your questions and solve your problems every day through in-app chat. The Scalers team supports them, to make sure they’re able to keep giving our customers world-class customer service as we scale.
+Our goal this quarter is to make sure urgent customer questions are answered in five minutes, while maintaining a Net Promoter Score (NPS) of +75 or more (the average across UK banks last year was just +4!)
+We want to make sure that as more and more people start using Monzo, we don’t have to grow our customer support team at the same rate. We’ve already made some significant progress, and we’ll continue doing that in two ways.
+We’ll work to increase the productivity of our customer support team, so that on average, each member of staff is able to serve 10 customers per hour. By building better internal tools, we’ll help them work more efficiently. We’ll also decrease the number of queries they need to handle in the first place, by improving our Help screen so you can find your own answers faster – all while making sure we’re providing the fast, friendly support you expect.
+
+Want to know more about our Q3 goals? Watch the latest community Q+A with our CEO Tom, sharing his thoughts on the motivations behind these goals and how they’ll impact what well be focussing on for the next three months.
+If you have thoughts, questions or ideas, please share them with us in the community! You can see our quarterly goals and find out more about why we’ve decided to make them public in this blog post.

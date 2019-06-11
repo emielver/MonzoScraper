@@ -1,0 +1,14 @@
+Title: New Monzo Update: Identity Verification on Android
+Author: Tristan Thomas
+Position: Product Manager
+Date: 10 Oct 2016
+
+
+Just over a week ago, we released Monzo on Android to the world and the response has been incredible. In just 6 working days, we’ve sent out more than 6000 cards across the UK and continue to send out hundreds more every day! Thank you to everyone who has signed up, given us feedback and rated us highly on the Play Store 😍
+As promised, we’re keeping up the pace of releases and today we’re releasing version 1.1, featuring our new built-in identity verification flow and a bunch of bug fixes. If you don’t pass our automated ID checks when you sign up, your spending and top up limits will be lower (you can see all limits on our Terms page here) and you won’t be able to withdraw cash from an ATM abroad. To help you get verified, we might send you a feed item through which you can securely submit your ID documents and a video of yourself in less than a minute, wherever you are. If you’re not sure whether you’re on the higher limits, feel free to get in touch with us through the in-app chat and we can check for you!
+
+
+The identity verification process
+
+This update also ensures declined transactions don’t get counted in your transaction histories, speeds up the loading of transactions without a map so you don’t see a ‘flash’ and fixes the display of transactions in currencies without minor units (like Yen), as well as various fixes for crashes we received reports of.
+Thanks for all of the downloads and feedback so far — please keep it coming!

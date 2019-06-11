@@ -1,0 +1,21 @@
+Title: Monzo with Friends: New Monzo iOS Update
+Author: Tristan Thomas
+Position: Product Manager
+Date: 14 Nov 2016
+
+
+More than 70,000 people now have Monzo cards and we’re sending out hundreds every day. It’s becoming more and more likely that someone you know is on Monzo but until now, there hasn’t been an easy way of knowing. In the Monzo offices, we use in-app payments all the time to send money to each other for lunch, drinks and to split bills and we wanted to make it even easier for everyone else to do the same.
+
+
+
+Today, we’re releasing an update to the Monzo iOS app that makes payments on Monzo easier, quicker and better. Once you’ve enabled payments in the new Contacts tab, you can instantly see which of your friends already use Monzo and invite those who don’t to join and get a card. Friends won’t appear as being on Monzo until they’ve enabled payments themselves.
+As more of your contacts join Monzo and enable payments, you’ll also be subtly notified within the Contacts tab so you can start sending them money (and soon, request money from them…)
+Additionally, we’ve worked hard to make this feature private and avoid sending any personally identifiable information about your contacts to our servers until the moment you send them money. We’ve written a short outline of how we do this in the forum here and we’d love to hear your thoughts!
+We’ll be bringing payments to Android very soon too so that all of your friends can get access to these slick new features and share money with you.
+Magstripe ATM withdrawal support
+In the UK, almost all ATMs use chip and PIN to validate your identity when you try to withdraw money. However, that’s not always the case elsewhere around the globe and in many countries, ATMs use the magnetic stripe on the back of your card to dispense cash. Up to now, we’ve disabled magstripe ATM withdrawals to protect against the increased fraud risk that these ATMs bring but from today, it is now possible to temporarily turn on magstripe ATM withdrawals for 24 hours. You can access the setting from your Profile or from a transaction that’s been declined by a magstripe ATM.
+Bug fixes and other improvements
+Among the plethora of bug fixes in this release, we hope we’ve tracked down the last of some nasty logout bugs we received reports of. Please let us know if you get logged out unexpectedly after installing this update!
+We’re also testing allowing new users to top up with less than £100 to activate their card. If you’re interested in reading more about this, check out this community forum post.
+Finally, don’t like the instant notifications when you make a purchase? We find them reassuring but recognise that not everyone feels the same way, so you can now turn off notifications from your Profile screen. Once you flick the switch, you won’t get any notifications from us about successful purchases, declined purchases or new feed items.
+We’d love to hear what you think about this version! Twitter and the forum are all open, accessible and waiting to hear from you 😄

@@ -1,0 +1,35 @@
+Title: Meet Emma: Android Engineer
+Author: Zainab Khan
+Position: Community Manager
+Date: 9 Mar 2017
+
+
+
+
+
+ Emma hit the ground running in her role as Android Engineer as her first few weeks at Monzo coincided with the launch of our first Android app! Since then she’s been working hard to make the Android app everything we promised it would be, introducing Settings and payment functionality over the last couple of months. 
+
+Tell us about what you do here?
+I’m an Android Engineer. Day to day this usually means building new features or fixing bugs in our Android app.
+What first attracted you to the world of Android?
+At 15, I remember hearing from my brother about how one of his friends had built a tool that would click the adverts on his own website and generate revenue - my mind was blown, I thought this was the coolest thing ever! I was quite into PC gaming and was pretty tech savvy so spent a lot of time behind a computer already. It felt natural to pick up Computing in my final year of school.
+Even though I mostly had no idea what I was doing, I loved it! After school, I continued on and decided to study Computer Science at university to actually learn to code. There’s so much satisfaction in the process for me. It comes down to needing to figure out how best to solve a problem given some constraints — everything is a mini challenge. For me, that’s awesome.
+On a day-to-day basis, who do you work with and how does a regular day look?
+I work with Ivan, Kavi and Tristan most closely - we form part of the Product team (along with Ole, the iOS team and some Backend Engineers). We have daily stand-ups to update the others on what we’re working on, and whether or not we need help with it. We have an Android team meeting each week deciding what we’re going to work on over the next week, and how we’re going to release what we do to our lovely users.
+Our process is Kanban-esque, with a backlog of cards in Trello which are prioritised, and between Ivan, Kavi and I we pick the highest priority from the column and get stuck in. If it’s a particularly complex piece of work, we might have a technical chat about how best to implement it so there are no surprises when it comes to code review.
+What are you most proud of?
+Seeing the Android app go 1.0! It was released about 3 weeks after I joined which was incredibly exciting. We pushed it live, sat back and watched the analytics as people started going through sign up to get a card! It was really satisfying and went very well - no major issues at all. Seeing 4000 cards stacked up ready to be posted out the next day was amazing!
+What have you learned in your time here?
+My previous Android experience has been at agencies, so it’s been really interesting working on a product and codebase that are with me for the long term. It’s much more fulfilling to have some ownership over something you’re creating, and I really like that I can input my ideas on what we should build next, or how it should work. I’ve also been helping out with interviewing Backend Engineers - hiring can be really hard, but I’ve definitely learnt new things from both interviewees and other interviewers!
+What are you most excited about in the coming months?
+I’m really excited for current accounts, and generally the future of the app. We’re still somewhat behind the iOS app (they did start over a year before us!) but working very hard to catch up with as many features as we can before starting work on supporting current accounts. I’m determined that in the future, our apps should add features together - it’s better for everyone that way.
+If you weren’t at Monzo, what would you be doing?
+I think I’d be some other kind of engineer - perhaps a civil engineer building bridges. Or an architect. I really, really love Grand Designs.
+3 words to describe Monzo
+Fun, Focused, Busy
+Weekend Hobby:
+I enjoy watching TV series (sci-fi is always a winner, though the general rule is: if it’s good I’ll watch it), movies, gaming and eating tasty things.
+Unexpected Fact:
+I hate/fear jellyfish.
+Links:
+Twitter: @emmaguy and Github

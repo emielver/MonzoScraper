@@ -1,0 +1,75 @@
+Title: Monzo Monthly Update: June
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 4 Jun 2018
+
+
+May saw us ship version 2.0 of the Monzo apps and launch our most long-awaited feature.
+We also published a big list of things we want to do to make Monzo better, and we’ve begun burning through it already! We’ll continue to share monthly updates to track our progress through the list and share what else we’ve been up to.
+Here’s what we did in May, and what we’ll be working on in June.
+Done in May
+We launched Apple Pay! 🍏
+It was a long time coming, but we’re happy to say it’s finally here: you can now use your Monzo card with Apple Pay!
+
+
+
+We brought Summary to everyone! 🔄
+We’ve redesigned the way we show you your spending to give you better control of your budget. Summary lets you start your monthly budget on the day that you get paid, add targets for each category and see how much you have left to spend as the month progresses.
+You can even exclude certain payments so large, one-off transactions don’t skew your budget for the month.
+
+
+
+We let you pay people nearby 👯
+If you need to pay someone back, you no longer need their phone number. Just go to the Payments tab in your app and open Nearby Friends.
+You’ll see anyone else that uses Monzo near you, and be able to pay them in just a couple of taps.
+Find out how it works on the blog.
+
+
+
+We added some new categories 🏠
+We made some updates to the way we categorise your spending, adding two new categories: ‘Family’ and ‘Personal Care’, and changing ‘Cash’ to ‘Finances,’ so you can see your savings, transfers and investments in one place.
+Our Head of Design Hugo also explained the reasoning behind our current system in a detailed post on the community forum.
+
+
+
+We gave you more control over payments 📝
+To help you better organise your payments, we added the ability to delete people you’ve previously paid.
+We brought our roadmap to the app 👀
+As more people start using Monzo, we want to make sure everyone can get involved with what we’re doing. So this month we launched Sneak Peeks: a new way for you to stay in the loop with what we’re working on, from within the Monzo app.
+It shows you what’s coming up soon, what we’re working on right now, and a recap of what we’ve done recently. Just head to the Help tab in your app to see the latest Sneak Peeks!
+It’s only available on iOS at the moment, but we’ll be bringing it to Android soon.
+
+
+
+And we removed the waiting list! 🎉
+There’s no longer a waiting list to join Monzo! So people can sign up to Monzo straight away.
+We’ll still give out golden tickets, so you can invite friends and help them get started even faster. And we’ll be improving them over the coming months to give you other good reasons to use them.
+To come in June
+This month we’ll keep working our way through the big list! Follow @MakingMonzo for live updates, and we’ll tick things off our original list once they’re done.
+This is what we hope to have finished in the next four weeks.
+Bringing travel reports to Android ✈️
+When you get back from a trip we’ll send you a helpful report summarising what you spent while you were away.
+These are already available on iOS, but we’ll be bringing them to Android this month, just in time for your summer holidays!
+Helping Android users pay with their fingerprint 👆
+Rather than entering your PIN every time, you’ll soon be able to use your fingerprint to authorise payments you make through Monzo!
+Adding detail to standing orders and Direct Debits 📝
+When you make a transaction with Monzo, you can tap on it to see all the information about it: the merchant you paid, their logo and location, how much you paid them, and more.
+We’ll be adding these useful details to standing orders and Direct Debits, so you can get a clear overview of the scheduled payments you make too.
+Helping you add money to Pots automatically 🍯
+To make it even easier to set money aside in Pots, we’ll give you the option to schedule deposits into them, in advance or on a regular basis. You’ll be able to choose an amount to deposit and pick a schedule for your payment. We’ll move the money to your pot automatically!
+Factoring Direct Debits and subscriptions into Summary ➡️
+So you can work out how much you have left to spend after regular expenses each month, we’ll start including your Direct Debits and online subscriptions (like Netflix, Spotify or Amazon Prime) in the Committed Spending section of your Summary.
+Helping you send international payments 🌏
+We’ll give you the ability to send international payments, to family or friends abroad. We’ll share more about how this will work very soon!
+Creating a web interface you can use in emergencies ⚠️
+If you ever lose both your card and your phone, we know it would be useful to access your account online.
+Right now you can call us to freeze your card and order a new one, but we’re also working on a very basic web interface that will let you see your most recent transactions and take steps to freeze or block your card yourself, in case of an emergency.
+
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to get a monthly email from the product teams at Monzo!
+
+
+      Sign Up!
+  
+
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!

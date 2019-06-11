@@ -1,0 +1,26 @@
+Title: Making Monzo Signup Simple
+Author: Natasha Vernier
+Position: Head of Financial Crime
+Date: 3 Nov 2017
+
+
+We care a lot about our customers here at Monzo, and we spend a lot of time thinking about how we can make everyone’s lives easier. That might be by sending instant notifications so you can keep track of your spending, or designing a simple way to request money from friends using Monzo.me. We believe this should start from the moment you sign up, which means making sure that our onboarding process is as simple and beautiful as it can be. We know you’re busy, and have come to expect that the signup flow for any digital service you use will be super easy and totally ‘frictionless’.
+Our goal has always been to build a signup process that can be completed in just a couple of minutes. Imagine being able to open a new current account while you wait in the queue to buy your lunchtime sushi or sandwich. By the time you reach the front, your new account is ready and you can tap your virtual card to pay. We’re not quite there yet, but the signup process for the Monzo current account should take fewer than five minutes.
+We are also a regulated bank, which means that we are obligated to meet a number of legal requirements. We strongly believe that caring about our customers and taking our legal obligations seriously go hand-in-hand, and that – with the right approach – we can do both really well.
+One of these requirements is that we know a certain amount about our customers: a concept referred to as Know Your Customer, or KYC.
+
+
+
+KYC is the process of identifying and verifying the identity of a customer, understanding the relationship between the customer and the bank, and assessing any financial crime risks associated with that customer. It is designed to make sure that banks aren’t inadvertently facilitating illegal activity like fraud, money laundering or terrorism.
+At the majority of high street banks, KYC starts when you open a new account. You’ll set aside time to go into a branch, and be asked to answer questions like “What do you do for a living?” and “How do you intend to use your new account?” While this helps banks fulfil their KYC requirements, it can also lead to an inconvenient and time-consuming experience for you. According to a recent report by Thomson Reuters, it takes traditional banks on average 26 days to onboard a new customer!
+Because we want to make your lives easier, instead of asking you to fill in a stack of forms or scan and send us copies of various documents, when you sign up we only ask for information that we absolutely need, in order to help us make an informed decision.
+For example, rather than asking you to bring your passport into a branch, you can send us a picture of your ID and a quick selfie video. With this information, we can run all the right checks, to make sure that you are who you say you are, and that your documents are authentic.
+
+
+
+We therefore consider KYC to be an ongoing process, that begins when you sign up for a Monzo account and continues throughout the course of our relationship. By taking this approach, we can make it as easy as possible for you to get started, and get to know you over time instead.
+Because we take this continuous approach to KYC, at some point we might reach out to ask you a few questions or for some extra information. For example, we might need to know the range your salary falls into, or whether you have any kids or other dependants.
+You could also be asked to give us a clearer picture about a particular transaction. Say you’re buying a house, and transfer £20,000 into your Monzo account because you plan to pay down a deposit. We might ask where that money came from, and what you plan to do with it. Similarly, we know a lot of our customers are interested in new technologies like cryptocurrencies, and a few have been using their Monzo accounts to trade them. We want to make sure people can keep doing so in a fair and legal way, so as part of our KYC process, we might ask you for more information about how you’re using cryptocurrencies with your Monzo account. If you aren’t able to give us a reasonable response to our questions, we unfortunately may have to ask you to stop using your account in this way.
+Whenever you share any information with us, you can be confident that it’s always kept secure and totally confidential. And – unless you’re doing something untoward – none of your account activity will be restricted. Please remember that we aren’t just being nosey! This is a regulatory requirement that we (like all other banks) are required to fulfil. The more open you can be with us, the fewer questions we need to ask. Plus, your answers help us learn more about you and how you use your account, which means we can keep improving Monzo for all our users! 😃
+
+Let us know what you think on Twitter, or get involved in the discussion on the community forum.

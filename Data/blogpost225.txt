@@ -1,0 +1,43 @@
+Title: Introducing Monzo for 16-17 year olds!
+Author: Daniel Cannon
+Position: Senior Software Engineer
+Date: 6 Aug 2018
+
+
+As our next step in the journey to make money work for everyone, we’re making our accounts available to anyone in the UK aged 16-17!
+
+
+
+
+A full UK current account
+These aren’t minimalist versions of our account with the training wheels on – they’re the same accounts that people over 18 can open now.
+So you get:
+
+
+a full UK current account with an account number and sort code, so you can send and receive money by bank transfer, and set up Direct Debits and standing orders
+
+
+a contactless debit card, so you can take out cash and spend in shops and online around the world
+
+
+the full Monzo app, with instant spending updates, clever budgeting, notifications if you’re spending too fast and easy bill splitting with any friends on Monzo
+
+
+the ability to link with Apple Pay and Google Pay, to turn your phone or smartwatch into your bank card.
+
+
+Some restrictions on where you can spend
+We’ve blocked certain kinds of transactions on these accounts, for things like gambling.
+Those blocks don’t cover everything you can’t legally buy until you’re 18, though. For example, they don’t extend to places where you can buy alcohol, because that would mean blanket banning supermarkets, corner shops, pubs and restaurants – which might make it difficult to buy lunch!
+When you buy something that’s age-restricted in a shop or restaurant, it’s the responsibility of that shop to check that you’re old enough. So in those cases, we trust that retailers’ own processes for checking people’s age will do the trick, just as they would if you were paying in cash.
+No fees or charges for going overdrawn
+We won’t be offering overdrafts to anyone under 18, but that doesn’t mean we’ll be charging people if they accidentally spend more than they’ve got. Helping young people learn to manage their money means giving them leeway to make mistakes without clamping down hard. If someone goes overdrawn, we’ll let them know and ask them to pay it back – but we won’t charge them any money for it.
+Open an account in five minutes, without leaving the sofa
+To open a Monzo account, all you need is your phone and some photo ID, like a passport or provisional driving licence.
+We’ll ask you for some details, and then you’ll need to record a short video of yourself saying you want an account – that’s so we can check you are who you say you are.
+Once you’re done, you can start putting money into your account and setting up regular payments (like subscriptions for Spotify) straight away. Your shiny new hot coral debit card will be with you a couple of days later.
+When you turn 18, we’ll review your limits
+On your 18th birthday, we’ll automatically take away the spending blocks from your account (although you can keep the gambling block if you like). And we’ll review your spending and withdrawal limits to make sure they’re right for you.
+Plus, of course, we’ll say happy birthday! 🎂
+
+As always, we’d love to hear what you think. Are there features that would make the account more useful for you as a 16-17 year old? What haven’t we thought of? Share your thoughts in the community.

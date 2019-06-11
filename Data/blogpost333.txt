@@ -1,0 +1,59 @@
+Title: Monzo Monthly Update: February
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 6 Feb 2018
+
+
+In the first of our regular updates, we recap what we’ve done so far, and explain what’s to come next month 🚀
+Done in January ✅
+We told customers that the prepaid card is ending 💳
+As more and more people upgrade their accounts, we announced that we’ll be bringing the prepaid card to a close.
+On 4th April 2018, if you haven’t upgraded your account you’ll no longer be able to use your prepaid card or your Monzo app to make or receive payments.
+You can find the full details in our original announcement, along with answers to some common questions.
+Thanks to everyone that helped us test, learn and improve Monzo as part of the prepaid Beta. Our goal has always been to build a brilliant bank account, and we’re excited to start focussing all our efforts on doing that!
+We made an API available to authorised companies 💻
+To coincide with the arrival of Open Banking regulations on 13th January, we made an API available to third party companies authorised by the FCA.
+We’ve already seen companies like Emma and TrueLayer launch integrations, and we can’t wait to see what’s next!
+You can read our blog post for all the information, and watch back our latest Open Office event on Open Banking.
+If your company is applying for AISP permissions and would like to build an integration with Monzo, please email [email protected].
+We’ve begun to bring overdrafts to more people 📊
+We want our overdrafts to be different: fairer, more transparent and easier to understand. Over the next few months we’ll be giving as many customers as possible the option to use one if they want.
+If you want an overdraft, you’ll need to actively switch it on — we don’t give you one automatically. We’ll offer you one if you’ve upgraded your Monzo account and you’re eligible.
+They’re totally optional and will cost 50p each day that your account is overdrawn, after a free buffer of £20.
+Learn more about how we’re rolling them out, how we work out who’s eligible in our blog post about overdrafts.
+We made bank statements available 📄
+We gave old school statements an update, adding the ability to create bank statements from within the Monzo app.
+You can create them from the Spending tab, and find out more from our blog post.
+We beautified Direct Debits 💅
+As a Monzo customer, you’ll be used to seeing each of your transactions in a way that’s easy to understand.
+Because you can pay Direct Debits from upgraded accounts, people have begun using Monzo to pay for things like bills and mortgages. That means that people are paying a  whole new range of merchants.
+We’ve worked to neaten up the cryptic strings of numbers and letters we get from the payment network, so you can see the company name and logo, clearly in your feed.
+
+
+
+We started on the top 50 merchants, and we’ll keep working on the most popular. Read more about what we’ve done, and learn how we crowdsource merchant data to make it better for everyone.
+We moved where you manage Direct Debits and standing orders 💷
+We’ve moved Direct Debits and standing orders, so you can see and manage them from the Payments tab, rather than the Spending one.
+You can now reuse references on Android (still to come on iOS) 👯
+When you pay the same person, we’ll remember references you’ve used in the past. On Android, you can now choose from a list of previous references, rather than type them in every time.
+iOS users can expect this feature to arrive before the end of February.
+
+To come in February 🔜
+
+
+
+Improving scheduled payments ⬆️
+At the moment, you can schedule standing orders to repeat regularly, on a certain day of the week, or on the same date each month. But you can’t schedule anything more complicated.
+This month, we’ll work to give you more options for scheduling payments, so you can set up standing orders to repeat in more complex ways.
+As we continue work on CASS (more on this below!) this will also help us make sure people can transfer over all their standing orders without any issues – even the ones that repeat in more complex ways.
+Making it possible to edit standing orders 🖊️
+We’ll also make it possible to edit scheduled payments, so you can change the amount that goes out, the dates it goes out on, and the reference you used – without having to delete it and start from scratch.
+Bringing the Pulse graph to Android 📈
+A simple graph at the top of the Home tab, the Pulse graph lets you see how you’re spending over time.
+We’ll be bringing it to the Android app in the next few weeks. We’ll share the new designs and explain a few improvements we’ve made on the blog, so keep an eye out for an update!
+More work on CASS ↪️
+If you want to use Monzo as your main bank account, we’re working to make it possible for you to switch all your payments over seamlessly.
+Through the Current Account Switching Service (CASS), we’ll be able to help you transfer all of your outgoing and incoming payments over to Monzo automatically, without any of the admin.
+We’re on track to make CASS available in the next few months!
+
+At the start of every month we’ll share updates about our progress, and plans for what’s to come 📆 You can read more about our early plans for 2018, and join the discussion in the community.

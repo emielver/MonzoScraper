@@ -1,0 +1,19 @@
+Title: Launching Targets: Our New Budgeting Feature
+Author: Tristan Thomas
+Position: Product at Monzo
+Date: 3 Oct 2016
+
+
+It’s the 3rd of October and many of you will have been sitting down this weekend to plan your budget for the coming month. We’ve now enabled our new Targets feature for all Monzo iOS users to help you track and manage your spending. If you’re on the latest version (1.7.2), you should find it has magically appeared in the top left of your Spending screen.
+Targets
+Monzo has become an amazing tool which over 40,000 Alpha and Beta cardholders use to get greater insights into their spending. We already automatically categorise every one of your purchases and show you spending breakdowns over the month, but Targets takes budgeting to a whole new level.
+You can now set your own spending targets per category per month, personalised to you and tailored to your historical spending.
+
+
+
+Once you’ve set up Targets, Monzo sends you intelligent notifications to warn if you’re spending too fast. As you near your limits, the bars change from green, to orange, to red, and you’ll get notifications when you go over your target. You can tweak your targets at any time to suit your lifestyle or plans for the upcoming month.
+
+
+
+At the end of each month, you’ll receive a spending report detailing exactly what you’ve spent and letting you dive into the details. You can then use this to change your targets for the next month and keep on track!
+This is just the beginning of the budgeting features we want to bring to Monzo, so we’d love to hear any suggestions you have over in our community forum. We can’t wait to hear what you think!

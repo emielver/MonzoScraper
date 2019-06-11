@@ -1,0 +1,21 @@
+Title: Searching for Answers on Android
+Author: Jami Welch
+Position: Product Manager
+Date: 27 Sep 2017
+
+
+From forgotten PINs to failed payments, there are plenty of situations where a Monzo user might need a hand. To help answer common queries, over time we’ve built up a bank of responses. But with hundreds of articles and dozens of topics, the Help section was in danger of becoming unwieldy and – ironically – unhelpful.
+So, in an effort to make it easier to find the answers you’re looking for, we’ve made some updates to the Android Help section. We’ve added categories, trending articles, and links to popular discussions on the community forum, which means you can now browse help tips according to topic, see answers to common questions, and discuss issues and ideas in depth with other users.
+If it isn’t clear where to look, you can now also search for a specific question 🕵
+
+
+
+We added search to iOS a couple of months ago, and this week we’re excited to bring it to Android too.
+By training our search algorithm using conversations we’ve had with customers via in-app chat, it’s able to understand natural language. This means you can type in any query and it will show you a range of relevant articles. For example, if you enter “I’ve moved house”, it will suggest an article about changing your address. If you enter a place like Paris or the Philippines, you’ll see advice about using Monzo abroad.
+
+
+
+We hope these updates help you to find the answers you’re looking for even faster. Let us know what you think on the forum! 😄
+If you want to learn more about the smart technology that underpins this deceptively simple-looking search bar, data scientist Nigel explains how he built it in Episode Two of our video series, Monzo Insider.
+
+In advance of October’s Android Open Office event, all week we’ll be focussing on what’s new and next on Android 🤖

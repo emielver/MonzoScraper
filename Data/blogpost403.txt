@@ -1,0 +1,12 @@
+Title: Launching Android Pay Top Ups!
+Author: Tristan Thomas
+Position: Head of Marketing and Community
+Date: 22 May 2017
+
+
+Hot on the heels of launching Android Pay on Monzo.me, we’ve just released a new update to the Android app that lets you top up with Android Pay!
+
+
+
+If you have a debit card stored in your Android Pay app, you should now see an additional button on the top up screen. Tap it, select your card and tada — you’re now all topped up 🎉 If you don’t see the button, make sure you’ve added a debit card to Android Pay.
+Get this update by visiting the Google Play Store today and if you fancy leaving a review while you’re at it, we wouldn’t complain!

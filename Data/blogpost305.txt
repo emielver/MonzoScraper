@@ -1,0 +1,44 @@
+Title: Introducing Monzo Labs: Get early access to the newest Monzo features
+Author: Tristan Thomas
+Position: Head of Marketing and Community
+Date: 27 Apr 2018
+
+
+We believe that the best way to build a brilliant product is by releasing features early, and getting feedback from you. We did it right from the very beginning, when we launched our Alpha card in 2015. And over the last two years you’ve helped us choose our name, test our marketplace, and make some tricky decisions.
+Our community is at the core of everything we do. And as we grow we want to make sure more and more of you can be part of it.
+Live at an event at Monzo HQ, last night we launched Monzo Labs: a new way for you to access to features early, share your feedback and ideas, and help us build a better bank  🚀
+
+
+
+To join Monzo Labs:
+
+Head to the Account tab in your app
+On iOS, tap your name to get to your Profile. On Android, tap the Settings icon
+Scroll down and tap on Monzo Labs
+
+Or if you’re reading this on your phone, just tap the button below!
+
+
+    Open Monzo Labs
+  
+
+From here you can turn on and try any of the features we’ll be adding to Labs. You’ll be one of the very first people to see what we’ve been working on, and play an important part in shaping the updates that we eventually bring to everyone else.
+Be the first to test new features
+Whenever we’re working on a new feature and want to get it into your hands – to find out what you think and learn how we can make it better – we’ll add it to Labs.
+Sometimes there might not be any features in Labs, at others there might be a few.
+Each feature that we add to Labs will have its own discussion on the community forum, where you can share your feedback and ideas.
+So you never miss an update, when you turn on a feature that we’ve added to Labs, we’ll let you know whenever we release a new one.
+Just added to Labs: Summary!
+Last night we added the very first feature to Labs: Summary! We’ve totally redesigned the way we show your spending, so that it works when you use Monzo to manage more of your money.
+It lets you see how much money will go to fixed costs like your bills, rent or mortgage payments, and see how much you’ll have left to spend each month.
+Right now, Summary takes into account your income, any bank transfers you have scheduled, and how much money you’re putting into Pots, so you can manage your money and monitor your spending from payday-to-payday.
+
+
+
+This is a very early version of Summary, and it’s far from perfect still. But that’s exactly why it’s in Labs. If you find bugs or issues, or have ideas about how we can improve it, please let us know! There’s a dedicated discussion in the community forum, and our product team will collect and act on the feedback you share there.
+This first version of Summary doesn’t support Targets yet. We’ll be adding it to Android and iOS very soon, so if you rely on Targets to help you budget, it might be worth waiting for a few weeks.
+Help us build a better bank
+We’d love to hear your feedback on the features you’re trying out! As well as gathering the feedback you share with us on the forum, if you’ve turned on a new feature we might reach out to ask you questions.
+When you’ve switched on a feature that we’ve added to Labs, you’re likely to see lots of updates while you use it. We’ll act quickly to make changes based on your suggestions, as we get each feature ready to release to everyone.
+
+We can’t wait for you to try it out! Head to your Profile (iOS) or Settings (Android) section now to turn on Summary, the first feature in Monzo Labs.

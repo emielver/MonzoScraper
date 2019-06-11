@@ -1,0 +1,34 @@
+Title: Bill splitting made simple
+Author: Robin Bilgil
+Position: Backend Engineer
+Date: 9 Oct 2018
+
+
+Monzo works best when you use it with your friends. And whether it’s instant Monzo-to-Monzo payments to your contacts, or sending money to the people around you, we want to make it easy to share money with the people in your life.
+Right now, it’s easy to send money to your contacts on Monzo when you owe each other – and maybe get a thank you emoji in return! But we wanted to go a step further, and make bill splitting a bigger part of the Monzo experience. So we’ve built an all-new way to split payments and request money.
+Split bills through Monzo in just a few taps
+
+
+Pick the payment you want to split, scroll down to Split bill and tap +Add someone to get started
+
+
+Find any of your contacts on Monzo, or use Nearby Friends to choose people if you don’t have their numbers.
+
+
+Split the bill equally, or manually edit if you owe different amounts. We’ll make sure everything adds up.
+
+
+Once you’re done, we’ll send the contacts a request to pay you. Once they’ve paid, we’ll tell you. And we’ll take the payments from the right category in your Summary to reflect what you’ve actually spent that month.
+
+
+
+
+
+What we learnt from Monzo Labs
+Bill splitting has been available for testing in Monzo Labs since August. Monzo Labs is where our community can try out new features early to give us their feedback. So thanks for everyone who helped test this out!
+The main thing we learnt was that people wanted to split bills with people who don’t have Monzo. So we added a feature to split bills with non-Monzo users. When you add them, we’ll generate a Monzo.me link that’ll let anyone send you money.
+
+
+
+Let us know what you think!
+We hope you enjoy using the new bill splitting features. As always, we’d love to hear your thoughts on feedback over on the forum. So come and join the conversation!

@@ -1,0 +1,91 @@
+Title: The Monzo Reliability Report: How we're building a bank you can rely on
+Author: Oliver Beattie
+Position: Head of Engineering
+Date: 25 Jul 2018
+
+
+Our goal is to make money work for everyone, and that means building a bank that you can rely on. You should be able to buy things with your hot coral card 24/7, get instant notifications when you do, and see accurate information quickly, whenever you open your app.
+Today, we’re publishing the Monzo Reliability Report to show how we’ve improved our reliability over the last 12 months, and what we’re doing to make it even better.
+We’ll explain how we’re making incidents less frequent and less severe, and how we’re improving the way we communicate during outages to make it clearer how they might affect you.
+Why are we sharing this?
+When things go wrong, it’s important to take responsibility. So we’re always open and honest about all our incidents: we update our public status page, show warnings in our apps, and share updates on Twitter.
+But the way we’ve communicated hasn’t always been clear. We’ve shared updates with all our Twitter followers about incidents that affected a small number of customers, and taken responsibility for incidents caused by other companies without making that clear.
+That’s made it difficult for you to get an accurate picture of how reliable Monzo is. And, over time, we know this might make you worry that Monzo isn’t as reliable as it should be.
+The data
+We take every incident seriously, but the impact of issues we see can vary a lot. So we try to quantify the severity of each one in light of how long it lasted, how many customers were affected, and to what extent. Each incident falls into one of three categories:
+
+
+Minor: These affect either a very small number of customers, or a large number of customers with minimal impact. For example, if push notifications are delayed by a few minutes.
+
+
+Major: These incidents are ones where important functionality is impaired but other features are still available. For example, if you can’t contact customer support.
+
+
+Critical: This means that a very large number of customers are likely to experience problems. For example, if people can’t use their debit card.
+
+
+Length of incidents over the last 12 months
+
+
+
+How we’re making Monzo more reliable
+We’ve worked hard over the last year to make Monzo more reliable, and we’re committed to making it even better. We’ve focussed on a few different things to make the improvements you can see so far.
+We’re directly connected to Mastercard
+When we launched our Alpha and Beta prepaid cards, we decided to use another company to connect to Mastercard. This let us launch much faster because connecting to a card network directly is a lengthy, expensive, and extremely technically complex process. In fact it’s why most banks use an intermediary.
+But as we began to grow Monzo to hundreds of thousands of customers, it became clear that we wouldn’t be able to make our service as reliable as we’d like if we kept relying on another company. While legacy banks often don’t display your transactions for days, whenever there are problems with Monzo it’s obvious immediately because you don’t get a push notification and your app doesn’t update.
+So, before we launched current accounts we decided to integrate with Mastercard directly. We now run exclusively on this infrastructure, and it’s much more reliable.
+Automating our processes to reduce human error
+Our platform is large and complex. It’s made up of more than 600 different services, and we push changes live over 100 times per day. In this environment, we can’t rely on humans to be accurate all the time. People make mistakes, and human error becomes more likely when a lot of change happens quickly and constantly. So we’ve made a lot of effort to design processes that are predictable, repeatable, and automated, and we’re always finding ways to make them better.
+Better monitoring and on-call
+When things do break, we need to do two things to make sure that a problem is resolved as quickly as possible:
+
+
+Alert engineers so they can investigate the issue quickly
+We have a rotation of engineers from different teams who are on-call 24/7 in case something goes wrong. Our monitoring systems constantly keep track of important metrics, and immediately alert the on-call engineers if things aren’t right.
+
+
+Make sure concise, accurate information is available to help pinpoint the problem
+Our monitoring system collects hundreds of thousands of different data points about our platform’s health and performance each minute. So finding the ‘needle in the haystack’ when things go wrong can be challenging. We’re always improving our dashboards, runbooks, and shared understanding of our systems to make sure that engineers have easy access to the most relevant information.
+
+
+If you’re interested in understanding more about the monitoring systems we use and why, later this week Chris from our Platform team will share a technical post about how we monitor Monzo.
+Enshrining good engineering practices
+We’ve learned a lot by building Monzo over the past three years and we recently distilled some of those lessons into a set of principles that guide the way our engineers work. A few of these principles are targeted at improving reliability:
+
+
+We make small changes and deploy them frequently
+Because smaller changes can be undone easily and have a limited scope, they come with a lower risk than large deployments that are difficult to reverse.
+
+
+We write code to be debugged
+Thinking up-front about how we might debug software means we can understand it faster and better when it misbehaves.
+
+
+We don’t accept deviant behaviour
+If systems regularly misbehave in a minor way, it’s easy to fall into the trap of writing it off as ‘normal.’ We actively try to avoid thinking this way: if it’s not behaving as we designed it to, something is wrong and we make sure we understand it.
+
+
+Improving how we communicate with our customers
+Transparency is hardest but most important when things goes wrong. We want to communicate in a clear, informative way to let you know what’s going on and what we’re doing to fix things. But we also don’t want to cause unnecessary alarm.
+During an incident, our engineers update the Monzo status page where you can see the live status of all our systems, subscribe to SMS updates, and see a full history of previous issues.
+
+
+
+Striking the balance between transparency and not causing unnecessary worry can be tricky. In the past, we’ve tweeted updates from the main @monzo Twitter account for most incidents. And although it can be helpful to spread the message as widely as possible when a large proportion of our customers are affected, it can also be harmful to broadcast a warning when an incident isn’t impacting a lot of people.
+
+
+Bank transfers may be delayed due to an issue within the Faster Payments network that is affecting several banks - we are monitoring the situation and will provide updates as we get them. Very sorry for any inconvenience caused!— Monzo (@monzo) July 8, 2018
+
+
+
+Now that we’re heading toward a million customers, we want to make sure that we’re getting this balance right. Today we’re launching a new Twitter account: @monzostatus. This should help us stay 100% transparent about issues without alarming you unnecessarily.
+
+
+     Follow @MonzoStatus
+  
+
+We’ve linked this account directly to our status page, and it will tweet all updates in real time. For major or critical issues, we’ll retweet this news from our main @monzo account too, and they’ll show up prominently in the app.
+We’ve also revisited the messages we send out during incidents to make sure they’re consistent with our tone of voice, and clearly explain what’s going on.
+
+We’d love to see other banks do this too: transparency is a powerful way to hold ourselves accountable to our customers, and put pressure on ourselves to do better.
+Tell us what you think by joining the discussion in the community forum, and follow @monzostatus now!

@@ -1,0 +1,47 @@
+Title: How Does the Wholesale Foreign Exchange Market Work?
+Author: Richard Dingwall
+Position: Back-end engineer at Mondo
+Date: 8 Jan 2016
+
+
+In December we gave an overview of how foreign card payments work, and how Mondo gives you the best exchange rate possible compared to legacy banks and travel money shops. But where do banks go to buy their foreign exchange? Richard Dingwall, a software engineer with a background in financial trading systems has written this guest post to explain.
+What’s the Price of a Currency?
+In a stock or commodities market, contracts are priced in money terms—usually in the local currency or US dollars. For example, at time of writing, the price of one Apple share is currently around  $100, and one barrel of crude oil is  $32.
+But foreign exchange is money itself, so we have to express the price as the exchange rate for one unit of currency—called the Quote currency—for one unit of the other currency—called the Base currency.
+Exchange Rates
+The exchange rate is quoted to several decimal places—usually around 4 DP, depending on the currency pair. Why do we need so many decimal places? It’s impossible to have £0.0001 or €0.0001 in your bank account. But contract sizes in the wholesale FX market can be huge—easily tens or hundreds of millions of dollars. At this level, the granularity provided from additional precision allows market pricing to be much more efficient (competitive).
+Spot Market
+The wholesale market used by banks, governments, investment funds and large corporates to buy and sell foreign currency is called the Spot Market. Spot means “on the spot” prices for soonest delivery possible. For most currencies, the standard settlement period for spot trades is two business days. Around $5 trillion worth of foreign exchange is traded on the spot market every day. It is by far the biggest and most liquid market in the world.
+Exchanges
+Contracts are typically traded over-the-counter (directly between two parties), or on Electronic Communications Networks (ECNs) like Reuters Dealing, FXAll, Hotspot, EBS and Currenex. Most ECNs use a continuous auction style called a Central Limit Order Book. The software at the heart of an exchange that manages the Order Book is called a Matching Engine, and must be very fast and reliable.
+Normally, trading firms pay a lot of money to see the order book’s contents, because the additional information gives them a trading advantage. But luckily for us, a Bitcoin exchange works in exactly the same way, and most of them publish real-time data for free. Here is Coinbase’s live order book:
+
+
+
+The order book is divided into two halves. On the left are the Bids (buyers), and on the right are the Asks (sellers). Each side shows the total Liquidity (amount available to buy or sell) at each Price level.
+The outward-curving shape of the order book demonstrates basic supply and demand. Buyers (on the left) want to secure the lowest price possible, so there are more buyers at the outside of the book (where prices are lower), than in the centre. Similarly, sellers (on the right) only want to sell for the highest price possible, so they crowd towards the right hand side (where prices are highest). If an order crosses over, then a trade is executed, and the orders that were filled are removed from the book.
+The order at the top of the bid (left) side is called the Best Bid, and represents the highest (most attractive) price you can currently sell for. On the ask (right side), the Best Ask is the order with the lowest (most attractive) price you can buy for.
+Bid/Ask Spread
+The gap in the middle is called the Bid-Ask Spread. In stressed market conditions—for instance, global economic events or natural disasters—the spread widens, as the risk of loss increases and participants withdraw their liquidity.
+The Spread is the difference between the Bid and the Ask price, and is measured in units called Pips. For example, a change in the price from 1.3914 to 1.3915 is a pip increase (depending on how many decimal places the currency pair is traded to). Typically, one pip is equal to 1/100th of 1%. This is also referred to as one Basis Point.
+Cross Currency Pairs
+Historically, currencies were always priced against US dollars. For example, if you wanted to buy NZ dollars for Japanese Yen, you would sell NZD/USD then sell USD/JPY. A Cross Currency Pair allows direct trading of currencies without converting to US dollars first—for example, NZD/JPY. Crosses are available for the largest currencies e.g. EUR/GBP, but smaller currencies are still converted to US dollars first.
+Official Daily Rates
+ECNs can process many thousands of orders per second, constantly fluctuating the price. So how do we publish a single, official exchange rate for a given day?
+One method would take the average rate from all trades from an entire trading day. But if there were many small trades (say £1,000 each) and only a few large trades (£1 billion), this would not be a true representation of the volume traded—the average price would be skewed towards the small trades. Also, should the measurement be equally weighted throughout the day, or are most people only interested in the end result?
+In reality, most official daily exchange rates are Fixed based on a 60 second sample at a given time of day:
+
+The WM/Reuters benchmark rates are determined over a one-minute fix period, from 30 seconds before to 30 seconds after the time of the fix, which is generally 4 pm in London. During this one-minute window, bid and offer rates from the order matching system and actual trades executed are captured. Since trades occur in milliseconds, only a sample is captured, rather than every trade. The median bid and offer are calculated using valid rates over the fix period, and the mid-rate is then calculated from them.
+
+Mid Rates
+The most common exchange rate you see in news articles and on TV is the Mid Rate, calculated as the average of the Best Bid and Best Ask price.
+The Mid Rate can be useful for historical analysis, but it is important not to use it for comparing prices:
+
+It hides the fact that there are different prices for buying and selling (supply and demand).
+It is a purely Indicative rate—it is never possible to buy or sell the mid rate because there is no liquidity (orders available) at that price.
+
+Comparing Spreads
+So how does this all relate to making foreign payments using your Mondo card? Foreign exchange dealers make money by adding either a Commission (percentage of the total amount), a flat Fee (e.g. £2), or their own Margin to the spread, reflected in the advertised exchange rate. Margin is the most common, and is usually advertised as “commission free”, however be warned—the spread can be very wide!
+The MasterCard rates are incredibly good. If you need to buy €1,000 of travel money, you could save between £10-90 compared to a travel money shop or ATM.
+
+We recently updated our name to Monzo! Read more about it here.

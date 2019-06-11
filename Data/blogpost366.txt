@@ -1,0 +1,19 @@
+Title: Android Pay is Here!
+Author: Daniel Cannon
+Position: Senior Software Engineer
+Date: 24 Oct 2017
+
+
+Whether we’re scrolling on Instagram and streaming on Spotify, or ordering a cab and finding our way around a new city, we use our phones for almost everything.
+Now, thanks to Android Pay™, we’re excited to say that you can use your Monzo debit card to make payments with your phone too!
+
+
+
+If you have a Monzo current account, you can now pay quickly in person by waking your phone and tapping it against the contactless terminal, or checkout in apps without having to manually enter your details. That means no more digging around in the bottom of your bag for your debit card at the checkout, or faffing around to find it before you leave the house.
+You can even make payments of more than £30. Before you tap, just unlock your phone — you don’t even need to open the app!
+To start using Monzo with Android Pay, simply add your Monzo debit card to your Android Pay wallet by taking a picture or entering your card details. To make Monzo your default card, drag your virtual hot coral card to the front of your wallet. Soon, you’ll even be able to add your card to Android Pay from within the Monzo app.
+Your transactions will appear in your Monzo spending feed, your balance will be updated instantly and you’ll receive a notification every time you make a payment. You’ll be able to use Monzo as usual, with all the added convenience and extra security that come with Android Pay.
+This is the first new feature to launch exclusively on the current account 🎉 We’re inviting existing users to upgrade from the prepaid card to the current account over the next six weeks, so if you don’t have a current account already, you’ll be able to use Android Pay soon. Just one more reason to upgrade! 😉
+Take a look at our shiny new Android Pay page to learn more about using Monzo with Android Pay, and find the answer to common questions.
+
+Share the news and tell us what you think on Twitter, or get involved in the discussion on the community forum.

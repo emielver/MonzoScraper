@@ -1,0 +1,38 @@
+Title: From desktop design to your doorstep: A Monzo card’s journey
+Author: Kieran LeBlanc
+Position: Operations
+Date: 9 Jun 2017
+
+
+
+
+
+ By 2018 cards will replace cash as the most common way to pay for things. Many of us today take cards for granted, so I’d like to tell you how our cards are made and delivered to you – a journey that begins with our designers and ends at your front door.
+Design
+I spoke to Hugo, our Head of Design, to find out how his team designs our cards. One important choice they had to make early on was the card colour. Like most decisions in the early stages of a startup, this one had to be made quickly. So they tried out a variety of neon inks and brought together a group of friends and early investors to see if there was a clear winner. Together they chose hot coral, a pink-orange blend that glows under ultraviolet light and has been really popular with our community!
+The colour is not the only design element, though. Some, like the logo or the customer service phone number on the back, are part of our brand. Others have to do with Mastercard’s. These include the contactless symbol, hologram, signature space and their logo. The team adds these to the hot coral background using Adobe Illustrator. Once a design is finished, they send it to Mastercard for approval, and then to our card manufacturer.
+Manufacture
+At the moment our cards are made in a large factory in Essex. First, they make a special plastic blend called polyvinyl chloride acetate (PVCA) by combining vinyl acetate and vinyl chloride and then adding plasticisers and dye to give the right consistency and colour.
+An extrusion machine flattens the still-molten PVCA, and stacked rollers pull it along through a series of cooling units. Once it’s cool, a robot arm cuts it into long sheets. A similar process is used to make the clear laminate film that will coat the core. The PVCA sheets are fed into a machine that compresses them onto both sides of a sheet of contactless antenna mesh. This stack is called the core.
+The finished core is still blank at this point, but it won’t stay this way for long. A printmaking technique known as lithography is used to add the hot coral colour, graphics and text, while a hot press stamps magnetic ink onto the part of the clear film that is to become your card’s magnetic stripe on the back.
+Now the film must be stuck to the core. Factory staff begin by feeding the films and the core into a system of rollers, with the core in the middle. A vacuum sucks out all the air to keep them in place until they reach the tacking station. There, two quartz infrared lamps heat the laminate sheets, melting them to the core. Metal plates heated to 130°C then squeeze the completed stack with a force of 170psi - about the amount of pressure at which a car tire will explode.
+The finished sheets then roll onto a platform. Big blades slice them into basic, non-personalised cards, known collectively as stock. A machine cuts holes and inserts chips in each card. These arrive already programmed with an operating system called Multos.The card manufacturer just needs to add an application called M/Chip Advance with basic rules that will tell the card what to do when you make a payment. One such rule tells the card how many times you may enter the wrong PIN before your card is blocked, but there are many others. This stage is known as ‘pre-personalisation’, since the manufacturer adds the same programme to all Monzo chips.
+Personalisation
+Each card must now be ‘personalised’ by adding information which makes it unique. A computer program generates the card details and we send them to our card manufacturer. To prevent a security breach, we order only a small number of cards at a time.
+They start by adding three sets of numbers to the front of the card: a nine-digit identification number, an expiry date, and a sixteen-digit PAN (the long number on the front). This is done using a machine that works a bit like an old-fashioned typewriter, punching each letter into the back of the card to make raised letters on the front, and then painting the letters white.
+Most banks add your name as well. Right now we don’t, which means we can send any card to any customer. They only become linked to your account when you activate them with your app.
+A magnetic head writes the three numbers on the front of the card onto the magnetic strip on the back. Finally, a computer programmes the card’s chip. It adds the same numbers to the chip that are on the front and the magstripe. On top of that it also adds a key which only that card has. Later, when you go to make a payment with the card, the terminal will check this key against information stored in its memory to check if your card is genuine.
+Delivery and Storage
+A courier delivers the finished cards to our office in a high-security truck, and we store them in a safe until we send them to you. This part is important. If anybody got hold of them, they could record the card numbers and make fraudulent charges once the cards were activated.
+Packing and Posting
+We have a team of part-time operations staff who pack our cards. In terms of life experience, this is one of our most diverse teams. A few of them studied music and business. One is a retired investment banker taking a postgraduate course in international development. We even have somebody who works as a crowd manager in a London tube station! They come in at two o’clock in the afternoon to set up the card-packing station.
+
+
+
+At half past three we download all card orders stored in our system. Each gives information about the customer’s address, how we should send the card, and whether it’s someone’s first card or a replacement. A computer script turns these orders into labels, and our packers put the cards in their envelopes along with a welcome letter and then pack all the envelopes in burlap sacks.
+Royal Mail postmen roll up at about five o’clock and take them to Mount Pleasant Mail Centre in Clerkenwell. From there Royal Mail magicks them to you. We send most of our cards by First Class post, but a few are sent by airmail, or, in special circumstances, by next-day tracked delivery. About 93% of First Class post is delivered the next day with the remainder generally arriving the day after. A small number of letters take up to five days. If you order a card and it doesn’t arrive within this timeframe, let us know and we’ll send you a replacement.
+Current Accounts
+We’re planning to start adding names to each card when we roll out our current accounts, and to save time our manufacturer will send them directly to you instead. But we’ll still keep a small stock of cards (and a personalisation machine) at our office for urgent deliveries.
+Another exciting idea our community is talking about right now is using recycled or biodegradable materials. Protecting our environment is important to us, so we’ll be giving this serious thought once we roll out our current accounts.
+
+We hope you’ve found this interesting! If you have any questions, you can ask our customer operations team at any hour by in-app chat, e-mail, Twitter, Facebook, and our community forum.

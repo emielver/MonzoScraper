@@ -1,0 +1,64 @@
+Title: Monzo 2.0: Summary for everyone!
+Author: Jami Welch
+Position: Product Manager
+Date: 23 May 2018
+
+
+This week we began rolling out v2.0 of our Android and iOS apps. A ‘whole number’ change is usually a pretty big deal in app development. Don’t let that worry you though, you won’t have to re-learn how to use your app!
+In this post we’ll share what’s new in Monzo 2.0 and what’s coming up next.
+Over 650,000 people are now using Monzo to manage their money. We’ve added helpful features to solve some of the everyday problems that come with managing your money, like paying people with Nearby Friends, saving with Coin Jar, and Monzo’s fair and transparent overdrafts.
+We’ve come a long way since our first app release, and we’re excited to add some new stuff in v2.0 that we think will make your lives easier. This doesn’t mean we’re done, though.
+We know these features don’t solve all of the complexities of managing your money - we’re still working on that 😉. Check out The Big List we shared yesterday, these are the things we’re working on over the next three months to make Monzo even better.
+Summary
+Some of you will already be familiar with Summary from testing it in Labs (thanks for all your feedback!), or you might remember it by its previous name: Spending. And for those who are new to Summary altogether, it gives you better control of your budget. The Summary tab in your app shows how much you have to spend each month in a colour-coded dial.
+Summary works out how much of your money goes to fixed costs, like bills, rent or mortgage payments, and how much you have left to spend each month on more fun things.
+After a lot of testing in Labs, we’re really excited for everyone to start using Summary!
+
+
+
+Here’s how it works:
+
+
+Start your month from when you get paid 
+On Android: go to the Calendar icon in the top right of your Summary tab and change when your month starts by selecting your salary payment. 
+On iOS: tap the month above your dial and change the date your month starts.
+(We count getting paid as a recent deposit over £200, there’s more flexibility on this coming soon!)
+
+
+Add Spending Targets for each category 
+If you know how much you want to spend on things like going to the cinema or groceries each month, add it to Targets.
+
+
+See how much you have ‘Left to Spend’ 
+ Summary will let you know if you’re over or under budget each day. The summary dial shows how much ‘spending money’ you have left, compared to how much time is left each month. (‘Left to Spend’ is your current balance minus upcoming scheduled payments.)
+
+
+Exclude one-off transactions 
+If you make a large one-off payment you’ve been saving up for, you can exclude it from your Spending, targets, and daily budget calculation. Find the transactions in your feed and select ‘exclude from Summary’ to make sure it doesn’t confuse the amount of money you have ‘left to spend’
+
+
+Export transactions 
+You can export your transactions in CSV, PDF bank statement, or QIF (Microsoft Money) if you manage your spending elsewhere.
+
+
+
+
+
+What’s next for Summary?
+While we feel Summary is an improvement over the previous version of Spending, there’s still lots we can do to make it better! Because of the feedback you gave us, we’re currently working on the following:
+
+
+Predicting Direct Debits and Subscriptions: we want to include Direct Debits and Subscriptions in your Committed Spending, so you’ll have a better idea of how much you’ve got to spend on things other than bills.
+
+
+Overall Spending Target: we think setting an overall spending budget that is separate from your Committed Spending each month will make it easier to manage your money.
+
+
+Setting when your month starts and ends: we know sometimes your pay day is a little early, or a little late - so we’ll be adding more flexibility over deciding when your month starts and ends.
+
+
+Making Pots nicer: a new design for the Pots section is coming soon, to make it clearer how much money is moving in and out of your Pots each month.
+
+
+Finally, a big thanks to everyone who tested Summary and gave feedback, we couldn’t have built this without you. We hope you like using Summary as much as we do, let us know what you think in the community.
+Happy budgeting!

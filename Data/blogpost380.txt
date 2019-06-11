@@ -1,0 +1,39 @@
+Title: The Current Account Preview: Coming to a Letter Box Near You Soon!
+Author: Tristan Thomas
+Position: Head of Marketing + Community
+Date: 23 Aug 2017
+
+
+Just over a month ago, we announced the beginning of the Monzo Current Account Preview. The aim of releasing an early preview is to get as much feedback as we possibly can and ensure we’re building something customers really want to use.
+Over the last five weeks, we’ve been running events in our offices in London — packing our events space to its maximum capacity to give out as many debit cards as we can and we’ve now reached just over 1,500 people!
+
+
+3 hours of delays, 4 hours of walking, and 10 hours on the coach... all to get my @monzo current account! Looking forward to trying this out pic.twitter.com/WKE7JcDiJE— Mark Notton (@mark_notton) August 11, 2017
+
+
+Just got my @monzo current account. I've never been so excited to get a bank account! 😀🎉 pic.twitter.com/aYxPEoruGq— Katie Tinkler (@UXKatie) August 22, 2017
+
+
+
+This early feedback from the community has already been incredibly valuable — we’ve been testing out card acceptance around the country, updating the design and functionality of the debit cards and finding oddities in the payment networks!
+We’re now ready for the next stage. After some small-scale testing, we’re ready to start posting debit cards out to your home, on both Android and iOS! This is still part of the preview - this isn’t the finished product - so most of the same caveats from before still apply, namely:
+
+
+Monzo to Monzo payments through the Contacts tab do not work.
+
+Topping up your account by debit card, Apple Pay and Android Pay will not be available.
+
+Monzo.me does not work.
+
+Customer support through the in-app chat will initially only be available from 9am–6pm on weekdays when more people are available to help diagnose and fix issues. It will also take us longer to resolve your problems because we’ll need to investigate issues we’ve never seen before. By the time we launch more widely, we aim to have 24/7 support, just as we have currently on the prepaid scheme.
+The debit card you receive initially with the current account will need to be replaced at some point later this year with an updated version.
+You will download a separate Monzo app for the current account and your existing prepaid card will continue to work like normal. In the future, you’ll be able to use just one app and close your prepaid account.
+
+We’re working really hard on making these caveats disappear though, so watch this space over the next couple of months.
+However, if the idea of being one of the first on the Monzo current account appeals and you’re willing to put up with some rough edges, you can register your interest.
+
+Register Interest   (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() 
+
+If you already registered when we announced the preview, don’t worry — you don’t need to register again. However, to be eligible, you need to have been using your existing Monzo card for more than six months and have made the majority of your transactions in the UK. If these criteria don’t apply, you’ll have to wait a month or so longer until we’re ready to invite you — but don’t worry, you won’t be forgotten!
+Please make sure you read all of the information in the original announcement post here. If you have any questions, they’re probably already answered in that post, but if not, feel free to ask them in the dedicated post on the forum.
+We’ll be steadily inviting people from the list over the coming weeks so keep an eye on your email. Don’t forget, the process is still quite janky so please be nice; we’re just trying to get you onboard as soon as possible. Thank you to everyone who’s been part of the preview so far — we can’t wait to massively expand it over the coming weeks!

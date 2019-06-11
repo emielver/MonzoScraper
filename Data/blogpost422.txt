@@ -1,0 +1,20 @@
+Title: Split The Bill Using Monzo.me on Android
+Author: Tristan Thomas
+Position: Product Manager
+Date: 15 Mar 2017
+
+
+Less than a month after we launched the ability to split the bill using Monzo.me on iOS, we’ve just released the functionality on our Android app too with version 1.5.3! Download it from the Play Store now.
+Split with Monzo.me
+You can now split bills with friends directly from the individual transaction pages using Monzo.me. Tap on “Split cost using Monzo.me” to choose how many people you’d like to split with and we’ll automatically generate a link you can share with your friends on Whatsapp, Messenger, email or any other messaging app of your choice. Even Allo.
+
+
+
+As we mentioned last month, this is just the first step towards full Monzo bill splitting functionality. We want to make it as easy as possible to split bills and share costs with your friends, whether they’re on Monzo or not.
+Golden tickets
+This update also brings support for golden tickets to Android. Over the next few weeks, look out for a shiny golden ticket in your feed so you can invite your friends to Monzo and let them skip the queue.
+
+
+
+As with all our updates, we also fixed a multitude of bugs that were reported through our in-app chat and on the forum. Thank you and please keep the feedback coming!
+We’d love to hear what you think about this update! Let us know in the forum and through Play Store reviews.

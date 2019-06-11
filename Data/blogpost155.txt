@@ -1,0 +1,14 @@
+Title: Start spending immediately after signup with Google Pay
+Author: Kavi Dhokia
+Position: Android Engineer
+Date: 19 Nov 2018
+
+
+
+
+
+Hot on the heels of Apple Pay, we’re excited to announce that we’re bringing instant signup to Google Pay too!
+If you sign up to Monzo today on a compatible Android phone, you’ll be able to add your Monzo card to Google Pay immediately, without waiting for the physical card to arrive in the post. That means you could be signed up and spending within five or ten minutes!
+This is especially useful if you’re inviting friends or family to Monzo, because there’s no longer a delay — you can help them sign up and get them using Monzo in minutes.
+Alongside this, we’re also bringing “in-app provisioning” to Google Pay, which means you can add your Monzo card to Google Pay from the Account tab with just a couple of taps. No need to go to the Google Pay app to initially add your card.
+These are just a couple of the improvements we’re making to Monzo over the coming days, so look out more announcements later this week!

@@ -1,0 +1,37 @@
+Title: Introducing the Monzo Transparency Dashboard
+Author: Tristan Thomas
+Position: Product Manager
+Date: 6 Mar 2017
+
+
+
+
+
+
+
+Ever since Monzo was founded, we have tried to share as much as we can with our community. Even before the first Mondo card was printed, we invited people to our offices to test early versions of our app and give us critical feedback. As soon as we had Alpha cards towards the end of 2015, we started distributing them and asking people to tell us what they thought of our newly set up community forum. In our first major funding round in March 2016, we turned to crowdfunding to let our community own part of the bank and we followed that up by releasing our product roadmap to the public in May 2016. The month after, we published our first statement on ethical banking and built a page to specifically house it. Even when things go wrong, we try to be open with our customers about what’s happened — our recent post on the Cloudbleed bug and the payment failures we experienced yesterday are prime examples.
+As we receive millions of pounds worth of pledges for our second crowdfunding round and our community forum continues to grow at an incredible pace, we now want to take the next step and bring our transparency and openness efforts together in one place.
+Today, I’m incredibly excited to announce the launch of the Monzo Transparency Dashboard at monzo.com/transparency. This is the very first version — it’s a base we want to build on and expand from and we need your help to do that.
+
+
+      Visit the Monzo Transparency Dashboard
+  
+
+What?
+The Monzo transparency dashboard features links to all of our existing transparency efforts, from public product roadmaps to details of our investment ethics. Most of the current links are things we’ve talked about previously that now come together in one place.
+More importantly, the transparency dashboard has space for expansion and we want to ask you to examine our efforts and tell us where you think we can do more. There’s an empty box on the transparency dashboard, ready to be filled by you.
+Why?
+By bringing our transparency efforts together into one place we hope to encourage:
+
+
+A focus on transparency internally, as one of our key tenets and a continued effort to bring as much as possible into the open
+
+
+Our community to call us out when they think we’re not doing well enough! As our users, we are accountable to you and we have a responsibility to share an overview of the bigger picture wherever possible.
+
+
+This dashboard is another piece to this puzzle. It doesn’t solve every problem out there, but gives us a framework to continue building on.
+Next Steps
+This whole week, we’re going to focus on transparency at Monzo across our blog and social platforms.
+Later this week, Jonas, our CTO and co-founder, will write about how we encourage internal transparency within the company, while Maria, our Head of People, will share an update on diversity and inclusion at Monzo and what more we plan to do. Both of these will then be added to the Transparency dashboard to help you keep track of them. Over on Instagram, #MonzoStories will continue to find exciting goings on within the office and meeting the people who make it happen!
+After this week, we’ll continue to listen to your feedback and open Monzo up to our community even more. We have some exciting things in the works so watch this space! We’d love to hear what you think over on the community forum, on social media or privately on email. Thank you ❤️

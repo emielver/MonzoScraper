@@ -1,0 +1,99 @@
+Title: Our vision to help people earn more from their savings
+Author: Ankit Kumar
+Position: Savings & Investments Team
+Date: 26 Apr 2019
+
+
+
+
+
+Over the past few months, we’ve spent a huge amount of time working on savings at Monzo. We’ve been researching the market, talking to banks and building societies, getting customer feedback, and then designing and building a competitive and convenient savings offering for you.
+Over the next few weeks, we’ll be announcing a series of new partnerships that will lay the foundation for a true savings marketplace. We wanted to lay out our future vision for that marketplace.
+Today, most people don’t get enough back for their savings
+Financial Conduct Authority (FCA) data shows that almost 50% of the money held in easy access savings accounts in the UK is earning less than 0.5% in interest. Around 77% is earning less than 1%.
+"Almost 50% of the money held in easy access savings accounts in the UK is earning less than 0.5%"
+Most people in the UK today could get a better deal on their savings, but they don’t.
+Why not? Well the FCA looked into this too, and found that:
+
+
+People tend to keep spare cash in their current account rather than savings accounts, even though the latter provides better rates.
+
+
+The best easy access savings rates are with smaller or specialist banks, but many people don’t want to deal with the hassle of having multiple bank accounts and moving money between them.
+
+
+Big high street banks generally pay lower rates on savings accounts, or offer teaser rates that get significantly worse after the first year.
+
+
+This table shows the median average interest rates for different accounts (not including ISAs) in February 2018
+
+
+
+Account type
+Major banks
+Small retail banks
+Building societies
+Specialist lenders
+
+
+
+
+Business current account
+0.00%
+0.00%
+0.10%
+0.00%
+
+
+Personal current account
+0.00%
+0.00%
+0.10%
+0.00%
+
+
+Savings: Instant access
+0.35%
+0.50%
+0.50%
+1.05%
+
+
+Savings: 1 year
+0.60%
+1.20%
+1.00%
+1.55%
+
+
+Savings: 2 years
+0.80%
+1.10%
+1.40%
+1.61%
+
+
+
+Source: FCA Strategic Review of Retail Business Models, June 2018
+We attempted to solve some of these issues when we launched our first Savings Pot late last year. We made it effortless to open an easy access savings account – with just a few taps, you could move money over to an account offering a competitive rate, and keep track of it alongside your daily account balances.
+We can help people get more for their savings
+Our first Savings Pots  turned out to be hugely popular, with customers putting in millions of pounds per day. It proved so popular that we had to temporarily pause this savings option while we found more partners to help us offer other savings accounts.
+Other banks saw what we were doing and asked if they could also offer savings accounts to Monzo customers. By relying on the fact that we’re a fully licenced bank that’s already done identity verification of our customers, our easy-to-use app and market-leading customer service, we make it easier and simpler for those partner banks to raise the deposits they need.
+We allow other small banks and building societies to focus on what they do best; raising savings deposits and lending that money out; typically to people who want to buy homes or are looking to finance their businesses.
+In contrast, that’s not our business. Instead, we offer digital current accounts and award-winning customer service. By working with other banks, we can help our customers get higher interest rates than we could provide ourselves.
+But there’s a cost to providing great current accounts and award-winning customer service. We need engineers to build everything, designers and user researchers to make it all simple to understand and use, and customer support people to provide 24/7 assistance. To help finance this, we charge a 0.20% commission to our savings partners, which will help make Monzo sustainable in the long-term and will always be made clear when you sign up.
+We’re building a marketplace
+By building a marketplace, we can allow banks and building societies to decide what interest rate they’d like to offer customers based on how much money they want from them. Today, we’re live with one bank (OakNorth) offering an Easy Access ISA account (paying 1.14%) and fixed term savings accounts (paying up to 1.55% for 12 months).
+Over the coming weeks, we’ll be bringing other providers into the marketplace — all with competitive rates. Each partner bank decides how much interest it offers to customers, which largely depends on the volume of deposits they’re looking to attract.
+As we get more people saving through Monzo, and more banks look to offer savings products through our marketplace, we expect rates to improve further for customers.
+This is just the beginning
+We can’t guarantee to always offer the best possible savings rate, and you may get a different rate if you go to the savings provider directly. But we do believe that:
+
+We can make it simple for customers to get a great interest rate, all visible in one place
+We can make it simple for other banks to raise deposits to fund their lending business
+We can make Monzo sustainable by earning a small fee from the other banks
+
+Our aim is that in six months’ time, our savings marketplace will be extremely competitive, with a wide range of options for all of our customers. People can continue to go direct to any savings providers that we don’t offer, and we’ll be bringing on new options based on demand and customer feedback.
+Of course, we realise that access to savings is just one part of our customers’ financial lives. We’ve written in the past about building a fully-featured financial control centre that lets you see all of your money in one place.
+Over time, we’d love to offer investment products and visibility of your pension pots, helping you see where all your money sits.
+As ever, we’d love to hear your feedback.

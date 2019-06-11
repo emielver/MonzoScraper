@@ -1,0 +1,59 @@
+Title: Disclosing mental health to your bank
+Author: Stuart McFadden
+Position: Head of Financial Difficulties
+Date: 18 May 2018
+
+
+Telling your bank about your mental health might seem like a strange thing to do. And understandably, a lot of people don’t.
+In a 2011 report by the mental health charity Mind, people shared some of the reasons that make them apprehensive:
+
+I didn’t believe my bank would understand my mental health problem
+I wasn’t aware it would make any difference to how they dealt with my debt
+I was concerned about what they’d do with the information
+I thought I’d be treated unfairly if I did
+I was worried it would stop me getting credit in the future
+
+But there are times where it can actually be really useful to tell your bank about your problems, especially when it comes to borrowing money and getting into debt.
+Money and mental health are inextricably linked. Your mental health can have a real impact on your money, and the other way around. For example, almost 1 in 4 people with a mental health problem are also likely to have problem debt, compared to the 1 in 10 people with problem debt who don’t.
+
+
+
+You might never choose to tell your bank about your mental health problems. And of course, that’s totally fine. But I want to explain how it might help your bank support you better, and how it works if you do decide to tell Monzo.
+How can we help?
+Dealing with debt compassionately
+Like all lenders, we have to get in touch with people who miss repayments or go beyond their lending limits and stay there for a while. We need to find out what’s happened, and work out how they’ll pay us back.
+We approach this process in the most empathetic, understanding way we can. And our priority is to find out what’s happened, work out how we can support you, and point you towards the right sources of advice. We’ll never send you letters with angry red writing, or a barrage of calls trying to get you to pay.
+Although we try to take a more understanding approach, we know that reminding you about your debts when you’re in the midst of a mental health crisis isn’t helpful, and is likely to be really detrimental to your recovery.
+Research carried out by the Money and Mental Health Policy Institute shows over 20,000 people in England were struggling with problem debt last year while receiving treatment for a mental health crisis.
+If you owe Monzo money and are having mental health problems, it’s useful for us to know. If you tell us, we can work out what we can do to support you – whether that’s changing how often we contact you, pointing you towards other sources of support and advice, or just leaving you alone for a while.
+The Money and Mental Health Policy Institute ran a successful campaign to get the government to require lenders to give people with mental health problems “Recovery Space”: some room to focus on getting better, free from fees and charges and without being contacted by creditors.
+This isn’t a requirement yet, but at Monzo we already let people with mental health problems ask for a break, where we won’t contact them about debts so they can focus on their recovery.
+Excluding you from particular products
+If you have mental health problems that mean you spend impulsively or overspend, you might be worried about getting into debt.
+To reduce the risk of getting into debt, you might prefer not to use lending products like our overdraft. So you could ask us not to market or make any lending products available to you at all.
+If you don’t want to exclude yourself from lending products entirely, it might be more useful to put some “positive friction” in place.
+
+
+
+If you tend to spend impulsively, we could give you a few days to consider whether you want to borrow money from Monzo, before we give you access to an overdraft. That could be by removing the option to apply for an overdraft through the app, so you have to have a conversation with customer support and wait for a day or two before you have the option to open an overdraft.
+Designing product features to support you
+In the same way that we listen to your feedback on our community forum, and use it to inform the way we add features to the app, if you tell us about the problems you’re facing and explain how we could help, we can use that knowledge to develop features that support you.
+For example, we heard from a lot of vulnerable customers that they’d find it useful if we helped prevent them from making gambling-related transactions. As we shared earlier this week, we’ve already started work on this feature and hope to bring it to the apps in the next few weeks.
+We record the feedback and requests we get about what we can do to support Monzo users with mental health problems, and we’ll use that information to inform the way we develop new features.
+How will we use your information?
+If you do choose to tell us about a mental health problem that impacts your money, we’ll take the lead from you. You can tell us what you’d like us to do, and how we can help you.
+We’ll never use what you tell us in a way that will be harmful or damaging to you, and we’ll always let you know if and how we intend to act on the information you give us. Of course anything you share will stay strictly confidential, will never be shared outside the company, and we’ll only record it with your explicit consent.
+So, should I tell my bank?
+We’ve explained a bit about how Monzo can help if you choose to tell us about mental health problems that impact your money. Of course, what other banks can do depends on how well they’ve been set up to help you, and it’s worth doing some research to find out what they offer.
+If you aren’t sure about whether you need to tell your bank or not, I’d recommend thinking about the following question:
+“Does my mental health affect the way I deal with my money or the relationship I have with my bank?”
+If the answer’s yes, it might be good to consider telling your bank.
+How can you tell Monzo?
+
+
+
+Right now, if you want to tell us about a mental health issue that might affect your money, you can start a conversation with us through in-app chat.
+But we want to make this process easier, and find better ways for you to tell us from the app. That might be when you create your account and start using Monzo, or at any point afterwards.
+Whether the issue you’re facing is temporary or permanent, telling us could help us do the right things to support you, and make Monzo into a more responsible product for all our users.
+It can help us do things like letting you opt out of lending when you sign up, or find a new way to verify your identity if you find it tricky to take selfie videos.
+Sharing this information will always be an option, a choice that’s totally in your control to make or not.

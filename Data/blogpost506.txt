@@ -1,0 +1,46 @@
+Title: The Mondo API
+Author: Jonas Huckestein
+Position: Mondo CTO
+Date: 3 Feb 2016
+
+
+We’re excited to release the first version of the Mondo developer tools at developers.monzo.com for everyone with a Mondo Alpha account. This makes it dramatically easier for any Mondo customer to immediately get started with the Mondo API and build apps using their own data. Not yet got Mondo? Sign up now at monzo.com!
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+The Mondo developer portal
+
+The API will let any Mondo customer quickly download and play with their own data. People have already built dozens of different tools—check them out in this list maintained by a member of our developer community.
+
+
+A web app built on top of Mondo by James Allison at a recent hackathon
+
+Not just for developers!
+Anyone should be able to play with their own banking data, not just developers. We want to make it as easy as possible for anyone to access their data, export it or analyse it without any prior programming knowledge. We’re working on some integrations at the moment that should make this really quick and easy.
+In the future we see our developer tools as an opportunity to make working with APIs and data more accessible for everyone. We could even use our API as a tool to teach people basic software development skills using their own banking data. If you have any ideas about this in particular, we’d be keen to hear them at [email protected].
+
+
+The developers' playground 😀
+
+Current Limitations
+Our API and developer tools are currently very much a prototype. It’s likely that there will be backwards-breaking changes!
+In near future, we’ll allow developers to build applications that can request access to other customers’ data on an individual basis, using OAuth 2.0. For example, in the future you could make an accounting app that connects to Mondo and customers could authorise you to access their account to extract their expenses.
+However, there are several important questions around data security and privacy that need to be answered before we can allow developers to publish apps that can access other people’s data. In the short-term, if you want to whitelist a handful of your friends to use your application, please let us know.
+We want to make it as easy as possible for developers to build applications that leverage our customer’s banking data without compromising the safety of our users.
+We should have an update on this within the next 2-3 months so watch this space!
+
+We recently updated our name to Monzo! Read more about it here.

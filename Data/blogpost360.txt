@@ -1,0 +1,45 @@
+Title: We’re Building Monzo into a Marketplace
+Author: Phil Hewinson
+Position: Head of Partnerships
+Date: 16 Nov 2017
+
+
+Money touches every part of our lives. We use it to do day-to-day things, like to get from A to B. And at major milestones, like buying a house or moving abroad.
+However, instead of thinking about how money fits into the way we live, and how it can help us achieve our goals and ambitions, the big banks have built their business models around selling financial products. After attracting people with loss-making introductory offers, they make money by cross-selling higher-profit products like mortgages, loans and credit cards.
+It’s difficult to decipher the difference between these almost-identical products, so we tend to choose our banks for relatively arbitrary reasons, then stay with them forever, allowing them to fulfil all our financial needs. According to Wired UK, since 2013 only 5% of an estimated 70 million account holders in the UK have ever changed their bank.
+Because we stay so loyal, banks aren’t incentivised to deliver better products or lower prices, and the customer ends up losing out.
+Luckily, over recent years a raft of technology companies have emerged offering smart, market-leading products in specific areas like savings, insurance, currency exchange or money transfer. You can sign up quickly, they’re easy to use, offer great customer service and good value.
+These companies give people more choice and better options. They’re great for the customer, and if you’re well-informed and shop around, you can get your hands on a really good deal. However, dealing with a dozen discrete providers – each with their own app – isn’t always the easiest thing.
+We believe that managing your money should be easy. That you should be able to make the best financial decisions with very little effort, and control all your finances from one place.
+To help you do that, our goal is to build a financial control centre, a single hub that you can use to manage your entire financial life. In order to give you access to the best products and services from across the market, we believe that hub should be a marketplace.
+
+
+
+A new kind of banking
+Imagine being able to instantly move any money you have left over at the end of the month from your Monzo account into an ISA of your choice, that suits your needs and situation. You could see and manage those savings, all from within the app.
+Or let’s say you go to a jeweller to buy an expensive gift, and pay for it using your Monzo card. Imagine being able to insure it from within the app in a single click, so you have peace-of-mind before you even leave the shop.
+These are the kinds of seamless, relevant, convenient experiences we’re aspiring to build across all categories – from savings and investments, to mortgages, utilities, insurance and beyond!
+Building a marketplace
+Tom wrote that “the bank of the future will be a marketplace” back in February 2016, and we’re now at the exciting point where we can really start work on making that vision into a reality.
+I joined Monzo as Head of Partnerships in May, and have been busy meeting with dozens of potential partners to set out a plan of action, and launch some early tests. I’m also building out a team of product managers and engineers, who’ll own these experiences and actually build them. Practically, our plan is to start building a Monzo marketplace in the following way.
+First, we’ll work to identify opportunities where we can make your life easier in the most convenient, relevant way possible.
+That could be by helping you save money. For example, if your Direct Debits come out of your Monzo account, we can work out whether you can get a cheaper deal on your energy bill or a better rate on your mortgage. We’ll help you seamlessly switch provider and save money, in just a few taps.
+It could also be by making helpful suggestions. Say you’ve just bought a flight, booked a hotel, or landed in another country. We’ll know if you don’t already have travel insurance, and will be able to offer you a choice of cover. You could then buy insurance from within the Monzo app, so you’re protected while you’re away.
+We also plan to build APIs for specific product categories, so partners can integrate with Monzo and offer their services to users from within the Monzo app. And a general API will allow third-party developers to do the same thing. This will give customers access to a broad range of products and services, in the same convenient, super relevant way.
+Choosing the right partners
+A marketplace will only work if you trust us, and feel confident that we can help you access products and services that you can trust too. We know it’s important that we partner with companies whose values we believe in and respect.
+Therefore, we’re seeking to work with partners that provide great customer service, good value, or that can offer other qualities that matter to our users, like renewable energy, for example.
+Building a sustainable business
+Our goal is to build a company that’s here to help customers for years and years to come. Building a marketplace and partnering with other companies will play a large part in our plan to build a sustainable business.
+When we help people save money by introducing them to a new provider, we’ll be able to earn commission on every customer we refer.
+In the tests we’ve done so far we’ve taken an up-front fixed fee from the supplier, and split it 50/50 between ourselves and the customer.
+However, we’re exploring other models because we believe we should be economically incentivised to give value to our customers. For example, if a customer will save money or keep getting great service by sticking with their existing energy provider, we shouldn’t stand to earn money by encouraging them to switch anyway.
+With an ongoing revenue share model, we’d be paid a proportion of the profits a supplier earns from each customer over a period of time, meaning we make money when customers are getting a good deal.
+We want to find the fairest way of being paid, and will continue to test different approaches, to make sure we find something that fits in each case. You can have your say in the discussion on the community forum.
+Aligning our incentives
+We’re building a bank that solves people’s problems, which means that our incentives and our customers’ incentives need to be the same: what benefits us, should also benefit you.
+Instead of trying to flog you products where we know we’ll make a higher profit, in this marketplace model, we make money by helping you save, manage or make the most of your money. We believe that this will be a total departure from the distrust and duplicity at the heart of banking as we know it.
+Because our incentives are the same, you’ll be able to trust that we’re never trying to hoodwink you into taking a bad deal, and feel confident that we’re hard at work, making sure you have more choice, control and access to the best products and services from across the market.
+
+Phil answered some of the community’s most pressing questions about partnerships at a recent Open Office event.
+You can find out more about our early tests on the blog, tell us what you think on Twitter and get involved in the discussion on the community forum.

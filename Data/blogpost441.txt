@@ -1,0 +1,57 @@
+Title: Designing a product with mental health issues in mind
+Author: Zander Brade
+Position: Designer
+Date: 27 Jan 2017
+
+
+Zander is a designer at Monzo, whose focus is to create a world-class experience for Android and iPhone that is as powerful, simple, and accessible for all of our users.
+Every year in the United Kingdom, roughly 13,000,000 adults will face a mental health issue. That’s one quarter of the over-18 population — affecting family, friends, perhaps yourself — a wide and complex issue that, while still layered with taboo, is becoming more openly discussed and tackled than ever before.
+For those who work in consumer products, for every company that hopes to serve a billion or more people, there is a challenge and responsibility to build products in a way that serves and supports customers who are the most vulnerable.
+And for us, as a newly licensed bank, this is not something we want to just get right; it is something that we want to set the industry standard for, and always continue to push forward.
+
+
+
+It’s something we’ve had on our minds as a team for some time. Back in July of 2016, Polly Mackenzie of the Money & Mental Health Policy Institute (MMHPI) came to our office to discuss her work with us, while brainstorming ideas for what we could do to make Monzo a powerful, helpful and, in many ways, unique financial service for people suffering from mental health problems.
+Just earlier this week, the MMHPI published findings from a report, that you can read about on the BBC website, outlining how retail banks must be more proactive in their approach to managing and providing for a financial service that works for sufferers of mental health problems.
+From Regulation, to Financial Difficulties, to Customer Support, and Product, how we support these customers is something that touches many different areas of our business. Part of the role of a product designer is to consider features we could implement that may remedy the issues of our vulnerable customers.
+Positive Friction
+Friction is an ugly word — even in pronunciation it creates a collision in your mouth — and when it comes to the user experience of a product, digital or otherwise, friction is possibly one of the last issues you’d wish to have.
+However in some cases, considered, designed friction will have a positive effect.
+An example I regularly consider is the UK’s 1998 redesign of Tylenol pill packaging. By switching from bottles to blister packaging, Tylenol related suicides declined 43% with accidental poisonings significantly shrinking too. The reason for this was simple, where in the original bottle packaging a person could open the cap and ingest more than enough pills to overdose in one swift movement. In the new blister packaging, by decreasing the amount of pills in the pack and forcing the person to individually pop each one out of its casing, enough minor friction was created to drastically bring down suicide numbers. This was all achieved without hindering the experience for those using the pills for medical reasons.
+So perhaps there’s ways we can use friction to our advantage in Monzo. Undeniably, it’s still a tough mindset to start operating in as a product person, for the tech industry and nature of startups push us toward quicker-simpler-cheaper results for the user in every way, something that has revolutionised consumer behaviour in the last five years. Our Amazon culture, where with a single tap you can have a brand new camera delivered to you within the hour, or lunch on Deliveroo, a ride anywhere with Uber; products that aim to nullify all the speed bumps of inconvenience that long frustrated their market.
+If you are familiar with Monzo, you’ll know that this is what we’re trying to do, too: removing all the archaic and unnecessary clutter that comes with traditional banking, to make managing your money as simple as posting on Facebook or replying to an email.
+But how does one balance this fluidity with the necessity to provide safety barriers for customers who need it most?
+The simplest way to start may be adding optional functionality for customers inside of our settings. Take accessibility options on iOS, where some of the included options (such as Larger Text or Colour Filters) can be the difference between a fully-functional phone and a shiny, obsolete rectangle for many people.
+
+
+
+The example provided above is a concept that would serve to help protect spenders who purchased unwanted things online late at night. Research undertaken by the Money & Mental Health Policy Institute found that many sufferers of bipolar disorder tended to overspend on needless items — often late at night — while in a manic phase, only when morning came to be faced with this reality. With no way to remedy their mistake, people can then find themselves slipping into a depressive state. That is a dangerous, daunting place to be.
+Implementing a method of double checking with the user the following day if they’d like to follow through with their purchases could provide a big and necessary safety net. Granted, there are some forms of online purchase that cannot be revoked, but for those where that is a possibility (whether it be through immediate cancellations or even just product returns), Monzo has your back, and is present to safeguard our most vulnerable customers when things go wrong.
+
+
+
+In a similar vein, it may make sense to allow a designated carer to help verify and approve your purchases. From examples we’ve come across we know of customers who, being aware of their liability to spend recklessly when unwell, would appreciate the validation of a trusted carer to check their larger expenses.
+In the above concept, the user has decided that every time they make a purchase of over £100, a chosen family member should be alerted to make sure these purchases were made in a fit state. If they were not, they can easily be stopped before harm is done.
+Both of these features are speculative, they’re early drafts, and not axiomatically something we will introduce to Monzo. Even in these relatively early days of the product though, it is vital to consider ways we can harness our technology, data, and outside research to build similarly powerful features.
+Pre-emptive action
+Sometimes there are opportunities to prevent financial troubles by acting in anticipation.
+Take monthly income as a data point from which we can foresee potential financial struggle. If, after a period of stable income, we notice one or more months without a salary paid into your account, our pro-active account monitoring tools could help us be there to support you before your livelihood is seriously affected.
+
+
+
+When our system notices that your income has halted, we could send a notification into your feed, in a manner akin to how we hint at different features the users can try. Without accusation or interrogation, a simple prompt may begin the conversation that could ease hardship.
+As part of procedure our Head of Financial Difficulties, Stuart, will also reach out to the customer to provide support and information if needed. Even before that, though, we want them to understand that Monzo is a channel for support, rather than a window to further trouble.
+It’s worth noting that a missing salary is by no means a defining factor of redundancy, or furthermore, mental health troubles — but unemployment is inextricably linked to debt problems, as debt problems are to mental wellbeing. One in four adults with a mental health problem are also in problem debt. As you would expect, the more unpaid bills you have, the greater stress impact it has on your life, and greater stress results in a worsening mental state. This is a perpetual, fast cycle, but one that I believe Monzo has a duty to recognise and fix as best we can.
+Another step we can take in supporting vulnerable customers is allowing them to choose their preferred form of communication.
+
+
+
+While the high majority of our customer support is done through in-app chat, we are regularly in touch with our users via email or phone calls. However, for many people speaking on the phone is something that can cause great anxiety, or accessing emails isn’t straightforward, or perhaps they find the Intercom method of chat unusual.
+The ability to choose how they want to receive support is such a simple, yet powerful, change we can add to secure the pleasant experience of all of our customers. Setting a preferred time too, for some would rather know they have another person by their side as they spoke to our team.
+An easy win that not only helps eradicate anxiety for this person, but also enables us to provide the highest quality of support for our vulnerable customers.
+Moving forward
+To go further than just getting this right — to set the standard for how products can work for those suffering from mental health problems — will be a long and interesting process. As our data grows in conjunction with outside research on how mental health affects spending, more light will be shed on how we can best serve the widest range of customers.
+While the concept designs are still very rough ideas, and will surely transform heavily by the time they enter the app, I see it as imperative to be considering such features as early as possible, as well as opening the discussion to our community of users sooner, rather than later.
+Finally, as frustrating as it is for anyone building a product, it’s important to remember nothing you build will be able to cater perfectly to 100% of users. It is unattainable, even with the smartest design. However, a far greater vice than that is letting people slip through the cracks. If the experience of our product let someone down, then it is our duty to not just rectify that but to stop it happening again.
+I’m confident in our ability to lead this industry in our approach to aiding those with mental health problems, and I’m incredibly excited by what we have to learn.
+PS. If you find challenges of this nature exciting and interesting, we’re hiring a designer!

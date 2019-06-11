@@ -1,0 +1,22 @@
+Title: Fighting Financial Crime the Monzo Way
+Author: Gemma Rogers
+Position: Head of Financial Crime
+Date: 31 Jan 2017
+
+
+If we want to disrupt traditional banking and sustain trust amongst our user community, keeping your money safe is a priority.  One element that we are passionate about, but haven’t talked about much until now, is protecting our users from fraudsters and criminals, and all the work that goes into deterring and detecting financial crime 💸  This week, we’ll be sharing a series of blog posts from our Fincrime and Security team, talking about our efforts to tackle financial crime here at Monzo.
+Our Head of Financial Crime, Gemma, introduces Security and Fincrime Week with an insight into our overall approach and ethos.
+
+Prevent, deter and detect.
+At its core, our aim is to prevent, deter and detect any instances of possible financial crime committed against either Monzo, or Monzo customers. This provides appropriate protection, but also helps us to create a long term and sustainable business model by making sure we don’t lose money to fraudsters and that our bank is not targeted by criminals looking to launder funds.
+It’s important that we understand the impact of financial crime, not just on the bank and our customers, but also on society as a whole. We run staff training sessions every month on different aspects of financial crime, from anti-bribery and corruption to counter-terrorist financing, often referencing real life examples of financial crime that we have seen at Monzo (forged identity documents, suspected money laundering, and large criminal rings using stolen card details). We firmly believe that if every member of the customer support team has the skills to  detect suspicious behaviour then they are better equipped to provide informed and responsive solutions for our genuine customers.
+There are a number of protective technical controls that we use, but we’ve tried really hard to make sure we keep any impact on our customer experience as low as possible.  A great example of this is the “freeze card” option, which users can access with the tap of a finger if they detect an unexpected transaction on their card. This is  a much lower friction process than most high street banks implement, who often start with a frustrating phone call requesting lots of personal details without offering any context for the customer.
+A step ahead
+We try to stay up-to-date with the latest typologies and how these are utilised by financial criminals to launder their illicit gains, as tactics are constantly evolving and we need to stay as far ahead as possible. To help us with this, we are using industry-leading techniques such as our machine learning engine to monitor customer and account behaviour. This helps us to understand and adapt to the latest indicators of potential illicit activity.
+Additionally, we’ve tried to keep our onboarding process as streamlined and easy as possible, while also making use of techniques such as video identification verification.  Absolutely anybody should be able to sign up for and receive a Monzo card with as little friction as possible, in a matter of minutes. Ultimately, the security of our genuine customers should not be compromised by our efforts to fish out fraudsters 🎣
+
+
+
+Building trust
+We hope too that our proportionate approach to managing financial crime risk helps us to achieve our other goal of promoting financial inclusion; many de-risking programmes at traditional banks have meant that fully legitimate parts of the population have been cut off from the banking system, and that’s something we want to avoid.  We are confident in our customers, and want them to be confident in us.
+We hope you’ve enjoyed this post, watch out for more detailed posts from our Fincrime and Security team later this week! If you have any questions, please get in touch via customer support, on  the community forum, or on Twitter.

@@ -1,0 +1,79 @@
+Title: You can now open an ISA through your Monzo app 🎉
+Author: Moshe Raphaely
+Position: Product Manager
+Date: 4 Apr 2019
+
+
+We’re excited to announce that you can now open a cash ISA (Individual Savings Account) through the Monzo app! We’ve teamed up with OakNorth so you can open an ISA and save money, without paying tax on the interest you earn.
+We’re launching them in time for you to deposit money before the end of tax year deadline (which is Friday 5th April).
+You’ll need to deposit a minimum of £500 to open one. In both the current and next tax year (2018–19 and 2019-20), you’ll be able to pay up to £20,000 per tax year into your ISA. But, you can only open one cash ISA per tax year.
+We’ve launched with an interest rate of 1.14%. OakNorth will pay you the interest you’ve earned on the last working day of each month.
+In future, we’ll be launching fixed savings options and ISAs, to give you higher interest rates on money you put away for a fixed amount of time.
+How to open an ISA in the Monzo app
+
+Head to the Account tab in your app
+Tap ‘Create Pot’
+Select ‘Flexible Savings Pot’
+Tap ‘Open a Savings Pot ISA’
+
+
+
+
+You can only pay into one cash ISA in the same tax year
+It’s really important that you don’t pay into more than one cash ISA (which includes Help to Buy ISAs) in the same tax year. So if you’ve opened a cash ISA since 6 April 2018, you’ll have to wait until 6 April 2019 to open another one. But if you’ve paid less than £20,000 into another type of ISA this tax year - such as a Stocks & Shares, Lifetime or Innovative Finance ISA - you’ll be able to pay into a cash ISA with Monzo this tax year.
+To find out more about how ISAs work, read our guide.
+You can’t transfer money from an existing ISA
+Unfortunately, right now we can’t let you transfer money from an existing cash ISA into an OakNorth one - but it’s something we’re hoping to introduce in the next few months.
+We’ve teamed up with OakNorth to bring you ISAs
+We’re offering ISAs from OakNorth because they offer some of the best savings rates on the market, and are as committed to innovation as we are….
+And so you know, we earn 0.2% from OakNorth on the money you save.
+We’re working on making Savings Pots available again
+In February we had to temporarily stop people from creating new Savings Pots. They’d been so popular that we reached our savings limit with our provider Investec sooner than we expected.
+Even though we’re launching ISAs, we still can’t let you open regular Savings Pots. We’re hoping we can make them available again soon, and we’ll let you know when they are.
+Your money’s protected by the FSCS
+Any money you put in a Savings Pot (including a cash ISA) is covered by the Financial Services Compensation Scheme (FSCS). That covers £85,000 across any savings you have with OakNorth through your Monzo account, as well as any money you’ve deposited at OakNorth directly.
+Any money in your main Monzo account is also protected up to £85,000 by the FSCS, and is separate from your savings.
+You can read more about how FSCS protection works here.
+
+
+        Use Pots to organise your money and see your savings grow with Monzo! 😀 
+    
+
+        Download Monzo
+    
+
+Summary Box
+
+
+
+Account name
+Flexible Savings Pot ISA from OakNorth
+
+
+
+
+What is the interest rate?
+1.14% AEROakNorth calculate interest daily. You’ll see the interest you’ve earned on the first calendar day of every month.
+
+
+Can OakNorth change the interest rate?
+Yes, OakNorth have the right to change the interest rate at any time for their own reasons. If the change negatively affects you then we’ll let you know at least 30 days before they make the change.If the change doesn’t negatively affect you, they’ll announce it on their website and increase your rate on the 1st day of the following month. We’ll then let you know within 30 days of the change being made.
+
+
+What would the estimated balance be after 12 months based on a £1,000 deposit?
+At the current interest rate:£1,000 would earn £11.40 interest after 12 months, for a final balance of £1,011.40This is just an example, and not based on your individual circumstances. It assumes that you don’t add or take out any money during the year.
+
+
+How do I open and manage my account?
+This account is available to all UK residents over the age of 16 with a minimum balance of £500. You’ll open and manage this account through your Savings Pot in the Monzo app.You can hold a maximum of £500,000 across all of the Savings Pots you have from OakNorth. The maximum amount you can deposit into this Savings Pot is whatever the current tax year allowance is for ISAs. If you change your mind you can cancel your account up to 14 days after you create your Savings Pot.
+
+
+Can I withdraw money?
+Yes, you can take out money at any time but it won’t reach your account until the next working day. If you want to take money out and you have less than £500 in your Savings Pot, you have to withdraw your full balance and close your account.
+
+
+Additional information
+Depending on your circumstances, you might have to pay tax on any interest you earn. You can get professional tax advice, or find more information on the HMRC website.
+
+
+

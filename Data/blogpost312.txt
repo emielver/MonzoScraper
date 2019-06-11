@@ -1,0 +1,221 @@
+Title: Monzo’s gender pay gap
+Author: Tara Mansfield
+Position: Head of People
+Date: 12 Apr 2018
+
+
+The gender pay gap is the difference between the average earnings of people who identify as men and women, throughout an organisation and across all roles.
+Companies with over 250 staff are legally required to publish a snapshot of their gender pay gap on the 5th of April each year. We weren’t required to submit our data in 2017, as we only had 90 employees. But since then we’ve grown to more than 300, and are now required to share our numbers.
+We want to be transparent and publicly accountable for the way we treat our staff, so we’re sharing our data for both 2017 and 2018 today.
+Why is it important?
+The gender pay gap gives companies and the public a new way to understand inequality at work.
+While it does still happen, The Equality Act makes it illegal to pay a woman less for doing the same work as a man. But comparing like for like doesn’t tell the whole story. It’s also important to take into account the different kinds of roles that people who identify as men and women actually occupy, the different salaries associated with those roles, and the reasons behind that disparity.
+Compelling companies to publish the average difference between the way men and women are paid overall should also expose the economic effect of gender disparities at senior levels, or in higher-paid parts of the company.
+Gender pay gap reporting brings the problem to light, and makes companies publicly accountable for doing something to fix it.
+Our numbers
+These numbers are a snapshot of Monzo employees’ pay on 5th April 2017 and 2018. You can see the average hourly rates that we paid people who identify as men and women on those dates, and the percentage difference between them. You can also see the percentage of men and women in each pay quartile.
+2018
+
+
+
+ 
+Women
+Men
+Gap
+
+
+
+
+Mean hourly rate
+£19.98
+£23.25
+18.34%
+
+
+Median hourly rate
+£13.89
+£16.17
+14.07%
+
+
+Mean bonus
+£587.92
+£700.81
+16.11%
+
+
+Median bonus
+£2,050.00
+£1,830.00
+-12.02%
+
+
+Proportion getting a bonus
+22.64%
+24.49%
+7.55%
+
+
+ 
+ 
+ 
+ 
+
+
+Upper quartile
+20.00%
+80.00%
+ 
+
+
+Upper middle quartile
+38.16%
+61.48%
+ 
+
+
+Lower middle quartile
+32.89%
+67.11%
+ 
+
+
+Lower quartile
+49.33%
+50.67%
+ 
+
+
+
+2017
+
+
+
+ 
+Women
+Men
+Gap
+
+
+
+
+Mean hourly rate
+£19.16
+£25.99
+26.27%
+
+
+Median hourly rate
+£13.42
+£25.63
+47.66%
+
+
+Mean bonus
+£5,000.00
+£8,166.67
+38.78%
+
+
+Median bonus
+£5,000.00
+£9,500.00
+47.37%
+
+
+Proportion getting a bonus
+3.85%
+4.62%
+16.67%
+
+
+ 
+ 
+ 
+ 
+
+
+Upper quartile
+18.18%
+81.82%
+ 
+
+
+Upper middle quartile
+13.04%
+86.96%
+ 
+
+
+Lower middle quartile
+47.83%
+52.17%
+ 
+
+
+Lower quartile
+36.36%
+68.18%
+ 
+
+
+
+
+
+
+Eight out of ten UK companies have a gender pay gap. And the finance and tech industries have some of the worst, with a median gap of 22% and 19.5% respectively.
+Today, Monzo’s median pay gap is 14.07%, down from 47.66% in 2017.
+There are a few reasons for the improvement: over the last year our team has more than trebled; some women have joined Monzo in senior positions; and women have also been promoted internally.
+We’re confident we pay equally for equal work. But our figures clearly show that we still have a lot to do to improve the number of women in higher-paid positions.
+Women aren’t well-represented in our senior leadership
+While 87 people who identify as women have joined Monzo since 5th April 2017, only four of them have joined our senior team. Of the six people in C-level positions at Monzo, at the moment there is only one woman: our Chief Risk Officer, Ruth. Because women aren’t well-represented in senior leadership, there is a huge disparity in the highest pay quartile.
+Engineers at Monzo are among the highest paid, and mostly identify as male
+There’s also a significant difference between men and women in the upper-middle pay quartile, which is where most of our technical roles sit. Engineering roles are among the highest paid in the company, but only 14% of our technical employees identify as women.
+We’re only close to parity in our lowest pay quartile
+So it’s clear that we need to continue to improve the overall diversity of our team, and in particular to grow the number of women in more highly paid roles like engineering and senior leadership.
+If we let the status quo continue, the problem will get worse. The only way to solve it is to put a practical plan in place to address the issues at every stage.
+That means we should strive for:
+
+
+Equality in the hiring process: so that everyone has an equal opportunity to apply for our roles, and that we don’t discriminate at any stage of the hiring process
+
+Equal representation in the workforce: so that genders are represented equally across the company, including in senior management, C-level positions and on the board
+
+Equal treatment at work: so that people doing the same work are paid the same salary, and that everyone is given the support and opportunity to advance their career
+
+Our work so far
+Establishing a salary framework
+We’ve been working to establish salary frameworks that detail how much we’ll pay for each role in relation to the level of skill, responsibility and experience you need to do it, and the impact it makes on the business. This will help us make sure we pay equally for equal work, and give our staff a tool that they can use to understand and advance their own career development.
+We review every salary every six months as a rule, and any raises should reflect and reward our achievements and abilities in relation to this framework, rather than because of our talent for negotiation. As our team continues to grow quickly, we’ll make sure the frameworks take new roles into account, and stay accurate and useful as we scale.
+Allowing flexible working
+So everyone can work in a way that suits them, we allow flexible working as standard. This can be especially valuable for parents and caregivers. No one’s asked to clock in and out, or spend a specific number of hours at the office. You can find a schedule that lets you and your team be as productive as possible. But that also suits your lifestyle and the way you like to work.
+Supporting shared caregiving
+So people can make the best decisions for themselves and their families, we have a shared caregiver policy. This means that anyone, regardless of gender, is entitled to receive our primary caregiver allowance. We also encourage new parents to share leave. If the person you care for is sick and you need to look after them, you can also take caregiving leave.
+Offering part-time roles and job sharing
+To help people balance other commitments, or simply find a better balance between work and life, both candidates and existing staff can ask that we offer any role on a part-time basis. We do our best to accommodate working schedules that don’t look like a standard Monday-to-Friday, 9-5. When we advertise part-time roles, we use specialist jobs boards and recruiters to make sure we’re reaching the right people, especially those who’d value the option to work part-time.
+Eliminating gendered job descriptions
+To make sure the jobs we advertise are appealing to everyone, we take careful measures to make sure we don’t use gendered language. Inclusiveness is a core principle of our tone of voice, and we don’t recruit for ‘rockstars’ or ‘ninjas’, or use any other terms or phrases that have been shown to deter women from applying. We also use tools to analyse our writing and make sure it’s welcoming to everyone.
+Having diverse interview panels
+To help make sure our hiring process doesn’t inadvertently discriminate, we make sure that demographically representative panels interview candidates. We train all our interviewers to understand and combat the biases we hold.
+More to be done
+We’ll continue to build on the work we’ve begun. And there are a few other areas we plan to tackle next.
+The hiring process
+When we use recruiters to help us hire for roles, we should work with people who have the skills, networks and understanding to help us build a diverse team. We’ll only work with recruiters who can:
+
+produce gender balanced shortlists
+give us advice on how to reduce unconscious bias during the hiring process
+introduce us to a diverse range of talented candidates
+
+We always hire and promote on merit, but will work hard to make sure everyone has the same opportunity to apply and excel, and that no one is disadvantaged at any stage of the process.
+Senior roles
+No one should be prevented from taking up a senior role because of their family commitments. And we believe that demanding, impactful job roles can and should work alongside other commitments. Last year we signed the Women in Finance Charter, pledging to improve the gender balance in our senior team.
+To make this more of a reality, we’ll speak to our staff, our community and seek external help and advice, to learn how we can improve our existing benefits package and our company culture, to design senior roles that are compatible with family life, regardless of gender.
+Company culture
+We’re building a high-performing team, but not at the expense of our home lives or mental health. Hard work doesn’t mean constantly skipping lunch, staying in the office until midnight, or working at the weekends. This kind of culture is damaging to everyone, and excludes anyone with other commitments or caring responsibilities.
+Instead, we want to create an environment where work-life harmony is the norm, so that working at Monzo can be accessible and appealing to everyone.
+We’ve already begun to make improvements to the way we support mental health and encourage wellness in the workplace, like introducing trained mental health first aiders and helping people access meditation apps. But there’s more we can do to help people stay healthy and productive, and prevent them from burning out. We’ll share more about our current work and future plans next month.
+There’s no way to justify our gender pay gap. We hope our current policies and plans for the future will help us make real progress towards closing the gap we have here at Monzo. But they’re only just the start.
+As we employ more and more people, our social responsibilities increase too. We have to take care that disparities aren’t amplified as we grow.
+We want to make sure everyone that works here is rewarded fairly and equally for their work, and supported to excel.
+
+Please share your thoughts and feedback with us in the discussion on the community forum. We’d love to know what you think about our work so far, and how we can do more to improve in the future.

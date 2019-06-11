@@ -1,0 +1,82 @@
+Title: Monzo Monthly Update: July
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 5 Jul 2018
+
+
+We spent June burning through the Big List, and we’re now halfway through! Plus we also added a bunch of other features, like international payments and our integration with IFTTT. Here’s your regular recap of everything that made it into Monzo last month!
+Done in June
+We partnered with TransferWise to help you send money abroad 🌍
+We started rolling out the ability to send money abroad in 16 of the most popular foreign currencies! Find out how it works, how much it costs, and which currencies we support in this blog post.
+We built a basic web interface so you can access your account in an emergency 💻
+If your wallet’s been stolen or you’ve lost your phone, Monzo Web lets you freeze your card and see your latest transactions.
+
+
+
+We launched Bill Tracker to tell you when a regular bill changes 👀
+Bill Tracker keeps track of your regular Direct Debits (like phone contracts and utility bills) lets you know if one of them changes.
+So if your energy provider raises their prices, or you rack up a big phone bill while you’re abroad, we’ll tell you how much it’s cost you, as soon as the money goes out of your account.
+
+
+
+We connected with IFTTT to let you automate your financial life ⚙️
+IFTTT is the world’s largest automation platform, and lets you personalise the way you manage your money.
+You can create your own rules (called “Applets”) that connect your Monzo account to the services you use all the time, like Twitter, Gmail, Spotify or Alexa!
+From saving money as you run with Strava, to fining yourself for eating fast food – we’ve gathered some of our favourite examples so far. And you can find out everything you need to know about what it is and how it works here.
+
+
+
+We let you block gambling spending, straight from the source 🚫
+To support people who are struggling with gambling problems, we’ve added the ability to block yourself from making gambling transactions with your Monzo account.
+You can switch it on from the app, and we’ve added some friction to make it harder to turn off impulsively. Here’s how it works and why we’re doing it.
+
+
+
+We made Summary predict your committed spending ➡️
+We added Direct Debits and Subscriptions to your committed spending section in Summary, which now estimates how much you’ll need to set aside for bills and other regular payments, based on what you spent last month.
+We added Travel Reports and fingerprint authentication to Android 🤖
+Travel Reports let you know what the current exchange rate is when you arrive in a foreign country and, when you get back home, tell you how much you spent while you were away. We added them to Android, so now everyone can keep on top of their spending overseas.
+
+
+
+Plus, we just gave Android users the ability to make payments with their fingerprints, without entering their PIN!
+
+
+
+We added custom icons to the Monzo iOS app 🏳️‍🌈
+Thanks to new functionality in iOS 10.3, you can customise your Monzo app!
+There are five new icons to choose from including exclusive ones for investors and Alpha and Beta users. And in honour of Pride in London this weekend, we’ve added a rainbow icon too!
+
+
+
+We told you our plans to help you pay in cheques, just by taking a picture 📸
+Right now you can deposit cheques into your Monzo account by sending them to us in the post for free. But we’re working on giving you a better way to cash cheques through the app, just by taking a picture!
+Read this blog post to find out out how to pay cheques into Monzo, now and in the future!
+
+To come in July
+In the coming month we’ll finish working our way through the Big List of features we promised to fix. You can see everything we’ll be doing here, but these are some of the highlights!
+Rolling out joint accounts 👯
+We been testing joint accounts with a few hundred people, and are gearing up to bring them to Monzo Labs in the next few weeks!
+Adding a PIN lock to the app for extra privacy 🔢
+You can lock your Monzo app with your fingerprint on both iOS and Android, but that’s not always available, or suitable for every situation.
+To give you an alternative, we’re looking to add a PIN lock to the app. There are a few ways for us to do this, and we want to hear from you! Vote on which one you’d prefer in the community.
+Getting interest paid on savings 💸
+We don’t pay interest on your main balance and we don’t have plans to start. For most people, that interest would only add up to a few pennies! But if you’re putting money aside in pots, we know you’d like to see your savings grow. So we’ll work to let you create a pot that pays a competitive rate of interest.
+Letting you edit scheduled payments 🖊️
+If you need to make a change to a scheduled payment, right now it’s a bit of a pain. You have to delete the original payment and set up a totally new one. So this month we’ll be adding the ability to edit scheduled payments instead.
+Tidying up Coin Jar 💰
+We’ll be updating Coin Jar so you can turn it on for any pot. We’ll merge the money that’s added to your Coin Jar with the payment it relates to, so your feed stays nice and tidy.
+Head to Sneak Peeks in the Help section of your app to see what it’ll look like!
+Helping you make scheduled payments into pots 🔜
+Regularly set money aside in pots? You’ll soon be able to set up scheduled payments that move money into pots automatically, so you can save yourself some time as well as money!
+Adding 3D Secure 🔒
+3D Secure is that extra page you sometimes see when you buy things online. It asks you to put in another password, for some added security. We’ll work to support 3D Secure in the next six weeks.
+
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to get a monthly email from the product teams at Monzo!
+
+
+      Sign Up!
+  
+
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!

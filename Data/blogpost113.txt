@@ -1,0 +1,49 @@
+Title: How we hire product designers
+Author: Zander Brade
+Position: Lead Product Designer
+Date: 17 Jan 2019
+
+
+Over the last three years we’ve hired 11 product designers. And with each new member of the team, we’ve learned something new about how to hire designers.
+For other companies who are starting to scale their design teams, and designers who want to work at Monzo, we thought it’d be valuable to share what our hiring process looks like and the things we look for in a product designer.
+You make an application
+We use our initial application process to understand how you approach design problems, and see how you’ve put that into practice in the past.
+To get a sense of your thinking, we ask you questions. Every single person who applies to be a designer at Monzo answers these questions, and they’re our first point of reference for your work. Asking everyone to answer the same questions also helps reduce bias, by making it easy to compare applicants more objectively. Before we look at your CV, your time in the industry, and your portfolio, we’ll look at your answers.
+
+
+
+Some of the questions we ask designers when they apply
+After we review your application, we check out your portfolio to see your prior work.
+If we see you can handle tough design problems end-to-end, communicate your work clearly, and have the right experience and skills for our team, we’ll invite you to the next stage.
+We interview you on the phone
+To expand on your application, we’ll ask you to chat with us on the phone. It’s our opportunity to get to know each other, discuss your experience and the way you’re currently working. We’ll talk about your design principles, challenges you’ve faced in your career, and why you want to work at Monzo.
+A successful phone call leaves us with a clear picture of the way you frame problems, and how you take design decisions.
+At some point in the process, someone in our hiring team will also be in touch to discuss logistical things like compensation, location, and answer any questions you have about working at Monzo.
+We set you a challenge
+Following a successful phone call, we’ll give you a small task to see how you respond to a real-life challenge.
+The brief is to design a companion app interface for an oven with no physical controls.
+
+
+
+It should take about an evening or two to complete, though it’s fine to take as much time as you need to think about the problem. Most people return their tasks to us within 7-14 days.
+We’ll send you a brief, and in return we’re looking for an end-to-end design of how you think this could look and work. Your app can be designed for iOS or Android, and we welcome any amount of research that helps you come to your solution. The ultimate result we’re after is a set of functional, polished screens with a clear write-up of how your solution works and the choices you’ve made.
+We review it and give you feedback
+Once you’ve completed your design challenge, we review your work and take note of our feedback. Depending on the questions we may have around your design, often we take 20 minutes to do a short feedback call to get a better understanding of the choices you made.
+We do a workshop
+The next step of the process is a workshop with a product designer, engineer, and product manager. During the workshop we’ll challenge your choices, to get an understanding of how you make decisions and the trade-offs they bring. We’ll see how you’d go about implementing your design in a real scenario.
+
+
+
+A strong workshop leaves us with a great picture of what it’d be like to work together. Having a product designer, an engineer and a product manager in the interview shows us how you’d collaborate on product work, and if you use the people around you to make the best possible decisions.
+How did you rationalise your thinking? How did you communicate your choices? When things changed, were you able to make sure we’re delivering a great experience whilst working within constraints? These are the type of things we’re looking for when reviewing how the workshop went.
+You have a general interview
+To understand more about how you work, whether you’d be a good fit for our culture, and to give you a chance to ask us questions, right after your workshop you’ll have an interview with two people in the company, disassociated with product or design.
+We want to see how you reflect on yourself and your career. Whether you’re aware of your strengths and weaknesses, if you know where feedback has helped you in the past, and what you’d like to gain from Monzo.
+It’s an informal chat, and the prime opportunity to ask questions about working at Monzo.
+We make you an offer
+With the workshop and general interview, we have everything we need to make a decision. You’ll hear back as soon as we’ve decided.
+If you’re successful, someone on the design team will give you an informal offer. This’ll be followed shortly after by a formal, written offer from our hiring team. Congratulations! 🎉
+
+If you’re currently hiring designers, perhaps these steps will help you frame what your process could look like, and the things to look out for in great designers.
+This process is the result of three years of work, and has morphed many times over. We constantly look at how we hire and see where we can improve, which is the key ingredient to making sure we’re getting the most out of the candidates’ and our time.
+If you’re a designer thinking about a new role, maybe this closer look at how we hire will encourage you to apply to Monzo. If you’re curious for more, you can read our full job ad or check out all the design roles we have available on our careers page!

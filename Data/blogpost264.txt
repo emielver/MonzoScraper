@@ -1,0 +1,31 @@
+Title: Access your account in an emergency with Monzo Web
+Author: Francisco Carvalho Araújo
+Position: Product Manager
+Date: 21 Jun 2018
+
+
+We’re building a bank that lives on your smartphone. But if your wallet’s been stolen or you’ve lost your phone, we know it’s important to have a backup. You told us you’d find it useful to access Monzo online, so we’ve built a basic web interface that everyone can use when they need to.
+
+
+
+If you’re stuck without your phone and Monzo card, Monzo Web lets you freeze your card and see your latest transactions, so you can get back to normal faster.
+
+
+
+What can I do on Monzo Web?
+You can use Monzo Web to:
+
+Freeze and defrost your card
+See your last 50 transactions or up to three months of transactions
+
+How do I get online?
+
+Go to web.monzo.com
+
+Enter the email address linked to your Monzo account
+Check your email for a magic link to sign in
+
+What’s next for Monzo Web?
+Monzo Web’s been designed to help you out in an emergency, but we still think you’ll get the most out of Monzo from the app. So we’re not planning to build a full version of Monzo for the web just now.
+
+We’d love to hear how you’re using Monzo Web, to learn how we can make it better. Let us know what you think in the community!

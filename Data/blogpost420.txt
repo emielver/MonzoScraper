@@ -1,0 +1,23 @@
+Title: New Android Update: Instant PIN Reminders and Monthly Spending Reports
+Author: Tristan Thomas
+Position: Product Manager
+Date: 28 Mar 2017
+
+
+Nobody’s perfect, right? Sometimes we forget important information (like a PIN) and that really puts a damper on your day. Up until now, getting a reminder of your PIN from Monzo on Android, involved contacting our customer support team and asking them to send it. Even with our sub-5 minute response times, this was a bit of a pain and we wanted to make it even easier and quicker. So we did!
+Version 1.5.4 of the Android app is now in the Google Play Store, featuring I forgot my PIN. Just tap the new button on your Card screen and fill out the details the app asks for and we’ll send your PIN to you immediately. It takes less than 30 seconds, so you can even do it while waiting at the till. We’ll be bringing this functionality to iOS over the next couple of weeks too.
+
+
+
+This update also brings Monthly Spending Reports! Celebrate or commiserate your spending for the last month and dig deeper into where your money really went.
+
+
+
+We also fixed a few annoying bugs:
+
+In the last update we prevented screen overlays from interacting with the Monzo app, but this caused quite a few issues with apps like Twilight. We’ve ensured buttons now work or tell you why they won’t work.
+Improved currency support, so that you don’t end up with the decimal point in the wrong place in some foreign currencies when you’re travelling.
+Notes on transactions now update immediately, when before they sometimes didn’t.
+Improved messaging to users not in the UK so it’s clearer that Monzo isn’t available in their country…yet.
+
+Enjoy! Please let us know what you think in the forum and as always, reviews in the Google Play Store are much appreciated ❤️

@@ -1,0 +1,58 @@
+Title: Making Monzo's quarterly goals public
+Author: Tristan Thomas
+Position: Head of Marketing and Community
+Date: 10 Jul 2018
+
+
+
+
+
+Being transparent by default means we put policies and practices in place that bring information out into the open as much as possible. Over time transparency becomes the norm, and we create a “burden of secrecy” where we have to argue to keep something secret, rather than to make it open.
+
+
+
+So, when our Interim VP of People Leah asked whether we’d consider making our quarterly goals public, there was an obvious answer.
+As an experiment, today we’re publishing our quarterly company goals for the world to see!
+Why?
+There are a few reasons we want to try sharing our company goals publicly.
+We’re committed to transparency
+When we came to answer Leah’s question, there wasn’t an overriding argument for keeping our company goals secret. There are definitely risks (we’ve outlined some below), which is why this is an experiment, but overall it seemed like the burden of secrecy wasn’t met and that we should therefore share them.
+It helps our community understand where we’re going
+Last week, we unveiled our mission: “Monzo makes money work for everyone”. We use it to guide our long-term efforts, while quarterly goals shape what we’ll be doing for the next three months. We hope sharing our goals will give you the context you need to understand the decisions we make, and see how new features, updates and other changes fit into our broader strategy.
+It keeps us honest
+Banking isn’t typically an industry known for its honesty, especially in recent years. By sharing our quarterly goals, we can be totally transparent and hold ourselves accountable to you.
+Risks
+Publishing our company goals comes with some risks though too, so we’re doing this as an experiment, and aren’t guaranteeing we’ll do it again. In the spirit of transparency, we’ll be open about the risks we see too.
+The goals are taken out of context
+These are short-term goals that shape what we’ll be working on over the next three months. They’re the immediate, practical aims that’ll help us achieve our overall mission.
+So it’s important to read our goals in the right context. It’s easy to take a line or two and misinterpret what it means, especially without any of the other information about what we’re doing and why.
+And just because something doesn’t make it into our quarterly company goals, it doesn’t mean we aren’t working on it anyway. Important projects like the marketplace and exploring overseas expansion continue to progress because they’re long-term, strategic goals, even if they don’t feature in our short-term company goals.
+Startups change incredibly quickly
+We’re a fast-moving company, which means things change all the time: goals, tactics, plans and priorities are all constantly moving.
+If you follow our Transparent Product Roadmap closely, you’ll see us build some features ahead of schedule, while some get pushed back in favour of more pressing needs – and all without much warning.
+The same goes for our goals. We use them as a guide, but we can’t be too rigid. We constantly reassess our goals to make sure they’re relevant, based on the facts at the time and new priorities.
+It’s very possible that we’ll tweak our goals during the quarter, or that we don’t end up meeting them all. This will be an active decision as a result of changes in our outlook at the time and it’s important we don’t just blindly follow goals because we set them in the past.
+The goals
+So…the goals themselves!
+They’re designed to give us a clear direction, without being too prescriptive. We leave it up to each team in the company to define their own, specific goals, using these company ones as a guide. Tomorrow we’ll publish a post that explains how each team uses these goals to define their work day-to-day.
+Grow!
+At the beginning of Q3, we had about 770,000 customers. Our mission is to make money work for everyone, so we need to reach 7.6 billion people — we’re only 0.01% of the way there. 15% of new bank accounts opened every month are with Monzo, but we want to grow it much more.
+In the next three months we’ll focus on growing our customer base, mainly by adding product features that make Monzo better when you use it with friends.
+As our CEO Tom explained in our most recent annual report:
+The way we use money is inherently social: we use it to do things with our family, friends, partners and colleagues on an almost-daily basis. But it isn’t always easy to use money together. It often means back-and-forths on WhatsApp, copy-pasting account numbers, and confusion about who’s paid and who hasn’t. Traditional banking isn’t built for the way we use our money today as part of our everyday lives.
+We’ll work to make this much better, and bring Monzo to more people as we do.
+Increase revenue and decrease costs
+We want to build a sustainable business that’s around for years and years to come. Our latest annual report showed we’ve made incredible progress so far, dropping the cost of running a full account down from £65 to only about £15. We want to build on that progress to get it to £0 (or positive). Doing that will mean we can keep growing without spending significantly more money as a result.
+Alongside that, we’ll make our lending features available to more Monzo users, starting with our overdraft. We’ll also work on new products that let you borrow money in a responsible, transparent way that works for you.
+Make Monzo the best account to use as your primary account
+We want to make Monzo even more useful if you use us as your main account.
+If you pay your bills and do most of your spending through Monzo, we already do lots of helpful things, like helping you budget, showing your recurring payments simply, and telling you when a regular bill changes.
+But we know we can do even more.  About 20% of new customers use Monzo as their main account at the moment, and over the next three months we want to make that even more. We’ll do that by building features that make Monzo the best account to use as your main account (like everything on The Big List) and educating everyone that we’re more than just our prepaid Beta card.
+Doing this will allow us to unlock so much more potential beyond traditional banking, with things like the Monzo marketplace suddenly becoming possible.
+And that’s not all!
+Don’t forget, these aren’t the only things we’re working on in the next three months!  Just because we haven’t put something in our goals, doesn’t mean we’re not doing it at all — it just means it’s not one of the top three things we’re focusing on. We’ll likely still be pursuing it in the background.
+There’s lots more going on alongside these goals (like pushing forward the Monzo marketplace, rolling out more community features and preparing for a massive crowdfunding round). But we can’t fit it all into the company goals. So these are the headlines that will steer us forward this quarter.
+We can’t wait to keep you updated as we work towards meeting these goals!
+
+Want to know more about our Q3 goals? Watch the latest community Q+A with our CEO Tom, sharing his thoughts on the motivations behind these goals and how they’ll impact what well be focussing on for the next three months.
+We’d love to hear what you think of our experiment, so share it on social media or have your say on our community forum. We’ve set up a dedicated thread to hear your thoughts.

@@ -1,0 +1,33 @@
+Title: The Next Step
+Author: Tristan Thomas
+Position: Community Manager
+Date: 17 Mar 2016
+
+
+136 days after we launched our Alpha Preview, I’m excited to announce the Mondo Public Beta! Over those 136 days, three thousand users have tested the app, sent their feedback, and made suggestions on our community forum, spending more than £1.5m in total across the world.
+
+
+
+What’s new in the Beta?
+Download now 
+Anyone with an iPhone can now download the Mondo app from the App Store! If you’re on the waiting list, you can see exactly where you are in the queue, and invite more friends to move forward in line.
+If you live in the UK (and are aged 18+), and manage to get to the top 1,000 of the waiting list by this Sunday evening at midnight, we promise to send you a Mondo card (our MasterCard® Prepaid Debit card) early next week. After that, we’ll continue to send out a thousand Mondo cards every week, to get many more of you onboard.
+
+
+
+
+
+Across the UK 
+We’re no longer London-only! If you sign up, we’ll send your card directly to your home address anywhere in the UK. We’ve been testing this over the last few weeks and we can’t wait to get many more people cards.
+Send money 
+Mondo users can now send instant P2P (person-to-person) payments to any other Mondo user with just their phone number. Split the tab, share grocery expenses, repay borrowed money – the world is your oyster and it’s all secured by Touch ID.
+
+
+
+What does Beta mean?
+Many of the same caveats still apply to the Mondo Beta as they did to the Alpha, although we have made some huge improvements over the last few months. From day one, our philosophy has always been to focus on making something people want. To achieve that, we’re committed to launching prototypes early to see how people react, before improving the product based on that feedback.
+It’s important to note that you won’t yet have access to ‘full banking’ features like Direct Debits or Faster Payments. As we continue to work towards our banking license later this year, we’ll be looking to implement these as soon as we are able. The Beta is still iOS-only, but we are launching our Android app later this year. If you’re an Android developer, come and help us!
+Your feedback is invaluable in helping us refine the product, so please keep it coming! You can reach us on Twitter, join our community forum, or email us with any questions or suggestions – we’d love to chat!
+The term “Mondo Card” refers to the Mondo MasterCard® Prepaid Debit card. MasterCard is a registered trademark of MasterCard International Incorporated. The Card is issued by Wirecard Card Solutions Ltd (“WDCS”) pursuant to licence by MasterCard International Inc. WDCS is authorised by the Financial Conduct Authority to conduct electronic money service activities under the Electronic Money Regulations 2011 (Ref. 900051).
+
+We recently updated our name to Monzo! Read more about it here.

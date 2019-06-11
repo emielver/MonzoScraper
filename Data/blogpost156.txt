@@ -1,0 +1,27 @@
+Title: We’re working with the Financial Capability Lab
+Author: Lew Isaacs
+Position: Vulnerable Customer Specialist
+Date: 15 Nov 2018
+
+
+This week is Talk Money Week, which aims to improve the financial capability and wellbeing of people in the UK and get more people talking about money. So there’s no better week to share that we’ve started an exciting partnership with the Financial Capability Lab!
+What’s the Financial Capability Lab?
+The Financial Capability Lab was started in 2016 by the Money Advice Service, in partnership with the government’s Behavioural Insights Team. The Lab is seeking to solve some of the most important money challenges facing people in the UK by testing new technologies and ideas, informed by behavioural science.
+They’ve published a report, which includes 17 ideas to help people better manage their money (p16).
+The lab aims to help the ‘financially squeezed’: people that have lots of financial commitments, but not much money in savings. These people might find it tricky to cope with sudden changes to their financial circumstances or unexpected bills, and could be more likely to be vulnerable as a result.
+The report shows that one in four people in the UK are ‘financially squeezed’ which means lots of Monzo customers might fall into this group.
+Giving people more control over their money
+Of the 17 ideas presented in the report, there’s one that fits pretty neatly with what we’re trying to do at Monzo: Card Controller.
+It argues that behavioural biases can lead many people to spend more than they have or more than they’ve budgeted. To help people control their spending, the Financial Capability Lab suggests:
+
+
+Helping consumers to set spending goals – because setting goals with clear targets and deadlines means people may be more likely to achieve them
+
+Letting people know their progress towards those goals – because regular feedback on progress can help people keep track of their spending and make decisions that help them to achieve their goal
+
+And letting them set and remove limits on their spending – because setting limits adds friction, which can make people think twice before spending.
+
+Controlling your spending with Monzo
+You can already see your spending breakdown in the Monzo app, set budgets for different types of spending and put money aside in Pots. But we’re excited to harness the skills and experience of the Money Advice Service and the Behavioural Insights Team to improve the features we already have, and develop new ones too!
+We want to add as many useful tools to Monzo as we can that give you the power to manage your money more easily, and we want to evaluate them to make sure that they actually work.
+We’ve already got some ideas about what we’d like to work on, but we’d love to hear what controls you’d like to see that might help you get more control over your money!

@@ -1,0 +1,18 @@
+Title: Split The Bill Using Monzo.me
+Author: Tristan Thomas
+Position: Product Manager
+Date: 22 Feb 2017
+
+
+There’s a new Monzo iOS update in the App Store! We’ve imaginatively named it version 1.9.3 and in addition to a bunch of bug fixes and improvements across the app, this new update makes splitting the bill with Monzo.me simpler than ever before.
+Split bills with Monzo.me
+You can now split bills with friends directly from the individual transaction pages using Monzo.me. Tap on Split Cost Using Monzo.me to choose how many people you’d like to split with and we’ll  automatically generate a link you can share with your friends. Long overdue IOU’s will soon be a thing of the past 💥
+
+
+
+This is just the first step towards full Monzo bill splitting functionality and we’re working hard on the next iteration already. We want to make it as easy as possible to split bills and share costs with your friends, whether they’re on Monzo or not. We’d love to hear what you think about this new feature in the forum and see your ideas on how to make it better!
+Other improvements
+Limits: The Limits screen is now easier to digest and each of the sections is collapsible and expandable. We’ll also warn you when you’re close to hitting your limits so you don’t need to worry about any unexpected blocks on your card!
+VoiceOver: We’ve made a bunch of improvements to VoiceOver support in the app — if this is something you use, we’d love to hear your feedback and any suggestions of areas we can improve.
+More: We’ve also improved search so it searches through all feed items, made it easier to order a replacement card and fixed a bug  which was causing push notifications to disappear.
+We’d love to hear what you think of version 1.9.3. There’s a very exciting update for Android users due in the next few weeks too to complement this release, in which we’ll be introducing full Monzo.me support and split the bill functionality! 🎉

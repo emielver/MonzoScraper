@@ -1,0 +1,155 @@
+Title: The big guide to interest
+Author: Peggy McGregor
+Position: Content Writer
+Date: 25 Oct 2018
+
+
+Understanding interest is essential. It can help you calculate the costs of borrowing, predict how your savings will grow, and pick better financial products.
+Our big guide will tell you just about everything you need to know on interest.
+Skip to:
+What is interest?
+What is an interest rate?
+How are interest rates set?
+Bank of England base rate
+Variable interest rates
+Fixed interest rates
+How is interest calculated?
+Compound interest
+Interest on loans
+Interest on credit cards and overdrafts
+APR (Annual Percentage Rate)
+AER (Annual Equivalent Rate)
+
+What is interest?
+Interest is the cost of borrowing money. It makes lending worthwhile – after all, the lender can’t use their money while someone else is using it, and there may be a risk they won’t get it back.
+You’ll usually pay interest for taking out credit, and earn it for putting money into a savings account. By saving with a bank, you’re effectively lending to them – they’ll normally lend the money to other customers or invest it.
+
+What is an interest rate?
+Interest is usually shown as a percentage of the amount you’ve borrowed or lent. This percentage is called the interest rate. It’s quoted as an annual (yearly) rate, although the interest may be calculated more or less frequently than this. 
+A higher interest rate means more interest will be paid. So, you’ll want a low rate if you’re borrowing and a high rate if you’re saving.
+
+How are interest rates set?
+When you apply for credit or a savings account, the company will offer you an interest rate based on things like:
+Risk
+Lenders may try to reduce risk by setting a higher interest rate. For example, they might charge you more if you have a low credit score, as this suggests you’re less likely to pay them back. But a higher rate isn’t the only way to reduce risk – lenders sometimes use things like security or fees instead.
+Access
+Borrowers may pay more interest for better access to funds. So, you’ll often pay a higher rate for revolving credit – such as a credit card – as this gives you ongoing access to the full amount.
+Similarly, you’ll typically earn a higher interest rate with a fixed rate bond, as these savings accounts lock your money away for a year or more.
+Market trends
+Lenders often consider what their competitors are offering when they set interest rates. They may try to offer the same rate or better. Or they might make their product attractive in a different way, e.g. with rewards or lower fees.
+
+Base rate
+The base rate is the UK’s official interest rate. It’s set by the Bank of England, which can raise or lower it to control inflation. (Inflation happens when the general price of goods and services goes up – essentially, it means you get less bang for your buck.)
+Commercial banks pay (or earn) the base rate when they borrow from (or lend to) the Bank of England. Changes to the base rate can affect banks’ bottom line, so they often pass some of the extra cost or savings onto their customers. If the base rate goes up, it’s usually good news for savers and bad news for borrowers.
+Note that banks may change the rate on an account while you’re using it, depending on the type of rate you have.
+
+Types of interest rates
+There are two main types of interest rate: fixed and variable.
+A variable rate can go up or down. So, there’s a risk your payments will increase or your earnings will fall. But there’s also a chance of the opposite happening.
+A fixed rate means your rate won’t change for a set period of time. If you’re borrowing, this protects you from rate rises that’d increase your payments – but you won’t benefit from rate drops that’d make it cheaper. If you’re saving, a fixed rate will protect you from rate drops that’d decrease your interest earnings – but you won’t earn more if rates go up.
+Importantly, a fixed rate may end while you’re still using the credit or savings account. For example, you may get a mortgage that lasts for 25 years but only has a fixed rate for the first three. After a fixed rate ends, you’ll often be put on the lender’s standard variable rate. At this point, you could switch to a better product – but you may have to pay a fee for exiting early.
+So, should you choose fixed or variable? Here are some things to consider:
+
+Is the base rate likely to go up or down? Remember, up is usually good for savers and bad for borrowers (and vice versa)
+Could you afford an increase in your payments? If not, a fixed rate may be safer when borrowing
+Fixed rate savings accounts typically offer a higher interest rate, but you may not be able to access the money for a year or more
+
+
+How is interest calculated?
+It’s all very well knowing that a low rate’s good for borrowing and a high rate’s good for saving. But at the end of the day, you need to know how rates translate into money.
+The amount of interest you’ll pay or earn depends on three key factors: rate, amount and time. Below are some simple examples of how these might affect interest – though there’s usually more to it.
+Interest rate
+
+Borrow £100 at a 5% interest rate and you’ll pay £5 in interest
+Borrow £100 at a 10% interest rate and you’ll pay £10 in interest
+
+Amount
+
+Put £100 in a savings account with a 2% interest rate and you’ll earn £2 in interest
+Put £200 in a savings account with a 2% interest rate and you’ll earn £4 in interest
+
+Time
+
+Borrow £100 at a 5% interest rate over 5 years and you’ll pay £25
+
+Borrow £100 at a 5% interest rate over 10 years and you’ll pay £50
+
+
+In reality, interest isn’t normally this simple to calculate. This is because many lenders and banks use compound interest.
+
+Compound interest
+It’s really important to understand this concept, as it can grow both your savings and your debt. It means that when you’re saving, any interest you earn can then earn interest itself. And when you’re borrowing, any interest you owe can rack up interest too.
+Here’s an example: say you have a savings account with a 2% interest rate. Interest is calculated and paid at the end of each year. You start off with £1,000 in the account.
+
+
+
+Year
+Interest earned in the year
+Total interest earned so far
+New balance
+
+
+
+
+1
+£20 (2% of £1,000)
+£20
+£1,020
+
+
+2
+£20.40 (2% of £1,020)
+£40.40
+£1,040.40
+
+
+3
+£20.81 (2% of £1,040.40)
+£61.21
+£1,061.21
+
+
+…
+ 
+ 
+ 
+
+
+10
+£23.90 (2% of £1,195.09)
+£218.99
+£1,218.99
+
+
+
+As you can see, your savings have grown by a larger amount each year – even though you haven’t paid anything in. Of course, if you did pay more money in, your savings would’ve grown even faster.
+Unfortunately, just as your savings can snowball, so can your debt. This means that borrowing over the long-term can be more expensive, even if the individual payments seem small.
+
+Interest on credit cards and overdrafts
+With credit cards and overdrafts, you’ll only be charged interest on your balance – in other words, the amount you’ve actually used.
+Your balance may change from day to day, so interest is often calculated on a daily basis. If your lender uses compound interest, this means you can owe interest on yesterday’s interest.
+Luckily, most credit cards have a one-month grace period. This means you won’t pay any interest if you clear your balance in full and on time every month. Some overdrafts have grace periods too, although they may be shorter. It’s always worth checking the terms of your agreement to understand how and when you’ll be charged.
+
+Interest on loans
+With loans, you’ll be charged interest on the full amount – even if you don’t use all of it.
+You’ll make fixed payments on a regular basis (often monthly). These normally consist of two parts: the first goes towards paying off your debt and the second is interest. The ratio of these parts may change, but the overall payment will stay the same (unless you have a variable rate that changes).
+You’ll usually pay high amounts of interest in earlier payments, especially if it’s a long-term loan or mortgage. This means you won’t make much of a dent in your debt to begin with.
+
+Comparing credit and savings accounts
+Comparing interest rates can help you choose cheaper credit and better savings accounts – but it’s not the only thing you should consider. Luckily, APR and AER can make it easier to compare financial products side-by-side.
+
+APR for comparing credit
+Lenders sometimes offer low rates on credit, but charge high fees instead. This means that if you’re going on interest rate alone, you may end up choosing a worse deal without realising.
+So, it’s worth comparing the APR (Annual Percentage Rate). This reflects both the interest rate and any additional charges as a percentage of the amount you want to borrow.
+Importantly, APR only includes mandatory charges. It may not cover optional fees and it doesn’t include fines (e.g. for going over your credit limit).
+Lenders must tell you their APR before you take out credit with them. You may see two types: representative and personal. A representative APR is what the lender advertises, but almost half of people who apply for the product may not get this rate. The rate you’re actually offered is your personal APR – this is usually based on things like your credit score.
+Note that APR doesn’t reflect compound interest, so you might want to work this out for yourself. If you’re getting a loan, it’s important to consider how the length of the loan will affect what interest you pay overall. Generally, borrowing for longer means you’ll pay more.
+
+AER for comparing savings accounts
+As you’ve seen, compound interest can have a big impact on growing your money. But you won’t take this into account if you only compare interest rates.
+For example, you may think an account offering a 5.25% interest rate is better than one offering 5.15%. But if the former pays interest annually and the latter pays monthly, then – assuming both accounts use compound interest – you’ll earn more with the latter. This is because you’ll start earning interest on interest earlier.
+So, it’s worth checking the AER (Annual Equivalent Rate) when you compare savings accounts. This reflects when interest is paid and how it’ll compound, as well as any compulsory fees. It’s shown as an annual percentage of the amount you’ll hold in the account.
+Remember to look carefully at all features, terms and conditions before applying for a savings account. On top of AER, you should consider things like risk and access to your funds.
+
+We hope you’ve found this guide useful! There’s a lot to learn, but understanding interest can really pay off.
+Next, you might like to read about the different types of credit and savings accounts.

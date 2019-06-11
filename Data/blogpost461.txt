@@ -1,0 +1,17 @@
+Title: New Monzo Update: Wonderful Surprises!
+Author: James Nicholson
+Position: iOS at Monzo
+Date: 17 Oct 2016
+
+
+Greetings to you, the lucky finder of this app update, from Monzo! We shake you warmly by the hand! Tremendous things are in store for you! Many wonderful surprises await you!
+We can’t wait to show you what’s in store in the new iOS update we just released (version 1.8). It’s among the most upvoted features on our transparent product roadmap for the next 3 months, and is the subject of an uncountable number of requests on the community forum, through in-app chat and in person.
+Introducing: Monzo Golden Tickets!
+
+
+
+“The suspense is terrible... I hope it'll last”
+
+
+We think Monzo is pretty great, but it becomes a whole lot better once your friends are using it too. We’ll be testing this feature gradually to manage demand, but if you are very lucky, you might just find a Golden Ticket in your Monzo app in the future ✨
+This release also includes a host of small improvements and bug fixes to Spending and Targets based on your feedback on our last release. Please keep it coming!

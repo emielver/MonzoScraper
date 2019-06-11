@@ -1,0 +1,42 @@
+Title: Understanding our Users
+Author: Samantha Davies
+Position: User Research Lead
+Date: 2 Feb 2018
+
+
+Our mission at Monzo is to make banking better for one billion people, and a large part of achieving that involves solving existing problems. When we started out almost three years ago, we began by identifying all the pain points customers encounter when dealing with their traditional banks, and designing features to eliminate them.
+However, as we move forward, we want to go beyond just solving the existing problems brought about by legacy banks’ archaic systems, and meet more latent needs as well. The best functions or features are the ones that remove obstacles you didn’t even know were there!
+Understanding hidden needs
+To identify and understand different people’s hidden needs, we carry out qualitative and quantitative research. This gives us rich insights into the way that people use and manage their money, which we in turn use to inform and prioritise our product roadmaps.
+Put simply, research helps us make sure we’re building the right features in the right way, for the right customers. I joined the team in November 2017 as User Research Lead, to help our Design and Product teams gather these insights and use them to make more informed decisions.
+
+
+
+Communication and consistency
+The first thing I found was a typical organisational problem: there were pockets of research knowledge hidden within the company, or kept in individual’s heads! When a company is small, this isn’t an issue: knowledge is shared easily in company-wide conversations. However, as the product increases in complexity and the company grows, it becomes more tricky. If insights aren’t captured and shared, we risk duplicating our efforts. At best, this wastes a lot of time, but at worst means we could miss important nuggets of insight altogether, and end up making decisions based on misinformed hunches.
+Second, there was also a lack of consistency in the way research was being carried out at Monzo. It was only being run on an ad-hoc basis, with self-selecting Monzo customers who were early adopters that mostly worked in tech. If you conduct user testing with such a specific type of customer, there is a huge risk that the findings may not be representative of our customer base as a whole.
+The results from testing weren’t captured as a rule, and when they were it wasn’t in a format that would allow for easy reproducibility. We need to be able to reproduce research sessions so that we can re-test features after we’ve iterated on the designs. It allows us to understand the effect of any changes we’ve made, positive or otherwise.
+User testing needs to be done on a regular basis with the right audience, depending on what we’re testing. For example, there’s no point in testing overdrafts with customers who will never need or want one.
+As our customer base expands and becomes more diverse, it’s important that we follow suit. We must make sure our research processes help us reach an audience that really reflects the makeup of our user base.
+Testing Tuesdays
+To solve some of these problems, I introduced Testing Tuesdays: all-day user testing sessions which we run every few weeks. We invite a number of people into our offices for one-to-one sessions, where we ask them to complete tasks on a clickable prototype or test build of the Monzo app.
+In the run-up to a testing session, I work with our Product and Design teams to agree on the features we’ll be focussing on, and outline a handful of hypotheses that we use the sessions to test. For example, we might hypothesise that “Users will be able to create a pot,” or “Users will be able to make a bank transfer.”
+On the day, I sit with each of our participants in turn, and ask them to carry out certain tasks on a prototype of the app.
+People from the Product and Design teams (and anyone else who’s interested!) watch from a separate observation room. After each session, we discuss the test hypotheses and come to a consensus on whether the results were positive, negative or inconclusive.
+It’s important that we watch what people actually do with the prototype, rather than listening solely to what they say. What people say about a product is often different to how they behave, and our goal is to understand how they actually interact and use Monzo.
+Watching the sessions in real-time means everyone is on the same page, and allows us to act on the results immediately. Running the sessions on Tuesdays means we can run follow-up pop-up (‘guerilla’) tests later in the week once we’ve iterated. We learn fast, and adapt faster.
+
+
+
+User interviews
+We’ve also been doing in-depth phone interviews with customers to understand how different people budget, spend, save, invest and borrow money.
+When Monzo was in its infancy, Hugo and the early team spent hours and hours interviewing people, and it’s something we want to continue as we grow. Keeping a pulse on people’s behaviours, goals and motivations is vital if we want to move in the right direction. As much as we want to build as fast as possible, we want to make sure we’re building the right things.
+Explorative research
+User interviews are one of many qualitative research techniques we can use. They’re quick and easy to run, but they don’t give us the full picture. A short conversation with someone over the phone can’t help us fully understand how Monzo might fit into the broader context of their money and their life.
+One of my goals is to grow a team at Monzo which will give us more bandwidth to take on bigger projects, where we spend time with people in their day-to-day lives, understanding their pain points and identifying their latent needs. We call this process explorative research, and it’s invaluable when trying to build a product that really makes an impact on people’s lives.
+Collecting and collating feedback
+As well as the insight we gather from user interviews and testing, we have a fountain of feedback that comes in each day through in-app chat conversations and the community forum.
+Our next priority will be to find a way to share and store the feedback we receive through different channels, in one central place. We want to make feedback easier for us to analyse and prioritise, so we can ensure we’re addressing the biggest needs that impact the most people, rather than serving a minority that might be shouting the loudest.
+All of the user research we do at Monzo is in service of the same goal: to make sure we’re building the best bank for our customers ❤️
+
+If you’d like to get involved and haven’t already, please join the discussion on our community forum or sign up to take part in user research. We’d love to hear your feedback, and learn more about how you use Monzo and manage your money.

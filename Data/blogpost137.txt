@@ -1,0 +1,40 @@
+Title: Save together with Pots on joint accounts!
+Author: Jami Welch
+Position: Monzo HQ
+Date: 10 Dec 2018
+
+
+You can now use Pots with joint accounts, so you can set aside, save and manage your money together.
+
+
+
+How Pots work on joint accounts
+Pots work on joint accounts just like you’d expect. Just tap ‘Create Pot’ on your Account tab to make one.
+On your joint account you can:
+
+add and withdraw money from Pots
+round-up payments
+open Savings Pots
+and schedule deposits and withdrawals to and from your joint account
+
+
+
+
+Why did this take a while?
+Even though we’d already built Pots for personal accounts, it wasn’t quite as simple as turning the feature on for joint accounts too. Pots were built with a single user in mind, rather than an account. So making them work for accounts with more than one user needed some extra work. You can read more about this on our forum here.
+We’ve also recently built lots of new Pots features, like round-ups and Savings Pots. We wanted to make sure this all worked smoothly, and you got the same experience with Pots on a joint account as you do on your personal account.
+Our future plans for joint accounts
+The next thing we’d like to build for joint accounts is support for the Current Account Switch Service, so you can easily switch over from your old joint account to a Monzo one. Keep an eye on our blog for more details, or follow along on our roadmap.
+We hope you enjoy using Pots on your joint accounts. As always, we’d love to hear what you think, so please come and share your feedback on our community forum!
+
+
+See the other features on our radar for the next few months, and keep track of the ones you're most interested in with the Making Monzo roadmap:
+
+
+      View the in-app roadmap
+  
+
+Or check it out online here!
+
+
+

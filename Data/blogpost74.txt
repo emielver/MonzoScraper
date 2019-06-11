@@ -1,0 +1,41 @@
+Title: We’re testing energy switching
+Author: Benji Portwin
+Position: Product Manager
+Date: 27 Feb 2019
+
+
+Did you know? More than half of households in the UK are paying more than they need to for their energy.
+We believe that you shouldn’t have to remember when your contract expires to avoid getting ripped off, and that you shouldn’t need a degree in Excel to get a great deal. You shouldn’t have to think about it all!
+We’ve already tested a few prototypes, undertaken a heap of user research and spoken to plenty of energy suppliers. And a couple of weeks ago we started testing an early version of a feature that’ll take the stress out of saving money on your energy bills.
+We’re testing energy switching with Octopus Energy
+On the 12th February, we started testing a feature with a few thousand people, that helps you switch to a different energy supplier.
+For the test we’ve partnered with Octopus Energy, a renewable energy provider that gives great customer service. We chose them because their values match with ours, we think they can offer you a fair deal, and they were named best energy supplier by Which?.
+
+
+
+We built something quickly so we could test it out as soon as possible. And we’re looking to learn:
+
+If you want a feature like this (and if you don’t, why not)
+What you want from a feature like this
+If you trust Monzo to help you switch supplier
+
+The data and feedback we get from this test will inform how we improve this feature and how we bring it to everyone.
+We’ve already learnt that you want to split your energy bill easily, with your partner or your housemates. And we’ve also found out that lots of you want the option to tell us how much energy you use to get an even more accurate estimate for your bill.
+Because this is a test, we know the feature’s still a little limited. For example, it doesn’t work if you live in Northern Ireland or have a prepaid energy meter. But we’ll definitely work to meet those needs as we iterate and improve in future versions.
+You told us that you weren’t on a fair tariff, so we built something to fix that
+Before we started building the first feature that lets you switch energy supplier through the Monzo app, we did some research to understand how best we could help.
+So we gave one of our business analysts the task of scouting out the idea – working quickly to gather the information we need to decide if it’s viable.
+For a few months at the end of 2018, Adam spent time talking to 41 Monzo customers. His goal was to learn more about their finances, so we could understand how to help.
+He asked each person to give him a full picture of their financial lives. From credit cards and savings accounts, to phone bills and insurance – we wanted to hear about the products they use, how much they pay, and why they chose each provider.
+Through our conversations, we heard the same things many times:
+Q: How long have you been with your supplier?
+A: Don’t know, forever
+Companies often entice us with introductory offers, then switch us over to more expensive standard variable tariffs once they’re over.
+Q: What’s your monthly tariff?
+A: £22, but I usually go over
+We also found that lots of people were on contracts that weren’t right for them.
+But what’s stopping us from switching to cheaper deals that suit our needs?
+Some of you told us you were avoiding the awkwardness of haggling with your supplier. Others were worried something might go wrong with the switch, or that they’d end up in an even worse situation.
+Tell us how we can help
+We’re learning about different parts your finances, and building early versions of features that might help. Energy is just one of the areas we’re working on, and you can read more of our plans here.
+If you have any thoughts, ideas or questions, let us know on the community forum 💡

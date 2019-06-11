@@ -1,0 +1,40 @@
+Title: We’re sharing the vision and principles for our internal product
+Author: Francisco Carvalho Araújo
+Position: Product Manager, Scalers
+Date: 3 Aug 2018
+
+
+
+
+
+Whenever we answer your questions through in-app chat, or improve merchant data based on your feedback, we use an internal tool called ‘BizOps Hub.’ It’s a platform where we carry out all the business operations tasks we need humans to do.
+We have ambitious aims to develop our internal product into a platform that lets us do everything we need to keep Monzo running, as easily and effectively as possible, as our team and our customers grow.
+It’ll take a lot of people a while to help us get there, so having a common understanding of our goal is crucial if we want to succeed. We can’t expect to move in the right direction if we didn’t know where we’re going!
+So we’ve agreed on a shared product vision that articulates what we’re trying to achieve, and a set of principles that shape the way we work.
+
+
+
+      Read the Vision and Principles for Our Internal Product
+  
+
+
+
+
+
+How we’ll use them
+Our vision defines where we want to be in the next three to five years, while the principles are a framework that we use to guide our everyday decision-making.
+The Scalers team is made up of engineers, designers, data scientists and product managers, and we work in an iterative way: we launch small features often and get feedback from our colleagues who use the product every day.
+We constantly need to weigh up different trade-offs and make decisions quickly, without consulting everyone.
+These principles help us to:
+
+bring to life our beliefs on how to build our product and how can our vision become a reality
+facilitate a shared understanding by distilling the nature of what we’re building into simple and easy to digest statements
+evaluate new ideas and solutions by clearly putting them in perspective
+steer group discussions into the right direction and make them more productive
+empower everyone to make decisions autonomously
+assess our outcomes against what we believe in - a good way to keep us accountable for our decisions!
+Whenever we’re faced with two competing factors or a few different options, they’ll help us understand how we should make a decision. We hope they’ll help us move swiftly, while building a coherent user experience for our colleagues.
+
+To show how they’ve been used in practice, our aim is to illustrate each principle with one or more case studies. We’ve included a few so far, and we’ll keep adding more as we go!
+
+All week we’ve been sharing an insight into how we’re working to make sure Monzo’s ready to support one billion customers! Join the discussion on the community forum and keep an eye out on the blog and Twitter for updates 👀

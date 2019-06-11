@@ -1,0 +1,30 @@
+Title: Nearby Friends: Pay your friends on Monzo instantly
+Author: Andy Smart
+Position: iOS Platform Lead
+Date: 8 May 2018
+
+
+All the way back in March 2016, we launched the first version of Monzo-to-Monzo payments, letting you pay any of your friends on Monzo with just their phone number.
+Since then, we’ve continued to improve on the feature and later that year we started showing you which of your friends were already on Monzo and launched Monzo.me.
+Today, we’re excited to announce the latest update to the Payments tab: Nearby Friends!
+
+
+
+Now, when you’re out for dinner with colleagues and you need to pay someone back, you don’t need their phone number. Just go to the Payments tab in your app and open Nearby Friends.
+Thanks to the magic of Bluetooth, you can see anyone else that uses Monzo nearby. To protect people’s privacy, you’ll only find people who also have the feature open at the same time. With just a couple of taps, you can send people money, without the need to swap numbers or do any other admin.
+
+
+
+How does it work?
+We’re using Google Nearby, an API service that helps us send messages to other devices near yours. Put simply, it means your Monzo app can see other Monzo users nearby.
+Here’s how it works:
+
+When you open Nearby Friends, we send an anonymous token (a random string of text) to Google
+That token is broadcast via Bluetooth to devices nearby
+At the same time, your Monzo app starts searching for other devices near you
+When your Monzo app discovers a device nearby, it receives the device’s token. Using the Monzo API, it exchanges that token for your friend’s name and profile picture
+We also receive an identifier which we can use to work out who to make the payment to
+
+The token does not identify you personally outside of Monzo’s systems, which means we don’t share any of your personal information with third parties during the process. The token we send to Google expires after a short period of time, meaning your personal data is unidentifiable.
+
+We hope you like using Nearby Friends! Let us know what you think in the forum.

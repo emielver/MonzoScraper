@@ -1,0 +1,270 @@
+Title: An update on diversity and inclusion at Monzo, March 2019
+Author: Tara Mansfield
+Position: Head of People
+Date: 21 Mar 2019
+
+
+Our goal here at Monzo is to make money work for everyone. And to do that, we need to make sure Monzo is an incredible place to work for everyone. If we want to solve problems for people around the world, our team has to represent our customers. So we need to attract the best talent in the world, and create an environment that supports and includes them.
+We’ve committed to sharing an annual update on our progress in this area, but in the last 10 months our team has more than doubled, from 300 back in May 2018 to over 700 people today. Because we’re growing so quickly, we’ve decided to share two updates a year instead. We hope sharing updates more often will help us hold ourselves accountable to our goals, understand how we’re doing, and make changes where we need to.
+We’ll share an update on our progress since last year, and break down the data we collected from our most recent survey, where we asked everyone who works at Monzo to answer questions about who they are, and how included they feel at Monzo. We’ll share how we’re doing in each area, and our plans to make improvements in 2019.
+We’ve also put together a committee of people who work in our offices in London, Cardiff, Las Vegas, and remotely around the world. To support the data in this survey, they’ve been helping us collect qualitative feedback by hosting internal focus groups, online discussions and individual chats.
+Since our last survey
+After our survey at the start of 2018, we committed to doing a few things to improve diversity and inclusion here at Monzo. Here’s how we’ve done so far:
+
+
+Add better and more inclusive benefits, like group life assurance and mental health first aid training: We added group life insurance to our benefits package at the end of last year. And we’ve also made changes to the way we support mental health at Monzo which you can read about here.
+
+Offer more part-time roles that accommodate people with different circumstances: We’ve made a conscious effort to make more roles available part time and as job shares. We’ve also made it easier for people to work outside of our London HQ.
+
+Host more community events outside London: In the last year we’ve hosted events in Cardiff, Birmingham, Glasgow and more!
+
+Offer more extensive internal bias training for interviewers: We partnered with a company called The Other Box to deliver internal bias training to interviewers and managers at Monzo. In 2019 we’ll make this a part of onboarding for everyone that joins Monzo, and make sure all existing employees get training too.
+
+Make a plan to better support different kinds of people in the workplace: This is an area we still need to improve, as we don’t yet have the processes in place to make this work. We’ve made some progress in this area as we’ll explain later, but there’s still work to do.
+
+Making these changes has meant there are more people at Monzo who have caring responsibilities. We’ve also seen more people using our mental health first aiders and more conversation taking place in our mental health channels about people’s experiences and everyday challenges.
+We’ve also started to improve the balance of age, gender and ethnic identity across Monzo. We’ve made a little progress, but we’ll spend more time making the changes we need to make Monzo a more diverse and inclusive workplace.
+Our latest survey
+At the end of last year, we sent out an anonymous survey to the team, and over 80% of people answered it. Here’s what we found:
+Gender identity
+
+
+The percentage of people who identify as women increased by 6.8% between January 2018 and December 2018. Specifically, we’ve seen a 0.5% increase in women in leadership, and a 4% increase in tech roles. Women now represent 22.86% of overall leadership.  Women in technical roles now represent 30.41% of leadership, and 25% of all technical roles.
+Our non-binary+ community has increased from 1.6% to 2.86% of the team.
+It’s important that people who identify as women, and transgender and non-binary folk are represented at Monzo. But it’s also important to understand what roles they work in, because technical and leadership roles are among the highest paid in the market, but often the least diverse.
+We reported on our gender pay gap in 2017 and 2018, and we’ll share another update in April 2019. We’ve also signed up to the Women in Finance Charter, committing to have women make up at least 40% of both our executive committee and our board.
+We now have a full-time tech hiring team recruiting for these roles, so we’ll be able to make sure the jobs we’re advertising for reach a more diverse group of people.
+Ethnicity
+
+
+
+Ethnicity at Monzo in 2018 Q4 vs the UK and London
+
+
+
+Ethnicity
+All of UK
+London
+Monzo
+Leadership
+Technical
+
+
+
+
+Black
+2.69%
+13.30%
+3.88%
+4.46%
+2.01%
+
+
+Asian
+6.65%
+18.50%
+5.10%
+1.79%
+6.04%
+
+
+Other
+0.86%
+3.40%
+2.45%
+0.89%
+4.70%
+
+
+White Other
+4.71%
+14.9
+19.59%
+19.64%
+32.89%
+
+
+White British
+83.15%
+44.90%
+61.02%
+67.86%
+51.01%
+
+
+Mixed
+1.96%
+5.00%
+7.76%
+4.46%
+3.36%
+
+
+
+Between January 2018 and December 2018, we made a small amount of progress in increasing the ethnic diversity of our team. The number of people of colour at Monzo has increased by 4.06%, from 15.3% to 19.9%. Only 11.6% of leadership roles and 14.1% of technical ones are held by people of colour.
+We’ve chosen to use London’s demographic data as our benchmark, as that’s where most people at Monzo live and work. You can also see how our statistics compare to the UK population as a whole.
+40.20% of Londoners are people of colour, compared to just 19.19% of the team at Monzo. All ethnicities other than White British and White Other are underrepresented at Monzo.
+Over the last year, we’ve opened offices in Las Vegas and Cardiff, and recruited more remote workers across the world. To make sure we’re setting the right goals, we’ll find a better way to benchmark against the different areas where we operate.
+We’ve grown our Hiring team over the last year, meaning we’re able to dedicate more time to sourcing the best talent.
+We’ve also introduced internal bias training for interviewers and managers, to help reduce bias as much as possible at every stage of the recruitment process.
+We also recognise that just being represented in the workforce isn’t enough, and that there’s more we can be doing to make sure that people of colour at Monzo feel welcome and able to succeed. We’re currently in the process of overhauling the way we onboard new employees, and will be introducing anti-racism and internal bias training for everyone who joins the team.
+Nationality
+
+
+
+At the start of 2018, we represented 40 nationalities at Monzo. Now, we represent 66 individual or combinations of nationalities.
+In 2019, we’ll focus more on distributed working, meaning that you can work for Monzo from anywhere in the world. At the moment over 37% of our community works remotely, and we plan to increase this by making it easier for people based in London to work from other places when it makes sense. We’ll also make remote working an option for all new roles going forward.
+Our goal is to make it possible for the right people to work at Monzo, wherever they are in the world.
+Age
+Monzo in 2018 Q4
+
+
+
+Ages
+01/2017 - All Employees
+12/2018 - All Employees
+Difference
+01/2017 - Leadership
+12/2018 - Leadership
+Difference
+
+
+
+
+21 or under
+5%
+4.75%
+🔻-0.25%
+0%
+0.90%
+🔺+0.9%
+
+
+22 – 25
+36%
+31.61%
+🔻-4.4%
+23%
+25.23%
+🔺+2.2%
+
+
+26 – 30
+35%
+36.98%
+🔺+2%
+23%
+32.43%
+🔺+9%
+
+
+31 – 35
+18%
+16.74%
+🔻-1.3%
+21%
+26.13%
+🔺+5.1%
+
+
+36 – 40
+2%
+5.99%
+🔺+4%
+6%
+6.31%
+🔺+0.3%
+
+
+41 – 45
+1%
+2.27%
+🔺+1.3%
+2%
+4.50%
+🔺+2.5%
+
+
+46 – 50
+2%
+1.24%
+🔻-0.7%
+4%
+2.70%
+🔻-1.3%
+
+
+51 – 55
+1%
+0.21%
+🔻-0.8%
+0%
+0.90%
+🔺+0.9%
+
+
+
+
+In the last year, our ages have become more varied. But the number of people who are over 36 has only increased by 4%. The average age of someone who works at Monzo is 28.
+We’re currently reviewing the benefits we offer to people at Monzo, to see how we can attract older people to improve this in the future.
+Disability
+
+
+
+6.94% of people in our team are disabled, compared with 16% of working age people in the UK.
+This has increased by 0.94% from 6% last year, but still doesn’t reflect the rest of the country.
+Neurodiversity
+
+
+
+This year we broadened our survey to include neurodiversity – the concept that neurological differences like autism, dyslexia and dyspraxia (and other differences) come as a result of normal variation in the human genome. In previous updates we didn’t include neurodiversity, where we should have.
+According to the British Dyslexia Association, approximately 1 in 10 people in Britain are neurodiverse. At Monzo, 14.11% of people identify as neurodiverse. In leadership, 8.93% of people are neurodiverse, and in tech roles 12.6% people are neurodiverse.
+We’re always looking at ways we can better support neurodiverse people who work here. In 2019 we’ll be doing more work to better understand what it means to be neurodiverse at work.
+Sexual orientation
+
+
+
+At Monzo, 20.6% of the team identify as LGBQA (lesbian, gay, bisexual, queer, and asexual). That’s fallen by 6.4% from 27% last year. According to the Office for National Statistics, 2% of people in the UK identify as lesbian, gay and bisexual. We’ve always had a strong LGBQA community at Monzo. Representation has gone down as we’ve hired more people (and especially as we’ve started to hire outside of London), as we become more representative of the overall population of the UK.
+We’ll be participating in London Pride, Brighton Trans pride and London Black Pride this year, as well as other LGBTQA+ events.
+Education
+
+
+
+Our educational diversity has largely remained the same. Around 50.6% of our team have a BA, BEng or BSc, a 1.4% decrease from 52% last year.
+Those who’ve done foundation degrees, A-levels, GCSEs or equivalent qualifications account for 19% of people at Monzo, which is an increase of 1% from last year.
+We’ve already taken measures to start making sure our hiring process is educationally diverse, by removing formal qualifications or degree requirements from most of our job descriptions. There are some roles where we do and will always require formal qualifications (if you want to join the legal team as a lawyer, for example). But we’ll work to make sure that we don’t ask for formal qualifications when it isn’t a legal or regulatory requirement.
+Religion
+
+
+
+At the beginning of 2018, people at Monzo followed 11 different religions or belief systems. This has grown to 15, though the majority of the team are either agnostic, atheist or otherwise non-religious.
+Caring responsibility
+
+
+
+Being a carer means you’re responsible for caring for a child or an adult. Carers UK’s latest figures from 2015 show that 12.5% of the population have caring responsibilities. In 2018, 12% of people at Monzo had caring responsibilities. That’s grown to 13.88% this year.
+Mental health
+
+
+
+The NHS says that 24% of adults experience mental illness at some point in their lives. But it’s worth bearing in mind that because of the stigma surrounding mental health and the non-visible nature of mental health conditions, The Mental Health Foundation says it’s difficult to know how accurate statistics are.
+At Monzo, 25% of the company and 18% of the leadership team have shared that they’re living with a mental health condition.
+Like with neurodiversity, this is the first time we’ve collected data about mental health as part of our diversity survey.
+Inclusion
+Building a diverse team is important, but things shouldn’t stop there. We need to make sure Monzo is an inclusive place to work, where everyone feels they can succeed.
+93% of people said they feel welcome at Monzo, and this number hasn’t changed since the start of 2018. Around 88% say that Monzo supports them to understand people that are different from themselves, and 89% say that senior managers at the company demonstrate a commitment to diversity and inclusion.
+But when we compared this across ethnicity, age and sexual identity, we found that team members who are above the age of 36 or who are black, Asian or from other minority ethnic backgrounds felt the most excluded.
+This means people who are minorities in the company at the moment, are most likely to feel excluded. This is unacceptable, and highlights how much work we still have left to do. Put simply, it’s easy for us to say that most of Monzo feels included, when most people at Monzo are young, white and male.
+What we’ll do to improve in 2019
+To help us improve, over the next few months we’ll work to:
+Pro-actively source candidates to make sure a wide range of people apply to work at Monzo.
+Conduct user research to understand if we’re doing anything that might prevent or discourage people from applying to work at Monzo, and make changes based on what we find.
+User test our application process to make sure our interviews don’t inadvertently discriminate or use language that’s off-putting to different people. If you need a different kind of interview process to demonstrate your skills or to accommodate your commitments and responsibilities, we’ll also give you clear and open ways to tell our hiring team.
+Offer anti-racism and internal bias training as part of standard onboarding for all new staff, and provide sessions for existing members of staff too.
+Organise more social events during working hours to make it easier for people with caring responsibilities to build social connections and feel more included at work.
+Recruit a hiring specialist who’ll help us attract a more representative group of people, and reduce the opportunities for bias and discrimination in the hiring process.
+Hire a diversity and inclusion lead to help us define and execute a strategy for improving diversity and inclusion long-term.
+Ask candidates to answer a diversity and inclusion survey when they apply to work at Monzo, to help us understand where different people move out of the hiring process, why, and what we can do about it.
+We’ve also recently hired a Chief People Officer, who’ll help us define our values as company, and help us stay committed to them as we grow. Our goal in 2019 is to make the significant changes we need to help us build Monzo into a more representative, inclusive place.
+
+We’d love to hear what you think. If you have any feedback, suggestions or questions, please share them with us on the community forum.

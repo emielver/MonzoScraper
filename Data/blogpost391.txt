@@ -1,0 +1,50 @@
+Title: Working with backend services on iOS
+Author: Andy Smart
+Position: iOS Engineer
+Date: 7 Jul 2017
+
+
+At Monzo, we’re constantly looking for ways to keep our codebase easy to maintain and accessible to different members of the engineering team. Many of our engineers are familiar with a wide range of technologies, and the ability to make changes to projects they are less familiar with, without needing a huge on-boarding session up front is really valuable.
+In this post, I’ll share some of our thought processes around re-structuring our API request architecture in the Monzo iOS app, to improve clarity, testability and engineer productivity.
+
+We’re building our bank from scratch using a modern, distributed, micro service architecture. The mantra of building our products as small, self contained functional units isn’t limited to our backend engineering teams, but how does that work on projects that aren’t distributed in nature?
+A big part of the Monzo app is the architecture that communicates with our backend services. This is often one of the hardest parts to keep in sync from a structural point of view.
+Originally, we designed our API request serialisation to follow a “Router” pattern, made popular by libraries such as Alamofire.
+
+
+
+This worked really well early on in our app’s development — when it made a handful of different requests to a couple of services, having all our “API config” in one place meant quick access to changes during development, and a simplistic approach for extending.
+Our app is now responsible for creating considerably more requests to our API, and this convenience started to become a burden for maintenance and readability.
+At Monzo, we value scalability in our technology, both in terms of load (the number of people using the product) and our team (the number of engineers working on the product). As our team grows, having all our API code lumped in one place is not scalable.
+The Redesign 👨‍🎨
+Earlier this year, I started work on a new architectural design for this part of our codebase. The general goals for this being:
+
+We should have a simple, well documented method of adding new integrations with backend services on iOS.
+Request structure and response handling should be grouped together, for context.
+API request generation should be abstracted, to avoid duplicating common code.
+Models should not be responsible for “factory style” methods interacting with our API.
+
+Over the past year, we’ve established a culture of creating Request For Comments documents as a company (or RFCs for short). Not limited to engineers, members of the Monzo team have created RFCs for everything from the design of our banking ledger to how we name Slack channels.
+For some context, I’ve exported the RFC I wrote proposing the structural design for this task. We use Dropbox Paper to put these together, and it’s fantastic. For us, RFCs are a way to share a relatively high level thought process of how to solve a particular problem, and solicit comments from anyone who is interested. We’re an agile team, so lots of up-front documentation isn’t necessarily conducive to productivity, but RFCs help us share our plans across teams easily, and ensure everyone has their chance to discuss solutions before they’re implemented fully. RFCs rarely document the exact code that we’re going to write, and mostly serve as a frame of reference.
+Our new design centers around “services”, which are responsible for API specific business logic in our app, and everything related to parsing, handling errors and vending data back.
+
+
+
+To keep things simple for engineers writing those services, we defined a protocol to dictate how requests were structured, similar to how the Router worked before. These are some excerpts from what we ended up with, after trying out the process with one service.
+
+
+
+We also added a bunch of default values in an extension to the protocol, to avoid redefining common boilerplate. This gives us a great base on which to build each service and ensures consistency in our design.
+As an example, here is what a basic service to interact with our feed API might look like.
+
+
+
+
+This gives us the flexibility to create services in whichever way suits best internally. We could, for example, create an Enum which conforms to APIRequest inside the service as a slimmed down version of the Router. For more complex APIs, we could define Structs to take input. Our OAuthClient only cares that the request it is given conforms to that protocol.
+The end result of this, is that our View Controller, or View Model, can grab the contents of a user’s feed by simply calling:
+
+
+
+
+Hopefully this has provided you with a glimpse inside the engineering process of the External Product Team at Monzo.
+We started out with an Objective-C app back in 2015 and our iOS app is now 96% Swift. We’re now optimising our processes and codebase to focus on a flexible, protocol driven design. If you’ve read this far and you’re interested to see where this takes us next you should consider taking a look at our careers page for details of current iOS and Android engineering roles! Also please free to reach out with any questions you might have via the community forum.

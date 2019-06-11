@@ -1,0 +1,42 @@
+Title: Organising teams and managing engineers
+Author: Chris Bond
+Position: Engineering Manager
+Date: 27 Jun 2018
+
+
+The way we organise our teams and manage the people in them is crucial to our success as a company.
+More than 70 engineers work at Monzo, across all areas of the business. They build our core banking system, our iOS and Android apps, and lending products like our overdraft. They make sure we can process payments, help detect and prevent and financial crime, and much, much more.
+So the way engineers fit into our teams at Monzo, and the way we manage each engineer, is crucial to our success as a company too.
+Working in small, interdisciplinary teams means we can move quickly as a company
+Engineers, designers, and product managers work together in small, cross-functional teams. Each team’s focussed on a feature, project or area of the business, and defines and works towards its own goals. When teams get too big, we break them into smaller squads following the two-pizza rule.
+Because teams don’t rely on one other, they can work independently and at speed. And because each one works towards a common goal, we’re able to create a real sense of shared ownership.
+Everyone at Monzo is supported by a manager
+We want to make sure everyone at Monzo is given the guidance and support they need to grow, because good management helps us all to get better and better! So all engineers have a dedicated manager, who’s responsible for their wellbeing and personal development.
+These relationships work best when they last: when your manager can really get to know you over time, and act as your coach throughout your career at Monzo.
+
+
+
+We organise the company to make sure we can do both
+We believe that our engineers’ personal development is as important as the effectiveness and autonomy of our teams. So we organise the company in a way that helps us do both.
+Each team has a team lead that coordinates the team’s efforts and acts as the interface between other teams. They’re responsible for making sure the team’s work is prioritised effectively, and organising rituals like planning, retrospectives and stand-ups. They also help the team set their goals for each quarter.
+Each person has a manager that’s responsible for their personal and career development. Engineering managers work alongside teams and focus entirely on the growth, progression, performance and wellbeing of the engineers they manage.
+Engineers are always managed by dedicated engineering managers, not by product managers or anyone else.
+Team leads and managers are two clearly-defined roles
+For most engineers at Monzo, their team lead isn’t the same person as their line manager, which has a few benefits.
+Engineers can turn to twice as many people for support
+Because we separate the team lead and engineering manager roles, engineers have two people they can turn to for very specific kinds of guidance and advice.
+Engineers can look to their team lead when they need help prioritising their tasks and want to understand how they can choose the most impactful thing to work on. Team leads can also give technical guidance and feedback on their work.
+But when they have questions about their own personal development, that’s when they can turn to their managers.
+Conversations about progression and personal development don’t turn into status updates or progress reports instead
+In conversations with their manager, engineers should have space to discuss any issues they’re facing, or work on their personal goals. Because we see these roles as separate, those conversations don’t become confused or clouded by discussion about the specifics of a particular project.
+Manager relationships can last for a long time
+You get the most out of a manager relationship when you can work together for a while.
+Your manager should be a single person, who acts as your coach and sponsor throughout your time at Monzo. They should know you really well, understand where you’ve come from, what you want to achieve, and how best to help you do it.
+We can work efficiently and react quickly to challenges
+Our focus as a company shifts based on our own priorities, new challenges, and changing customer demands. To react quickly to those challenges, we need to move engineers to different teams, where they can make the most impact at the time.
+For example, once we launched our current account and ended the prepaid programme, we moved engineers away from teams that had been working on the upgrade. They joined teams that focus on driving growth or making revenue instead, as we started work on taking Monzo to the next level!
+Each time an engineer moves teams, their team lead changes. But because these roles are separate, their manager stays the same.
+And because we know engineers will always be able to maintain an ongoing relationship with their manager, we’re free to move them between teams when we need to, so we’re always able to react quickly to change.
+
+This is how we approach engineering management at Monzo, but we’d love to hear what you do in your own organisations. Let us know what’s worked for you in the community! 📣
+And if you’re interested in joining us as an engineering manager, we’re hiring!

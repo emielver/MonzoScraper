@@ -1,0 +1,52 @@
+Title: Terminal decline: Why some payments fail
+Author: Kieran LeBlanc
+Position: Operations
+Date: 5 May 2017
+
+
+It’s late Friday evening. Work’s finished for the week. Only one thing stands between you and dinner: food shopping. You dash to the supermarket, grab the makings of your famous pasta boscaiola, and swipe your hot coral Monzo card at the till. But disaster strikes and the cashier tells you your card’s been declined. You pay in cash instead 😕
+
+
+
+If you’ve ever had an awkward decline like this, we’re very sorry. In the spirit of transparency, we’d like to explain why some payments fail.
+How payments and refunds work
+To understand why payments fail, you have to understand how payments work.
+A card payment has two parts: an ‘authorisation’ and a ‘presentment’. When you buy something in a shop or when you withdraw cash, the merchant asks us to create an ‘authorisation’. If we accept, we ring-fence money in your account so you can’t spend it on anything else. We subtract this amount from the balance that you see in your app, but no money actually leaves your account yet.
+The merchant comes back to collect, or ‘present on’, the payment a bit later. This can take as long as a week, but usually takes only 48 hours. Now your actual balance decreases. Your in-app balance, as long as the merchant only takes the amount we ring-fenced, doesn’t change.
+You can see the status of any payment by clicking on it in your feed and scrolling to the bottom. If you see the words ‘pending transaction’, the merchant has ring-fenced the money but hasn’t collected it. These words disappear when they collect it.
+Merchants can make refunds either by ‘authorisation reversal’ or ‘credit presentment’. If when you ask for a refund they haven’t yet collected the money, they can simply reverse the authorisation, releasing the money from its ring-fence. But if they have collected the money, they must make the refund by ‘credit presentment’ - in other words, by putting money back into your account. Both types of refund will appear as items in your feed with the amount written in green with a + in front.
+
+
+
+What happens when you spend £25 with a balance of £50
+
+
+Failures in the payment chain
+When you swipe your card or enter your PIN, the payment terminal does some simple checks (like seeing if you’ve used the correct PIN) to decide whether to accept or decline the payment. If it’s accepted, an authorisation request message is sent from the merchant’s bank to the card network (we use Mastercard) and then us. Each may decline the charge. If none does, we ring-fence the money in your account, and pass the news back the way it came to the merchant’s bank. If it takes too long to get there, a timeout error occurs, and the terminal rejects the transaction.
+In summary, a payment can fail in one of five places: at the terminal, the merchant’s bank, Mastercard, Monzo, or on its way back to the merchant’s bank.
+Other common reasons for declines
+Let’s take a look at a few decline reasons. After each reason heading, I’ve indicated in italics what you’ll see in the app.
+Low balance – Declined, you didn’t have £X.xx
+
+If you try to buy something without enough money in your account to pay for it, we decline the authorisation request when it reaches us, and then the payment terminal (or ATM) declines your card.
+There’s one exception to this. When a merchant doesn’t send an authorisation request, we don’t have a chance to decline the transaction. A few merchants, like TFL, are allowed to do this intentionally, so long as they follow extra rules imposed by Mastercard. But it can happen with other merchants, too, when their terminal can’t connect to the internet. Either way, the merchant simply collects the money without having ring-fenced it.
+Wrong PIN – Declined, incorrect PIN
+
+When you make a chip & PIN transaction, the terminal asks you to enter your PIN to prove you’re the cardholder. At ATMs, it encrypts your entry and sends it to us, and we then check it in our backend systems. But at shop tills your card simply checks what you’ve entered against the PIN stored on its chip.
+Either way, you get three tries. If you get it wrong on the third try, we block your card. If this happens, you can look up your PIN in the app (in the Card tab) and unblock it at an ATM by selecting ‘PIN services’.
+Cryptogram failure – Contactless error or other
+
+When you make a payment or ATM withdrawal, the chip on your card combines the date, time, transaction amount and a few random digits and encrypts this data using a secret key programmed into the card’s chip. The encrypted data is known as a cryptogram. Since each cryptogram is created using different data, each is unique.
+We encrypt the same data using the same key, and compare our cryptogram against your card’s. A match indicates the request we’ve received is genuine, since only your card has the right key to make that particular cryptogram. If the cryptograms match we approve the request. If they don’t, we decline it.
+Cryptogram failures are usually the result of a terminal bungling the cryptogram input data, although in rare cases this could be evidence of a fraudster attempting a sophisticated attack using a counterfeit card (without the real encryption key).
+Wrong CVC – Declined, the CVV code was wrong
+
+Card validation codes (CVCs) serve much the same purpose as cryptograms: they make sure the person making the payment really has your card, and hasn’t just recorded the card number.
+The first of the CVCs, called ‘CVC 1’, is encoded on the magnetic stripe on the back of your card. If you make a payment using magnetic stripe, we’ll check the CVC from the track data, and decline the payment if it’s not valid. When you make a payment online, most websites will ask you to enter the 3-digit CVC, known as ‘CVC 2’, on the back of your card.  If you get this wrong, we’ll decline the payment. At this point, the website will usually tell you to ‘contact your card provider’.
+Magnetic stripe disabled – Magstripe withdrawal disabled
+
+The magnetic stripe on the back of your card contains information about your card, including the long number on the front (your ‘Primary Account Number’) and your card verification code (CVC). Because this isn’t encrypted, fraudsters can easily steal it by using ‘skimmers’ attached to legitimate ATMs or payment terminals and print it onto the magnetic stripe of a blank card to make a counterfeit.
+For this reason, we usually decline withdrawals made by magnetic stripe. This doesn’t affect payments in the UK, since merchants here use the newer and more secure chip & PIN technology. But in some countries, such as the US and India, magnetic stripe technology is still used widely. If you’re travelling to these any of these places, you can enable your card’s magnetic stripe for 24 hours at a time using your app.
+
+We hope you’ve found this helpful. If you have any questions, you can ask our customer service team at any hour via in-app chat, e-mail, Twitter, Facebook, and our community forum.
+For some great complementary reading, check out Tom’s post, 3 Second Sandwich, which explains lots more about how payment networks work. For extra credit, you can find out here about the technical standards that govern our payments systems.

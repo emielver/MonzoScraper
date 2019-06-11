@@ -1,0 +1,48 @@
+Title: Android is Here!
+Author: Tristan Thomas
+Position: Product at Monzo
+Date: 29 Sep 2016
+
+
+
+
+
+Today, we’re incredibly excited to announce the release of version 1 of the Monzo Android app! Anyone can now sign up for a card and we’ve packed a bunch of features into this release, with many, many more to come. We’ve been working on the app over the last 3 months and we’re already working hard to bring all of the Monzo features you know and love to Android and achieve feature parity with iOS as quickly as possible. Let’s take a look at what you get today:
+
+Instant notifications, automatic categorisation and transaction details
+The Monzo Android app has many of the features you’ve seen on iOS, designed and built natively for Android. We’ve tried to find the right mix of material and Monzo design and we’re really excited about being able to make a banking app that really fits on this platform.
+That means instant notifications with every transaction, automatic categorisation on every purchase and maps, addresses and logos for the retailers you use. We’ll also be bringing our crowdsourcing of merchant information to Android soon, so you can submit feedback and make your feed as beautiful as ours :)
+
+
+
+    The home and transaction screens on Android
+  
+
+Card freezing and top ups
+You can instantly freeze your card at any time, as soon as you realise you’ve lost it. If it was dropped down the back of the sofa, even better! Defrost it and keep using it within seconds.
+
+
+Freeze & defrost your card instantly
+
+Whenever you want to add money to your Monzo card, it’s just a couple of taps to top up from any debit card. You can also set up regular standing orders at the beginning of the month to load your monthly budget and help you set a goal for the month.
+Live support and community forum
+We’ve built our amazing live support chat into the app, so if you have any questions or issues, get in touch with us (without holding on the phone). As of this morning, our median response time over the last month was 9 minutes, which means you won’t be waiting long for a reply. We’re now working to bring that waiting time even lower and build up to full 24/7 support so you don’t wait, day or night! You can even request your PIN reminders in a specific artist’s style!
+
+
+Can't help but love the @monzo team pic.twitter.com/EBx2GSl8Rg— Anthony Mann (@objectCreate) 28 September 2016
+
+
+
+You can also join in on our community forum within the app and discuss things like upcoming features and travelling with Monzo, see sneak peaks and meet the Monzo team.
+Short waiting list
+We’ve been working hard to send out more and more cards to people on our waiting list. The good news is that we’ve now got the wait for a card down to just 1–2 weeks; and, if you bring your friends along too, you can get it even sooner. Signup is open to anyone over 18 in the UK, so please join and claim your Monzo beta card!
+Still in beta
+The Monzo Android app is still in its infancy and we’re so excited to bring more of the Monzo features you know to Android, as well as some powerful new features! Over the next six months, you can expect us to build in full spending breakdowns, budgeting support, sending money to friends, search and much more.
+We’ve updated our public roadmap with specific Android features so you can see when we’re planning to bring each feature to the app and we’d love to hear your thoughts over on the forum. We want your help in building Monzo on Android — your feedback, ideas and support mean that we can build the kind of bank you’d want to use.
+The future
+When we launched the alpha version of our iOS app last year, our CEO Tom wrote this:
+
+“We started Mondo because we believe that banking can be better. We’re tired of hidden fees and charges, endless paper forms, and nothing quite working in the way we’d expect. So we’re trying to build a bank that we’d want for ourselves, our friends, and our families. This is your chance to be a part of that mission. We’ll listen to your feedback and suggestions, and we’ll release new features on a weekly basis.”
+
+This is more true than ever on Android. Now we have our UK banking licence with restrictions, we’re pushing ahead to launch a free current account early next year, with a debit card, bank transfers and direct debits, as you’d expect and want from your bank. We are committed to bringing all of this (and more) to Android and working with you to make this the best banking app in the world. Thank you for your patience and support so far—we can’t wait for the next six months!
+A huge thank you to our three Android engineers, Emma, Ivan and Jonas, who have been working incredibly hard on this app. We hope you like it. If you have any questions, they’ll be doing a live Q&A at 5.30pm this evening on Periscope so come say hi!

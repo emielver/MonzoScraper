@@ -1,0 +1,38 @@
+Title: Switch to Monzo with the Current Account Switch Service!
+Author: Daniel Cannon
+Position: Senior Software Engineer
+Date: 25 Apr 2018
+
+
+With help from the Current Account Switch Service, we’re excited to say that you can now switch to Monzo in just a few taps!
+What is the Current Account Switch Service?
+The Current Account Switch Service makes it simple to switch bank accounts. It’s supported by the government, completely free to use, and designed to eliminate all the admin and anxiety from switching.
+You can switch some or all of your payments between banks that support the service. And switching only takes a few taps.
+We believe that everyone should be able to make an engaged, informed choice about the bank they use. And the inconvenience of switching shouldn’t stop you from choosing an account that works for you.
+How does it work?
+You can choose to switch all of your payments over to Monzo by doing a full switch.
+A full switch transfers your balance and all your payments to Monzo, and closes your account at your other bank. You can choose a switch date that suits you, and it takes seven working days to finish.
+
+
+
+All full switches are covered by the Current Account Switch Guarantee. So if anything goes wrong when you switch, you’ll be refunded for any interest paid or lost and any fees charged because of the issue.
+
+
+
+How do I switch?
+Switching to Monzo is simple.
+Before you start, make sure you have the account number, sort code and bank card for the bank you want to switch away from. And check that personal information (like your current address) is up to date at both banks.
+
+Head to the Account tab in your app
+On iOS, tap on your name. On Android, tap the Settings icon
+Tap to “Switch to Monzo” and we’ll guide you through your switch!
+
+
+
+
+
+Common questions
+Am I eligible to switch?
+​Anyone with a UK current account can use the Current Account Switch Service to switch bank accounts. Just make sure that both your existing bank and your new one support it, which you can check in this list.
+
+If you have any questions, let us know on the community forum or head to the Help tab in your app to find the answer 💬

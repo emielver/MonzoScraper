@@ -1,0 +1,61 @@
+Title: We suspect some data has been compromised in the Typeform breach. All money is safe.
+Author: Tom Blomfield
+Position: CEO
+Date: 29 Jun 2018
+
+
+We were notified at 4.55pm this afternoon that Typeform, a company we’ve used to collect survey results in the past, has suffered a data breach.
+Our initial investigations suggest that some personal data of about 20,000 people is likely to have been included in the breach. For the vast majority of people, this was just their email address. For a much smaller proportion of others, this may have included other data like their Twitter username or postcode. We’ve published a full breakdown at the bottom of this post.
+At 7:19pm, I emailed all of the affected customers to explain and apologise.
+No-one’s bank details have been affected, and your money and account are safe
+This breach exclusively affected information people put into Typeform, like email addresses. But things like payment details and passwords are all safe.
+If you’re affected, you’ll get an email from us soon
+We’re contacting everyone who might have been affected, to let them know what information might have been compromised, what they should do, and what we’re doing to fix it.
+If you don’t get an email from us this evening, then you don’t have anything to worry about.
+This happened because attackers found a weakness in Typeform’s security
+Attackers managed to gain access to data backups for surveys conducted before May 3rd 2018. Those backups contained the responses to surveys, including the data we mentioned above.
+We’re investigating this thoroughly, and have ended our relationship with Typeform
+At the moment, we’re focused on letting affected customers know what’s happening, and we’re informing the Information Commissioner’s Office as soon as possible.
+We’re also ending our contract with Typeform, at least until they can prove they’ve improved their security, and have deleted all customer data from their servers. In future, to reduce the chance of similar incidents, we’ll remove all survey data from any provider within two months of the survey.
+To everyone affected, I’m very sorry
+Unfortunately, we can’t ever guarantee that something like this won’t happen, but we’re doing everything we can to protect your data and we’ll learn from this incident.
+If we get more information on the breach, we’ll give a more thorough update in the near future. Until then, we’ll be working hard to minimise the impact on the people involved and we will ensure that no customer is left out-of-pocket as a result of this breach.
+Full breakdown of data breached
+
+
+
+Number of customers
+Data breached
+
+
+
+
+19,213
+Email address
+
+
+1,600
+Postcode and name of old bank
+
+
+1,434
+Twitter username and email address
+
+
+908
+Email address and university
+
+
+191
+Name, email address, city, age band and salary band
+
+
+53
+Name, email address and employer
+
+
+7
+Name and email address
+
+
+

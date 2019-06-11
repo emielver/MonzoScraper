@@ -1,0 +1,76 @@
+Title: Helping every customer
+Author: Bruno Vaz Moço
+Position: Product Manager
+Date: 24 Apr 2018
+
+
+Our goal is to make it as easy as we can for you to get the help you need, when you need it. Whether you’ve forgotten your PIN, your card’s been declined, or you’re curious about what makes a Monzo overdraft different, you can head to the Help tab in your app to get an answer.
+That might be by asking someone in our customer support team, who’ll give a fast, friendly response through in-app chat 24/7. Or you can also find your own answers easily and do simple things yourself from the app.
+Giving brilliant support as we grow 📈
+As our customer base grows, we need to find the most efficient way to make sure everyone’s questions are answered in the quick, accurate way you expect. Last year we chatted with more than half a million customers: that’s like talking to the entire population of Luxembourg!
+Part of making sure we can serve our customers at scale means making our support team as productive as possible by improving the internal tools they use day-to-day.
+But it also means reducing the number of questions they need to field in the first place, by making it easier for you to find answers yourselves. In the past three months we’ve decreased the number of customers that need to get in touch by 33%!
+So we can keep reducing that number and make it even easier for you to find the information you need, we’ve recently updated the Help tab in your app.
+Here’s an insight into the changes we’ve made and the reasons and research behind them.
+How do you help? 💬
+To understand how you use the Help screen, and how we could make that experience better, we began by running some user research.
+We gave Monzo users and non-Monzo users different prototypes of the Help screen, which each included a new feature we wanted to try out. By asking them to carry out various tasks – like figuring out why their Monzo card was declined – we were able to work out how helpful these new features would be, and how we could improve existing parts of the experience.
+User research helped us understand how you use Help and what we can do to improve it.
+We learnt a lot, and made some changes as a result:
+You know what you like
+We found that people have different methods for finding their answers: there are searchers, browsers, chatters, and those that wait for a suggestion. People will follow their first method until it fails, then switch to another if they aren’t able to find an answer fairly quickly.
+So we need to make every approach effective
+If a user comes to us with a question or a problem, they should be able to find help in a way that suits them. Whether you prefer to search or want us to make some suggestions, the first method you use should work and you shouldn’t have to switch to a new one.
+We’ve done a few things to improve each approach. For example, we now use “fuzzy search” to widen the relationship between search terms and results, so you’re more likely to find the right answer.
+Your problems are personal
+The questions you have are always tied to your own use of Monzo. If you’ve just opened an account you’ll have different questions than a seasoned Monzo user currently travelling in Tokyo. But up until recently, everyone saw the exact same version of Help.
+So we’ve made help cater to you
+To preempt your questions before you ask them, we’ve added a section of answers that are “Suggested for you.” We show you answers we think will be the most helpful, based on how you’ve been using Monzo recently.
+If you’re a new user we’ll show you tips on how to get started. If you’re abroad we’ll show you the exchange rates in that country. And if you ordered a replacement card but haven’t activated it yet, we’ll teach you how to do it.
+Now, no two users ever see the same Help screen.
+
+
+
+Questions around transactions are common
+The questions you have are often about specific transactions: you might not recognise a payment, have been charged twice, been charged more than you were expecting, or had your card declined.
+So we’ve made it easy to get help with each transaction
+So you can ask a question about a particular payment, we’ve added a section that shows your three most recent transactions.
+Tapping on one of these transactions will show you a few suggested questions specific to that transaction.
+For example, if you tap on a transaction from Transport for London (TfL), we’ll explain that the amount might not be right yet because the transaction is “pending.” TfL charges you for your journeys each day, but authorises contactless payments in real time, so it won’t know the right amount until the end of the day.
+What’s next? 🔜
+Making browsing better
+From our user research, we learnt that a lot of you were struggling to find certain answers in the new structure we’d put together. The amount of content was overwhelming, and it wasn’t organised in a way that made sense to you.
+To make browsing easier, we knew we needed to improve the way we group individual answers together. But rather than deciding on these categories ourselves, we did more user research to make sure everyone will understand the groupings we choose.
+First, we ran a card-sorting exercise where we asked users to group different article titles together, in whichever categories they thought made most sense. We found two clear ways to categorise content:
+
+
+By stage: we tried organising answers according to where you are in the user journey, so if you’ve just signed up, your card’s been declined, or you’ve just landed abroad
+
+By topic: we also grouped answers according to topics like “Going abroad” or “Getting started with payments”
+
+Next, we ran a tree-test to see which structure was most effective, asking users to find answers to scenarios by browsing through Help content.
+We found that organising answers by topic helped people find the right answers faster, so we’ll be bringing this new structure to the apps very soon!
+Even smarter suggestions
+Suggested articles are the feature that people use most, so they should spell out your question as soon as you land on the screen.
+Right now, we personalise these suggestions by manually setting a series of rules, that link certain states to certain answers: if your card is frozen, we show you an explanation for how to defrost it, if your balance is less than £10 and you aren’t sure why your Coin Jar isn’t rounding payments up, we’ll explain that it automatically stops below that amount.
+But there’s room to make this process a little smarter. We’re looking at how we can use machine learning to help predict your potential questions with much more accuracy, and discover new patterns that are difficult for humans to spot.
+Adding images to answers
+Most of our answers are short snippets of text, and in many cases a couple of lines are the perfect way to answer your question. But sometimes a picture’s worth a thousand words!
+We’ve already released image galleries to both apps, and we’re starting to add illustrations, photos or screenshots to some answers. You can search “how to use Pots” to see an early example!
+
+
+
+A spotlight on new features
+We’re also looking at ways we can handle the large volume of questions we get when we launch a new feature.
+To help preempt common questions around new releases, we’re introducing Spotlight: a new way to showcase features when they’re announced.
+We’ll add a full width image to the Help screen, that links to a blog post or article explaining that feature. We’ll talk you through everything you need to know, and answer common questions.
+To find out if you’ll find this useful, we’ll be bringing this to the apps as we make the Current Account Switch Service available to everyone very soon.
+
+
+
+You’ll always be able to talk to a human 🙋‍
+These new features all allow you to find answers yourself, faster than ever.
+But we also want to make sure that you can always speak to our someone in customer support team whenever you need to. We’ve added even more ways for you to start a chat, so that if our suggestions don’t answer your questions, or you’d just prefer to speak to someone real, our team are always on hand to give you the support you need.
+
+Next time you have a question, head to the Help screen in your app and give it a try. Then tell us what you think on the community forum 📣
+Thanks to Kavi, James, Andrei, Luba, Rich, Samantha and everyone else who helped to redesign Help!

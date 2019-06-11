@@ -1,0 +1,34 @@
+Title: Code Club Came to Monzo
+Author: Naji Esiri
+Position: Community Manager
+Date: 20 Oct 2017
+
+
+We’ve always admired the work done by our friends over at Code Club. Started in 2012, it’s a network of thousands of volunteers and educators who run coding clubs for kids. There are now almost 6,000 Code Clubs in the UK, that reach more than 83,000 young people every week! Whether it’s getting to grips with Scratch or creating a compass maze using a Sense HAT, Code Club provide their volunteers with all the resources they needed to run their own clubs.
+Last week, we welcomed more than 80 people to our Old Street offices, for the biggest Code Club meetup run in London so far. 🎉 Code Club UK Director Maria Quevedo gives a quick recap of what happened at the event.
+Our volunteers often support clubs by themselves, so it’s important that they have the chance to connect with each other and share their experiences, both at Code Club and in their work. And in addition to our projects, we also want to make sure they always have access to inspiring, exciting ideas for their clubs. To help us do that, we hosted a meetup at Monzo, welcoming different speakers and hosting a series of workshops.
+
+
+
+First, we heard from four speakers, who each gave us an insight into their work and shared their experiences of Code Club.
+Our Regional Coordinator Mickey Day kicked off the discussion by explaining what we’ve been up to in the UK and London, and letting everyone know how they can get involved and help us inspire the next generation of coders.
+We then heard from Joe Mendonca, a manager in the app development team at The Walt Disney Company. He explained how you can get into technical roles via unconventional education routes, and told us about the different apprenticeships available at Disney.
+Next, Aaron McTavish gave us an insight into his work as Technical Discovery Principal at digital product studio, ustwo. Aaron helped create the now iconic mobile game Monument Valley, and explained how he and the team built each element of the intricate puzzle game. (Some of the levels took years to create!) He talked about the importance of collaboration between developers and designers, and illustrated what can be achieved in tech when you work together.
+Finally, we heard from Sarah Smith who leads development at Brent Libraries. She gave an inspiring talk about how she has brought Code Clubs to libraries across Brent, and worked to get both volunteers and kids across the borough excited about coding.
+
+
+
+We also hosted a series of workshops, to help give everyone an insight into some of the playful, creative things you can do with coding.
+People were able to try out Code Club’s Lost in Space project, and create their own intergalactic animation using programming language, Scratch. 🌚
+We also explored some interesting integrations possible using Raspberry Pi’s Sense HAT add-on and Google APIs. 🍇
+With guidance from one of our volunteer leaders, Code Club Champion Marc Grossman, we also got hands on with Makey Makey and made DIY musical instruments using unusual materials like playdough and bananas! 🍌 🎹
+And using Pi-Top computers and plugging in the nifty pi-top PULSE, we created games, music and light shows with the help of Pi-Top’s Cat Lamin. 🚨
+
+
+
+We depend on our amazing community of volunteers and teachers to set up and run Code Clubs, and help us bring them to every community in the UK. Some come to us with little or no coding experience, while others have already had a long career in tech. To make sure everyone can get involved, no matter their level of skill, we run training sessions for people who are keen to join as volunteers. So our community can connect, share experiences and learn from each other, we also organise regular meetups around the country, like this one!
+
+
+
+
+Thanks to Maria and all the volunteers who helped us host such an inspiring event. If you’re keen to get involved (and join the 33 new volunteers that signed up at this meetup!) head to codeclub.org.uk to find out more.

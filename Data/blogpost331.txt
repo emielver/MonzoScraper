@@ -1,0 +1,35 @@
+Title: Bringing Monzo.me to Everyone!
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 12 Feb 2018
+
+
+Whether you’re planning a holiday, paying the bills, or all chipping in for a present, collecting money from people can be a hassle. If you’re on the other end of the equation, paying people back can be a palaver too.
+To help take some of the pain away from this process, we launched Monzo.me. A simple link that you can share with your friends, it allows anyone to pay you using a debit card, Android Pay, Apple Pay, or their own Monzo account.
+Monzo.me has been available since 2016, to people who started using Monzo prepaid cards as part of our Beta. But newer users who have only ever had current accounts haven’t been able to use it. Now, we’re excited to say that it’s available to everyone! ✨
+People don’t need a Monzo account to pay you, and the money is transferred immediately. It’s also completely free, for you and anyone who pays you. If your friend does use Monzo, tapping your link will automatically open their app.
+Now there’s no need to exchange account numbers and sort codes, or root around in search of your card reader!
+Requesting money
+To request money via Monzo.me, go into the Payments tab in your app and tap Request. From there, you’ll be able to see and share your personal Monzo.me link.
+Customising your request
+You can also edit the amount of money you’re asking for, and add a short message. Useful for explaining why you’re asking for money (or adding a nagging note!)
+
+
+
+Splitting the bill
+Monzo.me can help you split the cost of any payments you make through Monzo. Simply tap on the transaction in your feed and you’ll see the option to split the cost using Monzo.me.
+You can then choose to divide the cost between up to four people, or enter your own amount. We’ll create a Monzo.me link that you can share with your friends. Perfect for splitting the bill after dinner, or going halves on the weekly shop.
+Sending money
+If you have requested money, your friends can pay you by clicking your Monzo.me link. If you give them your username, they can also type it in at https://monzo.me/.
+They’ll then need to choose how much they want to send you, or agree to the amount you’ve requested. They can add a note to accompany their payment too.
+If your friend also uses Monzo, the Monzo.me link will open their app so they can pay you in just a few taps.
+If they don’t use Monzo already, all they have to do is enter their card details, or to pay with Apple Pay or Android Pay. Tap send and that’s it!
+
+
+
+Monzo.me safely
+To make sure we’re doing everything we can to prevent fraud, there are limits on the amount you can pay and receive through Monzo.me.
+The maximum you can pay through Monzo.me is £100 (and the minimum is £1!) In a 30-day rolling period, you can’t receive more than £1,000 through Monzo.me or send more than £500 from a single debit card.
+To see these limits at any time in your app, just go to your Account tab and tap on Settings.
+
+If you haven’t yet used Monzo.me, give it a go! Let us know if you found it useful, or if you have any feedback on how we can improve. You can tell us on Twitter or join the discussion in the community.

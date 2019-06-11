@@ -1,0 +1,70 @@
+Title: How we accidentally broke our Android notification sounds (and fixed them!)
+Author: Jonathon Fry
+Position: Android Engineer
+Date: 28 May 2019
+
+
+Whenever you buy something with Monzo, you get a notification. And the notification usually plays a satisfying ‘cha-ching!’ sound. But we recently ran into a very strange bug in the beta release of the Android app.
+
+
+
+Instead of playing the ‘cha-ching’ sound whenever they got a notification, people were hearing:
+
+Hello, my name is Emma and I’d like a Monzo card
+
+We usually play this sound when you sign up for Monzo, and we ask you to confirm your identity by taking a selfie video. And we had no idea how it ended up here!
+The bug was only affecting people who had upgraded their apps. Brand new Monzo users were hearing the notifications as normal.
+This was one of the most unusual and amusing bugs we’ve encountered so far. And we went down a few rabbit holes before we could find the root cause. We had to do a lot of debugging, sending each other pennies to test what was happening, and digging into resource IDs and NotificationChannels.
+Now we’ve fixed the issue, we wanted to share how we worked out what happened and solved it.
+Where did it go wrong?
+In order to understand the problem, we first need to recap some of the technical details of Android Notifications. Then we need to know a little bit about how AAPT(Android Asset Packaging Tool) packages resources. We use AAPT when we build an application into the file that gets downloaded from the Google Play store and installed onto your device.
+Notification Channels
+As of Android 8.0+ sending notifications requires a NotificationChannel. You can think of channels as buckets, that people can use to customise notifications or toggle them on and off.
+Once a channel is created, it can’t be modified by the app.
+Setting a notification sound on a notification channel requires a unique resource identifier (URI) pointing to a file. We stored these sounds as raw resources. A quick StackOverflow search tells us we can build a URI that points to a particular resource like this:
+Uri.parse(ContentResolver.SCHEME_ANDROID_RESOURCE
+    + "://" + packageName
+    + "/" + R.raw.topup)
+
+AAPT
+All Android applications use a build tool called AAPT. It parses, indexes and compiles resources into a binary format. We use this to bundle files into an application, like images and sounds. As part of this processing, an R.java file is generated that contains the mappings for all resources in an application. e.g.
+public static final int abc_fade_in = 0x7f010000
+
+It’s important to note that IDs are generated alphabetically and raw resources start from 0x7f110000. This means adding or renaming files could change the alphabetical order of resources and could then generate different IDs for the same files.
+To help understand the cause of the notification problem, we’ve listed snippets of the raw resources and their IDs for two versions of the app.
+You can retrieve a list of resources and their IDs from an APK using AAPT:
+aapt d resources app.apk -> resources.txt
+
+This dumps the resource mappings for the given APK to a txt file.
+Condensed raw resource list in 2.45.0 (31 total items)
+0x7f11001a co.uk.getmondo:raw/selfie_example
+0x7f11001b co.uk.getmondo:raw/topup
+0x7f11001c co.uk.getmondo:raw/transaction
+
+Condensed raw resource list in 2.46.0 (32 total items)
+0x7f110014 co.uk.getmondo:raw/confetti
+
+0x7f11001b co.uk.getmondo:raw/selfie_example
+0x7f11001c co.uk.getmondo:raw/topup
+0x7f11001d co.uk.getmondo:raw/transaction
+
+In 2.46.0, we added a confetti animation file as a raw resource. Because AAPT packages resources alphabetically, this file was indexed before the other raw resources in our app.
+For the raw resource R.raw.topup this would generate the following URIs, for the following app versions:
+2.45.0: android.resource://co.uk.getmondo/0x7f11001b
+2.46.0: android.resource://co.uk.getmondo/0x7f11001c
+This meant that the notification would play R.raw.topup for anyone doing a fresh install, as the NotificationChannel was created with the correct resource URI. But for anyone upgrading, their existing NotificationChannel had a fixed URI that pointed to R.raw.selfie_example. This was a sample video we use to demonstrate identity verification and contains the ‘Hi I’m Emma…’ sound!
+This is incredibly fragile, as adding/removing any raw files could change the raw resource ID and result in playing the wrong notification sound. The code to retrieve the sound URI hasn’t been changed since we first added support for our own notification sounds in the first place - so we’ve been getting away with this since February 2017! Who knew we added raw files so infrequently?! 😅
+How we fixed it
+To fix this problem, we had to correct how we were retrieving references to URIs:
+return Uri.Builder()
+        .scheme(ContentResolver.SCHEME_ANDROID_RESOURCE)
+        .authority(context.resources.getResourcePackageName(R.raw.topup))
+        .appendPath(context.resources.getResourceTypeName(R.raw.topup))
+        .appendPath(context.resources.getResourceEntryName(R.raw.topup))
+        .build()
+
+It’s important to note this uses the raw resource file name to lookup. So as long as the names of the raw files referenced in the Notification sound URIs don’t change, we’re all good!
+But fixing the URIs wasn’t enough. Because we can’t modify notification channels after they’re created, it meant we had to delete the existing ones and recreate them with stable URIs. So if you’d made customisations to the sounds, you’ll have to make them again – sorry!
+Rather than Emma’s disembodied voice, our fix means that everyone now hears the right sound when they get a notification!
+
+If you want to fix bugs and tackle challenges like this, we’re hiring!

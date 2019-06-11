@@ -1,0 +1,40 @@
+Title: Measuring customer happiness 😃
+Author: Liam Houghton
+Position: Ops Fixer
+Date: 3 Aug 2018
+
+
+
+
+
+As we work to improve the efficiency of our customer support, it’s important that you’re able to tell us how it’s going. So we recently started measuring customer satisfaction! Understanding how happy you are with our service means we can make sure we’re giving you the support that you need, and act quickly to fix it when we aren’t.
+Measuring customer satisfaction
+If you chatted to us recently, you might’ve noticed that we asked you how well we did afterwards.
+We now send out a short survey to every customer that gets in touch with us. Once we answer your question and make sure there’s nothing else we can do to help, we ask you to rate your conversation in emoji!
+
+
+
+
+It’s a five-point scale, and we’re always aiming for the smiley faces! Because 4 out of 5 is 80%, that’s the level of customer satisfaction we aim to deliver.
+Last week, we were rated by roughly 3,700 people – around a third of the people that we spoke to in total. We’re proud to say our average satisfaction score was 95%!
+We use your ratings to understand how happy you were with our conversation. We monitor the data day-to-day, and analyse how it’s changed throughout each week.
+How do we use it?
+Understanding the effect of changes we make
+As we work to make our customer operations more efficient, we might make changes to the way we support you. That could be tweaking the way we assign your messages to COps, adding knowledge to our Help screen, or changing where we put the chat button on the Help screen.
+When we make these changes, we measure whether they helped COps answer questions quicker, or reduced the number of questions that came in in the first place. This helps us understand whether or not the change we made increased productivity, reduced inbound demand or helped us achieve another important goal.
+But while we track the effectiveness of any change we make, it’s also important that we measure how they affect you. Customer satisfaction lets us see whether our changes are improving your experience or making it worse. We can use it to decide whether we’re happy with a feature, or if we need to find a different solution.
+Understanding wait times
+When you start a conversation with us, we’d love to reply instantly. But because our customer base grows faster than our support team, there’s usually a bit of a wait.
+Last week our average response times were just over 2 minutes for urgent messages, and 1 hour and 20 minutes for non-urgent messages.
+Our goal is to make sure that no one with an urgent query waits longer than 10 minutes for a response, but right now we don’t have a definitive target for non-urgent messages.
+Measuring customer satisfaction can help us understand how long you’re happy to wait before you have a bad experience. We’ll use it to set a target for non-urgent messages, so we can measure our performance and make sure we’re getting back to everyone at a speed that they’re happy with.
+When we’re not meeting or exceeding that target, we’ll know we need to call extra support teams for backup, or even hire more COps to help cope with the demand.
+Improving our training and recognising our team
+Before we started measuring customer satisfaction, we mainly assessed the quality of conversations as part of quality assurance (QA), a process we’re required to do by the regulator which involves reading a subset of each COps conversations.
+QA is designed to make sure we’re treating our customers fairly, but it doesn’t take your direct feedback into account. Measuring customer satisfaction means we can really understand how you felt about your experience, especially if you leave a comment.
+We can use that feedback to recognise when someone’s done an amazing job, or find identify areas where they might need extra support. It can even show us where we need to improve our processes.
+Tell us what you think
+We only began sending out surveys in June, so we’re just starting to measure customer satisfaction and understand how it can help us.
+We’re really excited about what customer satisfaction surveys can tell us about how we’re supporting you here at Monzo, and we really appreciate your feedback. Let us know what you think the next time we speak!
+
+All week we’ve been sharing an insight into how we’re working to make sure Monzo’s ready to support one billion customers! Join the discussion on the community forum and keep an eye out on the blog and Twitter for updates 👀

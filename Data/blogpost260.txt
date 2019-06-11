@@ -1,0 +1,51 @@
+Title: Send money abroad with Monzo and TransferWise!
+Author: Matt Heath
+Position: Engineer
+Date: 25 Jun 2018
+
+
+We’ve teamed up with TransferWise to provide international money transfers from within your Monzo app!
+From the Payments tab in your app, you’ll be able make payments overseas to sixteen of the most popular foreign currencies, with more coming soon. You don’t need to already have a TransferWise account, but if you do, you can login to that account to keep everything in one place.
+This’ll be available in some people’s Monzo apps today, with support rolling out to everyone over the next few weeks. We want to take it slowly to make sure everything is working perfectly! If you desperately need access before then, just drop us a message through in-app chat.
+We can’t wait for you to try it out and love ticking yet another item off The Big List to make Monzo better
+
+
+
+How do I use it?
+From the Payments tab in your Monzo app, just tap Bank transfer and then International. From there, you’ll be able to choose who you’re sending money to and give their details. Once you make the transfer, you’ll be able to see its progress live in the app and know when it’s arrived. And that’s it!
+If you don’t yet see the International option, don’t fear! We’re rolling out support for TransferWise gradually over the next few weeks so you should see it pop up soon. If you really need access now, let us know.
+How much does it cost?
+TransferWise charge a small fee for each overseas payment you make, of which a small share goes to Monzo. This will always be shown transparently before you send any money and it’ll never cost you more money because you’re going through Monzo.
+We’ve specifically partnered with TransferWise because we love their commitment to fair, transparent and low fees in an industry that typically charges extortionately!
+Which currencies do you support?
+We’re starting with the 16 most popular currencies and will be adding more over time.
+
+AUS Dollar ($)
+Brazilian Real (R$)
+Canadian Dollar ($)
+Danish Krone (Kr.)
+Euro (€)
+Hungarian Forint (Ft)
+Indian Rupee (₹)
+Malaysian Ringgit (RM)
+Nigerian Naira (₦)
+New Zealand Dollar ($)
+Pakistan Rupee (Rs)
+Polish Zloty (zł)
+Romanian Leu (lei)
+Swedish Krona (kr)
+Thai Baht (฿)
+US Dollar ($)
+
+If there are particular currencies you’d like to see and you know TransferWise already supports them, let us know in this forum thread. Until then, you’ll probably be able to make those transfers using TransferWise’s own app.
+Join the conversation!
+We’d love to hear what you think — head on over to our community forum to join in.
+
+
+
+    Budget, save and send money abroad with Monzo!
+    
+
+        Download Monzo
+    
+

@@ -1,0 +1,52 @@
+Title: Monzo Monthly Update: October
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 1 Oct 2018
+
+
+After a few months full to the brim with product updates, the last few weeks have been a bit quieter. We’ve turned our focus to ongoing projects, and been preparing for the last quarter of the year.
+Done in September
+We improved the performance of our iOS app 📱
+If you use Monzo on iOS, you’ll have noticed the app getting slower. We’ve been working to make it much faster, and this month we made some significant improvements: the app now launches ~60% quicker, we’ve improved the scrolling of the feed by ~30%, and we’ve sped up the time it takes to switch tabs by ~18%.
+You should see a big difference, but this is only just the start. We’ll be making even more improvements over the next few weeks and months. Our iOS platform lead Andy shared a technical insight into the improvements we’ve made so far, and explained what we’re going to work on next, and how we’ll stop this happening again.
+We kept testing better bill splitting (on both Android and iOS) 🍰
+We started testing the new version of bill splitting on Android (after bringing it to Monzo Labs on iOS in August). On Android, this doesn’t have the option to split the bill using Nearby Friends yet, but we’ll be adding it very soon.
+The main feedback you’ve been giving us is that you’d like the option to split the bill with people who aren’t on Monzo too.
+We originally thought we weren’t going to add this option to the first version of bill-splitting that we bring to everyone. But based on your feedback, we’ve decided to wait till we can add the option to both platforms, before we make bill splitting available to everyone.
+
+
+
+We gave you the option to share information with us 🗣️
+We’re committed to supporting everyone that uses Monzo, and that includes our most vulnerable customers.
+So we’ve worked with the Money Advice Trust and the University of Bristol’s Personal Finance Research Centre to develop a tool called ‘Share with us’ that lets you tell us about your situation from the Help tab in your Monzo app.
+If something affects the way you deal with your money, you might want to let us know. It can help us do things to support you, like letting you opt out of lending if you’ve had difficulty managing debt in the past, or only contacting you by phone if that’s the way you prefer to communicate.
+Find out how it works and when you might want to use it in our blog post.
+
+
+
+To come in October
+In the coming month we’ll keep working on longer-term projects like getting interest paid on savings and welcoming even more Monzo users.
+And now we’ve reached the last quarter of the year, we’ll be setting our company goals and making them public again too.
+Bringing better bill splitting to everyone 🍰
+In the second week of October, we’re aiming to launch a better version of bill splitting on both platforms, that lets you split bills with people who are and aren’t on Monzo.
+Helping you deposit cash into your Monzo account 💸
+Because we don’t have branches, we’ve been working to find another way to let you pay cash into your Monzo account.
+We’re working to start testing this out by the end of the month. And we’ll share some more details about how it’ll work very soon!
+Working on letting you earn interest in your savings 💰
+In August we shared an update about our plans to help you get interest paid on savings you have in your Monzo account.
+This month we’ll keep working to finalise our plans and finish building the feature, so we can start rolling this out slowly as soon as we can.
+
+
+
+Building our own customer support platform 💬
+When you reach out to us for help in the app, we want to make sure we can give you the best service possible. Till now we’ve been partnering with another company, who provides the software we use to chat to you in the app.
+This has worked really well for us so far! But we wanted to find more flexibility and make sure we can keep our customer support amazing as we grow. So we’ve been building our own platform for organising and answering all your queries. We’re calling this new platform ‘Monzo Chat’, and this month we’ll be ready to start slowly rolling it out to more and more people.
+If you reach out to us for help, you shouldn’t see any real difference. But it’ll improve what’s going on behind the scenes, so we can keep answering your questions accurately and quickly as we grow.
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to get a monthly email from the product teams at Monzo.
+
+
+      Sign Up!
+  
+

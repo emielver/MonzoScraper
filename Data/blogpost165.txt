@@ -1,0 +1,14 @@
+Title: Start spending immediately after signup with Apple Pay
+Author: James Nicholson
+Position: iOS Engineer
+Date: 5 Nov 2018
+
+
+
+
+
+Our dream has always been to make signing up to Monzo so fast that you can start downloading the app when you join a queue for coffee and be able to pay with Monzo by the time you get to the front.
+We’re not quite there yet, but we try to make every step as simple as possible and today we’re taking it one step further by shaving off at least 24 hours from signup!
+If you sign up to Monzo on iOS from today, you’ll be able to instantly add your Monzo card to Apple Pay and add money to it through bank transfer or by receiving a payment from a friend  (provided your phone is compatible and your account is eligible). You can then start spending immediately, less than 5 minutes after you signed up, while your physical card makes its way to you through the post.
+We’ll also be rolling this out to Google Pay over the coming days to enable as many people as possible to get started with Monzo quickly.
+We’ll be closely tracking how long it takes people on average to complete signup and keep working towards that coffee queue goal!

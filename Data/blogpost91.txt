@@ -1,0 +1,58 @@
+Title: Is Monzo safe?
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 6 Feb 2019
+
+
+More than one million people are already using Monzo to manage their money, and 15% of all new bank accounts opened in the UK are with Monzo. We’re a regulated bank and our customers even named us best bank in Which?’s annual survey!
+We know being trusted with your money is a big responsibility, and it’s one we take seriously. So here are a few things we do to make sure your money’s safe when you bank with Monzo.
+Your money’s protected
+Because Monzo is a regulated bank in the UK, the money you put in your Monzo account is protected up to £85,000 by the Financial Services Compensation Scheme (FSCS).
+The FSCS is an independent fund set up by the government to help protect people’s money. If Monzo (or any other bank or building society) goes bust, it means you won’t be left out of pocket.
+You can find out more about how FSCS protection works and see Monzo in the list of banks that are covered by the scheme.
+We keep most of the money you put in your Monzo accounts in central banks, and lend out a proportion of it as overdrafts and loans. You can find out more about how we hold your deposits here.
+
+
+
+You can speak to a human 24/7/365
+We’re here to help, whenever you need us. You can reach us through in-app chat, or if you prefer to talk, you can call us on the phone. The number’s on the back of your hot coral debit card.
+The Help tab in your app is full of useful answers, but you can always speak to a person when you need to.
+We have a Net Promoter Score (NPS) of +80 (the average across all UK banks in 2017 was just +4). And our customers gave us 5 stars for customer service and communication in Which?’s latest survey.
+
+
+
+We work hard to protect you from fraud
+Signing up is simple and secure
+Signing up to get a Monzo account is simple: it takes fewer than five minutes and you can do it all from your phone. And even though it’s simple, signing up is also safe.
+When you open any current account, your bank will verify your identity. To do that, we ask you to send us a picture of your ID and a quick selfie video (where we ask you to say a certain phrase). We make sure your ID and your video match, which helps us confirm that you are who you say you are before we let you open an account.
+You can find out more about our sign up process here.
+We don’t ask you for passwords
+It might sound counterintuitive, but passwords don’t always make things more secure. 
+They can be hard for you to remember, and easy for fraudsters to guess. Most people don’t follow good password practices, and either reuse passwords, or pick obvious ones (like their birthday). Passwords can also make you more vulnerable to phishing, a type of fraud where someone tricks you into telling them your password.
+Plus, you can sometimes reset passwords through your email, which fraudsters can use to work around any protection provided by a password.
+That’s why when you log into the Monzo app, we use magic links instead. They’re links that we send to your email, that let you log into the app in one click. They keep your app secure, especially if you use two-factor authentication on your email.
+This makes logging in quick and simple (you don’t have to remember a password or type it in accurately) and it means you’re unlikely to have your password stolen (because you don’t have one!)
+For extra protection once you’ve opened your Monzo app, we ask for your PIN whenever you want to move money.
+
+
+
+You can only make payments with a PIN
+Whenever you use your Monzo account to make payments or order a new hot coral debit card, we ask you to enter your PIN or use your fingerprint or face. That means your money’s protected by an extra layer of security.
+If you forget your PIN, we’ll ask you to verify your identity by taking another selfie video, before we give you a new one.
+
+
+
+Using Monzo to make payments online is safe
+3D Secure is designed to make it safer when you buy something online. It’s the experience you go through when you buy something online with your traditional bank. It usually pops up in your browser when you’re paying with your card, and asks you to enter a passcode before you can make the payment.
+But because passcodes can be annoying to keep track of, people often choose numbers that are easy to remember but easy to guess.
+So we built 3D Secure the Monzo way! Unlike other 3D Secure systems, we don’t ask you to enter numbers from a passcode. Instead, we get you to verify your online purchases in-app or by text instead. This lets us know you’ve got access to your phone, your app, and your card details, and confirms you’re really you.
+
+
+
+Our team works hard to protect you
+Our financial crime and security teams are made up of dozens of analysts, engineers and customer support specialists, who all work hard to protect you.
+We have sophisticated rules that identify when transactions are unusual or suspicious, and we’re able to detect fraud quickly and take precautions to protect you.
+We detected and warned Ticketmaster about a data breach months before they announced there’d been an issue. And acted quickly to replace our customers’ cards when British Airways suffered a similar breach. When Cloudflare had a security incident that affected websites and apps that use their software, we explained what happened and took steps to reduce the risk to our customers.
+You can read more about how we protect our customers from fraud in The Guardian, the BBC, The Times and Quartz.
+
+New to Monzo? Find out more about us on the blog, and head to the Simple Questions Thread on the community forum to ask us anything you like!

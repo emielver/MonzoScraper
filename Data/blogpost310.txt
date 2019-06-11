@@ -1,0 +1,86 @@
+Title: Using a Monzo overdraft
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 18 Apr 2018
+
+
+We want to do overdrafts differently. To give our customers a more transparent way to use overdrafts, so that they’re always aware, and always in control of their money.
+Monzo overdrafts are completely optional, have a clear pricing model, useful notifications, and no unexpected charges.
+As more of you get the option to use an overdraft, here’s an insight into what using one on Monzo looks like.
+Totally optional
+Overdrafts are 100% optional. If you don’t want one, you won’t have one. It’s as simple as that!
+We’ll send you a notification to let you know when the option to use an overdraft is available to you, but we won’t give you one automatically.
+To start using an overdraft, you’ll have to actively switch it on from within the Monzo app, and until you do, we won’t carry out any checks that affect your credit score.
+
+
+
+Switching on an overdraft
+If you do decide you want an overdraft, you can switch it on from the Account tab in your app.
+You’ll only be able to do this if we decide that you’re eligible for an overdraft.
+
+
+
+Who’s eligible?
+When you sign up to Monzo (or when you upgraded your account), we carry out a quotation search. Also known as a “soft credit check,” this type of check does not affect your credit score. It’s the same kind of check carried out when you shop around for insurance or loans on price comparison websites.
+A quotation search lets us find out whether you’d be eligible for an overdraft if you want one, and what limits we’d be able to offer.
+We only offer overdrafts to people who meet our eligibility criteria, which we determine based on our own internal data, and information from credit bureau, Callcredit.
+We’ll let you know if you’re eligible by sending you a notification or through the feed in your app. And you can find out more about how we decide who’s eligible by reading this blog post.
+Everything you need to know
+If you decide to switch on an overdraft, we’ll give you all the essential information, quickly and clearly in the app.
+
+
+
+A clear pricing model
+The overdraft will cost 50p each day that your account is overdrawn, and we’ll never charge you more than £15.50 a month.
+If you do go overdrawn by more than £20 we’ll tell you, so that you’re always aware when you’re using your overdraft. If you don’t want to be charged for using your overdraft, you’ve got until midnight that day to add money to your account.
+There are no other fees and no interest rate.
+
+
+
+There’s also a £20 buffer, meaning you can use part of the overdraft for free. We’ll only charge you once your account balance is below -£20, so you won’t pay for going just a few pounds overdrawn.
+Choose your limits
+You’ll then be able to choose your overdraft limits.
+Because we want to lend responsibly, we’re being relatively conservative when working out who’s eligible. So the overdraft we offer you might be small to begin with, or we may not offer you one at all, even if your credit score is good.
+We’ll give you a maximum limit, and you can choose an overdraft up to that maximum.
+
+
+
+The paperwork
+Once you’ve chosen your limits, we’ll ask you to read, understand and accept an overdraft agreement.
+It confirms the amount of your overdraft, how much we’ll charge, and how you can cancel. It also explains that overdrafts are repayable “on demand”, meaning we could ask you to repay your overdraft immediately at any time, although we usually give you 30 days.
+Everything’s written in plain English, so you can understand exactly what you’re agreeing to.
+
+
+
+You can save or send yourself a copy of the agreement, and find it at any time by tapping “Manage overdraft” in the Account tab of your app.
+We carry out a credit check
+Once you accept the agreement and switch on your overdraft, we’ll carry out a credit check. This informs our credit bureau that we’ve offered you an overdraft, and it will appear on your credit record.
+In the latest app versions of the Monzo app, we’ve made sure it’s extra clear that we are about to carry out a credit check that could affect your score.
+To learn more about credit scores, read our comprehensive guide.
+Going overdrawn
+When you go overdrawn, we’ll show your negative balance, and we’ll plot your spending on the Pulse graph like this:
+
+
+
+We’ll send you notifications if you have upcoming payments that will take you into your overdraft, and we’ll also let you know as soon as you enter it.
+This means you can either choose to use your overdraft, or add money to your account from elsewhere.
+
+
+
+Seeing your charges
+We’ll also make sure you can always understand how much we’re charging you.
+We’ll keep a running total of your charges so far, which you can see in your feed or by tapping “Manage overdraft” in the Account tab of your app. You’ll pay these charges on the first day of the following month.
+The transactions you make don’t settle straight away, so we’ll only charge you if your balance is still negative once they do. If you don’t want to use your overdraft, you can add money to your account from elsewhere.
+Going beyond your limit
+As a rule, we reject payments that would take you over your overdraft limit for free.
+But there are payments that we can’t reject, like hotel bills or payments to Transport for London (TfL). When this happens, we’ll tell you once they’ve taken you over your overdraft limit, and give you until midnight that day to add money to your account.
+If you stay in an unauthorised overdraft for an extended period of time, we’ll report it to credit bureaus. This is likely to negatively impact your ability to get credit in the future.
+Manage your overdraft
+You can change or switch off your overdraft at any time. Just go into the Account tab in your app and tap “Manage overdraft.”
+From here, you’ll be able to reduce your overdraft limit, or switch off your overdraft altogether by reducing your limit to £0. Of course you’ll need to make sure your balance is above the new limit before you do!
+You can also view your overdraft agreement, and the Monzo terms and conditions.
+
+
+
+
+We hope you found this useful! If you have any questions about overdrafts, or ideas about how we can improve them, have your say in the community.

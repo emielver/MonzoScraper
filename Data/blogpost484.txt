@@ -1,0 +1,41 @@
+Title: Mondo Version 1.5: Improved Search and New Export Features
+Author: Tristan Thomas
+Position: Product
+Date: 13 Jun 2016
+
+
+As we come up to WWDC (Apple’s annual developer conference), we’re very excited to release version 1.5 of the Mondo app on iOS which you can download now in the App Store.
+Search + Export
+This update hugely improves one of our existing features (Search) and introduces a much-requested feature from our community (Export), all in one small* package.
+Take a look at the release notes to get an idea of how excited we are about this release. We’re still trying to track down who actually writes these somewhere in Mondo Towers…
+
+
+
+Search: In Detail
+The new and updated search is pretty clever and exposes much more of the variety of searches you can do through your transactions. Search for simple things, like every transaction in a specific location:
+
+
+
+  Your browser does not support the video tag.
+  
+
+or get more complicated, and search for every transaction that was categorised as eating out, in London, in the last quarter, for more than £20 🎉
+
+
+
+  Your browser does not support the video tag.
+  
+
+You can search by category, merchant, person, date, amount, location and receipts, and combine them in as many ways as you can think of. This is what searching your bank statement should look like.
+Export: In Detail
+Export options is one of our most requested features from users who are using Mondo every day. In version 1.5, you can now export a CSV file or a QIF file (compatible with Quicken and Microsoft Money) of your transactions. This is fully integrated into both Your Spending and Search, so you can choose to export every transaction, just transactions in specific months or the results of any searches you do with our new search, all in a couple of taps. Take a look:
+
+
+
+  Your browser does not support the video tag.
+  
+
+We’re super excited to see what you think of the new search and export options. Jump in to the comments below or get in touch on Twitter. We love to chat!
+* Small package you say? Yep, that’s right – you should see your Mondo app get smaller if you update it from the App Store!
+
+We recently updated our name to Monzo! Read more about it here.

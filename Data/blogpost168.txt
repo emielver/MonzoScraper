@@ -1,0 +1,83 @@
+Title: Get interest paid on your savings!
+Author: Constantijn Schepens
+Position: Backend Engineer
+Date: 1 Nov 2018
+
+
+Pots are perfect for setting small amounts of money, aside from your main account. But when you want to save larger sums, they haven’t been as useful.
+Today, we’re excited to say that we’re ready to start rolling out Pots that pay interest!
+Because we want to understand how you’re using them and make sure they work well, we’ll be rolling them out gradually. So please be patient (and please don’t message us to ask for early access! 😉)
+
+
+
+How it works
+You’ll earn 1% interest a year, paid monthly into your Pot
+Savings Pots will earn you 1% interest every year, paid monthly into the Pot you create.
+We’ve worked with another bank called Investec Corporate and Investment Banking, who’ll hold your money and pay you interest. But you’ll be able to manage everything through the Monzo app.
+We’re working with Investec because they’re flexible, reliable and can offer a healthy interest rate.
+You can withdraw your money the next working day
+These Savings Pots are flexible, so if you want, you can take money out of your Savings Pot at any time, and it’ll be back into your Monzo account on the next working day.
+You need £1,000 to open a Savings Pot
+To open a Savings Pot, you’ll need to have at least £1,000. You can have up to £250,000 across all your Savings Pots with Investec, and you can open up to 10 Savings Pots if you like.
+Having a £1,000 minimum means the 1% interest you earn on your savings over £1,000 actually adds up to a significant number.
+It’s also important for Monzo because we lend money. This means we need to make sure we have enough money to lend to people who have overdrafts. This is known as a ‘loan to deposit ratio’, which we (and most other banks) put in place to make sure we can keep lending in a way that’s responsible and not too risky. A £1,000 minimum means all the money in Monzo won’t suddenly move to a Pot provided by a third party, and we can maintain a sensible loan to deposit ratio.
+We’re starting with a minimum, but this is only the beginning! We want to explore other options in the future, that makes saving convenient and accessible to everyone.
+Your money’s protected
+Any money you put in a Savings Pot is covered by the Financial Services Compensation Scheme (FSCS), meaning up to £85,000 of your savings are fully protected.
+That’s £85,000 across all of your Savings Pots, as well as any other money you’ve deposited at Investec. But it doesn’t include the rest of the money in your Monzo account, which is also protected by the FSCS up to £85,000.
+You can read more about how FSCS protection works on the blog.
+
+
+
+
+
+        Organise your money in Pots and earn interest on your savings with Monzo!
+    
+
+        Download Monzo
+    
+
+How to get started
+Starting today, we’ll be gradually rolling out Savings Pots to everyone. Once you’re able to open one, we’ll send you an email (if you’ve opted in to receive emails from us).
+
+
+
+To open a Savings Pot:
+
+Head to the Account tab in your Monzo app
+Tap on Create Pot (on iPhone swipe left on your card, on Android scroll down to the bottom)
+Select a Savings Pot
+
+We’ll explain how everything works, and ask you to agree to some terms and conditions (which we’ve written in plain English and take less than five minutes to read)
+That’s it! You’ll start earning interest as soon as the money arrives with Investec (normally the next working day)
+
+We now have two types of Pot
+A normal Pot:
+
+Doesn’t pay interest
+Good for setting aside smaller amounts of money
+Useful if you need to access the money instantly
+
+A Savings Pot:
+
+Lets you earn 1% interest a year, paid monthly into your Pot
+You need a minimum of £1,000 to open one
+It takes one working day to move your money from a Savings Pot back into your Monzo account
+We’ve worked with another bank called Investec, who’ll hold your money and pay the interest back into your Pot
+– You can have up to £250,000 across all your Savings Pots with Investec
+
+What’s next?
+This is another step towards our long-term vision of a marketplace bank, that helps you access services and products from a range of providers, all from the Monzo app.
+But this is only the beginning! We want to offer you a choice of interest rates, companies and savings products, so you can find a way to save that works for you.
+We’re looking to partner with other companies on other Savings Pots, and explore other products like fixed-term savings that help you earn more interest if you don’t need to access your money as easily.
+
+We’d love to hear what you think! Join the discussion on Twitter or Facebook, and share your feedback on the community forum.
+We edited this post on Monday 12th November because we added a limit on how much money you can have across all your Savings Pots with Investec. We’ve explained why in this post.
+
+
+        Don't use Monzo yet? Give it a try today!
+    
+
+        Download Monzo
+    
+

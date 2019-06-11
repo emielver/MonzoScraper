@@ -1,0 +1,32 @@
+Title: We added Travel Reports to Android
+Author: Jami Welch
+Position: Product Manager
+Date: 6 Jun 2018
+
+
+Last month, as part of our commitment to make Monzo better, we promised to bring Android up to speed with iOS. We’re still working on a few things, but we’re really pleased to tick another item off The Big List and add a new feature to Android: Travel Reports.
+We believe using Monzo abroad should be as easy as it is at home. So, we’ve added Travel Reports to Android to make keeping on top of your overseas spending simple.
+Travel Reports let you know what the current exchange rate is when you arrive in a foreign country. And, when you get back home, tell you exactly how much you spent in GBP while you were away.
+Using your Monzo card abroad is a great way to manage your money while you’re travelling - you don’t even need to tell us you’re going away! We don’t charge any fees when you use your card abroad, we pass on the Mastercard exchange rate with no markups and, you can withdraw up to £200 every 30 days for free (there’s a 3% charge on withdrawals after that).
+What are travel reports?
+Travel reports tell you everything you need to know, from the start to the end of your trip abroad.
+
+
+
+At the start, we’ll send you:
+
+A welcome note with the local exchange rate, so you know how far your money will go while you’re there
+The option to automatically categorise all your payments as expenses or holidays, whether you’re away for business or pleasure
+And tips for using Monzo, wherever you are in the world
+
+While you’re away you’ll see:
+
+Live information about the current exchange rate
+And a summary of what you’ve spent each day in both GBP and the foreign currency
+
+And once you’re home, we’ll show you:
+
+A summary of what you spent while you were away
+
+We hope Travel Reports make your next trip a breeze. Let us know how you get on over in the community.
+Happy travels!

@@ -1,0 +1,44 @@
+Title: Viva Las Vegas! Providing customer support from the States
+Author: Dillon Van Auken
+Position: Vegas Project Lead
+Date: 31 Jul 2018
+
+
+
+
+
+Whilst we work to bring Monzo to millions and billions of people, one of our biggest challenges is providing the world class support that you deserve at scale. Our Customer Operations (COps) team delivers swift, accurate, and delightful service 24/7/365: any time you open your Monzo app, our staff are online and working to help you as soon as they can.
+To help us scale this service as we grow, without relying on people in the UK to work unsociable hours, we’ve recently set up a small customer support team in Las Vegas! 🇺🇸
+The challenge
+To support our customers around the clock, we need to think carefully about how we organise our team.
+During the day, people work to support our customers from our offices in London and Cardiff. In the late evening and early morning, our support is provided by people who work remotely, mostly around the UK and Europe.
+Working at unusual hours can sometimes come with benefits, and many of our late evening and early morning customer support staff are parents, part-timers with an exciting side hustle, or natural night owls that enjoy the flexibility that comes with working late.
+But working remotely at unsociable hours can also take its toll. Our staff have told us that working alone for a long time can be isolating and lonely. It’s difficult to maintain a balanced social life, and the negative health effects of working late hours for long periods of time are well-documented.
+We want to create a workplace that supports the wellbeing of all our employees. So to help remote workers deal with the downsides of unsociable hours, we’ve started offering them additional time off, helped them take trips to our offices so they can work alongside their colleagues, and let them switch shifts where we can.
+But as our customer base grows, we need to scale our support during these hours too, by building a bigger team of people who can work at night and in the early morning. To do that while making sure everyone can work during reasonable hours, we decided to try offering customer support from another country.
+Choosing Las Vegas
+We decided to try building a small customer support team in Las Vegas for a few reasons:
+
+
+The time difference: The city’s on Pacific time, eight hours behind the UK. That’s perfect for providing evening support: when a normal day shift in London or Cardiff is winding down, one in Vegas is just beginning!
+
+The cost of living: Las Vegas has a very low cost of living, so the salary we pay people means they can have a high quality of life there.
+
+The customer service culture: Dominated by service industries like restaurants, hotels, and casinos, we can easily find the empathetic problem-solvers that we want to join our COps team!
+
+Working with a partner to get off the ground quickly
+We thought opening an office in Las Vegas would be a good solution, but we wouldn’t know for sure until we tried. Just like with our product, we knew launching early would help us decide if it worked and learn how to improve it.
+But opening a new office is no mean feat, especially in a different country. It would have taken months to do ourselves and properly understand all the legal and logistical considerations, like organising payroll, benefits, and taxes, and complying with local employment laws. So we decided to work with a partner to help us get things off the ground.
+To give us flexibility, we took on a short-term lease for a new office in March and signed a flexible contract with our partner, who helped us find the right people.
+Today, a team of nine are working from our office in Las Vegas, answering your questions in the evening and the early morning. They work in shifts from 9am–8pm in local time, which covers 5pm–4am BST. If you ever have a late-night question, or you’re travelling and in a different timezone too, one of our brilliant COps in Vegas might provide your answer!
+Training and culture
+We wanted to translate our company culture to the office in America, and make sure that they’re trained to deliver the same quality of support you expect.
+We’ve sent several people from our UK offices over to the US, and they’ve given our staff in Vegas the same training they’d get here. We set up a buddy system to help people across the company get to know each other, even though they work on opposite sides of the world. The team regularly dials into standups and weekly meetings and often creates videos to show our UK team what they’ve been up to! We’ve even designed and decorated the office so that it’s as comfortable, welcoming, and Monzo-fied as it can be!
+What’s next?
+We’re really happy with how the trial’s gone so far, so we plan to make it permanent! The team’s performance is really promising, and they’ve integrated well with our culture. Our goal is to employ our Vegas COps directly within the next few months.
+To do that we need to successfully incorporate a US-based business and partner with a professional employer organisation that’ll help us manage the legal and people side of things, like payroll, taxes, and healthcare. This will mean we can offer our COps in Vegas all the benefits our COps in the UK have, including generous holiday days, competitive pension and healthcare schemes, and share options.
+Does this mean Monzo’s coming to the US?
+Not quite yet! Our mission is to make money work for everyone, and to do that we need to bring Monzo to other countries around the world.
+But right now we’re only in America to make sure we can offer 24-hour support in a way that works for both our customers and our employees.
+
+All week we’ll be sharing an insight into how we’re working to make sure Monzo’s ready to support one billion customers! Join the discussion on the community forum and keep an eye out on the blog and Twitter for updates 👀

@@ -1,0 +1,39 @@
+Title: How we’re gearing up to support one billion Monzo customers!
+Author: Francisco Carvalho Araújo
+Position: Product Manager, Scalers
+Date: 30 Jul 2018
+
+
+
+
+
+Today, we have more than 800,000 customers. We want to grow that to a million, then a billion and beyond!
+We believe every single one of you deserves world-class customer support, even as we grow. We don’t expect you to wait on hold for hours for an answer, or listen to an endless menu of options before you can talk to a human. Instead, we want to earn your trust by giving you fast, friendly answers whenever you need them.
+Our Customer Operations team (we call them ‘COps’) is 180-people strong, and we usually have 45 people working to help customers each day. Last year they sent more than two million messages, and helped more than 300,000 customers with their questions, issues and concerns. That’s like talking to the entire population of Iceland!
+But as more and more people start using Monzo, the number of questions we get is growing too.
+At a typical bank, there’s one person working in customer support for every 3,000 customers. Right now at Monzo, we’re doing a lot better, and need one working COp for every 19,000 customers. But if we want to bring Monzo to a billion people – while building a sustainable business – we can’t keep growing our Customer Operations team at the same rate.
+The Scalers team is a cross-functional team we created to tackle this challenge. We’re data scientists, designers, engineers, product managers and analysts that work alongside our Customer Operations team to make sure we can keep providing amazing customer support, at massive scale. Our goal is to have one COp for every 100,000 customers.
+From building tools that help us answer your questions more efficiently, to using machine learning to predict your questions before you even ask them, our job is to prepare our Customer Operations team to support one billion Monzo customers.
+How are we doing it?
+Hiring amazing COps and giving them the skills they need to succeed
+We design processes that let us hire, onboard and train COps effectively, so that they have the skills they need to serve our customers.
+We’ve developed a hiring process that lets us find the right people to join our COps team. After we advertise a role, we invite the most promising candidates into the office to assess whether they have the right skills to support our customers: we test for qualities like empathy, problem-solving, and clear communication.
+When new COps start, we take them through a rigorous training process that gives them the context, knowledge and skills that they need to start answering your questions. For the first two weeks, we also pair new starters up with a buddy, who’ll support them as they get up to speed.
+Making sure the right COps are working at the right time
+To answer your questions effectively, we need to get the right people with the right skills working at the right time. But this can sometimes be a challenge, because to do it well, we need to understand a lot of different things: how inbound demand fluctuates, how demand spikes when we launch a new feature, the existing skills our COps have, which shifts they prefer to work, and when they’re ill, on holiday, in meetings or doing training.
+To tackle this problem, a team are working to automate this process. Our goal is to accurately predict inbound demand, schedule the right people to work at the right time, and forecast how many people we need to hire in the future as our customer base continues to grow.
+Empowering COps
+We make sure COps can be as productive as possible, by building tools that let them perform at the speed of thought!
+Once our COps are trained, experienced and knowledgeable enough to answer your questions straight away, we don’t want them to be held back by slow tools that aren’t designed to help them do what they need to do.
+So we have a product team that’s dedicated to building amazing internal tools for them to use. So far we’ve built a few things:
+
+We show COps the most relevant information at a glance, depending on each customers’ question.
+We use machine learning to help COps find the information you need, so you can get your answer faster while still talking to a human.
+We’ve built software that lets COps type accurate, personalised answers incredibly quickly.
+
+Empowering customers
+We can also scale our service by making sure you don’t need our support in the first place. From good product design to clear copy, we aim to design Monzo so that you understand how to use our features intuitively, without needing our help.
+When you do, we want to give you the tools you need to help yourself. Of course you’ll always be able to talk to a human, but for simple issues and common queries, it can be quicker to find the answer yourself.
+So we’re working to improve the Help screen in the app. We want to make smarter suggestions and increase the accuracy of search so you can find your own answers faster.
+
+All week we’ll be sharing an insight into how we’re working to make sure Monzo’s ready to support one billion customers! Join the discussion on the community forum and keep an eye out on the blog and Twitter for updates 👀

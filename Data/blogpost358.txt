@@ -1,0 +1,43 @@
+Title: Launching Pots!
+Author: Valerio Magliulo
+Position: Product Manager
+Date: 20 Nov 2017
+
+
+Saving and managing your money should be as easy as possible, but we know that isn’t always the case. It’s the reason Monzo sends you instant notifications when you spend, to help you keep track of your outgoings easily. And it’s why we built Targets, to allow you to set monthly spending goals.
+These tools are great for helping you understand your spending habits, and plan accordingly each month. However, there are also instances when you need to think about things a little further into the future.
+Other than stashing it under your mattress, an obvious way to plan ahead is by moving money into a separate savings account. However, doing this doesn’t make it easy to save a couple of hundred quid to fix your bike, as well as a good few thousand pounds for a downpayment on a house.
+So, to help you save for specific things, we’ve created Pots: a simple way to set money aside within your main Monzo account! 🍯
+Whether you’re planning a trip around the world, looking to buy a new laptop, or simply saving for a rainy day, Pots can help you work towards your modest goals and grandest plans.
+Creating a Pot takes seconds, simply give it a name and add an image. Start putting money in straight away, or wait till payday if you like! 😉
+You can set up multiple Pots for different purposes, and see an overview of all your money under the Account tab in your app.
+
+
+
+Because you’ve set it aside for saving, money in your Pots won’t be included in your available balance, and you won’t be able to spend it. If plans change or you find yourself low on funds, you can always move money from a Pot back into your main account.
+Get Pots!
+You can start using pots once you’ve upgraded your Monzo account! ⬆️
+If you’re yet to upgrade, just wait for an invitation in your app over the next few weeks. It’s totally free and only takes a few minutes. If you really can’t wait, you can request to upgrade sooner in the Help tab in your Monzo app. Just type “current account upgrade” into the search bar, then fill in the form to make your request.
+If you’ve already upgraded, just make sure your app is up to date. The latest version of Monzo is available on iOS now, and will be coming to the Play Store for Android users at the start of next week.
+Saving, not spending
+Pots are somewhere to save, not spend. Money you put into pots will be set aside from your main Monzo account, secure from any spending.
+But remember, if you don’t have enough money in your main account, payments that exceed the available amount in your account will be declined, unless you have an overdraft. This applies to Standing Orders and Direct Debits, as well as transactions you make in person or online. You can always move money out of your pots to cover any upcoming payments.
+
+
+
+Our plans for Pots
+As well as being a helpful tool for saving, pots will form the basis of some exciting new features we have in the works.
+Imagine having a Pot set aside for bills, and paying your direct debits straight from the Pot. You’d always know you had enough cash to cover the essentials, leaving you free to use your Monzo card for everyday expenses, without worrying you’ll overspend.
+We also plan to introduce rules, so you can automatically move money in or out of pots. You’d be able to tie your savings to your spending, or automate regular tasks. For example, you could set a rule to round up transactions and put small change into a holiday fund. Or every time you order a takeaway, you could add the same amount into a savings Pot.
+If you live with housemates or a partner, you could set up shared Pots and use them to pay the bills, the rent or other shared expenses. Each of you can pay into the Pot each month, then see and manage all the outgoings from within your own Monzo apps.
+If you want to see your Pot grow, we could help you turn a savings Pot into an ISA, or invest the money through an online investment manager. You’d be able to monitor the performance or manage your portfolio, all within Monzo.
+You could even ‘lock’ your Pots with a pattern or a puzzle, if you need the chance to think twice about moving money out of your saving Pot and into your spending account.
+
+
+
+Sharing your ideas
+We think Pots have a lot of potential, and plenty of you have already shared your suggestions for amazing things we can use them to do.
+In fact, the idea for Pots first came about back in January 2016, when one of our early users posted to our community forum with an idea for “folders” or “buckets” where you could set aside money. It was early days at Monzo, but the idea struck a chord, and we’re pleased to be at the point where we’re putting it into practice!
+If you have any bright ideas of your own, share them with us on our community forum 💡
+
+Tell us what you think on Twitter, or join the discussion on the community forum. You can see more of our upcoming plans in our transparent product roadmap.

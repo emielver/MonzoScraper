@@ -1,0 +1,33 @@
+Title: Meet Josh: iOS Developer
+Author: Zainab Khan
+Position: Community Manager
+Date: 22 Feb 2017
+
+
+
+
+
+This is Josh, who at 19 is one of the youngest members of our team here
+
+Tell us what you do for Monzo.
+You’ll find me hard at work on the iOS app, adding new features and improving on those we already have to make it a pleasure for all our users!
+How did you get in to the world of iOS?
+When I was around 12, I picked up a book called Cocoa Programming for Dummies which was not the best book but a good enough start to get me into programming — initially for the Mac and later for iOS. It was a lot of trial and error in the beginning and a lot of questions that seem so silly now but helped me get the knowledge and experience I have now. It’s been a hell of a ride and it’s always so amazing to see your hard work create something so beautiful (hopefully!).
+On a day-to-day basis, who do you work with and how does the team run?
+I work with James and Andy on the iOS app but also work very closely with Ole and Hugo too. In the past couple of weeks I’ve really been focussing on the product side of work whilst James & Andy have been working on getting things prepped for current accounts!
+What are you most proud of?
+Search. Search is not an oft-used feature but working on it was really enjoyable, creating the custom keyboard and implementing Hugo’s beautiful design was brilliant. Not just pleasing to the eye but also pleasing & technically challenging for my brain!
+What have you learned in your time here?
+Personally, I find that I’ve become a lot more social as a result of working with such a lovely team everyday. Professionally I’ve started to delve into more work on backend services, which is new and exciting for me!
+What are you most excited about in the coming months?
+I am of course looking forward to getting current accounts out to all our users but what excites me most is what comes after that. With such a strong foundation there are so many awesome things that we can build on top of it, especially when it comes to integrating Monzo into other areas (e.g. helping you save money by changing broadband supplier).
+If you weren’t doing this, what would you be doing?
+Hmm, that’s a toughie. Kernel engineer, pilot or teacher have all been things I’ve considered if I wanted to do something completely different!
+3 words to describe Monzo:
+Smart, kind and compassionate.
+Outside the office:
+From time to time I work on my own app Dringend. I also enjoy gaming and building the PCs I game on!
+Unexpected fact:
+Gah, this is tough. This might not be quite so unexpected as I mentioned above but I’ve started training for my private pilots licence! (Do we hear a Monzo Airlines in the works? 😉)
+Links:
+Twitter: @jgarnham.

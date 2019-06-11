@@ -1,0 +1,28 @@
+Title: The British Airways data breach: How Monzo responded
+Author: Priyesh Patel
+Position: Financial Crime and Security Team Lead
+Date: 7 Sep 2018
+
+
+Last night British Airways announced that the personal and financial details of their customers had been stolen. We identified the 1,300 Monzo customers who’ve been affected, and ordered them replacement cards as a precaution, to prevent fraud on their accounts because of the breach.
+
+What happened?
+Last night British Airways announced that the personal and financial details of their customers had been stolen.
+The issue has affected 380,000 of their customers, who used BA’s website and app to make or change bookings from 22:58 BST 21st August 2018 until 21:45 BST 5th September 2018.
+The information stolen from their customers includes names, email addresses, home addresses and the details of the cards they used to pay, but not their travel or passport details.
+BA’s chief executive has apologised and promised the company will compensate the customers who’ve been affected. And the lastest update from BA advises customers who think they’ve been affected to contact their bank or credit card provider and follow their advice.
+What did we do?
+We saw reports in the news about the data breach, and began working to address the issue and protect our customers at 20:08 last night.
+We identified Monzo customers who had shopped with BA online and through their app while the data breach was happening. We found about 1,300 Monzo customers were affected.
+By 23:07 we’d ordered replacement cards for everyone affected and sent them a message in the app explaining what’s going on, and sharing some advice for how to keep their account safe in the meantime.
+
+
+
+These customers’ cards will keep working until the replacements arrive in a few days. Once their new debit cards arrive, they’ll just need to activate their replacement cards and keep using Monzo as usual.
+For extra peace of mind in the meantime, we’ve explained that they can freeze their Monzo cards from the app while they aren’t using them.
+We haven’t seen any fraud on these accounts yet, so this is a precaution. But replacing these customers’ cards early will hopefully prevent any fraud from actually happening because of the breach.
+We’ve also published some information in the help section of the Monzo app, in case customers had seen the news and had questions or concerns.
+If you used your Monzo card to buy something from BA online or in-app between 21st August 2018 and 5th September 2018 and we haven’t been in touch, please drop us a line and we’ll replace your card as a precaution.
+If you’ve only made an in-flight purchase during these dates, you don’t need to get in touch. According to BA, these payments aren’t affected by the data breach.
+
+You can read British Airways’ statement about the situation here.

@@ -1,0 +1,15 @@
+Title: How Much?! Introducing  Your Spending
+Author: Tristan Thomas
+Position: Community Manager
+Date: 22 Jan 2016
+
+
+If you’re on the Mondo Alpha, you’ve probably been wondering why we automatically categorise each of your transactions. Well, wonder no more!
+We’re really excited to launch the first version of the Mondo Your Spending screen, bringing the data we get from Mastercard, Twitter, Google Places and our own Alphas together to give you an idea of where your money is really going.
+From Your Spending, you can immediately see how much you spent this month compared to last month, dive into individual categories and see which merchants you spend the most with:
+
+
+
+This is the very first iteration of Your Spending and over the coming weeks we want to gather as much feedback as we can from our Alphas and make it even more awesome for the next version. Even if you’re not on the Alpha, let us know what you would like to see at [email protected] and of course sign up to the waiting list at monzo.com!
+
+We recently updated our name to Monzo! Read more about it here.

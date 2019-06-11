@@ -1,0 +1,44 @@
+Title: Manage your money together with joint accounts!
+Author: Jami Welch
+Position: Product Manager
+Date: 14 Aug 2018
+
+
+We’re very excited to announce that today we’re making joint accounts available for everyone! Share an account with someone you know and trust, and make the most of handy spending and budgeting features.
+Since we check all your details when you make a personal Monzo account, signing up for a joint account is a breeze. No signatures or lengthy branch appointments needed!
+How do Monzo joint accounts work?
+A Monzo joint account is a secondary account that’s separate to your personal one. So you’ll still keep your original account and card. But you’ll have access to another account that’s shared with another Monzo user. You can switch between the two accounts anytime in the app.
+
+
+
+In your feed, you’ll see who’s made each transaction so it’s easy to track exactly where your money’s going.
+And we’ll send you a shiny new joint account card too – with a different design so it’s easy to tell it apart from your old one.
+Get started
+
+Head to your Account tab
+
+Tap your name at the top of the screen
+Scroll down and tap ‘Create a joint account’
+
+
+Follow the steps to get started!
+
+The person you invite to create a joint account will need to have a Monzo account too. If they don’t already have one, ask them to set it up before you invite them.
+What we learnt from Monzo Labs
+For the last month, joint accounts have been available for testing in Monzo Labs. We use it to give you early access to upcoming features, so we can hear your feedback and iron out any bugs or early issues. With the help of our community, we’ve been able to really refine the experience.
+During testing, we were able to fix bugs we found with notifications, card activation, and sign up.
+You also told us that we hadn’t made it easy enough to switch between your personal and joint accounts, so we added a fix a few weeks ago that you’ll also see in this release.
+Plus, it wasn’t clear to everyone that opening a joint account with someone else would create a financial link between the two of you. This could have an impact on your credit score, so we’ve added more information about this when you sign up.
+Thanks to all our testers who gave us feedback and support. And a special shoutout to everyone who got creative with the original batch of cards that didn’t have joint account designs on them yet!
+What’s next?
+We’re excited about this first version of Monzo joint accounts, and can’t wait to see them out in the world. And we’ve got even more plans for joint accounts in the future.
+First, we want to support the Current Account Switch Service for joint accounts. We’ve heard from you that this would really help with moving over bills and other payments from old joint accounts. So watch this space!
+And second, we agree with our community that pots for joint accounts would be really handy. We’re launching joint accounts without them, but we’re keen to add them soon.
+We’ll also work on smoother transfers between personal and joint accounts, that are tidier in your feed, and can be scheduled like a standing order.
+Let us know what you think!
+We really hope you enjoy using a joint account. As always, we’d love to hear your thoughts and feedback in our community.
+
+To learn how to make the most of your money, head to Monzo Money Tips!
+
+
+

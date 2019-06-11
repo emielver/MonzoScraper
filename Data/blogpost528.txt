@@ -1,0 +1,31 @@
+Title: Welcome to Mondo!
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 1 Jun 2015
+
+
+What is Mondo?
+Mondo is a new challenger bank in the UK, focussed on making your financial life easier, rather than trying to catch you out with penalty fees and charges.
+We’re building a current account that lives on your smartphone and gives you control of your money.
+An account will come with a debit card, plus access to one-off and recurring payments via Faster Payments and Direct Debit.
+We’re also aiming to let you do some interesting stuff with your data:
+
+
+
+
+
+How are you different to other banks?
+We’re fundamentally different because our entire experience is designed around your smartphone. Legacy high street banks have thousands of branches to support and seem to think of mobile banking as an afterthought.
+We’re also building our core systems from the ground up, based on 21st century technology, rather than simply building a veneer over existing legacy software. This “full stack” approach means we can process enormous amounts of data in real time and send you actionable alerts when they matter, not three days later. All whilst staying secure and reliable.
+Finally, we’re focussed on making the best current account in the world, rather than trying to sell you mortgages, credit cards or PPI plans. There are loads of great financial products already out there, and you’ll be able to access many of them from within your Mondo app. But the final piece is still missing – a great mobile current account.
+When can I try it?
+Sign up to our mailing list and you’ll be the first to know. We’re currently in early testing with a handful of users, but we’ll be expanding our trial to invited users in the next few months.
+Are you regulated as a bank?
+We’re currently going through the authorisation process with the Bank of England with the aim of securing a full UK banking licence.
+Thanks to EU single-market rules, we can passport this licence across Europe, although we’ll focus on getting the UK right first.
+What’s next?
+Over the next few weeks and months, we’ll use this blog to introduce the team that’s building the bank, and give you early access to some of the features we’re most excited about.
+You can sign up for email updates at monzo.com or chat with us on Twitter at @monzo
+Mondo – it’s time for a new kind of bank.
+
+We recently updated our name to Monzo! Read more about it here.

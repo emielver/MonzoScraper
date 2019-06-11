@@ -1,0 +1,233 @@
+Title: The end of The Big List!
+Author:  Jami Welch
+Position:  Product Manager
+Date: 22 Aug 2018
+
+
+Three months ago we published The Big List – a rundown of features you told us were missing, and that you’d need to make Monzo your main account.
+We committed to fixing them in exactly three month’s time, and today we reached our deadline.
+We’re happy to say that we ticked 11/14 items off our list!
+
+
+
+It’s been a busy and brilliant three months! Working through the list has really helped us build momentum, and committing to do it publicly has meant you can hold us to account. We’d loved seeing so many people following along in the community and @MakingMonzo on Twitter.
+We made a lot of progress, but there are three items that we still need to finish: locking your app with a PIN, receiving international payments, and getting interest paid on savings. We’re sorry we missed the deadline, but we’ve started work on all of them already and shared updates about each one on the blog.
+Just because the deadline’s over, it doesn’t mean we’re done. We’ll keep improving the features we added (and working on brand new ones too!)
+The List
+
+
+
+
+
+          Apple Pay
+        
+
+ Launched! You can now use your Monzo card with Apple Pay (as well as Google Pay).
+
+
+
+
+          Withdrawing large amounts of cash and sending large bank transfers
+        
+
+ Done! If you need to withdraw large amounts of cash or send a large bank transfer, just drop us a message through in-app chat. Please do this in advance of your transaction to give us time to review your account!
+
+
+
+
+Better payee management
+
+
+            Ability to delete previous payees
+            
+
+            Store previous references with payees
+            
+
+
+
+We've added these features and will keep working to make it even easier to manage your payees.
+
+
+
+
+Improving recurring payments
+
+
+            Show upcoming Direct Debits in your feed
+            
+
+            Show the amount and date of Direct Debits in your recurring payments screen
+            
+
+            Ability to categorise Direct Debits
+            
+
+            Editable standing orders
+            
+
+            Edit notes and tags on Direct Debits
+            
+
+            Retry failed Direct Debits later in the day
+            
+
+
+
+We've now built these features to help make your bills easier to manage.
+
+
+
+
+      PIN lock for the app for extra privacy
+        
+It can be useful to lock your app with a PIN, so that even if someone has access to your phone, they won’t be able to get into your Monzo app.
+We've chosen to prioritse other projects for now, so we haven't been able to build this yet. Read more about why we’ve chosen to work on it later, and an update on where we are with the project so far.
+
+
+
+
+
+
+
+        Custom pay periods in Summary
+        
+
+ Done! Most people don’t get paid on the first of every month, so making you budget like that is stupid. We’ve built the ability to set your payday into Summary (now in Monzo Labs!) so you can set Targets and budget in a way that suits you.
+
+
+
+
+        Joint accounts
+        
+Joint accounts are now available for everyone!
+
+
+
+
+
+International payments
+
+
+Ability to send payments abroad
+
+
+            Ability to receive payments from abroad
+            
+
+
+
+A must-have if you have family or friends overseas, we now let you send payments internationally with TransferWise.We're still working to let you receive international payments, and you can read our latest update here.
+
+
+
+
+      Basic web interface for emergencies
+        
+Sometimes the unthinkable happens and you lose your card and your phone. You can call us anytime to freeze your card and order a new one, but being able to do it yourself is even better.There's now a basic web interface for emergencies!
+
+
+
+
+
+      Improving merchant acceptance so your card works in more places
+        
+Monzo should work everywhere Mastercard is accepted — and most of the time it does. However, as a new bank, we’re still finding some places where it’s a bit iffy and shops won’t accept it.
+We're working on this on an ongoing basis and we've detailed our efforts here.
+
+
+
+
+
+
+
+    Making it clearer how to deposit cheques with Monzo
+      
+
+ Yep! There are now clear instructions in the Add Money screen of your Monzo app — all you need to do is pop the cheque in an envelope with FREEPOST MONZO on the front and your account number written on the back of the cheque. Early next year, we’ll be able to let you pay in cheques just by taking a picture!
+
+
+
+
+Bring Android fully up to speed with iOS
+
+
+      Bring Targets to Android
+      
+
+      Pay with fingerprint on Android. (Read more).
+      
+
+      Travel Reports on Android. (Read more).
+      
+
+
+
+We've added these features to Android so they're available to our users on both platforms!
+
+
+
+
+        3D Secure
+        
+3D Secure is that extra page that you’ll sometimes see when buying online that asks for another password. It provides additional security and some sites require banks to support it.
+We've built 3D Secure (the Monzo way!) so you can make online payments safely.
+
+
+
+
+
+      Getting interest paid on savings
+        
+We’re working to let you create a Pot that’ll pay a competitive rate of interest.
+And we'll be ready to roll it out to everyone in the next few weeks! Read our full update here.
+
+
+
+
+
+What’s next?
+There are still loads of ways we can improve each of the items on our list. Ticking something off doesn’t mean we’re finished with it forever!
+Here’s how we plan to keep improving the features we’ve added.
+Better payee management
+We want to make it even easier to make and manage your bank transfers, Direct Debits and standing orders with Monzo. Next up we’ll:
+
+Help you add a payee without having to pay them first
+Make it easier to manage multiple payees that belong to the same person
+Make managing payees for bills better so you can quickly understand who you need to pay, even when the account number and sort code’s the same
+
+Improving recurring payments
+Managing your regular payments should be easy, and flexible enough to fit in with your life. We want to:
+
+Help you set up more flexible standing orders — Right now you can make standing orders that repeat daily, weekly, monthly and yearly. But we’ll add the ability to make them repeat at other regular intervals, like every four weeks for example.
+Let you schedule recurring Monzo-to-Monzo payments and make scheduled transfers between your personal and joint accounts
+Add the ability to edit scheduled pot transfers (like you can with bank transfers already)
+Let you separate your spending money from the money you need for bills, rent and other regular expenses
+Help you budget and track your spending in a timeframe that suits you, and reduce the need to update Summary every time you’re paid
+
+Joint accounts
+We launched joint accounts last week, but there are a few features we still need to add:
+
+Bringing Pots to joint accounts
+Helping you switch joint accounts to Monzo easily with the Current Account Switch Service
+Making switching between accounts clearer, so you know whether you’re looking at your personal or joint account (see some of our early designs!)
+Making transfers between your personal and joint account clearer
+
+Cheque deposits
+We’ve added more info in the app about how to pay in cheques, and we’re already working on helping you pay in cheques just by taking a picture!
+Bringing Android up to speed with iOS
+After adding Targets, Travel Reports and the ability to pay with your fingerprint, next we’ll let you protect your account by requesting PIN reminders with your fingerprint.
+Improving merchant acceptance so your card works in more places
+We’re working on making sure Monzo is accepted wherever Mastercard is, and we’ve explained what we’re doing here.
+It’s an ongoing process and we’re always working to improve it (and adding 3D Secure helps too!)
+3D Secure
+After testing it in Monzo Labs for a week, we started rolling out 3D Secure to everyone this morning! We’ll keep working to make sure it’s being accepted at every merchant.
+Thank you!
+Your feedback really helped us understand what you need from your bank, and put it at the top of our list. Let us know what you think we should work on next in the community!
+
+Ready to go #FullMonzo, Making Monzo your main account is easy with the Current Account Switch Service. Find out more here. Or if you’re reading this on your phone, you can start your switch to Monzo now!
+
+
+      Switch to Monzo Now!
+  
+

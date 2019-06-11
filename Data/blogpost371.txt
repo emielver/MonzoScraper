@@ -1,0 +1,59 @@
+Title: Working on Android
+Author: Jami Welch
+Position: Product Manager
+Date: 29 Sep 2017
+
+
+Happy Birthday Android! 🎉 Exactly one year ago today, we released the Monzo Android app.
+It took three months and three engineers to get that first version into the Play Store, and since then we’ve been bringing more and more brilliant Monzo features to Android, and working diligently towards achieving feature parity with iOS.
+Now five in number (six on Monday!), our Android engineers work closely with product managers and collaborate with teams across the company. Our latest release is version 1.12.1, and I think it’s fair to say that we’ve come a long way!
+As we gear up to launch current accounts, and build a Monzo marketplace, we’re looking to grow the team even further. If you or anyone you know is interested, find out more and get in touch 📥
+The talent of our engineers and the way we approach our work are a huge part of how we’ve gotten here, so I wanted to give a bit of an insight into what that looks like.
+
+
+
+Goals over features
+We work towards quarterly goals, rather than thinking about things from feature to feature. That might be making customers happier, helping them migrate from prepaid cards to current accounts, or increasing adoption of a particular feature. This helps us focus on what’s good for the user, and what makes sense for the company, rather than just shipping features that don’t make an impact.
+We’ll then work out what is most likely to help us reach that goal, whether that’s building features, or fixing something that’s broken.
+Android engineers originally sat within External Product, but as we’ve grown in number and our goals has a company have become more ambitious, we’ve shaken up that structure slightly. Now, Android engineers are embedded in other teams. That might mean working on help and support as part of the Internal Product Team, or working on overdrafts as part of the Lending Team.
+Cross-platform from the start
+The idea is that we organise ourselves in cross-functional groups of backend, iOS and Android engineers, that are each working towards a focussed goal.
+For example, as we continue to offer current accounts to more and more customers, there’ll be a team that will focus on helping people set up their new accounts as quickly as possible using the Current Account Switch Service (CASS). That team will track how many people are switching successfully, identify where the problems are, then work together to design a solution that works on both Android and iOS.
+This approach will allow us to build experiences in a cross-platform way from the very start, so Android isn’t always playing catch-up, and we aren’t duplicating work or adding inconsistencies.
+Keeping the codebase healthy
+As more and more Android engineers join Monzo, to work on different projects within different teams, keeping the coding approach consistent and compatible becomes more of a challenge.
+To make sure we’re keeping the codebase healthy, once a week all the engineers meet to identify and address any issues.
+
+We have a weekly meeting in which we discuss code style, conventions, things that we have or do in the codebase that are annoying or in the way. It’s really nice to be able to bring up problems and ideas in an open format, to make sure we’re continually doing better 💪
+— Emma
+
+We constantly think about ways to improve our codebase and our development process.
+— Tas
+
+Monzo time
+One day at the end of the month is set aside for engineers to work on anything they’d like. We treat this time like a low risk playground or mini R&D lab, that allows people to exercise their creativity, test out new ideas, and collaborate with other people. It usually yields some interesting results!
+It’s a good opportunity to work on a cool feature that might not necessarily contribute to Monzo’s most urgent priorities, but that might be interesting for users or help improve the way we work internally.
+
+I created a proposal about how we could make our UI testing framework more robust and easier to work with. We ended up using most of it, just making modifications based on everyone’s input.
+— Tas
+
+I’ve worked on card activation using NFC, auto-verifying SMS phone number verification codes, plus a bit of interaction design and animation to add polish throughout the app ✨
+— Kavi
+
+I usually use this time to either work on something technical which saves us some pain (like adding a ‘developer options’ screen, for example) or to test out a new API that looks interesting. I tried out the Nearby APIs from Google to allow people to pay someone around you. It was extremely cool! Hopefully some day it’ll make into the product 😃
+— Emma
+
+What’s next?
+As a business, one of our most important goals at the moment is to build a sustainable business through lending and partnerships. And to help us do that, we need to grow the team. We’re looking for skilled Android engineers, who can help us shape the development of our product.
+In the immediate term, we’re also working on migrating existing users from prepaid to current accounts, which for us means deleting a lot of legacy code from the Android app!
+
+After we’ve helped everyone upgrade to current accounts, we’ll be able to delete a huge chunk of legacy code from our app. There’s nothing more exciting than getting rid of old code!
+— Tas
+
+I think the Android Pulse graph will be super fun and challenging to implement.   
+— Brad
+
+I’m excited about seeing everyone using Monzo current accounts and finally having a single app again! It will also be cool to work on bringing Monzo features like P2P payments and Monzo.me to the current account.
+— Ivan
+
+In advance of October’s Android Open Office event, all week we’ll be focussing on what’s new and next on Android 🤖

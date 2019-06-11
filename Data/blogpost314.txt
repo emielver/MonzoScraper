@@ -1,0 +1,81 @@
+Title: Monzo Monthly Update: April
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 5 Apr 2018
+
+
+March was a momentous month for Monzo, and we’ve got plenty planned for April too. Here’s our regular recap of what we worked on last month, and what’s to come for the next one.
+Done in March ✅
+We reached half a million current accounts and closed the prepaid Beta 🚀
+We’re so pleased that more than 362,000 customers chose to upgrade, before we closed the prepaid Beta yesterday. More than 500,000 people are now using Monzo current accounts!
+
+
+
+Monzo’s customer growth since launch. Yellow dots show prepaid customers and red dots show customers who’ve upgraded to full current accounts or joined as new current account customers. Credit to Pete Hamilton for writing the script we used to create this!
+Whether you’re brand new to Monzo or you’ve been with us from the start, thanks for all your support so far. We can’t wait for what’s next.
+We started testing Marketplace Beta 🛒
+To help us learn more about the products and services you might like to see from a Monzo marketplace, we launched an early test and began rolling it out to small numbers of users.
+We teamed up with a few companies to show a variety of products and services you might find interesting. This will help us gather feedback, and inform how we develop partnerships and the marketplace in the future.
+You can find out more about the Marketplace Beta and sign up to try it out here.
+To learn more about why we’re building Monzo into a marketplace, you can read our Head of Partnerships Phil’s plans on the blog.
+
+
+
+We helped you save spare change with Coin Jar 💰
+We launched an early experiment that helps you round purchases you make up to the nearest pound, and set the spare change aside.
+By creating a pot and calling it “Coin Jar”, you can save small amounts of money automatically, every time you buy something with Monzo.
+Find out how it works  and give it a go!
+We added fingerprint unlock to Android 👆
+If you want some extra privacy when you’re using Monzo on Android, you can now choose to unlock the app with the power of your fingerprint.
+
+
+
+We started testing the Current Account Switch Service ↪️
+Thanks to the Current Account Switch Service, we’re excited to say that you’ll soon be able to switch some or all of your payments over to Monzo.
+To test the experience, we’re now slowly making it possible for small numbers of people to switch payments from their existing banks over to Monzo.
+Once we’re confident everything’s working as it should, we’ll make it available to everyone, in the next month or two.
+Find out more and let us know if you’d like to help with testing here.
+
+
+
+We added the ability to upload profile photos to Android 📸
+You can now add a photo to your Monzo account, so your friends can see your face!
+We improved the Help tab 💬
+To help make it easier to find the answers you need, we made some improvements to the Help tab in the app.
+We’ve changed the way we suggest questions, so they’re personal to you. If you’ve frozen your card we’ll show you how to unfreeze it or order a new one. Or if you’re abroad we’ll give you tips on how to find your nearest ATM.
+We also show you a list of your most recent transactions, so you can ask questions about each one.
+We’ll be sharing a detailed update about the changes we’ve made to Help soon!
+
+To come in April 🔜
+Making it easier to pay people 💷
+We’ll make it easier to find contacts that are also on Monzo, or ones you’ve paid recently. So you can pay who you need to quickly, without scrolling through so many names.
+
+
+
+Making overdrafts available to more people 📊
+Back in January we said we’d be able to give a lot more people the option to use an overdraft. But we haven’t been able to make them available as widely as we’d hoped yet.
+We’re confident we’ll be able to extend this to more people, starting next week. We’ll share a full update then, explaining how overdrafts work and how you can get one.
+Remember, you’ll only have an overdraft if you want one, and actively switch it on in the app.
+
+
+
+Tidying up Coin Jar 💰
+At the moment, if you use Coin Jar to round up your purchases, you’ll see two transactions in your feed: one showing the purchase you made, and one showing the spare change that’s been put in your pot.
+We know this can clog up your feed and make it harder for you to see and search through recent transactions. So we’ll remove the repeated transaction, to keep your feed clear and easy to navigate.
+
+
+
+Improving scheduled payments 👀
+In the same way you do for transactions, you’ll be able to see more useful details when you tap on your Direct Debits and standing orders, like who you’re paying and how often.
+As we prepare to make the Current Account Switch Service available to everyone, we’ll also also work to support more standing orders, so you can switch over payments that repeat in more complex ways.
+Redesigning spending 📊
+As we mentioned in our Monthly Update for March, we’ve been working on redesigning the way we show you information about your spending.
+You’ll be able to set targets and track your spending from payday to payday, and understand how you’re spending if you’re getting your salary paid straight in and paying bills, rent or mortgages out of your Monzo account.
+You can see some sneak peeks of the new designs on the community forum. We hope to start rolling them out at the end of the month!
+
+
+
+Working on some surprises! ✨
+We also have a few new features in the works, to help you better organise your spending, and improve Monzo-to-Monzo payments. Keep an eye out on the blog and Twitter for updates!
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!

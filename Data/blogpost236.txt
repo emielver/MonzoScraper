@@ -1,0 +1,43 @@
+Title: Receiving international payments with Monzo
+Author: James Berry
+Position: Payment Scheme Manager
+Date: 24 Jul 2018
+
+
+When we published The Big List, one of the things we committed to doing was giving you the ability to send and receive international payments from your Monzo account.
+In June we partnered with TransferWise and started rolling out the ability to send international payments from the Monzo app. You can find out how it works and how to send international payments here.
+Next on the list is adding the ability to receive international payments, so we wanted to explain what you can do at the moment through Monzo, and our early plans to improve it.
+
+
+
+Receiving international payments now
+You can make inbound international payments to Monzo already, from Europe and from the rest of the world. But they aren’t as reliable as we’d like.
+Payments might take a few days to go through, or they might not reach your account at all.
+To receive international payments into your Monzo account, you need an IBAN.
+An IBAN is a unique identifier that’s used to distinguish your bank account from all the others around the world. It’s a combination of your account number, sort code, and your bank’s Bank Identifier Code (BIC).
+You can use an online IBAN generator to generate an IBAN. Then, to try and receive a payment, either:
+
+Share this IBAN with the person who needs to pay you
+Or if you’re sending money to yourself, make a bank transfer or set up a Direct Debit to your Monzo account by entering that IBAN
+
+You can try to make or receive payments this way in any currency, but unfortunately they aren’t very reliable yet. Payments will either take a few days to go through, or return to the original sender after a few days. And we might not be able to help track down any missing payments.
+Why aren’t international payments reliable yet?
+There are a few reasons why you can’t reliably receive international payments into your Monzo account.
+We aren’t connected with SEPA and SWIFT
+These payments aren’t as reliable as we’d like, because we aren’t directly connected to SEPA or SWIFT, the two networks that let banks reliably move money around Europe and the rest of the world respectively.
+We’ve explained what SEPA is in detail in this blog post, and TransferWise have put together a useful guide to SWIFT.
+We need to show other banks how to send us payments accurately
+We also haven’t published any ‘routes’ that show sending banks where they should send the money if they want to get the payments to us accurately. Right now the sending bank chooses the route they use, which isn’t necessarily the fastest or most reliable.
+Some payments aren’t sent in a standard format
+Payments made through SWIFT or SEPA need to be sent in a standard format. But international payments often aren’t, because they’ve usually been routed through a few different countries or payment schemes. So they sometimes come through from the sending bank in the wrong format or with important information missing. That means we don’t automatically know the correct bank account to credit. When that happens, we either have to work it out manually or return the payment to the sender.
+We want to make sure you can reliably receive payments from Europe and the rest of the world, so we’ll be doing some work over the next few months to make this better.
+What’s next for European transfers?
+To make sure you can send Euros across Europe, we need to improve the reliability of bank transfers made within SEPA. You can read our blog post to find out what SEPA is and how it works, but it basically lets you receive reliable, fast Euro payments from across Europe, into your Monzo account.
+We’ll do that by using NatWest as our ‘correspondent bank’, which means we’ll agree to set up a connection that lets other banks send international payments to Monzo, through NatWest’s existing SEPA connections.
+There’s a fair bit of paperwork and some technical changes we both need to make, but we should be able to start testing this internally in the next few months.
+What’s next for transfers from the rest of the world?
+To improve the way you receive payments in other currencies from outside Europe, we need to work with the international banking community to help other banks send money to Monzo more reliably.
+We’ll publish preferred routes to make it clear how other banks can accurately get money to our accounts, so you can receive international payments in any currency. And we’ll be able to share more about our plans in a couple of months.
+
+When we published The Big List in May, we said we’d fix everything on it over the next three months. We’ve started work on helping you receive international payments reliably, but it’ll be a few months before we’re able to bring them to you, which means we’ll miss our deadline 😞
+We’re working hard to add the feature as soon as we can, and will keep you updated along the way.

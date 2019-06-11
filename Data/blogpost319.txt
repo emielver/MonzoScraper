@@ -1,0 +1,121 @@
+Title: An update on diversity and inclusion at Monzo, March 2018
+Author: Maria Campbell
+Position: Head of People
+Date: 22 Mar 2018
+
+
+Our goal is to build a bank that works for everyone, and bring it to one billion people. But to fulfil that ambition, it’s crucial that we make Monzo an amazing place to work for everyone.
+Different perspectives make for a stronger team, and we believe it’s impossible to have a broad range of voices and viewpoints without a demographically representative team.
+We want to be transparent about diversity and inclusion at Monzo, and accountable for what we’re doing to improve it. So we’ve committed to sharing annual updates about our progress.
+Earlier this month we sent out an anonymous survey to the whole Monzo team, and over three-quarters of the company voluntarily responded. Here’s what we learned.
+Gender
+
+
+
+The percentage of people in our team who identify as women has increased from 23% in 2017, to 35.7% today. Right now, 62.6% of our team identify as men.
+Team leads and management broadly reflect this, with 63% men.
+We’re expanding our senior team, and have asked the headhunters we’re working with for gender-balanced shortlists of potential candidates.
+We’ve also signed the Women in Finance charter, to publicly affirm our commitment to keep improving the gender balance in our senior team.
+Technical roles in the business are less balanced, with 77% men.
+To help us address the imbalance, we now have two technical recruiters in the team. They spend their time sourcing candidates from demographics that aren’t already represented in the applicant pool for open job roles.
+Ethnicity
+
+
+
+We’ve made a small amount of progress. 16% of the company are people of colour, which is true across both technical and non-technical roles.
+Only 6% of our leadership team are people of colour, which increases to 15% if we include those with leadership and managerial responsibilities.
+We still don’t represent the demographics of London, which is where the majority of potential candidates live and work.
+Age
+
+
+
+Ages
+All employees
+Leadership
+
+
+
+
+21 or under
+5%
+0%
+
+
+22 – 25
+36%
+23%
+
+
+26 – 30
+35%
+23%
+
+
+31 – 35
+18%
+21%
+
+
+36 – 40
+2%
+6%
+
+
+41 – 45
+1%
+2%
+
+
+46 – 50
+2%
+4%
+
+
+51 – 55
+1%
+0%
+
+
+
+Disability
+
+
+
+6% of people in the company have a disability.
+Sexual orientation
+
+
+
+27% of people are LGBQA. We’re applying to participate in the London Pride festival this summer! 🏳️‍🌈
+Education
+
+
+
+This chart shows the highest level of formal education that people at Monzo have completed. 52% have a BA or BSc, 26% have an MA or MSc, 16% have completed A-Levels, while 2% have done GCSEs and another 2% have completed professional qualifications.
+Religion
+We represent 11 different religions, though the majority of us are agnostic, atheist or otherwise non-religious.
+Nationality
+
+
+
+There are 40 different nationalities within the company. 65% of us are just British, and 74% have British as one of our nationalities.
+Caring responsibilities
+
+
+
+12% of people have caring responsibilities. Caring responsibilities can be for a child or an adult.
+What are we doing?
+We believe that diversity and inclusion isn’t one project or one person’s responsibility, but a way of thinking that must permeate everything we do, and be part of every decision we make.
+We’ve continued developing the work described in our last update, which includes writing inclusive job ads, standardising the way we review job applications, and implementing a fixed salary structure.
+We’ve also been working on some new things too.
+Offering extensive interview training: To make sure our hiring process doesn’t inadvertently discriminate or uphold systemic inequality, staff that interview candidates for roles are trained to be aware of the various types of biases we hold, and understand how to mitigate them.
+Training helps make sure we are only asking questions that are relevant to the role, and allows interviewers to understand that the topics we cover in our interviews are designed to identify people who will thrive in our work environment. A good ‘culture fit’ does not mean future friends!
+Adding better benefits: We’ve introduced a range of new benefits for our team, including pensions and private health care. We offer paid sick leave for physical and mental health, and compassionate leave for those who need it. To support staff with different caring commitments, we also offer childcare vouchers and well-paid leave for both primary and secondary carers, which covers maternity, paternity and shared parental leave, as well as adoption leave.
+Offering part-time roles and job sharing: For software engineering roles, most customer support roles, and other roles where we can, we give people the option to apply to join us part-time. Whether that’s to help them balance other commitments, or simply find a better balance between work and life, we think it’s important to give people that choice and flexibility.
+Making space for private reflection: Aptly named the Room of Requirement, we have set aside one of our meeting rooms for anyone in the team to use when they need. A quiet space with a blackout curtain for privacy, it’s used by people in the team as a prayer room or a space for meditation.
+Hosting community events outside London: While Monzo’s HQ is based in the capital, 72% of our users live outside London. To make sure we’re reaching everyone that uses Monzo, we’ve begun to host more events in cities across the country. From Liverpool to Leeds, Manchester to Cardiff, our community team organise meetups, workshops and talks, and make an effort to ensure that our speakers are diverse and demographically representative.
+Supporting mental health and wellness: We’ve also begun to make more improvements to the way we support mental health and encourage wellness in the workplace. We’ll be writing more about our work very soon!
+Conducting user research: We want to build a bank that works for everyone. And to do that, we need to understand how different users use and manage their money, and make informed design decisions based on those insights.
+User research helps us reach people outside our community and existing networks, to find out what they need from Monzo too. As our customer base grows becomes more and more diverse, our research will help us reach an audience that accurately reflects the makeup of our user base.
+
+We’d love to hear what you think. If you have any feedback, suggestions or questions, please share them with us on the community forum.

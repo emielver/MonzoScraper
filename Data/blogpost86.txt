@@ -1,0 +1,62 @@
+Title: We use this tool to turn user research into insight very quickly
+Author: Samantha Davies
+Position: User Research Lead
+Date: 11 Feb 2019
+
+
+As we grow as a company and more and more people start using Monzo, user research becomes even more important. We need to run sessions frequently and use our findings to inform product decisions, so we keep meeting the growing, changing needs of our customers.
+To help us do that, we’ve come up with a method that let us quickly turn around results from evaluative user research.
+We use a behavioural analysis matrix
+One of the most important principles we follow with user research at Monzo is to focus on what people do and not on what they say. That’s because people’s opinions can change all the time and be dependent on someone’s mood, an article they recently read or even who they’re speaking to. Behaviours, on the other hand, tend to be fairly consistent unless something disruptive happens in someone’s environment.
+To make sure that our evaluative user research focuses on behaviours and not opinions, our researchers put together an analysis matrix ahead of the session.
+
+
+
+The analysis matrix outlines specific assumptions that we want to test in the design, like whether people tap on a particular element, whether they’re able to find a feature, or whether they organically express any concerns about content.
+We choose the assumptions that form the backbone of the matrix collaboratively with the entire team of product designers, product managers and engineers.
+Centre assumptions on behaviours, not perceptions
+If we’ve made our assumption correctly, we should be able to see the user behaving in a way that objectively shows us our assumption was either right or wrong.
+User research is about reducing uncertainty in the design process, so getting this right is important or the sessions can create more confusion or end up being a waste of time.
+If we need to ask a user questions to understand what they’re thinking, we’re asking them to share their perceptions and opinions. And because opinions can be so changeable, this introduces subjectivity and inconsistency. If we phrase the assumption ambiguously, it leaves room for uncertainty and doesn’t give us a clear picture of what happened.
+For example, if we’re researching the sign-up journey in the app. A well-phrased assumption would be:
+✅ “Users will get through sign-up with no major issues”
+This is an effective assumption because it
+
+Sets clear boundaries about what we want to understand
+Focusses on what the user does, not what they say or think
+
+Another assumption we might want to test in the same sign-up flow might be:
+✅ “Users will frame their passport correctly”
+Again, there’s very little room in the assumption for ambiguity.
+A less useful assumption would be phrased like:
+🚫 “Users understood how to open an account”
+This assumption is subjective and open to interpretation.
+For example, someone might be able to objectively tap through the flow and complete the sign-up process but might not realise that their account is open. We would need to ask them whether they understood that their account is open, which would be leading them in the questioning and might not be true.
+Create focus and minimise bias
+We run a handful of 45-minute one-to-one sessions during a full day of evaluative user research, with 15-minute gaps between them for the team to run through the analysis matrix and discuss what we saw. We take it in turns to lead the discussion for each of the assumptions and we come to a consensus.
+The advantage of using the matrix is that it makes the purpose of the evaluative research extremely explicit and defines the boundaries of what we’ll test in the designs. It also gives focus to sessions later in the day, when everyone starts getting tired and are more likely to miss things that happened. Without the matrix, team members observing can be influenced by their biases and pick up primarily on things they feel are particularly relevant and overlook other, important things. The matrix reduces the role of bias while giving space for other findings to emerge. Any other relevant observations and pertinent quotes are captured in spreadsheet, which everyone observing contributes to during the session.
+Align the team and uncover areas for improvement
+Because at Monzo the whole team watches the research sessions and we analyse the results collaboratively in almost real-time, there’s no need for the classic lengthy analysis period during which the researcher has to labouriously plough through reams of post-its or notes by themselves.
+The morning following the research, the researcher transposes the analysis matrix to our internal wiki (we use Notion) and pulls out additional key findings from the notes. In the afternoon, the whole team gets together and we playback through the findings and work out what we do next. Having the expertise and context of the entire team in the room – the product designer, product manager and the engineers – means  the plans are holistic and viable rather than limited to the lens of one of the roles, which we feel leads to the best outcome for our customers and the business.
+Share quickly and widely across teams
+Once the team has agreed on the outcomes, the researcher finished the write-up on Notion. That includes:
+
+The method we followed
+The research questions
+Links to the stimulus
+The user profiles
+The analysis matrix
+Any additional findings
+The outcomes of the research
+
+
+
+
+We include a summary at the top of the page, and share it on Slack across with all the teams at Monzo that might be interested in the findings. That can be any of our numerous product teams, our marketing team or even the executive committee.
+Sometimes findings from the research point to simple, easy solutions which the same team will quickly build or iterate. Sometimes they point to entirely new problems which will create a whole new project for a different team in the future.
+Reduce the risk of shipping fast to learn
+There’s a level of risk involved when dealing with people’s money, and we recognise we need to be careful that we don’t ship something that damages our customers trust. At the same time, the best way for us to learn how to solve customer problems is to ship fast so we understand how features work in the wild, for different people. This method allows us to learn before shipping and make sure that we can be more responsible with the design decisions we make.
+Take part in paid research!
+Our mission at Monzo is to make money work for everyone. User research helps us make sure we’re shipping the right thing that’s been designed the right way, and turning around results quickly means we can reach our mission faster. If you’d like to take part in future user research studies at Monzo, please sign up here. We’re always on the lookout for feedback for features we’ve released and the best way to reach us is via the Community forum.
+Join us and change people’s relationship with their money
+We’re rapidly growing to helps us reach our mission to make money work for everyone. There are open roles across the company, including the lovely design team. Take a look at our careers page for more detail and to apply.

@@ -1,0 +1,19 @@
+Title: An update on getting interest paid on savings
+Author: Valerio Magliulo
+Position: Product Manager
+Date: 21 Aug 2018
+
+
+As part of the Big List, we committed to helping you get interest paid on your savings. And we’re working to let you create a Pot that’ll pay a competitive rate of interest.
+We’re going to miss tomorrow’s deadline for the Big List, but we’ll be ready to roll it out to everyone in the next few weeks!
+How it’ll work
+You’ll be able to create a special kind of pot that lets you earn interest on the money inside it.
+You’ll be able to do this for one pot at a time, and earn interest on savings of £1,000 or more. And your money will be protected by the Financial Services Compensation Scheme (FSCS) up to £85,000.
+Here’s how we think it’ll look:
+
+
+
+What’s next?
+We’ve been working with a partner bank that’ll help us pay interest on your savings. When you earn interest on a savings pot, your money will actually held by our partner bank.
+We’ve already designed and built the experience, but tracking how money moves between banks is technically complex, so we’re still finishing work on this part.
+The good news is that we’ll be ready to roll savings out to everyone in a few weeks! So stay tuned on the blog and Twitter for updates! 🔜

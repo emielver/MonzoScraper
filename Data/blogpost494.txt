@@ -1,0 +1,64 @@
+Title: Automated Testing &  Accessibility on iOS
+Author: Josh Garnham
+Position: iOS Developer at Mondo
+Date: 26 Apr 2016
+
+
+Over the past couple of weeks, Josh has been working on improving our automated testing of the app so that we can quickly identify any bugs or issues and prevent regressions. You can follow him on Twitter at @jgarnham.
+This blog post just covers one area of our tests, integration testing, which is designed to run through common uses of the app to ensure that what the user sees is as we expect. The way we do this allows us to run through the key flows of the whole app with the click of a button.
+At the same time this has helped us improve accessibility and VoiceOver support to make it easier for those with visual impairments to use and navigate the Mondo app.
+Writing Tests
+
+
+
+Testing is structured such that you have multiple test cases each with multiple tests within them. For example, for our peer to peer money transfer test case there are four tests which run in sequence:
+
+Login
+Choose recipient
+Enter details
+Send money
+
+Within the tests we make use of KIF to tap views on screen and enter text into fields. For example, the test to choose the recipient looks something like this:
+
+
+    tester.tapViewWithAccessibilityLabel("Send Money")
+  
+
+
+    tester.enterText("012345678", intoViewWithAccessibilityLabel: "Recipient name or phone number")
+  
+
+
+    tester.tapViewWithAccessibilityLabel("Send money to 012345678")
+  
+
+
+This causes the KIF tester to do the following:
+
+tap the view labelled “Send Money”
+type “012345678” into the field labelled “Recipient name or phone number”
+tap the view labelled “Send money to 012345678”
+
+Take a look at the short video below to see the full peer to peer test case in action.
+
+
+
+    Your browser does not support the video tag.
+  
+
+VoiceOver
+As these tests run automatically and without any manual input, the tester needs to be able to identify everything that is on the screen. Here’s where accessibility support and VoiceOver comes in.
+VoiceOver is an accessibility feature of iOS that allows the user to tap visual elements on screen and have a description of the element spoken aloud. You can play around with it yourself by going into Settings.app > General > Accessibility > VoiceOver. This allows visually impaired users to navigate without being able to see the screen — all they need to do is tap.
+The tester thinks in the same way; it identifies elements on screen by their VoiceOver description, defined by the value of the accessibilityLabel property.
+
+
+
+Running Tests
+In order for our tests to always begin from a consistent state, we ‘stub’ out API calls so that the same data is always returned and all API calls succeed.
+We then automatically run our tests using buddybuild every time we push to our git repository and are then notified of the results through Slack. If there’s a failure then the build stops and is not deployed, otherwise a build is made available to the team for internal testing.
+
+
+
+I hope you enjoyed this slightly more technical post, it’s definitely something we want to do more of in the future 🎉
+
+We recently updated our name to Monzo! Read more about it here.

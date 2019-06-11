@@ -1,0 +1,104 @@
+Title: #mondohack III
+Author: Tristan Thomas
+Position: Community Manager
+Date: 28 Jan 2016
+
+
+Last weekend, more than 100 people descended on Mondo Towers to build amazing things with the Mondo API. This was our third hackathon and it was fantastic to see how much the ideas and plans had matured since our last hackathon just two months ago. The recent addition of an OAuth2 flow to the API means that we are very close to opening the API up to everyone with an Alpha account.
+There were 18 teams in total, building everything from integration with a Tesla P90 to an expense monitoring solution for companies. Two days of hacking culminated in five final-round presentations to our judges for the day, Jess Williamson from TechStars and Alex Wood from The Memo.
+
+
+
+    The #mondohack winning team and judges. Photo by Rajesh Taylor.
+  
+
+A big thank you to everyone who came and to the Mondo team for giving up their weekend—we can’t wait for the next one! Follow us on Twitter @monzo to hear about it first. For more info, here are a few other blog posts and stories about the weekend:
+
+
+Putting a bit of Mondo in your browser by Dan Graf
+
+Let the hackers break the banks to fix our finances in The Memo
+
+The #mondohack III Winners
+Elliot Davies and Chris Hutchinson formed TeamCash, a project that immediately clicked with our judges who have experienced the pain of managing team expenses. TeamCash connects to the Mondo account of everyone in a team and automatically identifies company expenses. The team manager can view expenses, including the time, location and amount of the transaction and then accept or flag them for further investigation.
+
+
+Very happy with our #mondohack project—TeamCash, a spending tracker for small teams pic.twitter.com/jFi3hfV9wi— Chris Hutchinson (@chrishutchinson) January 24, 2016
+
+
+
+TeamCash were the well-deserved winners of the very first Mondo hoodies—exclusively for #mondohack winners!
+Runners-Up
+BillBeans 
+Girish Kumar built Billbeans, an OAuth-based voucher management system for retailers to offer discounts to users. A retailer can authenticate themselves and then create discount vouchers within the system for Mondo users who have visited a set number of times. It looked like a well thought-out project, with interfaces for the user and the retailer—well done Girish!
+
+
+
+GoToMondo 
+Using the Foursquare API, the GoToMondo team of Mark Dessain and Scott Robertson built an automatic recommendation engine for Mondo. Once you’ve visited Starbucks a few times in quick succession, GoToMondo recommends other coffee shops you might like, helping you to explore other places based on your past purchase history.
+
+
+
+    And we're back... An app to suggest similar places to go. #mondohack @monzo @scottymeuk pic.twitter.com/xeIokejMd9— Mark Dessain (@markdessain) January 23, 2016
+
+
+
+
+MondoWeb 
+Not content with Mondo’s focus on mobile banking, James Allison continued to develop his web version of Mondo that he blogged about previously. In two days, he added a map, CSV export, a legacy bank style statement generator and more statistics around your daily and monthly spending.
+
+
+
+Mon-donate 
+Charlie Whitaker, Joe O’Brien and Jonathan Deakin built Mon-donate, a tool that generates impact statements for charitable donations. Every donation you make to a charity can automatically push an item into your feed to show you where your money has gone and how it will be used. Totally customisable by the individual charity and reactive to the amount you donate, this was an idea that shows how the Mondo feed can really be developed and improved upon.
+
+
+
+This is just a flavor of the amazing projects built over the weekend. Here is the full list that the judges had to choose from, for which many have more details on Twitter at #mondohack:
+
+
+MondoBot, a slack bot for Mondo that’s full of AI, graphs and witty goodness
+
+
+MondoChat—allows you to chat with all the other MondoChat users within the Mondo app
+
+
+mondo-python—a Python module to make using the Mondo API easy
+
+
+mondo-tx-heatmap—view your Mondo transactions as a heatmap overlay on Google Maps
+
+
+Subtracked—automatically find your bills/subscriptions, predict your future balance, and alert when you’re going to go overdrawn in the near future, or when a cancelled subscription continues to bill you
+
+
+Mondo for Android—It’s like Mondo for iOS, but for Android
+
+
+Spare—donate your spare change to charitable causes
+
+
+MondoSquared—Checks you in on Foursquare when you pay with Mondo in a store.
+
+
+A Safari extension for Mondo which enhances your online shopping experience by telling you when you have enough money to buy something
+
+
+Mondo Phone: phone banking for Mondo
+
+
+Mondo Amazon Echo Voice banking
+
+
+Mondo Car Club—rent a Tesla with Mondo
+
+
+MondoMoneyPot—Visualise your money in bubbles
+
+
+MondoShare—split bills with housemates and friends
+
+
+Thank you again to everyone who came. We’d love to see you at our next hackathon in late March or early April.
+
+We recently updated our name to Monzo! Read more about it here.

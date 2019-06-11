@@ -1,0 +1,22 @@
+Title: The Monzo Transparent Product Roadmap
+Author: Tristan Thomas
+Position: Product Manager
+Date: 27 May 2016
+
+
+
+
+
+This post was updated in November 2016 to reflect our new name. Read more about it here.
+At Monzo, we aim to default to transparency. We fundamentally believe that as a company, we do better if we share with our community and gather feedback as we build Monzo.
+That’s why we released the iOS Alpha app as early as we could and gathered comments from users about what they did and didn’t like. Earlier this week, we launched v0.1 of our Android app to give fans an early look at what we’re building there. It’s why we have a community forum that anyone can join and why we share our knowledge through our blog and on Twitter.
+We really think that we can build a bank that works better for people like you by involving you in its development: by being responsive to your questions and queries through customer support, hearing your feature requests and ideas, and talking to you as we build it. On our community forum, we have huge threads about features people are really excited about Monzo building like savings pots, travel reports and the full Android app – the most common question there is “when is this coming?!”
+To continue keeping our users in the loop and inspired by companies like Buffer and Trello who have released their own transparent product roadmaps, we’ve put together an overview of our product roadmap for the coming months on a public Trello board.
+
+
+      View our transparent product roadmap
+  
+
+Please take a look and let us know what you think on the forum. You can vote on features in Trello and the vote counts will be a factor we take into account when deciding what to build next, although our engineering time and internal priorities will generally take precedence.
+Please remember that this is not set in stone – our time and the facts on the ground change incredibly fast! We’ll do our best to keep the Trello board updated and over time, I’d love to work out how we can bring all of our transparency efforts across the forum, Trello, Slack, our blog and Twitter together in a cohesive and easy to understand way.
+It’s always a challenge to push against our natural tendencies to keep quiet so that people don’t get disappointed when features are late, cut or changed, but we are really committed to making this work. I’d love to hear your thoughts on our transparent product roadmap and more specifically, what else you would like us to share publicly. Send me an email or tweet – I read and reply to every one.

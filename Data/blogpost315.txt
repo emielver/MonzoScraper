@@ -1,0 +1,92 @@
+Title: A technical look at how Monzo-to-Monzo payments work
+Author: James Routley
+Position: Backend Engineer
+Date: 5 Apr 2018
+
+
+Paying people can be a pain. It often involves copying and pasting account numbers or rooting around for forgotten card readers. To help make it easy to send money to friends, we built Monzo-to-Monzo payments that let you pay your contacts who also have Monzo instantly, with just your PIN.
+Internally, we call these peer-to-peer payments, which is often abbreviated to ‘P2P’.
+I want to share a technical insight into how these payments work, and what we’ve been doing to make sure they keep working smoothly, even as people upgraded from prepaid to current accounts.
+Architecture overview
+At Monzo we use a microservices architecture. Our codebase is split into lots of small, independent parts, which makes it easier to develop and more reliable to run. Monzo-to-Monzo payments are implemented in a microservice called p2p-payments.
+Whenever you want to pay a friend on Monzo, your app sends the following request to our servers:
+POST /p2p-payments/create_transfer
+
+{
+	"from": "user_x",
+	"to": "user_y",
+	"amount": 500,
+	"description": "Lunch 🍣"
+}
+
+The amount field is in pence, so a value of 500 means a payment of £5.
+How has this worked in the past?
+When we first began to offer Monzo-to-Monzo payments, all of our customers used prepaid accounts, so all transfers were made to and from prepaid accounts. To understand how these payments happen, we need to know a bit about how the prepaid account worked.
+Before we got our banking licence, we partnered with two other companies who provided us with some important services:
+
+We used a payment processor, that records each user’s balance and connects to the card network
+We used an issuing bank, to store our users’ money
+
+Whenever a Monzo prepaid user makes or receives payments, the payment processor updates their balance, and we move money to or from the issuing bank.
+For example, when someone received money on their prepaid card, we increased the balance in their account with the payment processor, but the money itself was sent and held by the issuing bank.
+Prepaid → prepaid
+To send a £10 prepaid → prepaid P2P payment, we need to debit the sender’s account with the payment processor -£10, and credit the recipient’s account with the payment processor +£10. The payment processor’s API makes it simple to credit and debit the relevant users’ accounts.
+There is no net effect of this, so we don’t need to interact with the issuing bank to make this payment.
+
+
+
+How does this work at the moment?
+In October last year we launched current accounts, and began rolling them out to our existing users. As people gradually began to upgrade their accounts, that meant some people were using current accounts while some were still on prepaid. We wanted to make sure that everyone has access to all the features that they’re used to, including Monzo-to-Monzo payments.
+However, current accounts are built on our own in-house processors, and there is no third-party issuing bank involved. Our existing version of P2P payments only supported prepaid-to-prepaid payments, so to make sure all our users could still send money to each other, regardless of what kind of account they were using, we had to do a bit of work.
+Routing
+There were four directions a payment could go:
+
+
+Prepaid → prepaid
+
+
+Current account → current account
+
+
+Current account → prepaid
+
+
+Prepaid → current account
+
+
+Each of these directions requires a different payment method. To determine which method to use, we look up the sender and recipient’s account types in our account service.
+Let’s go through each of the three directions (prepaid → prepaid is the
+same) and see how they work.
+Current account → current account
+For the current account, we maintain a ledger which records all of our users’ balances. To make a payment in this direction, we debit the sender’s account and credit the recipient’s account within our ledger. We don’t need to transfer any money in or out of Monzo.
+
+
+
+Current account → prepaid
+This is where things get more complicated. In this direction, money needs to actually move from Monzo to the issuing bank. To do this, we use a similar mechanism to topping up a prepaid card with a bank transfer. The steps are:
+
+Make a bank transfer from the sender’s current account to the issuing bank
+Credit the recipient’s prepaid account via a call to the payment processor’s API
+
+This is more complex than the previous two directions, because we actually need to move money. But it uses a pattern we’d implemented before, and the money movement happens at exactly the same time.
+
+
+
+Prepaid → current account
+Prepaid to current account transactions were the most complex. To do them, we:
+
+Debit the sender’s prepaid account with the payment processor
+Credit the recipient’s current account in our ledger
+
+From the point of view of the user, the transaction is complete. However, we haven’t transferred the money from our prepaid systems to our current account systems yet.
+To do this, we need to transfer money from the issuing bank who stores all the money held in prepaid accounts, to our corporate account. Every so often, we would sweep through this account, and move the money to our account with the Bank of England, which is where we store all the money held in current accounts. Because we don’t have direct access to the issuing bank, we can’t use FPS to transfer the funds synchronously.
+Instead, we used a system of weekly payouts. We recorded all transfers that happened over the week, and on Fridays we created a spreadsheet that lists the transfers along with some metadata like the sender and recipients’ account IDs. We sent this spreadsheet to the issuing bank, who checked it matches their records, and then transfered Monzo the relevant amount.
+Each week, we processed tens of thousands of transfers in this direction. Looking up the metadata associated with a transfer is a computationally expensive operation, requiring four RPC calls to other services. Performing this lookup for each transfer at the same time would cause a large spike in load on our platform.
+To avoid this, we set up a new service which looks up the metadata when the transfer is made, and stores it in a cache server. When we look up metadata when constructing the spreadsheet, we see if the information we need is in the cache first, reducing the load this operation puts on our platform.
+
+
+
+How will this work in the future
+Now the prepaid account has been closed, we’ll be able to remove the code for all directions apart from current account → current account.
+This temporary increase in complexity has been a common issue while we upgrade users from prepaid to current accounts. Code which was and will be simple has had to become more complex to support both “flavours” of account.
+It would be have been easier to avoid this work by offering simplified versions of features while we completed the upgrade process. For example, we could only have implemented P2P payments between current accounts, meaning users who had already upgraded wouldn’t be able to send money to friends who hadn’t. But users rightfully expect Monzo-to-Monzo payments to work between all Monzo accounts: it wouldn’t be intuitive if they suddenly started failing just because someone had or hadn’t upgraded. We think the benefits of being able to offer a simple and intuitive experience outweigh the cost of engineering complexity.

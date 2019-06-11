@@ -1,0 +1,53 @@
+Title: Try splitting the bill in Monzo Labs on iOS!
+Author: Ole Mahrt
+Position: Head of Product
+Date: 15 Aug 2018
+
+
+Back in February last year, we launched Monzo.me – an early approach to splitting the bill that lets you ask people to pay you by sharing a link. Now, we’re almost ready to launch the version of bill-splitting that we always wanted to build.
+If you’re on iOS, you can now help us test a better version of bill-splitting! We added it to Monzo Labs at an event last night, and we’d love your help with testing.
+How it works
+You can split bills with any other Monzo users, straight from the Monzo app!
+
+Tap on the transaction
+
+Under ‘Bill splitting’ you’ll see the option to ‘Add people’. Choose from a list of all your friends on Monzo, or use Nearby Friends to find people near you!
+We split the bill evenly by default, but you can edit the amounts if you like
+
+
+
+
+
+Tap ‘Request Money’ and we’ll send everyone a notification
+When they accept your request, they’ll send the money to your account instantly!
+
+
+
+
+
+You’ll see a payment in your feed from each person, with a reference so you can remember which bill you split
+
+
+
+
+Sending requests to split the bill is only available in Labs on iOS to start with, although customers on Android can already receive requests to split the bill and pay people back.
+Get started
+To turn it on in Monzo Labs:
+
+Make sure you’re on the latest version of the Monzo app
+
+Head to the Account tab in your app
+Tap your name at the top of the screen
+Scroll down and tap Monzo Labs
+
+Switch on the toggle for Bill splitting
+
+
+Share your feedback
+Before we bring it to everyone, we want to learn how we can make it even better. Give it a try and let us know what you think! We’ve set up a dedicated discussion in the community.
+Why isn’t it available to test on Android yet?
+Android users can already receive requests to split the bill and start paying people back. But they can’t request to split the bill yet. If you’re an Android user, we know this is frustrating 😞
+We’ll be adding it to Android in the next few weeks. It’ll be late because the engineer working on this was away, so we’ve not been able to match iOS on this feature. They’re back now and catching up fast! But we didn’t want to delay testing on iOS so we could start learning how to improve it straight away.
+When we’re ready to bring bill splitting to everyone, we’ll launch it on both platforms at the same time.
+
+Last night we added bill splitting to Monzo Labs and heard from the team who built it. If you didn’t make it to the event, watch it back here!

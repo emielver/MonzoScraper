@@ -1,0 +1,59 @@
+Title: Monzo Monthly Update: September
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 4 Sep 2018
+
+
+August saw us reach our deadline for The Big List! We ticked off 11/14 items in three months, and we’ve loved seeing so many people following along in the community and @MakingMonzo on Twitter. We shared updates about the ones we didn’t hit, as well as the improvements we plan to make on each of the items on our list. Read the full update here.
+The coming month will be quieter as we turn our focus to some ongoing projects. Here’s your monthly recap of what we did last month, and a look at what’s in store for September.
+Done in August
+We brought Monzo to younger people 🚀
+If you’re 16-17 (or know someone who is), you can now use Monzo! The accounts are the same as the ones people over 18 can open now – we’ve just blocked spending on a few things (like gambling).
+So if you’re managing your money for the first time, have a read of our guides and find out more about Monzo for 16-17 year olds.
+
+
+
+
+We launched joint accounts 👯
+You can now share your finances with someone else by setting up a joint account with Monzo! Joint accounts are separate to your personal ones. You can switch between your accounts any time in the app, and we’ll send you a new joint account card to use alongside your original one.
+To get started, just head to the Account tab in your app, tap on your name, then tap ‘Create a joint account.’
+
+
+
+We made it easier to manage your bills ✉️
+Paying your bills is part of life, but we want to make it a little easier. So we’ve added a few simple features that we hope will help!
+We now show you tomorrow’s Direct Debits in your feed, so you can see your upcoming payments (and avoid any surprises). We let you retry Direct Debits if they fail and you don’t have enough money in your account. Plus, you can now edit standing orders without deleting them first.
+
+
+
+We added 3D Secure to help you make online payments safely 🔒
+When you’re buying something online, some sites ask you to confirm your payment. Usually you have to enter a password, but we’ve made it possible to confirm your payments from the Monzo app!
+Find out how it works, and look out for it next time you buy something online!
+
+
+
+We let you move money out of pots automatically ➡️
+You can now schedule payments out of pots, as well as into them!
+Find out how to get started and read our guide on how to automate your financial life with Monzo.
+We started testing better bill splitting on iOS 🍰
+We’ve begun testing a new way to split the bill with other Monzo users straight from the app. It’s an early version that’s only available on iOS right now (though we’ll be bringing it to Android soon!) We’ll use your feedback to make it better, before we bring it to everyone on both platforms.
+You can turn it on and help us test it in Monzo Labs today! Find out how to get started and where to share your feedback here.
+
+
+
+To come in September
+After a packed few months, this one will be a bit quieter as we keep working on ongoing projects like receiving international payments, growth and getting interest paid on savings.
+Improving the performance of our iOS app 📱
+Right now our iOS app isn’t working as quickly as we’d like, and we know you expect much better.
+Over the next few weeks we’ll be bringing changes to the app to improve it, so you can use Monzo on iOS quickly and reliably.
+Bringing better bill splitting to everyone 🍰
+This month we’ll bring better bill splitting to everyone, on both Android and iOS.
+We’ve already started testing it in Monzo Labs, and one of the main things you told us is that you’d like the option to split the bill with people who aren’t on Monzo too. The first version we launch probably won’t have this feature yet, but we’ll add it once we bring the first version to everyone.
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to get a monthly email from the product teams at Monzo.
+
+
+      Sign Up!
+  
+

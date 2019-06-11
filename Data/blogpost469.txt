@@ -1,0 +1,14 @@
+Title: New Monzo Update: Limits on iOS
+Author: Tristan Thomas
+Position: Product at Monzo
+Date: 12 Sep 2016
+
+
+We’ve just released an update to the Monzo iOS app with a variety of bug fixes and tweaks to make your life easier. The most notable of these is the new Limits page, which you now can find in your Profile:
+
+
+
+From here, you can see your spending and top up limits and how much you’ve used of them. These are the same limits as in our Terms and Conditions, but are now much easier to understand and are personalised to you.
+Additionally, if we weren’t able to automatically verify your identity when you signed up, you’ll be able to trigger the ID verification flow and send us a scan of your passport or driving licence, all from within the app in less than a minute. Once we’ve verified your identity you’ll get access to our higher limits, as well as be able to use our Send Money feature and withdraw cash from ATMs abroad.
+This release also fixes a ton of bugs that were reported by users and builds in a new A/B testing framework so we can test new features more quickly and easily. We’re also updating our homepage in the next few days so you can download Monzo instantly without entering your email address and if you’re still waiting for a card, it’s even easier to refer friends to Monzo and bump yourself up the queue.
+We also can’t wait to show you what we’ve been working on over the last few weeks, coming in the next update. Let’s just say, soon you won’t need to use your fingers to send money to friends 😉

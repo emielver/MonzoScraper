@@ -1,0 +1,62 @@
+Title: How to budget with Monzo
+Author: Richard Cook
+Position: Online Community Manager
+Date: 21 Aug 2018
+
+
+Having a budget is the one of the most important things you can do to improve your financial life. By knowing where your money’s going, you can get more control over your finances. And by setting spending limits, you can avoid running out of money at the end of the month.
+Here’s how the Monzo app can help!
+Keep track of different kinds of spending
+Whenever you buy something with Monzo, we automatically put your payment into a category, like ‘Transport’ or ‘Groceries’.
+In the Summary tab in your app, you can see what you’ve spent on each category this month.
+You can track your spending from payday to payday by telling us the last time you got paid. To add or change your payday:
+
+Go to the Summary tab in your app
+On Android, tap the calendar icon, on iOS tap ‘This Month’
+
+Then tap ‘Change’
+
+
+
+
+
+We pick categories based on who you’re paying, but you can change them yourself if you need to. Just head to a payment and tap the category icon to change it. Making sure your categories are correct will help keep your spending budgets accurate.
+
+
+
+Set monthly spending budgets
+As well as seeing what you’ve spent on each category, you can also set budgets for each one.
+
+Head to the Summary tab in your app
+On Android, tap the target icon in the top right corner to open the Budgets screen. Or on iOS tap ‘Budgets’ in the top left corner
+Use the + and - buttons to set monthly budgets for each category
+
+From here you can also set a monthly spending budget. And if you’re not sure what your limit should be, you can see what you spent last month.
+
+
+
+As you spend, we’ll let you know how close you’re getting to your spending limit for each category. We won’t stop you from spending over these limits - but it’s a gentle reminder to stay on track.
+Keep an eye on your day-to-day spending
+At the top of the Summary screen we show you what you’ve got ‘left to spend.’ This is the amount of money in your account, minus the money due to come out in the future. You can think of this as your ‘spending’ money, after bills and other payments are taken care of.
+The dial shows you how much you’ve spent already, and how much you have left. And we’ll tell you if it looks like you’ll run out of money before the end of the month. Try to always keep the dial green!
+Set money aside with Pots
+Pots are a great way to set money aside, away from your main balance.
+You could try putting the money you need for bills into a pot as soon as you get paid, and only moving it back into your account when you need it. This means you can set aside everything you need to spend on bills, rent or mortgage payments safely, so you don’t spend it accidentally!
+You can find out how much money you need to set aside for regular payments in the Committed spending section in Summary.
+
+
+
+Pay yourself a regular allowance
+You might find it useful to move all of your money into a pot, and then give yourself a daily or weekly allowance.
+You can do this manually by creating a pot in the Account tab of your app, and moving the money into your main account regularly. Or you can make this automatic by using Monzo with IFTTT!
+Just make sure you don’t spend over your allowance to avoid accidentally going into your overdraft.
+What’s next?
+We’re always thinking of new ways to help you budget. We’re currently experimenting with new pots features like scheduled withdrawals to help you automate your financial life. And you can split the bill to make it easy for people to pay you back.
+Got more ideas? We’d love to hear them. Come and join the discussion on our community forum and let us know what you think we should work on next!
+
+Want to go #FullMonzo? Making Monzo your main account is easy with the Current Account Switch Service. Find out more here. Or if you’re reading this on your phone, you can start your switch to Monzo now!
+
+
+      Switch to Monzo Now!
+  
+

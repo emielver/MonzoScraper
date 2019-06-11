@@ -1,0 +1,26 @@
+Title: Meet Jonas Huckestein:  Co-founder and CTO
+Author: Tristan Thomas
+Position: Community Manager
+Date: 10 Mar 2016
+
+
+This week in Meet Mondo, I talk to Jonas Huckestein, Mondo’s Chief Technology Officer and one of the co-founders. You can follow him at @jonas on Twitter.
+Hey Jonas! How did you come to co-found Mondo?
+It’s all Tom – our CEO’s – fault! I first met him in 2013 when we worked together in New York. I was very impressed with him and tried to convince him to work on my own software as a service business afterwards. I’d like to think that I almost got him to move to Chile with me to join a startup incubator, but then he asked me to come to London instead to start a bank. I agreed to come help out for a few months but somehow, more than a year later, I’m still here…
+So what does your average day look like as CTO?
+Up until a few months ago I used to write and review source code every day. Now we have hired people that are much better at programming than me, I’m spending more time growing the team and making sure we have all the bits in place to launch a bank later this year. Every morning starts with the engineering stand-up meeting, but other than that my days are rather flexible.
+What gets you most excited about Mondo’s technical architecture?
+There will be no single point of failure. This means you could take out any of our datacenters and service to our customers would remain uninterrupted. Building everything in this distributed, resilient manner comes with a high up-front investment in platform development but it is worth it.
+What makes the job challenging?
+The hardest bit is to be at peace with the feeling of being constantly behind on everything.
+Working in a startup is quite stressful. While it looks like things are going well from the outside, people on the inside are constantly playing catch up. It never feels like you’re truly on top of everything.
+
+
+Jonas enjoying Secret Cinema last week
+
+How do you spend your time outside of Mondo?
+I recently moved to London Fields in Hackney and spend a lot of my weekends strolling through Broadway Market and eating delicious food. I also enjoy popular geeky pastimes like watching movies and playing board games.
+What are you most looking forward to in the next six months?
+I’m looking forward to visiting San Francisco in June!
+
+We recently updated our name to Monzo! Read more about it here.

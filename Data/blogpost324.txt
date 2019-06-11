@@ -1,0 +1,58 @@
+Title: How We Build the Monzo App
+Author: Jami Welch
+Position: Product Manager
+Date: 2 Mar 2018
+
+
+Every couple of weeks, a new version of the Monzo app hits the App Store or the Play Store. Sometimes they contain a few fixes, to make sure everything’s running smoothly. Other times they include exciting new features, like upgraded accounts or Pots.
+Especially if your app updates automatically, it can seem like these changes make it into your phones by magic. But a lot of work goes into putting each release together, and getting it into your hands.
+
+
+
+Coordinating across the company 👐
+When we started back in 2015, just one team worked on both our iOS and Android apps. We’d release updates when there were enough changes to warrant a release, usually once a new feature was completed.
+Now, we have multiple teams working on different parts of each app, all at the same time. Right now for example, our lending team is working on overdrafts, our support team owns the Help section, while the product team works to make core improvements to the app.
+To make sure we don’t delay releases as we wait for each team to finalise their features, or release app updates which contain half-finished work, we’ve made a few changes to the way we develop our apps.
+Riding release trains 🚋
+Rather than releasing app updates randomly, whenever new features are ready, we use release trains instead.
+As the name suggests, release trains let us update our apps according to a regular, fixed schedule. Every two weeks, we take all the changes that we’ve made to our iOS or Android app, test them out, and send an updated version to the relevant app store.
+A few days before the release, there’s a “code freeze”: a deadline for any changes a team wants to make to the app. If the feature they’re working on isn’t ready yet, it has to wait for the next train.
+Working in two-week intervals gives us enough time to test and prepare each update, whilst letting us make changes to our apps very quickly. Because each update contains fewer changes, it also reduces the risk that we’ve added something that doesn’t work, and makes it easier to address any issues that do come up.
+The fixed schedule also makes it easier for other teams in the company to manage their workload. An app update might contain a shiny new feature the marketing team want to share with our community. Or it might include some changes that mean more people have questions for customer support. Because there’s a consistent, reliable schedule for releases, teams across the company are able to plan.
+
+
+
+Planting feature flags 🚩
+Of course we can’t finish every new feature in two weeks. Some take an engineer an afternoon to finish off, while others take weeks and months of work!
+Because features take different amounts of time to finish, we sometimes make changes to the app but leave them hidden behind “feature flags.” We can release this code to customers, without actually giving them access to the feature.
+Once the new feature is ready to go, we can remove the feature flag so it’s available to everyone, without having to release a new app update.
+This also gives us the flexibility to make features available to only some of our users, so we can measure their impact before rolling them out to everyone.
+
+
+
+Using proper documents 📄
+To make sure we’re all on the same page, we have one shared document where each team summarises what they’re working on for each app release.
+This helps our product testers understand what they need to prioritise, shows our writer what they should include in the release notes, and means our support team can see how customers will be affected by each update.
+Defining roles and rotas 👯
+Each release is coordinated by a release master: an Android or iOS developer who makes sure everyone else has their changes ready in time for the code-freeze. They also prepare the updated apps for testing, make sure our customer support and marketing teams are in the loop, then actually submit each release to the relevant app store.
+The master changes for each release, to share the work around and get more feedback about how we can improve the process.
+
+
+
+Syncing iOS and Android 🔃
+To make sure we have enough time to test each app update before it goes out, we currently update our iOS and Android apps on alternating weeks.
+When we’re working on a feature on both platforms at once, we have a couple of options for how to release it.
+We can choose to release it on one platform first, as soon as its ready, then bring it to the other one the following week. This means we can get feedback from people as soon as possible, and learn quickly how we can improve.
+Or, we can wait until the feature is finished on both platforms, and make it available to all Monzo users at the same time. We know some users see this as fairer, as no one has access to new functionality before anyone else. And it can also help us make a bigger splash when we announce an exciting new feature!
+We make this choice on a case-by-case basis, striking a balance between wanting to launch and learn quickly, make an impact with announcements, and make sure we’re providing a great experience for our users.
+When we launched Pots at the end of last year, we brought it to iOS at the end of November, and to Android a couple of weeks later. These two weeks gave us time to identify and fix a few bugs, and address some early feedback we had already received from our first iOS users. This meant that the first Android version of Pots came with the ability to choose the exact amount you could add or withdraw from a pot, improving on the initial iOS version where you could only add money in multiples of five.
+
+
+
+Want to help us test?
+To make sure everything works properly, we make each update accessible to a group of testers, who help us identify bugs and any other issues. Once we’ve addressed them, and feel confident that the update’s ready, we roll it out to everyone.
+To preview new features even earlier, and help us weed out issues before we bring app updates to everyone, you can become a beta tester on either iOS or Android.
+If you use Monzo on Android: head to bit.ly/monzobeta. Login with the same Google account that you use for the Google Play store, and click “Become a Tester.” You’ll see the Beta app in the Play Store, and get updates a little earlier.
+If you use Monzo on iOS: fill in this form and we’ll add you to our beta group.
+
+I hope this helps shed a little light on how we work, and why Monzo app updates reach you when they do. If you have any questions or feedback, have your say in the community!

@@ -1,0 +1,19 @@
+Title: Welcome to Monzo Bank!
+Author: Tom Blomfield
+Position: Monzo CEO
+Date: 5 Apr 2017
+
+
+
+
+
+Just over two years ago, we started on our journey to build a better bank. In June 2015, when we announced what was then Mondo to the world, I wrote that “we’re building a current account that lives on your smartphone and gives you control of your money”. Today is a major step towards making that mission a reality.
+Over these two years, we’ve had some amazing successes: launching our Alpha and Beta prepaid cards, running the fastest crowdfunding campaign ever, receiving our restricted banking licence and, just recently, closing our second crowdfunding campaign with more than  £12 million pledged. We’ve also continued to launch amazing features on our iOS and Android apps, like Monzo.me and Targets and we’ve pushed to be as open and transparent as we possibly can.
+None of this would have been possible without our wonderful community of users, who’ve given us feedback, supported us through everything and told their friends and families about Monzo. Thank you.
+Today, I’m delighted to announce that our banking licence restrictions have been lifted! Monzo is now a fully authorised, unrestricted bank. This is the result of an unbelievable amount of effort from the whole team here at Monzo, who I can’t thank enough for the time and energy they’ve poured in.
+What does this mean in practice?
+This means we can now begin the process of bringing current accounts to existing users. This is a process we will be taking quite slowly to ensure we can provide the best possible experience to our users, so I’d like to ask for your continued patience!
+We’re currently running live bank accounts with a small group of users, and we’ll slowly be expanding that group over the coming months to put our banking system through its paces and ensure everything works as expected. As we get used to running current accounts day-to-day, we’ll  look to offer accounts to larger numbers of people over the summer, including groups like our recent investors and pre-registrants from the crowdfunding.
+At that point, you’ll need to go through a few simple steps, including agreeing to updated (and vastly simplified) Terms and Conditions. Once done, we’ll be able to send you a brand new Monzo debit card! Your balance will be transferred over and all of your existing data should be unaffected. You’ll get an account number and sort-code, and you will be able to make bank-to-bank payments and set up Direct Debits, as well as get your salary paid into your Monzo account.
+Please be patient! This process will take several months and we’re still working out some of the details. We’ll share more precise time frames and details transparently as soon as we know them. Your existing Mondo and Monzo cards will continue to work as normal for now and we’ll be in touch once we’re ready to offer you a current account.
+I’d like to finish by thanking the whole team here at Monzo and our amazing community of users and investors who’ve supported us along the way. You have helped make Monzo what it is today.

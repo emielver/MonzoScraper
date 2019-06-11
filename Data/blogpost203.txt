@@ -1,0 +1,54 @@
+Title: The 7-Day Switch! What happens when you switch to Monzo?
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 23 Aug 2018
+
+
+If you’ve decided to go #FullMonzo, switching to Monzo with the Current Account Switch Service is easy. It’s a scheme that banks can choose to join, that makes switching bank accounts simple.
+We’ll move your salary and all your payments over to Monzo, and close your old account. Starting a switch only takes a few minutes from the app, and your switch will happen in seven working days.
+
+
+
+Day 1: You start your switch!
+To start a switch,
+
+Head to the Account tab in your app
+On iOS, tap on your name. On Android, tap the Settings icon
+Tap to ‘Switch to Monzo’ and we’ll guide you through your switch!
+
+You can’t switch joint accounts to Monzo with the Current Account Switch Service, but we’re working on it!
+We’ll ask you to give us information about your old bank account, like your old sort code and account number and the last five digits of your old debit card number.
+We’ll also ask you to agree to a couple of things:
+
+
+The Current Account Switch Agreement – which explains exactly how the switch will work
+
+An Account Closure Instruction – which confirms that you’d like your old bank to close your account
+
+We’ll walk you through the whole process, and give you all the information you need in the app!
+Once you’ve confirmed you want to switch, we’ll contact your old bank to double-check your details and ask for information about your payments and other stuff we need to start your switch.
+You can also choose the date you’d like your switch to finish. You can choose any date about 7-8 working days in the future (we’ll show you the options). But it’s useful to choose a date after your Direct Debits have already come out of your account.
+We’ll send you a notification to confirm that we’re arranging your switch!
+Day 2: We confirm the date you’ll switch
+Behind the scenes, your old bank will check the information you’ve sent us is accurate. If it is, they’ll send us details of all the payments you had on your old account, so we can arrange to move them over.
+Your old bank will also contact you to confirm your switch is happening.
+Day 3: Nothing!
+Day 4: We set up some of your Direct Debits
+We contact the relevant payment schemes (like Bacs and Faster Payments) and ask them to redirect payments from your old account to your new one once your switch is complete on day 7.
+We also set up some of your Direct Debits on your Monzo account (there are two kinds of Direct Debits, and we do some now, and some slightly later). And we tell the relevant merchants that we’re taking over your Direct Debits so there’s no confusion.
+You’ll see notifications from Monzo confirming when each Direct Debit’s been set up.
+Day 5: We set up your scheduled payments on your Monzo account
+Using the information your old bank gave us, we set up your standing orders and payments you have scheduled for the future on your Monzo account.
+Day 6: We finish setting up your Direct Debits
+We finish setting up the rest of your Direct Debits on your Monzo account. And you’ll see more notifications confirming we’ve set them up.
+We also ask your old bank to transfer your balance to Monzo, but the money won’t actually move over until your switch is complete.
+Day 7: Your switch is complete!
+Your old bank moves your balance over to Monzo, and we receive confirmation from your old bank that they’ve closed your account. We’ll send you a notification to confirm that your switch is complete! 🎉
+From then on, all payments to your old bank account will be redirected to your Monzo account.
+
+Want to go #FullMonzo? Making Monzo your main account is easy with the Current Account Switch Service. Find out more here. Or if you’re reading this on your phone, you can start your switch to Monzo now!
+
+
+      Switch to Monzo Now!
+  
+

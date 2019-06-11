@@ -1,0 +1,24 @@
+Title: Monzo-to-Monzo Payments Come to the Current Account
+Author: Tristan Thomas
+Position: Head of Marketing
+Date: 30 Oct 2017
+
+
+A couple of weeks ago, we announced that the Current Account Preview would be coming to an end and that we’d start inviting existing customers to upgrade from a prepaid card to a current account. It’s totally free to upgrade, and you’ll get a sort code and account number, be able to set up direct debits and standing orders, make bank transfers and more!
+Missing from the Current Account Preview was one of our users’ favourite features: Monzo-to-Monzo payments. These allow you to send money to friends with just their phone number — emoji included 😉
+Now, we’re happy to announce that Monzo-to-Monzo payments have come to the current account, meaning you can easily split bills and share costs with your contacts 💸
+You can find these in a new tab within the Monzo app called Payments. From here, you can send bank transfers to other bank accounts through Faster Payments, set up recurring standing orders, schedule bank transfers for the future and send quick Monzo-to-Monzo payments. We even store a list of your recent payees, so you can easily send money to the people you need to most!
+
+
+
+And we aren’t done with making improvements to the Payments tab: over the coming months you should see further updates, including the ability to search your contacts, set favourite contacts and even group contacts together.
+How do I get this?
+
+
+If you’re on the Current Account Preview, look out for an email in the next week or so! That’ll give you instructions on how to close your prepaid account and transfer the money and transaction data over, so you can move back to using one single app (the one with the blue background). You can do this in fewer than five minutes, after which you’ll be able to access Monzo-to-Monzo payments!
+
+If you currently have a Monzo prepaid card (Alpha, Beta or Investor), keep an eye out for a notification in your app over the next few weeks. It’ll take five minutes to upgrade to the current account for free. You’ll then have everything you’ve got now…and more!
+
+It’s that easy! With Android Pay just launched and more new features just around the corner, we’re really excited about building out the current account over the next few months 🎉
+
+Tell us what you think on Twitter, or get involved in the discussion on the community forum.

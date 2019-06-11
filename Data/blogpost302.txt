@@ -1,0 +1,66 @@
+Title: Monzo Monthly Update: May
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 4 May 2018
+
+
+Phew! April was a busy month at Monzo. We launched the Current Account Switch Service and started to see more and more people going #FullMonzo. And we made our fairer, more transparent overdrafts available to more of you. We even added a few fun surprises that we didn’t mention in last month’s update!
+In case you missed it (or just want to relive it), here’s everything we did in April. Plus an insight into what’s in store for May.
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to get a monthly email from the product teams at Monzo!
+
+
+      Sign Up!
+  
+
+Done in April
+We made overdrafts available to more people 📊
+Fair, transparent, and always in your control, we’re working to design overdrafts differently. And this month we gave more of you the option to use one.
+From the Account tab of your app, you can now learn more about Monzo overdrafts and find out if you’re eligible. And we’ve walked you through what using an overdraft on Monzo is like on the blog.
+
+
+
+We made it easier to pay friends on Monzo 💷
+We made some changes to the Payments tab in your app, to make it easier to see other contacts on Monzo, and find people you’ve paid recently.
+Improving scheduled payments on iOS ▶️
+If you use Monzo on iOS, when you tap on your Direct Debits and standing orders you can now see useful details, like who you’re paying and how often.
+We’ll be improving these on Android in the next few weeks!
+We also released a few surprise features!
+We gave everyone the option to switch to Monzo ↪️
+With help from the Current Account Switch Service, everyone now has the option to switch to Monzo in just a few taps!
+If you want to move payments over and start using Monzo as your main account, read the blog post to find out how it works.
+
+
+
+We added a way to #tag your transactions #️⃣
+To help you sort through, search and better organise your spending, we added the ability to add tags to your transactions.
+Tags work a little like categories, but you’re in control of what they’re called and which payments they’re linked to.
+So, whether you want to keep track of how much you’ve spent on sports gear, or how much you’ve paid for pizza, just add the right tag to your transaction!
+We helped you say thanks for payments 🙌
+To say thanks to the person who paid you, you can now react to Monzo-to-Monzo payments with any emoji you like!
+
+
+
+We launched Monzo Labs with Summary 🔬
+Our community has been vital in making Monzo what it is today. And we want to make sure more of you can be a part of it, even as we grow. So last month we launched Monzo Labs: a new way for you to access to features early and share your feedback and ideas.
+The first feature we’re testing in Monzo Labs is called Summary. We’ve totally redesigned the way we show you your spending, so that it makes sense when you use Monzo as a main account.
+Find out more about Monzo Labs and lean how you can be one of the first people to test Summary on the blog.
+
+
+
+To come in May
+Giving you more control over payments 📝
+As more people start switching to Monzo and using it as their main account, our focus this month will be on improving some fundamental banking functions in the app. The nuts and bolts stuff that you can rely on to work solidly and seamlessly.
+We’ll start by adding the ability to edit standing orders and delete people you’ve previously paid. So you have more control over the way you organise your payments.
+Adding new categories 🏠
+We’ll be making some updates to the way we categorise your transactions, so they make sense as more of you start using Monzo as a main account.
+We’ll be renaming ‘Cash’ to ‘Finances’, so you can see when you’ve transferred money between bank accounts. And we’ll be adding a couple of new categories too!
+Making improvements to Summary 🔄
+Now we’ve begun testing Summary, we’ll be acting quickly on your feedback to fix bugs and make improvements. Once we’re confident everything’s working as it should, we’ll begin to bring Summary to everyone!
+Working on some more surprises! ✨
+We also have a couple of fun new features coming soon. Stay tuned for updates on the blog and on Twitter!
+We’re still working on…
+Tidying up Coin Jar 💰
+If you have a pot called Coin Jar and use it to round up your purchases, at the moment you’ll see two transactions: one for the purchase you made, and one for the spare change you’ve saved.
+Last month we said we’d work to improve the way you use Coin Jar, by removing the repeated transactions you see in your feed. We’ve found a solution that will mean your feed accurately reflects the balance in your account, without being busy and difficult to navigate. But it’s taking longer to put into practice than we hoped. We’ll share an update on Coin Jar with the details soon!
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!

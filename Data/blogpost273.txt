@@ -1,0 +1,27 @@
+Title: Summary Update - Predicting Committed Spending
+Author: Jami Welch
+Position: Product Manager
+Date: 7 Jun 2018
+
+
+When we started building Summary our aim was to give you better control over your budget. Summary works out how much of your money goes to committed spending, like bills, rent or mortgage payments, and how much you have left to spend each month on more fun things.
+Until now, Summary has only been able to factor standing orders into your committed spending, Direct Debits and subscriptions haven’t been accounted for. This means the amount you have ‘left to spend’ hasn’t been totally accurate.
+We promised we’d work on fixing this to give you clearer picture of how much you have to spend. Over the next few days, you’ll start to see Direct Debits and some subscriptions in your committed spending, along with a prediction of next month’s payment.
+How does it work?
+Direct Debits
+When you set up a Direct Debit, you give permission for a third party, like a company or charity to take money from your account.
+Direct Debits are flexible, so it’s difficult to say with absolute certainty exactly how much you’ll be charged each month. Sometimes your Direct Debits are fixed amounts, like council tax or gym memberships, and other times the amount you pay changes, like gas and electricity bills.
+Monzo will use last month’s Direct Debits to predict how much money needs to be factored into your committed spending each month. If you paid £30 last month by Direct Debit to your mobile provider, we’ll factor £30 into your committed spending this month.
+Right now, we’ve excluded Direct Debits to American Express and PayPal.
+Payments to these companies are usually used for individual purchases, rather than paying a monthly bill. So it doesn’t make sense to factor them into your committed spending.
+Subscriptions
+Some services work on a subscription model, this is when you set up a regular payment using your card details. These are tricker for us to predict because they show up on your account as normal card payments.
+We want to be able to predict bills that are paid by a subscription in the same way we do for Direct Debits. To make sure we get this right, we’re starting by testing with the most common services we see customers using. These are:
+
+Spotify
+Netflix
+NowTV
+
+If you have a subscription to any of these companies, you’ll start to see them in your committed spending from this month. And we’ll predict them each month to help you avoid spending the money you need to pay for them.
+We know there are more subscription services than these three companies, so we’ll be adding the ability to set up payment predictions for other subscriptions soon. For now we just wanted to test the basics and get feedback on how it works for you.
+Let us know what you think of predicted Direct Debits and subscriptions in the Community. With your help we’ll be able to refine the payment predictions, and make paying bills a little less stressful.

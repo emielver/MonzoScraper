@@ -1,0 +1,55 @@
+Title: How do bank payments  actually work?
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 20 Jan 2016
+
+
+After last month’s post on card payments, we thought we’d follow-up with a post on bank-to-bank payments.
+The UK has one of the world’s most advanced automated clearing houses: the Faster Payments Scheme (FPS). Launched in 2008, it’s a real-time interbank payment network that allows anyone with a UK bank account to send money to (almost) any other UK account. The transaction limit has recently been raised to £250,000 per payment, although most banks impose lower limits.
+Assuming both banks have systems capable of processing the transaction in real-time, a transfer will arrive in the recipient’s account in a couple of seconds, 24 hours a day. Banks pay a few pence per transaction, although no bank currently charges customers for this service. This money goes to Faster Payments Scheme Ltd, who have outsourced the technology and operations to VocaLink, which also operates FPS, along with Bacs (for Direct Debit), and the LINK network (ATMs).
+We sometimes take this for granted in the UK, but it’s worth remembering that this kind of system doesn’t exist at all in the US, which is why American cheque usage is still so high.
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+Let’s dive into the technology that sends a trillion pounds a year around the country.
+Say I want to send £50 to a friend, so I ask for her account number and sort-code. I enter these into my bank’s app, along with an (up to) 18 character reference of my choosing (although no emoji allowed 😭). The bank will do a series of simple checks to make sure the account number and sort-code combination are valid, and that the bank branch accepts inbound Faster Payments. This doesn’t guarantee that the payment will succeed, but it rules out a number of basic failures.
+When you click “send money”, your bank immediately puts a hold for £50 on your account, preventing you double-spending the money. It then sends an ISO 8583 message into VocaLink, containing the details of the recipient and the payment. VocaLink uses the sort-code to route the message to the appropriate recipient bank in milliseconds. The recipient bank receives the message and does some basic checks to confirm the account is open and able to receive funds. If so, it will credit my friend’s account and acknowledge the successful payment back to VocaLink.
+
+  “If the banks have modern IT systems, this can happen in seconds. If not, it may take hours.”
+
+VocaLink takes this acknowledgement and passes it back to my bank, which will release the hold on my account and debit £50 – the money is now no longer in my account. If the banks have modern IT systems, this can happen in seconds. If not, it may take hours. There are still major banks who don’t process Faster Payments at all over the weekend!
+Net Settlement
+While the balances of the two accounts have changed, there’s been no “movement” of money between the banks, simply an exchange of electronic messages.
+To “move” the money, FPS works on a system called “deferred net settlement.” When my account is debited, my bank simultaneously credits £50 into a Faster Payments settlement account in their ledger. Similarly, my friend’s bank will debit their Faster Payments settlement account for £50 at the same time as crediting my friend’s account. Every movement of funds in a bank works this way; it’s called double-entry bookkeeping. My bank is essentially saying that it owes £50 to FPS; my friend’s bank expects to receive £50 from FPS.
+Throughout the day, as thousands of payments are made and received, each bank will keep a running tally of the amount it owes or expects to receive from the scheme – individual payments are summed or “netted” out to a single balance. This is still all internal accounting at the banks – no money has yet really “moved”.
+Three times a day during weekdays, VocaLink will send a message to all participant banks informing them of their net position. This information is also provided to the Bank of England, where each of the participant banks have settlement accounts. A short time later, they will either make a single payment to FPS (if money has flowed out of their bank), or receive a single payment (if the net transfer of funds is in their favour). This payment at the Bank of England is just another double-entry in a ledger; the bank’s settlement account is debited and the FPS account is credited with the same amount.
+
+
+
+    The 10 direct, participant banks in FPS according to the scheme's website
+
+
+This is “deferred net settlement”. “Deferred” because settlement happens after the customers see the funds move, “net” because each bank combines all inbound and outbound payments and settles the net amount. It can be contrasted with “Real Time Gross Settlement”, which is the basis for CHAPS, TARGET2 and Fedwire – schemes used for moving larger amounts of money between banks.
+Net settlement is used because it’s more efficient—it only requires a handful of entries in the Bank of England’s ledgers each day for potentially millions of payments. The downside is that the participant banks face a “counterparty risk” – if one of the other banks in the system goes bankrupt, they may not have the cash available to settle that day’s payments. For this reason, each participant bank is required to leave an amount of cash on deposit at the Bank of England greater than or equal to the maximum debit position that they could build up as a protection against their own failure.
+Agency Banking
+There are only 10 direct “clearing” members of FPS, but hundreds of banks and building societies use the scheme. They’ve set up “agency banking” agreements with one of the clearing banks. A small building society might have a single agency sort-code assigned to them, but managed by their clearing bank. When a payment needs routing to that sort-code, VocaLink knows to send the message to the clearing bank, which then forwards it on to the agency bank. Depending on the IT infrastructure available, the agency bank might find out about a payment in real time, or they might have to wait several hours.
+With the new Payment Systems Regulator, there has been a push to make direct access to payment schemes more feasible for smaller banks. This is supposed to reduce per-payment costs, although the initial costs of connecting, testing and gaining certification are still considerable. So far, no new banks have connected directly to FPS. One has announced its intent and there are a pipeline of others who intend to join.
+Paym
+Paym is a new service operated by VocaLink and launched in 2014 – it allows people to send money to friends by providing a mobile number rather than account number and sort-code.
+Technically, the implementation is very simple. Paym is effectively a giant lookup table, linking mobile numbers and bank details. When you enter your friend’s mobile number in your bank’s app, your bank will quickly go and retrieve your friend’s name, account number and sort-code. The payment is then simply a standard Faster Payment with a couple of extra data fields showing that it originated as a Paym payment.
+Theoretically, any unique value could be used as the lookup key—an email address or twitter handle would serve just as well as a phone number.
+Sadly, uptake of Paym has been slow. Around 3 million accounts are registered with the service, and the big banks don’t seem to be in any hurry to add more of their customers.
+
+We recently updated our name to Monzo! Read more about it here.

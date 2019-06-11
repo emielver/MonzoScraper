@@ -1,0 +1,195 @@
+Title: We’re halfway through The Big List! An update
+Author:  Jordan Fish
+Position:  Product Manager
+Date: 3 Jul 2018
+
+
+
+
+
+Six weeks ago today we published Making Monzo Better: The Big List, a list of features that we’d heard from customers they needed in order for Monzo to replace their existing bank account.
+We committed to fixing them all within three months and now, halfway through, we wanted to reflect on our progress and update you on exactly where we’re at.
+
+
+
+Below, we’ve updated details on each of the items that are still to come, and the good news is we’re still expecting to be able to do all of these on time. Plus of course we’ll still be releasing other features that aren’t on this list — like Bill Tracker.
+Follow along live!
+We have a Twitter account created specifically for this project and people seem to really love it, so check out @makingmonzo where we’re sharing regular behind the scenes updates! We’ll also keep this page up to date as we tick more and more items off the list. You can come back to it anytime using the URL monzo.com/makingmonzo.
+
+Follow @makingmonzo
+
+The list
+
+
+
+
+
+          Apple Pay
+        
+
+ Launched! You can now use your Monzo card with Apple Pay (as well as Google Pay).
+
+
+
+
+          Withdrawing large amounts of cash and sending large bank transfers
+        
+
+ Done! If you need to withdraw large amounts of cash or send a large bank transfer, just drop us a message through in-app chat. Please do this in advance of your transaction to give us time to review your account!
+
+
+
+
+Better payee management
+
+
+            Ability to delete previous payees
+            
+
+            Store previous references with payees
+            
+
+
+
+We've added these features and will keep working to make it even easier to manage your payees.
+
+
+
+
+Improving recurring payments
+
+
+            Show upcoming Direct Debits in your feed
+            
+
+            Show the amount and date of Direct Debits in your recurring payments screen
+            
+
+            Ability to categorise Direct Debits
+            
+
+            Editable standing orders
+            
+
+            Edit notes and tags on Direct Debits
+            
+
+            Retry failed Direct Debits later in the day
+            
+
+
+
+We've now built these features to help make your bills easier to manage.
+
+
+
+
+      PIN lock for the app for extra privacy
+        
+It can be useful to lock your app with a PIN, so that even if someone has access to your phone, they won’t be able to get into your Monzo app.
+We've chosen to prioritse other projects for now, so we haven't been able to build this yet. Read more about why we’ve chosen to work on it later, and an update on where we are with the project so far.
+
+
+
+
+
+
+
+        Custom pay periods in Summary
+        
+
+ Done! Most people don’t get paid on the first of every month, so making you budget like that is stupid. We’ve built the ability to set your payday into Summary (now in Monzo Labs!) so you can set Targets and budget in a way that suits you.
+
+
+
+
+        Joint accounts
+        
+Joint accounts are now available for everyone!
+
+
+
+
+
+International payments
+
+
+Ability to send payments abroad
+
+
+            Ability to receive payments from abroad
+            
+
+
+
+A must-have if you have family or friends overseas, we now let you send payments internationally with TransferWise.We're still working to let you receive international payments, and you can read our latest update here.
+
+
+
+
+      Basic web interface for emergencies
+        
+Sometimes the unthinkable happens and you lose your card and your phone. You can call us anytime to freeze your card and order a new one, but being able to do it yourself is even better.There's now a basic web interface for emergencies!
+
+
+
+
+
+      Improving merchant acceptance so your card works in more places
+        
+Monzo should work everywhere Mastercard is accepted — and most of the time it does. However, as a new bank, we’re still finding some places where it’s a bit iffy and shops won’t accept it.
+We're working on this on an ongoing basis and we've detailed our efforts here.
+
+
+
+
+
+
+
+    Making it clearer how to deposit cheques with Monzo
+      
+
+ Yep! There are now clear instructions in the Add Money screen of your Monzo app — all you need to do is pop the cheque in an envelope with FREEPOST MONZO on the front and your account number written on the back of the cheque. Early next year, we’ll be able to let you pay in cheques just by taking a picture!
+
+
+
+
+Bring Android fully up to speed with iOS
+
+
+      Bring Targets to Android
+      
+
+      Pay with fingerprint on Android. (Read more).
+      
+
+      Travel Reports on Android. (Read more).
+      
+
+
+
+We've added these features to Android so they're available to our users on both platforms!
+
+
+
+
+        3D Secure
+        
+3D Secure is that extra page that you’ll sometimes see when buying online that asks for another password. It provides additional security and some sites require banks to support it.
+We've built 3D Secure (the Monzo way!) so you can make online payments safely.
+
+
+
+
+
+      Getting interest paid on savings
+        
+We’re working to let you create a Pot that’ll pay a competitive rate of interest.
+And we'll be ready to roll it out to everyone in the next few weeks! Read our full update here.
+
+
+
+
+
+
+We’d love to hear what you think over on the community forum! Which feature are you most looking forward to now?

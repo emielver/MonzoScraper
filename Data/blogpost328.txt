@@ -1,0 +1,43 @@
+Title: Three Years of Monzo
+Author: Tom Blomfield
+Position: CEO and Co-Founder
+Date: 19 Feb 2018
+
+
+From a founding team of just over a dozen people, to a company of more than 300 today, Monzo has changed significantly in the past three years.
+We started Monzo back in 2015 with the mission to make banking better. Tired of the way traditional banks do business, we believed we could build a real alternative. One that’s totally transparent, treats people fairly, and caters to the way we all actually live our lives.
+Today, more than half a million people are using their hot coral Monzo cards, to spend, save and manage their money. But this is only just the start. Our ambition is to bring Monzo to one billion people, in the UK and beyond 🚀
+As we celebrate our birthday, I thought I’d take a look back on the hardest lessons I’ve learnt since we started three years ago, and ahead to the biggest challenges we’ll face next.
+
+
+
+Staying close to customers as we scale is tricky, but incredibly important
+Reaching out to customer service can often be one of the most painful parts of dealing with traditional banks. No one has time to listen to bad hold music for half an hour, just to be passed between people who aren’t empowered to solve your problems.
+That’s why providing fast, friendly customer service has always been incredibly important to us here at Monzo.
+When we were a small team of less than 20 people, we all spent time talking to customers, taking turns answering their queries via in-app chat. Our support team now numbers more than 150 people, who have around 2,000 conversations with our customers on any given day.
+Because we’re operating at greater scale, it has become even more important that we have processes in place that help us stay close to our customers and act on their feedback.
+We measure everything from retention rates and our Net Promoter Score (NPS), to the average time it takes for a customer to get a response from our support team. We carry out user research, and have a channel for feedback and ideas on our community forum.
+I try to talk directly to our customers whenever I can, but measuring these metrics and having processes in place is vital if we want to continue answering each of our customer’s questions with the same care and attention, even as we grow.
+Giving everyone a stake in our success
+We want to build a bank for and with our users, and I think our community has been the real source of our strength. The enthusiasm, ideas and frank feedback you give us has been absolutely invaluable.
+Our community of users, our crowdfunding investors, and our dedicated team have all put their time, skills, talents and even money into Monzo. I believe it’s only fair that everyone has a stake in the bank that they’re helping to build.
+Everyone who works at Monzo is given share options in addition to their salary. These options help align the interests of the company with those of our staff: if people work hard to make Monzo a success, they can rightfully expect a share of the future rewards.
+As well as venture capital backers, we also have more than 7,000 crowdfunding investors in Monzo, and hope to increase this to hundreds of thousands very soon!
+We want to make sure people are invested in what we’re doing here at Monzo, and have a real stake in any future success we might have.
+
+There’s also plenty more work to be done, and some exciting things to come.
+Helping people use Monzo to manage more of their money
+We ran the Monzo Beta on prepaid cards, which people added money to periodically and used for their day-to-day spending. As more and more people upgrade their accounts, we’re seeing them start to get their salaries paid in, and using Monzo to make rent, bills or mortgage payments.
+Once we implement the Current Account Switching Service (CASS), we’ll be able to help people switch their bank accounts to Monzo automatically, without any of the painful admin, making it easy for people to put Monzo at the heart of their financial lives.
+This means that the current tools for seeing your spending won’t make as much sense. We’ll therefore be making some significant improvements to the app, so it makes sense for people who are managing the majority of their money through Monzo. You’ll be able to manage everything from payday to payday, rather than according to each calendar month. Then set aside money that you need to pay for bills, rent or mortgage payments, and set targets and see spending breakdowns for your disposable income. You can find out more and see some sneak peeks in this video!
+As people start using Monzo to manage more of their money, we’ll also be able to understand more about what people need from their bank. This will help us build things that make Monzo even more useful, like improvements to Pots and our marketplace.
+I also think this is an important indicator of the trust people are prepared to place in Monzo. People are rightly cautious about who they entrust with their money, and we’re working to earn your trust by building a bank you can depend on, to solve your problems and treat you fairly – especially when things go wrong. Whether you’ve worked hard and saved for years, or won it all on a lucky scratchcard, we take our role as your bank incredibly seriously.
+Building a sustainable business
+We want to be a bank that’s here to help our customers for years to come, which means building Monzo into a sustainable business. We plan to do that by generating revenue, and finding opportunities to make our existing operations more efficient.
+Upgraded accounts run on payment processors that we’ve built ourselves, which means we’re able to provide a more reliable service, and we don’t have to pay a third party.
+We’re also working to help our customer support team become more effective and efficient, and making improvements to the help tab in-app to help people find their own answers quicker.
+In the immediate future, we plan to make money by giving more of our customers the option to use Monzo overdrafts, taking a clear and transparent approach to a traditionally opaque area. And in the longer term, our goal is to build Monzo into a marketplace that gives people access to a range of products and services, with the convenience of managing everything from one place.
+When we help people save money by staying with or switching to a new provider, we think we can earn commission on every customer we refer. We want to make money when our customers get a good deal: what benefits you, should also benefit us as a business.
+
+It’s been an amazing three years! Thanks for all the support so far, you are the reason we’ve been able to build Monzo into what it is today ❤️
+What would you like to see us to do next? You can share your feedback and ideas on the community forum, I’d love to hear them 🙂

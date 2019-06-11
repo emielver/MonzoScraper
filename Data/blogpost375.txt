@@ -1,0 +1,73 @@
+Title: ATM Fees Abroad: Asking the Monzo Community to Decide Pricing
+Author: Tristan Thomas
+Position: Head of Marketing + Community
+Date: 13 Sep 2017
+
+
+We launched the Monzo Alpha back in October 2015 to a few hundred people. At the time, we said “we’re committed to launching prototypes early and gathering feedback. We can then iterate and improve” and that approach has proven to be incredibly useful. Thousands of people have sent feedback and given us their thoughts on the product we’re building, through in-app chat, social media and our community forum. Together, over the last two years, we’ve started to build the kind of bank that we’d be proud to call our own.
+Today, we’re coming to our community again to ask for your help with a tricky decision. As the Monzo user base grows and evolves, people are increasingly using their Monzo Mastercard® Prepaid Debit cards abroad. Very high foreign transaction fees have always been one of the things we hated about our old banks, and we’re committed to keeping foreign spending free for our users.
+However, when a Monzo card is used to withdraw cash from an ATM outside of the UK, Monzo pays the ATM owner a substantial fee. That fee varies from around 1% in Europe to just over 2% outside of Europe. We currently absorb the ATM fees ourselves.
+We want to build a sustainable, viable business that is around for many years to come. At the moment, the rising costs of foreign ATM withdrawals makes that difficult. So, in the spirit of transparency, we’d like to share the numbers behind these costs and three proposed solutions.
+We should emphasise that spending by card in a shop, hotel or restaurant (any “point of sale”) will remain free of charge. Online transactions in a foreign currency will also be free of charge - we’ll pass on the Mastercard rate with no markup. ATM withdrawals in the UK will also continue to be free.
+ATM costs have more than doubled in the last year
+In June 2016, ATM withdrawals were costing us just over £6 per active user per year. By the end of August 2017, ATM withdrawal costs had more than doubled to nearly £16 per active user per year. The graph below is taken directly from our internal analytics dashboard.
+
+
+
+This seems to be a result of a combination of factors, including people using their Monzo cards more frequently, increased awareness of the free cash withdrawals we’ve offered, and people signing up specifically to use the Monzo card abroad.
+£16 is more than half of the total cost per customer on the current account, meaning we’d need to find additional income sources to cover that cost.
+A small proportion of customers generate a large proportion of the costs
+Just 13% of customers account for more than 85% of our total ATM costs in any given month. Many of these people signed up to Monzo because of the great exchange rates and fee-free ATM withdrawals abroad, but don’t keep the card once they’re back in the UK. If we continue down this path, the majority of customers would end up supporting a small minority who benefit from the card’s rates, while not necessarily engaging with the wider benefits of Monzo.
+We don’t think that’s fair. We want to find a solution that benefits the Monzo community as a whole.
+What do other banks charge?
+When thinking about a solution to this, we wanted to see what other banks charge to withdraw cash abroad. It’s really difficult to find a definitive answer for each bank because everyone communicates it slightly differently.
+So we took matters into our own hands and took a selection of debit cards from different banks to Berlin and San Francisco to test it out. We withdrew €100 in Berlin and $100 in San Francisco (the ATM in San Francisco also charged us an extra $5) and here’s what it cost:
+
+
+
+
+
+
+  The HSBC Advance account doesn't charge non-sterling cash fees, which is why it's significantly cheaper — unfortunately, we didn't have a standard HSBC account to test. The Advance account requires a minimum incoming monthly payment of £1,750. The standard account charges an additional 2% cash withdrawal fee on top.
+  
+
+Options for Monzo
+We want to find a way to reduce this increasing cost burden in the fairest way possible, whilst still giving you a great deal compared to the options above. To that end, we have three suggested options to put to the community. We’ve modelled these extensively based on historical data to get to numbers that are:
+
+
+Non profit making: We want to pass on the fees that ATMs charge, at cost price, and not make a profit ourselves.
+
+Easy to understand: A key part of the Monzo mission is to make the world of money simpler, so we want to find a pricing structure that’s uncomplicated and easy to quickly understand.
+
+Fair: We want to find a solution that’s as fair as possible to our customers and affects people evenly, so you can make normal trips and holidays abroad with little fuss.
+
+Each of the options below is cheaper than the major banks we tried. With these options, it may be possible to find specific cards that offer cheaper withdrawals abroad (like Revolut, Starling and WeSwap) — our aim is not to always be the absolute cheapest on the market if it means we can’t build a sustainable business, but instead to find a fair way to pay this cost as part of the overall Monzo experience.
+
+Option 1
+1% charge for ATM withdrawals in Europe, 2% charge for withdrawals Rest of World
+ATM withdrawals in Europe cost us less than outside Europe. This option most closely reflects the charges we pay, with an average fee of around 1% in Europe and around 2% outside Europe. It’s the most direct way of passing through the cost of ATMs.
+
+Option 2
+1.5% charge for ATM withdrawals everywhere outside the UK
+This is an average charge balancing our costs at European ATMs (which are slightly lower) and Rest of World ATMs (which are higher). It’s simple and means you don’t need to worry about which country you’re in.
+
+Option 3
+£200 free allowance per month, 3% charge for withdrawals thereafter everywhere outside the UK
+With this option, you’d be able to withdraw up to £200 for free in a foreign country every month. If you withdraw more than that, the fee for withdrawals would be 3%.
+
+Option 4
+Another smart idea that Monzo hasn’t considered
+Great! We’d love your ideas – read on below.
+
+A quick reminder – paying abroad by card in a shop, hotel or restaurant (any “point of sale”) will remain free of charge. Online transactions in a foreign currency will also be free of charge – we’ll continue to pass on the Mastercard rate with no markup. ATM withdrawals in the UK will also continue to be free.
+Your feedback
+This is a decision we want to make in conjunction with you, our community. We’ve created a dedicated poll and discussion topic on the community forum for this and we’d love your thoughts and feedback there.  The poll is designed to be indicative — if there is a clear winner, we’ll choose that option, but if the results are all relatively close together, we may make a decision taking into account all of the discussion and feedback, as well as our long term vision for Monzo.
+
+
+      Have Your Say On The Decision
+  
+
+We’ll keep voting and discussion open for one week from today. We’ll then review all of the votes and all of the discussion and aim to make a decision as soon as possible after that. We will of course communicate this to everyone who voted and all of our customers — the actual fees won’t come into effect until two months after that, as per our terms and conditions, and will apply on both the prepaid card and the current account.
+Thank you for your support. Together, we’ll build the kind of bank that we’d be proud to call our own.
+
+Mastercard is a registered trademark of Mastercard International Incorporated. The Card is issued by Wirecard Card Solutions Ltd (“WDCS”) pursuant to licence by Mastercard International Inc. WDCS is authorised by the Financial Conduct Authority to conduct electronic money service activities under the Electronic Money Regulations 2011 (Ref: 900051).

@@ -1,0 +1,16 @@
+Title: Search Launches on Android!
+Author: Tristan Thomas
+Position: Product Manager
+Date: 11 Apr 2017
+
+
+Update your Monzo app — we’ve just released version 1.6 to the Google Play Store, featuring Search!
+
+
+
+    Your browser does not support the video tag.
+  
+
+You can now search all of your transactions by title, location, category or emoji. It should be super fast and smooth, even for those of you with thousands of purchases, and helps you find that old transaction you’re looking for in seconds.
+This update also includes a few other features, including telling you which level of identity verification your account is currently on, a nicer looking FAQ page and a shiny new splash screen when you open the app!
+Let us know what you think of this update on the forum or in reviews on the Play Store.

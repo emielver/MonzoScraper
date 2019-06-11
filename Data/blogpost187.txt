@@ -1,0 +1,76 @@
+Title: How to protect yourself against identity theft and fraud
+Author: Peggy McGregor
+Position: Content Writer
+Date: 21 Sep 2018
+
+
+What are identity theft and identity fraud?
+Identity theft is when someone steals your personal information (like your date of birth and card number) so they can pretend to be you.
+Identity fraud usually comes next – this is when someone uses your information for their personal gain. For example, they may access money in your bank account or take out credit in your name.
+A whopping £706 million was lost to fraud in the UK between October 2017 and March 2018.
+How can someone steal my information?
+Here are five common ways fraudsters might steal your information:
+
+
+Common theft – someone may steal your wallet or break into your home to take things like bank statements.
+
+Phishing – fraudsters may create fake emails or websites to trick you into entering personal data.
+
+Hacking – this happens when software is used to steal data from your phone, laptop or another device.
+
+Phone scams – you could get a call from someone pretending to be a genuine organisation, who then misleads you into giving away important information.
+
+Data breach – your information could be stolen from a business where you’re a customer.
+
+Nine ways to protect yourself
+1. Choose strong passwords
+A good password is one that is unique and difficult to guess. But unfortunately, good passwords are also difficult to remember! You can make this easier by using a password manager like 1Password, or making a password out of a series of random words.
+
+
+
+
+The strongest passwords are ones made up of four random, common words. This XKCD cartoon sheds some light on why.
+
+2. Keep your data off the web
+Avoid posting personal information on social media or websites where anyone can see it. This includes things like your date of birth or national insurance number. Most importantly, never post pictures of your bank card online.
+3. Set up multi-factor authentication
+This can give you extra protection for important accounts and devices. You’ll be asked to prove your identity in more than one way when logging in – for example, with a password and a code sent to your phone.
+4. Review your app permissions
+Be cautious when allowing apps to access your data and accounts. Only share necessary information, and consider removing permissions for apps you don’t use anymore.
+5. Think before you click
+Be wary of emails, websites, pop-ups and phone calls that could be fake. For example, you may think you’re updating Adobe Flash when you’re really downloading spyware.
+Look for suspicious signs – such as a different logo or spelling errors – and be wary of anyone who tries to worry you into giving them data. Avoid clicking on pop-ups when you’re on a free streaming site or public wifi, and use ActionFraud to familiarise yourself with current scams.
+6. Confirm that information’s genuine by contacting your bank
+Don’t trust information sent over email, text message or phone. Fraudsters often send texts that look like they come from your bank, to trick you into revealing sensitive information.
+If something looks unusual, confirm whether it’s genuine by contacting your bank.
+7. Update regularly
+Snoozing software updates? You could be putting yourself at risk, as these often enhance security. Consider setting important apps and software to update automatically.
+8. Redirect mail when you move
+If your mail is being sent to an old address, a stranger could get hold of important data. You may want to set up a mail redirect with the post office to ensure this doesn’t happen.
+9. Keep an eye on your transactions and credit score
+If you do become a victim of fraud, the faster you notice the better. So it’s important to regularly review your bank transactions and investigate anything you don’t recognise. The Monzo app notifies you of new transactions as they happen, so you can respond immediately if something’s not right.
+It’s also smart to keep an eye on your credit score. If it goes down and you’re not sure why, it could be that someone’s taken out credit in your name. You can find out more about credit scores and how to check them in our guide.
+What to do about identity theft
+If your data’s been stolen but you haven’t seen evidence of fraud yet, there are several steps you can take:
+
+Identify what information was stolen and what it could be used for
+Change your password for important accounts, such as email and online banking
+Report and freeze a lost or stolen bank card
+Report lost or stolen documents (such as a passport or driving licence) to the organisation that issued it
+Report attempted fraud to ActionFraud
+
+What to do about identity fraud
+Report the problem immediately to your bank, credit providers and ActionFraud. Make sure to contact them directly using their official website, email address or phone number.
+If you bank with Monzo, you can get in touch with us through in-app chat.
+These organisations will give you advice on what to do next. Make sure to keep a record of all calls and correspondence about the fraud.
+
+
+For more comprehensive guides and helpful tips on how to make the most of your money, follow Monzo Money Tips on Facebook!
+
+
+      Follow Monzo Money Tips
+  
+
+
+
+

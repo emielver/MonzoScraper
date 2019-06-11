@@ -1,0 +1,40 @@
+Title: Help us test 3D Secure in Monzo Labs!
+Author: Dovydas Bartkevicius
+Position: Backend Engineer
+Date: 13 Aug 2018
+
+
+We’ve built 3D Secure so you can make online payments safely, and you can now help us test it in Monzo Labs!
+3D Secure is the (often) terrible experience you go through when you buy something online with your traditional bank. It usually involves typing a password that you’ve probably forgotten onto a dodgy-looking webpage.
+
+
+
+But despite the awkward experience, it’s really useful for security. And some sites (like Coinbase) require banks to support it. So we’ve built 3D Secure the Monzo way and want your help with testing!
+
+
+
+How it works
+If you’re paying on a website that uses 3D Secure, we’ll send you a notification. Just open the app, tap ‘Confirm’ and we’ll put your payment through!
+If you like, you can ask us to send you a code by text message instead, which you can enter to confirm your payment.
+It lets us confirm you still have access to your mobile phone, your Monzo app and your card details.
+
+
+
+Because we don’t use passwords (they’re easy to guess!) and because we ask you to confirm your payment from the Monzo app (a fraudster would need access to your app to confirm) Monzo 3D Secure is even more secure than usual. Without the dodgy pages and long passwords!
+Get started
+
+Make sure you’re on the latest version of the Monzo app, or head to the app store to update it
+Head to the Account tab in your app
+
+Tap your name at the top of the screen
+Scroll down and tap Monzo Labs
+
+Switch on the toggle for 3D Secure
+
+
+For the first week of testing, Android users will only have the option to confirm payments by text message. But we’re working on adding both options to Android in the next few days!
+Share your feedback
+3D Secure is in Monzo Labs because every merchant uses a slightly different version. We need your help to test it out and make sure it works with as many merchants as possible.
+Please let us know which ones don’t work in this dedicated feedback thread and we’ll fix them!
+Once we’re happy it’s working at retailers across the board, we’ll make it available to everyone 😃
+

@@ -1,0 +1,36 @@
+Title: Meet Phil – Head of Partnerships
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 4 Sep 2017
+
+
+From Ben and Jerry to Beyonce and Jay-Z, famous partnerships prove that collaboration can yield great results. Since joining us in June, Phil has been exploring how we might partner with other companies to help customers make smarter financial decisions, whilst building Monzo into a viable business.
+
+
+
+Tell us about what you do here.
+I head up partnerships, which means that my goal is to help achieve Monzo’s vision of becoming the financial control centre for people’s lives.
+An important part of how we’ll do that is by working with other companies to create experiences that will help people save or make the most of their money.
+Partnerships is a brand new area of the business. How do you know where to start?
+The founding team have always believed that the bank of a future will be a marketplace. So many people in the company and in the community have amazing ideas about what partnerships should look like.
+So I’ve started by taking those on board, as well as reaching out to a lot of potential partners. Over the last few months I’ve probably met with about 50 or 60 different companies, to try and understand the kinds of partnerships we could work on.
+In my view, there are two approaches we can take.
+One is developing deep partnerships with specific companies. For example, we could partner with a few chosen energy suppliers to help people switch providers in a single click, then provide customer support and even allow people to submit meter readings through the Monzo app.
+The second approach would involve building an API to open Monzo up to developers, who could then start to build experiences themselves.
+I think there’s also a middle ground, which would involve building specific APIs for different verticals, like insurance, energy or travel, while providing general APIs for developers too.
+It’s important that the kinds of companies we partner with are well-matched with our values, and that they help improve our users’ lives in some way. That might mean giving them good value for money or great customer service. But could also include other attributes that matter to our users, like renewable energy, for example.
+Making money is super important if we want to build a sustainable business model quickly. But what’s even more important is making sure our incentives are aligned with our users’. This is where legacy banks fail. They make all their money from lending products like overdrafts and mortgages, so they’re incentivised to include hidden fees and charges.
+Because we’re trying to build a bank that is aligned with its customers, that means that our business model has to do that too.
+What were you doing before you worked at Monzo?
+I joined Google seven years ago as a technical account manager on the mobile and Android team.
+After a couple of years I joined Facebook as a partner engineer on the games team, and worked with gaming companies around Europe to integrate them into the platform. I also helped launch Facebook’s Audience Network, which was the platform’s first ad network.
+And in my final stint at Facebook I worked on chatbots in the Messenger app, creating a chatbot for Burberry and a whack-a-mole bot!
+Who do you work with on a day-to-day basis?
+Because we’re building a bank, there are rules and regulations we need to follow, so I work very closely with the Legal and Compliance Team. The Design Team and some individual engineers are already starting to help me build out some of these partner experiences. And I’ve been working with Marketing and Community to gather feedback and ideas from our community.
+If you weren’t at Monzo, what would you be doing?
+Launching my own startup.
+Tell us something unexpected about yourself.
+I’ve been to every state in the USA.
+
+To help Phil turn this vision into a reality, we’re looking for product managers to own entire categories within partnerships, from energy and savings, to investments and insurance. Find out more about the roles here.
+We will soon share a comprehensive update about our future plans for partnerships, so keep an eye out on the blog or follow us on Twitter to learn more. In the meantime, you can catch up on previous discussions about partnerships on the forum.

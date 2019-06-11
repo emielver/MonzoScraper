@@ -1,0 +1,27 @@
+Title: Pulse Comes to Android
+Author: Tas Morfopoulos
+Position: Android Engineer
+Date: 14 Feb 2018
+
+
+More than 40% of our customers use Android, so it’s incredibly important to us that the Monzo app is as good as it can be, on both platforms.
+We launched the Monzo Android app in September 2016 and since then, we’ve been working to add all the features from iOS, as well as some new ones just for Android.
+Today, we’re excited to add a notable new feature, that until now has been missing from Android: the Pulse!
+
+
+
+Last month, we promised to bring it to Android in the first half of 2018, and we’re excited to say that its here!
+At a glance, the Pulse allows you to see how much money you have in your Monzo account, and your balance for the month so far.
+It’s especially useful if you’re paying your salary into Monzo, because it also predicts your balance for the rest of the month. You can see if you’re spending too quickly, and how much money you’ll have in the weeks to come.
+If you have a Monzo overdraft, the Pulse also means you can see when you’re likely to enter it. This can help you plan ahead, or slow down your spending if you’d rather not use your overdraft.
+
+
+
+You can also scroll back in time really quickly, to understand how your spending has changed, and see your balance on any given day. It means you can double-check the price of a purchase you made a few months back, or find the amazing restaurant you ate at two years ago!
+Plans for the Pulse 📈
+We also have plans to make the Pulse even more useful. Over the coming months, we plan to show future payments as well as past ones. To help you plan and budget better, you’ll be able to see how next month’s rent or phone bill will affect your overall balance.
+The launch of the Pulse on Android brings us significantly closer to full feature parity with iOS. The main feature left on our to-do list is Targets, which give you the ability to set spending goals for each category, and track your progress through the month.
+The good news is that work has already started on updating the Spending tab and Targets for both iOS and Android, so that they make sense for people getting salaries paid in, and paying their bills, rent or mortgage out.
+You’ll be able to set Targets and track your spending breakdowns from a date of your choice, so you can understand your money from payday to payday, rather than according to each calendar month. And we’ll also help you understand how much money you have left to spend, after regular expenses like bills and rent are paid.
+
+I worked with our designer Vuokko to bring Pulse to Android. We’ll both around to answer any questions you have (about Pulse, or anything else!) over the next week 😄 Join the discussion here.

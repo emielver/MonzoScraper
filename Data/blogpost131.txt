@@ -1,0 +1,41 @@
+Title: Keep track of what you’re owed with Shared Tabs
+Author: Ole Mahrt
+Position: Head Of Product
+Date: 13 Dec 2018
+
+
+We’re excited to announce that you can now create Shared Tabs to keep track of the money you owe to others, and the money they owe you in return!
+In October, we launched a new way to split bills in the Monzo app. And that’s great for the one-off transactions you have, like dinners and trips. But there are times you’ll want to share multiple payments with other people. That might be a big night out or long weekend. Or it could be longer ongoing things like splitting household bills with your flatmates.
+
+
+
+We think Monzo works best when all your friends use it too (that’s why we’re offering a £10 welcome gift to anyone you invite this Christmas!). And even though sharing bills and payments is a fact of life, there wasn’t a really easy way to pay each other back quickly and fairly. And nobody likes those awkward “have you paid me back yet?” conversations! That’s why we’ve built Shared Tabs.
+To use a Shared Tab
+
+Head to the Payments tab in the app, and tap ‘Request’.
+Tap ‘Create a new Tab’.
+Give your Shared Tab a name, and pick the people you’d like to add.
+  You can add people from your contacts list, or anyone around you using Nearby Friends.
+Tap ‘Add’ to add payments you want to share. By default we’ll split your payments evenly, but you can adjust the amount yourself too. You can also add payments directly from their details screen.
+When you’re ready to settle, tap ‘Pay Tab’.
+
+Right now you can only add payments you’ve made through Monzo to a Shared Tab, but we’ll let you add non-Monzo payments in the next release!
+We won’t automatically close a Shared Tab once everyone’s paid up, so you can use it again if you’d like. But if you’re done, just tap the three dots (Android) – or Edit (on iOS) – in the top-right corner and select Leave Tab if only you’re leaving. Select Close Tab if everyone’s done.
+
+
+
+We’ve been testing out Shared Tabs in Monzo Labs for the last month. Monzo Labs is our way of letting our community try out new features before we bring them to everyone, and we really appreciate all the ideas and feedback you’ve given us for Shared Tabs.
+In particular, the main feedback from Monzo Labs this time was that you expected Shared Tabs to stay open once you’ve all paid up (originally they closed when you all settled), and that you wanted to unevenly split bills, like you do with bill splitting currently in the app. So we’ve spent time to make sure we’ve built these features too, and generally taken the time to give Shared Tabs the polish you’d expect. Thanks to everyone who tried out Shared Tabs in Monzo Labs!
+We really hope you enjoy using Shared Tabs with your friends and family. We’d love to hear what you use Shared Tabs for, or any other feedback you’ve got to make it even better. So come and join the conversation on our community forum!
+
+
+See the other features on our radar for the next few months, and keep track of the ones you're most interested in with the Making Monzo roadmap:
+
+
+View the in-app roadmap
+
+
+Or check it out online here!
+
+
+

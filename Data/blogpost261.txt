@@ -1,0 +1,43 @@
+Title: We’ve published our Engineering Progression Framework
+Author: Chris Bond
+Position: Engineering Manager
+Date: 25 Jun 2018
+
+
+We’re building a world class engineering team at Monzo, which means hiring the right engineers, and helping them to thrive here. And we can only do that by making sure they all have a clear path to progression.
+So we created a framework that engineers at Monzo can use to understand and measure their progress and personal development.
+And, to help other companies and engineers who are interested in joining us, we’ve decided to share it transparently too!
+
+
+      Read the Engineering Progression Framework
+  
+
+
+
+
+What is it?
+It’s a guide that sets out the things we expect from engineers, at different levels across the company.
+They’re divided into five categories:
+
+
+Mastery - Your knowledge of the tools and technologies we use, the area you work in, and your technical ability
+
+Impact - The size, scope and value of what you deliver
+
+Influence - How you change the world around you for the better
+
+Communication and Feedback - How you interact with others
+
+Leadership - How you help those around you become better and more impactful
+
+To make sure people can understand what each means in their work, the framework’s filled with real-world examples of times we’ve seen them used by our teams day-to-day. In time, we’ll make sure we illustrate every item on the framework with a few meaningful, practical examples.
+What’s it for?
+The framework gives engineers and managers a shared vocabulary, that will help us have more useful, structured conversations about progression and personal development.
+We hope our engineers will use it as a tool to measure their own development, and understand how they can move forward and build on their skills.
+What isn’t it for?
+Think of the framework as a compass, not a GPS. There are lots of ways to show your technical ability or make an impact with your work. If we tried to describe every single step in an entire career’s worth of progression, we’d end up with an impossibly long and detailed document, that wouldn’t be useful to anyone! No framework can ever be exhaustive, and cover all the edge cases you’ll see when a group of people come together to create an amazing product.
+It’s also not a checklist. You don’t need to tick off every single item to move forward, and it isn’t the only way for people to understand and measure their progression. Crucially, it will be supported by regular feedback and frank conversations with managers.
+Why we’ve made it transparent
+Making progression and pay transparent for all the engineers in the company means that everyone has the same opportunity to understand where they are, and take ownership of how they move forward. Our goal is that any engineer, regardless of background or experience, can see a path for themselves here at Monzo.
+Transparency also means we can make the framework a collaborative document, rather than something we just impose on our engineers. We’ve put the framework in an internal Git repository, which means engineers can make pull requests to update any part of it. They can add good examples of behaviours and characteristics that they’ve seen, making the framework more comprehensive and useful as they do. They’ve already been busy adding new examples, and making updates to the existing categories.
+We also want to gather feedback from our community, and other companies facing the same challenges that we are. Whether you’re an engineer or a manager (or anyone else with good ideas!), we’d love to know what’s worked and what hasn’t in your organisations. Have your say in the community!

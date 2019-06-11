@@ -1,0 +1,29 @@
+Title: Better Transaction Information on Android
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 15 Feb 2018
+
+
+Whether you’re buying a burger at a service station, or a cold drink on a beach somewhere sunny, each time you make a purchase using Monzo, the transaction appears in your app. It usually looks a little something like this:
+
+
+
+We show you helpful information about your transaction, like the name, location and logo of the place you made a purchase. Rather than an indecipherable string of letters and numbers!
+To do this, our system tries to find details for that retailer somewhere on the internet, whenever you make a purchase. We store each retailer’s information, so we can show it to other Monzo users who make purchases from the same place.
+Getting good information isn’t always easy
+Sometimes, when our system searches for that information, we aren’t immediately able to find it. That’s often because a retailer’s new, or they’re abroad and we don’t have as much data.
+When that data is missing, we’re forced to show you incomplete information about your transaction, which isn’t ideal.
+
+
+
+Now everyone can help make merchant information better
+Monzo users on iOS have been helping improve the information everyone sees for a while now, by giving us feedback on the data we display for each transaction.
+Now we’re pleased to be bringing this crowdsourcing to Android too!
+When you see a purchase in your Monzo feed that doesn’t quite have the right information, you’ll now be able to give us the correct details and help make it better for everyone!
+If you see something wrong, go into the transaction and tap “Improve name, location or logo.” You’ll then be able to enter in the right name, search Google Maps for the right location, and give us the merchant’s Twitter handle so we can find their logo.
+
+
+
+It’s important to us that you’re able to see what you’ve done with your money in a clear, easy-to-understand way. Making sure that the details of each purchase you make are legible is a simple but significant part of how we do that. Thanks in advance for helping make everyone’s feeds more beautiful! ✨
+
+Share your ideas for how else we can improve the way you see transactions in your app! Join the dedicated discussion in the community, or tell us what you think on Twitter 😃

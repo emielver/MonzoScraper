@@ -1,0 +1,83 @@
+Title: Why we’re lending
+Author: Richard Cadman
+Position: Product Manager
+Date: 20 Nov 2018
+
+
+In the right circumstances, borrowing can be a useful way to manage your money. From unexpected emergency purchases to a big undertaking like buying a house, using the right kind of credit and managing it in the right way can help you do the things you want to do.
+But borrowing money can often be a confusing, complicated process. And lenders often don’t do much to make it easier, stinging you with unclear and unfair charges for repaying early, or burying fees in 12-page Ts&Cs filled with confusing legalese.
+We believe we can find an approach to lending that’s fair and more transparent. One that helps you feel better about borrowing, by designing products that help you stay in control.
+Lending also helps us build Monzo into a sustainable business: when you borrow money from Monzo, you’ll pay us interest on what you owe, or fees for using your overdraft. This will help us make revenue, and build a bank that’s around for years to come.
+What problems are we setting out to solve?
+Through our own experiences, user research and feedback from our customers, these are some of the most painful things we’ve identified about borrowing money, that we’ll be working to improve:
+Applying for a loan
+Applying for credit can be confusing and time-consuming
+
+
+The application process can be unnecessarily long and complex – whether you’re filling in a load of forms online or taking meetings at your local bank branch, applying usually takes a lot of time and effort
+
+How much interest you’ll pay and how much borrowing will cost you isn’t always clear – important details like the interest rate and cost are often hidden among heaps of other information, and it can be difficult to translate percentages into how much you’ll actually pay
+
+Some lenders advertise different rates to the one you’ll get – lenders often advertise interest rates, without making clear that only a percentage of people will qualify to get them
+
+Lenders’ checks can impact your credit report, with no guarantee you’ll get credit – depending on how lenders do credit checks, you can sometimes end up in situations where you haven’t been offered credit but your report’s been affected anyway
+
+It can take a while for lenders to decide – after you apply for credit, you might be asked to provide extra documents, or wait days for a decision
+
+We want to bring transparency, clarity and certainty to the application process
+
+We want to make sure you can apply for credit quickly, through a process that’s simple and easy to understand
+We’ll make interest rates and costs transparent, and communicate in plain English so everything’s clear
+We’ll make decisions quickly, and instantly wherever we can
+We’ll make sure we know you’re eligible and you can afford the loan before giving you the option to borrow money from Monzo, without affecting your credit report
+
+Managing your loan
+It isn’t always easy to manage your loan once you’ve got it
+
+
+You don’t have much choice over how your loan repayments work, and you usually can’t manage this yourself – you often have to go with the option your lender gives you, and when you do want to make changes you’ll typically have to call up customer support
+
+You sometimes have to remember to make repayments manually – the onus is on you to remember when to repay
+
+You’re penalised for doing positive things without explanation – lenders often charge a flat fee for paying back what you’ve borrowed early, with no explanation why
+
+Once you’ve borrowed money, we want to put you in control
+
+We want to let you control when, how often, and how much you’ll repay. For example, when you take out your loan we’ll let you choose the day of the month you’d like us to take your repayments
+To make it easy to keep track, we want to make sure you can always access and easily understand how much you have left to pay and how much it’s costing you
+Rather than asking you to remember to repay manually, we’ll take repayments automatically instead
+And to make sure you’re not caught out by the repayments we take, we want to send timely reminders so you can factor them into your budget and make sure you have enough money in your account
+If you miss a repayment, we’ll make it super clear how you can get back on track, and explain how this will affect the amount you need to pay
+We’ll help you make early repayments in app. And if we charge, we’ll make that clear and explain why
+
+Supporting people in financial difficulty
+Lenders are usually supportive when you have problems repaying, but not everyone knows that’s the case
+
+
+Banks can help, but not everyone knows – Some lenders do a great job of supporting people who can’t repay what they’ve borrowed. But this isn’t always made clear to customers so lots of people don’t know
+
+The way lenders communicate can seem scary – Once you’ve missed repayments, this fear or reluctance to reach out is made worse by the way many lenders actually contact you. The cycle of phone calls, texts and angry letters can be intimidating and stressful
+
+Processes get in the way of people – Sometimes rigid rules processes mean that the solutions lenders suggest aren’t always designed to meet customers’ needs
+
+The lack of digital channels makes communication harder – Communicating through letters and calls can be slow, and people often find it easier to address their debt if they can speak more anonymously
+
+If you can’t repay what you’ve borrowed, we’ll do everything we can to support you, and make it easy for you to reach out
+
+Through our customer service and tools like Share with us, we want to make sure anyone who borrows money from Monzo feels comfortable enough to tell us when something’s wrong (whether that’s losing a job, struggling with mental health, or something totally different)
+When someone does get in touch, they should be able to expect an informed, compassionate response
+We’ll give you the option to take a break from repayments when it’s appropriate, and work with you to come up with a reasonable repayment plan
+
+Let us know what else you find difficult about borrowing, and your ideas for what we can do to help.
+You can learn more about different kinds of credit and how to use them here.
+What we’re doing
+We already offer arranged overdrafts, and we’ve started testing loans with a few hundred people.
+The loans we’re testing let you borrow between £200-£1,000 and pay it back over three, six, nine or 12 months. We’ll send you a message in the app to let you know if we’ve made a loan available to you as part of the test.
+
+
+
+We’re doing this to understand more about what you expect from a lending feature, why you’re borrowing, and how we can build something that helps you. That might be a loan, or it might be something else entirely! We’ll use what we learn and the feedback you give us to inform what we do next.
+
+
+
+If you do take out a loan while we’re testing, we’d love to know what’s working well for you, and what we could do better. Please share your feedback with us in the dedicated discussion in the community forum.

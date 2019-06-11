@@ -1,0 +1,53 @@
+Title: #mondohack
+Author: Tristan Thomas
+Position: Community Manager
+Date: 22 Nov 2015
+
+
+There were so many great projects at the recent Mondo Hackathon we are splitting them up into multiple posts, of which this is the first. More to come next week!
+
+
+
+What do Pikachu, loyalty cards and 3D visualisations have in common? It was a question answered on Sunday evening as 13 teams presented the results of a 48 hour intensive hackathon at Mondo Towers. Fuelled by copious amounts of pizza, Red Bull and stale croissants, community members presented the banking and finance apps they’d always wanted, made possible by the Mondo API.
+We’ve written on our blog before about why APIs in banking are so important. We fundamentally believe the combination of open banking data and the power of technology has the potential to transform people’s financial lives. A huge thank you to those who came and built such amazing projects and those who took the time to write about it afterwards. We’ve linked to the posts below and you should follow them all on Twitter.
+
+
+Mondo Hack and the bank of tomorrow by Jon Taylor
+
+
+Mondo Hackathon 2 by Dan Graf
+
+
+What does a bank look like on your TV? by Alexander Baxevanis
+
+
+Mondo Hackathon 2 by Simon Vans-Colina
+
+
+At the end of the weekend, everyone gathered together to demo projects and choose a winner. After a tense round of online voting, the winner of this weekend’s hackathon was revealed to be Dan Palmer, who built a clever integration with supermarket loyalty schemes. You can find details of his hack and others below.
+We’ll be holding our next hackathon in January—register your interest here and we’ll let you know as soon as we have fixed dates.
+
+Loyalty Scheme Tracker
+
+
+
+The weekend’s democratic winner!
+Dan Palmer built an app that connects to your Nectar or M&S Sparks account, scrapes your point balance and pushes it directly into your Mondo feed. This happens immediately without any manual interaction and is a simple way to keep track of your multiple loyalty cards without needing to log in to every account individually.
+
+Penny Change
+
+
+
+
+
+
+Product designer Jon Taylor and engineer Marco Alabruzzo built this perfectly designed iPhone app named Penny Change, which rounds up your card transactions to the nearest pound and allows you to donate the change to a charity of your choice. With beautiful, animated screens showing the amount of change donated worldwide and interactive coins to throw around, this app undoubtedly won the unofficial award for best visual design.
+
+In Stats We Trust
+
+
+
+Bringing together a group of frontend and backend engineers, Kirill Korolyov, Ruslan Zavacky, Mark, Jack Pooley and Diana Lee built a web app to give you advanced analytics of your spending and to specifically point out your bad habits. With notifications like: “Looks like you spend too much on coffee” they envisaged a simple way to nudge you towards better spending behaviour.
+Another huge thank you to everyone who came—we can’t wait for the next one in January! Register your interest here and we’ll post more of the projects next week.
+
+We recently updated our name to Monzo! Read more about it here.

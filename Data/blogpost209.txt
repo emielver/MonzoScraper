@@ -1,0 +1,38 @@
+Title: An update on PIN lock
+Author: Richard Cadman
+Position: Product Manager
+Date: 17 Aug 2018
+
+
+Some of you told us you’d find it useful to lock your app with a PIN, so that even if someone has access to your phone, they won’t be able to get into your Monzo app.
+We committed to adding it as part of the Big List, but we’ll be missing our deadline next Wednesday because we’ve chosen to prioritise other projects.
+Here’s why we’ve chosen to work on it later, and an update on where we are with the project so far.
+We asked you to vote on how we should build it
+There are a few different ways that we can implement PIN lock, and upsides and downsides to each. So back in June we came to our community and asked you to vote on which option you’d prefer.
+Option one: using the same PIN as your Monzo card
+
+The problem here is that we can’t store your PIN anywhere on your device, so checking that you’ve entered the correct PIN would involve having to check with our servers. As a consequence, you wouldn’t be able to unlock the app offline.
+
+Option two: using a different PIN
+
+We could make you create a new PIN in some way - perhaps by making the PIN unlock code six characters, rather than four. But making people have to remember another code isn’t ideal. And it’s all too tempting just to keep your same PIN anyway and add something extra on the end, eg. xxxx00
+
+Option three: something else
+
+There’s also the possibility that we could approach the problem in an entirely different way, of course. Could your unlock code be a series of emojis that only you knew? Or, could it be a selection of colours? We’re open to new ideas too!
+
+422 of you voted, and the most popular option was number two.
+We’ve started working on some designs, and here’s how we think it might look:
+
+
+
+
+Let us know what you think in the community!
+We’ve prioritised other projects for now
+We’re going to miss our deadline because there are other pressing projects we decided we should do first. Right now we don’t have enough front end engineers to do everything we want to, so we’ve had to prioritise what we choose to work on.
+We’ve prioritised working on improving the performance of our app (so it’s quicker!), building a new lending product and helping you earn interest on a savings pot instead. After listening to your feedback, we think these features will be of most benefit to all our customers, and help us make the most impact on our company goals.
+That means we won’t start work on building the PIN lock for the next few weeks at least.
+What’s next?
+Now that we have the designs, the next thing we need to do is build it.
+We’ve chosen not to make this a priority for the next few weeks. But as usual, we’ll be constantly reassessing how we can balance it with our other features and will share a timeline as soon as we have one.
+We’re sorry we won’t meet the deadline 😞 but we’ll keep you updated about how we’re doing and hope to bring it to the apps very soon!

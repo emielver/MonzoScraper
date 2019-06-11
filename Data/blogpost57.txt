@@ -1,0 +1,45 @@
+Title: Happy birthday to the Monzo tone of voice
+Author: Harry Ashbridge
+Position: Writer
+Date: 27 Mar 2019
+
+
+A year ago this week, we published our tone of voice guide.
+At the time, we mentioned that trust in banks is low, and how they communicate has a lot to do with it. The industry is working to change that, but there’s still a long way to go.
+The gap between the most customer-friendly writing banks do and the most confusing, jargon-packed and downright aggressive stuff is still pretty big. And that gap is a real problem: if you say you’re customer-focused, but you don’t communicate in a clear and empathetic way, then customers won’t believe it’s true.
+But if you do make that effort, you see the benefits. We’ve been blown away by the response people had to our guidelines:
+"Hi team. I’ve been thinking of joining for a while now, pulled my finger out and checked your website. Your ‘tone of voice’ article did it for me and convinced me to take the step! Just signed up, looking forward to a swell relationship 💋"
+And our attention to detail in making sure all our writing works hard for readers is paying off too:
+
+
+
+Bringing the guidelines to life
+In the post last year, I mentioned that writing guidelines was step one. You need them as a source of truth, but there’s a big difference between having guidelines written down and people actually following them. Here are some things we’ve done to bring them to life at Monzo:
+Training for everyone
+We’ve run training sessions for well over 700 Monzonauts. An introduction to Monzo writing is part of onboarding for everyone who joins, and there are follow-on sessions that build up skills and confidence over your first year here.
+Most of those happen face-to-face in our London office, but we run remote sessions for the many people who work elsewhere too.
+The beginnings of a writing team
+We’ve got two fantastic new writers this year, and we’re starting the process of embedding writers across the company. Generally at Monzo a new feature gets built by a cross-functional ‘squad’ of engineers, product people and designers – our writers are part of those squads too.
+A culture of care for language
+People here always cared about the words they use, but we’ve introduced a few processes to help keep it front of mind.
+For example in our weekly ‘All Hands’ team meeting, we make a point of reminding presenters to explain any technical terms.
+
+
+
+We also have a ‘jargon tracker’ to keep tabs on which terms Monzonauts are struggling with most. Not so everyone has a dictionary they need to check, but so we know which terms to stop using because they’re slowing us down.
+
+
+
+Other writing help
+We published our naming system back in November, to explain how we go about giving names to new features. Internally we have quick guides on things like giving objective writing feedback and writing longer documents. Our templates for Google Docs and Google Slides also have writing guidance built in, so people don’t have to go hunting around for tips when they just want to get going.
+
+
+
+But we still have lots to do
+The story goes that the Forth Bridge is so big that it takes 10 years to paint. You work your way along, but by the time you reach the end it needs a new coat back where you started.
+That’s a bit like trying to keep our writing standards high. We move super fast, and we’re growing really quickly.
+As the complexity of what we offer as a bank increases, we have a bigger challenge to make sure everything fits together and is easy to understand. (That’s of course not just a writing challenge, but something every team here is thinking about.)
+Will face-to-face training sessions always be feasible for every new starter? What happens when the Jargon Tracker is being added to by 3,000 people at the same time? And what about when (fingers crossed) Monzo is in different languages all around the world?
+Those are the exciting/terrifying challenges that we’ll be tackling next.
+In the meantime, a huge thank you to everyone who’s commented on, used, critiqued and spotted typos in our tone of voice. If you’ve got any thoughts on the guidelines, or how we communicate in general, we’d love to hear them.
+

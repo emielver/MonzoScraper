@@ -1,0 +1,78 @@
+Title: What is a credit score?
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 9 Aug 2018
+
+
+Credit scores (or ‘ratings’) are used by financial institutions like banks and lenders to decide whether or not to lend you money.
+They’re a measure of how ‘creditworthy’ you are, which means how likely you are to pay back the money they’ve lent you.
+When banks lend you money, they take on a risk: there’s always a chance people might not pay the money back. Your creditworthiness helps them decide how much they’re willing to lend you, and what interest rate they’ll charge.
+Creditworthiness can be difficult to predict, because it takes into account a lot of different factors, like how likely you are to pay back the loan and if you can afford it.
+Credit scores are a useful way of taking all those factors into account, and summarising them in one simple number. Along with some other information, that number’s then used to assess how risky or safe it is to lend you money.
+Is a credit score the only thing lenders consider?
+A credit scores is a useful indicator of how likely you are to repay what you borrow. But it isn’t the only thing that lenders take into account.
+When deciding whether to lend you money, they consider a few different things:
+
+
+Creditworthiness - how likely are you to repay?
+
+Affordability - can you afford the loan?
+
+Sustainability - can you keep paying money back for the length of the loan?
+
+Each lender will set their own rules to help them decide whether or not to lend someone money. And these rules depend on how much risk and what kind of risk they’re willing to take.
+For example, some lenders might not lend to people who don’t have enough credit history (a record of borrowing and reliably repaying money), others might only give credit to people who have a current account at that bank and use it on a regular basis.
+So, when they decide whether to lend you money, lenders consider a range of different criteria. Your credit score is usually one of the most important, but it isn’t the only thing.
+What makes up your credit score?
+
+
+
+WHAT?
+WHY?
+
+
+
+
+Your payment history
+The way you’ve used your money in the past is usually the best indicator of your creditworthiness. If you’ve missed payments, defaulted on loans, had to use repayment plans or declared bankruptcy, you’ll have negatively affected your credit score.
+
+
+How you’ve used debt in the past
+Using lots of debt is usually an indicator of financial stress. While this doesn’t automatically make you more risky to lend to, it’s an important factor in the credit score.
+
+
+The length of your credit history
+If you have a track record of borrowing and reliability repaying money, it can show that you know how to manage debt. Lenders use your credit history to judge how reliable you’ll be at paying back what you borrow.
+
+
+The types of credit you use
+From overdrafts to payday loans, the different types of credit you use each indicate different levels of risk.
+
+
+Recent applications for credit
+If you’ve applied for credit recently, lenders might assume you’re in greater need of debt. That might not necessarily be a bad thing, but if you’ve applied for credit a lot recently, it could be a sign of financial stress or even fraud.
+
+
+
+How is a credit score calculated?
+Credit scores are calculated using statistical techniques. The goal is to find patterns in your previous behaviour that show things like how often you’ve missed payments, the total debt you’ve taken out, or the ratio between your income and the amount of money you’ve borrowed.
+These things are used to predict the risk that you won’t pay back the credit. Each thing is given a ‘weight,’ and the more likely they are to predict that you won’t repay, the less weight they’ll carry. These ‘weights’ are all gathered together to determine your credit score.
+Usually, a higher credit score means you’re less risky to lend to.
+Who calculates my credit score?
+Credit scores are calculated by credit reference agencies. There are three in the UK: TransUnion (which was previously called CallCredit), Equifax and Experian. These companies gather and record information about your credit history, and use it to calculate your credit score.
+Lenders will ask one or more of these agencies for information about you, to help decide whether they’re willing to lend you money.
+How do lenders use credit scores to make decisions?
+Different lenders offer different products, and want to lend to different kinds of customer. They use credit scores to work out what you’re like as a borrower, and decide whether or not they’re willing to lend you money.
+Some lenders want to lend to high-risk customers (often known as sub-prime lending). Because they’re taking on more risk, they can charge more interest or offer less favourable terms. Those lenders might choose lend to customers who have very low credit scores. Other lenders are more conservative and less willing to take on risk, so they might only want to lend to customers with higher credit scores.
+Your credit score helps a lender decide whether they’re willing to lend to you, and determine other things like:
+
+
+How much they’re willing to lend you: Lenders use credit scores to help decide the size of the loan they’re willing to give you. It’s common that lenders will offer smaller loans to higher risk customers and vice versa.
+
+The price of the loan: Lenders often use credit scores to develop risk-based-pricing (RBP), which means offering lower prices to low risk customers and vice versa
+
+The collateral you need to put up: When you take out a secured loan, you pledge an asset (like a car or a house) as collateral for the loan. Lenders often use credit scores to determine what kind of collateral they’ll ask you to put down, and what loan-to-value ratio they’ll require
+
+How can I find out my credit score?
+The three agencies that calculate credit scores are Experian, TransUnion and Equifax. You have a legal right to check your file at any of these providers – although you might have to pay a small fee!
+There are also companies that can tell you your credit score for free, every month. You can use ClearScore to check your Equifax score, but it’s worth getting your Experian and TransUnion reports too.

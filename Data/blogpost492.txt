@@ -1,0 +1,43 @@
+Title: Announcing Mondo v1.4
+Author: Tristan Thomas
+Position: Community Manager
+Date: 9 May 2016
+
+
+We love building Mondo for iOS, not least because we get to take advantage of new and exciting features. Over the last few weeks, we’ve been working hard to integrate the Mondo app further into the iOS system, culminating in version 1.4, now available in the App Store for download!
+Interactive Notifications
+You can now take action instantly on notifications when you receive them. We intelligently display different options to you depending on the notification type, so if you’ve just made a purchase, you can add a receipt:
+
+
+
+If you’re running low on funds, you can quickly top up:
+
+
+
+Or if you left your card frozen, you can defrost it in a couple of taps:
+
+
+
+Notification Centre Widget
+See your Balance and Spent Today in a swipe, with the new Mondo widget for Notification Centre. This updates to show your live balance and spending in real time.
+
+
+
+  Your browser does not support the video tag.
+  
+
+Spotlight Integration
+You can now search your recent Mondo transactions directly from Spotlight. Just drag down or swipe right on the home screen and away you go! We pull in the logos and enriched merchant details for every merchant too.
+Quick Actions
+If you’re lucky enough to own an iPhone 6S or 6S Plus, we now support 3D Touch Quick Actions from the homescreen! Pay friends, top up and instantly freeze your card with just a hard press on the Mondo icon.
+
+
+
+Peek and Pop
+You can now get a quick look into your transactions with Peek and Pop, now supported in the transaction feed. 3D Touch on a transaction to Peek into it and then press a little harder to immediately Pop into it.
+
+
+
+Enjoy! Please let us know if you have any feedback on the community forum or on Twitter. Don’t worry Android users, we’re working hard for you too and there’ll be more news soon 😀
+
+We recently updated our name to Monzo! Read more about it here.

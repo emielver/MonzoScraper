@@ -1,0 +1,31 @@
+Title: Open Office August: The Debrief
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 1 Sep 2017
+
+
+Here at Monzo, designers ask a lot of questions. Like “How can this redesign reduce support queries?” or “What will this screen look like in twelve months?” and “Is ballet an appropriate medium for an Open Office presentation?”
+Answering some of those questions is what helps make the experience we give to our customers as good as it can be.
+At our latest Open Office event, designers Zander and Sam shared some of the thinking that helps them make smart design decisions, in the app and beyond.
+
+
+
+Who?
+Our team of five designers look after every user-facing aspect of the Monzo experience. They work horizontally, supporting teams across the company. That might mean working with the External Product and Lending Teams to decide how we let users know they are nearing their overdraft limits. Or helping Company Operations design a cute card to make new starters feel welcome when they join.
+What and when?
+With so many new ideas of their own, as well as requests from other teams, one of their first challenges is knowing what to design, and when. This involves striking the right balance between making long-term plans, and addressing important issues immediately.
+Planning for the future means establishing which tasks will be the quickest to build, or the most useful, and prioritising them accordingly in the Extraordinary Ideas Board.
+It also means thinking about whether existing designs will work as the product evolves, months and years down the line. For example, as more and more people start using current accounts, will the way transactions are displayed work when people make or receive huge payments?
+Addressing important issues means fixing things that break. At Monzo, we build and implement things really quickly, so making changes in one area can sometimes have an impact on another. That’s to be expected when we’re moving at pace, explained Zander. But it also means that there’s a steady stream of things that need to be repaired.
+For example, as new features like uploading receipts have been added to the app, the team realised that the vertical structure of the purchase screen wouldn’t continue to work. Items would be stacked on top of each other, creating a longer and increasingly unwieldy screen that didn’t follow a logical hierarchy. The solution? To make the information displayed extendable, so the screen structure stays short and neat.
+Where and why?
+Sam creates the animations that delight our users, and make the experience of dealing with Monzo a little more friendly.
+But animations aren’t just for fun. They also play a really important role in helping us communicate with our customers.
+It’s helpful to think about this in terms of the 80/20 principle, he explained, sharing a quote from designer Ryan McManus: “20% of a design solution is the most critical thing to get right. If we concede that 80% of any established interaction is universal, the true brand experience lives in that 20%” In other words, animations help make Monzo, Monzo.
+However, the team also take care not to overuse them, and think sensitively about where they’re appropriate to include. A parachuting Hot Chip animation can help celebrate that your card is on its way. But information about important things like security needs to be taken seriously, and communicated in a clear, straightforward way.
+The experience should be beautiful, but nothing is designed to be decorative. It’s important that each design element serves a purpose.
+
+
+
+
+You can watch the full live stream of August’s Open Office here, and connect with us on Twitter to find out what’s in store for September.

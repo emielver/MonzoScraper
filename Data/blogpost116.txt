@@ -1,0 +1,107 @@
+Title: How we load tested our bank before our £20 million crowdfunding round
+Author: Tim Radvan
+Position: Backend Engineer
+Date: 15 Jan 2019
+
+
+When our crowdfunding investment round opened to all our customers at 10am on December the 5th, a lot of people opened their Monzo app to invest. At 10am on a typical day, we’d expect to see around 400 people opening their apps each minute. But during crowdfunding, more than 9,000 people opened their apps to invest in the first five minutes!
+We anticipated our crowdfunding round would be popular, and we knew this would put extra load on our servers. If we weren’t careful, the extra load could make our app slower, or stop it working entirely. So in the months before crowdfunding, we spent time running tests to simulate the extra load, upgrading our platform to cope with it, and making sure that we were ready.
+We built a custom load testing system that simulated our iOS and Android apps in detail, and ran our tests against our production platform (the real servers that customers use). We carefully measured how the traffic affected our servers. And when we found a bottleneck that was slowing us down (and that adding more servers couldn’t fix) we made changes to our code so we could go faster.
+We made sure we could handle extra load
+We ran this crowdfunding investment round entirely through the Monzo app, which we hadn’t done before.
+When you open your Monzo app it makes several requests to our servers, to update your balance and recent transactions, for example. Each request puts more load on our servers, since they have to process the request and send the right information back to your app. We wanted to make sure that our systems could stand up to lots of people opening the app at the same time.
+On a typical day, we see the highest load at lunchtime, with just under 1,500 people a minute opening their app. We can easily cope with this amount of load. In a previous investment round we raised £1 million in 96 seconds, so for this round we wanted to be ready for lots of people to open their app as soon as the round opened. So to prepare for the most extreme situation, we simulated up to 30,000 people a minute opening the app without causing issues.
+We simulated our mobile app as closely as we could
+There are quite a few existing tools for load testing a website (the best-named one has to be Bees with Machine Guns). But rather than using an off-the-shelf solution, we chose to build our own. We wanted the traffic to resemble our iOS and Android apps as closely as possible, and building our own system let us customise the requests made by the test.
+We used Charles Proxy to watch the actual requests made by our production app. Then we wrote a load testing framework (in Go, like most of our backend code) based on what we’d seen. Our framework simulated the app in detail: it made the same requests, and sent those requests in a very similar way. For example, our app will send up to four requests in parallel, so we made sure our framework did the same thing.
+Load testing usually targets a particular number of requests per second. This is useful when testing a single system, but our apps make many different requests to many different parts of our platform. So to recreate real app use, we built our framework to make a sequence of requests. We called each sequence of requests a “job”, and each job simulated a specific part of the app. For example, we had a job to simulate a “cold start” of the app (after restarting your phone, or force-quitting the app), and a “summary tab” job which requested the Summary screen. We also had some jobs for testing the Crowdfunding systems specifically.
+Using jobs also let us approach testing in customer terms: thinking about “app launches” is easier to communicate and understand than using a technical measure like “requests.”
+We ran tests against production
+For our testing to create realistic load and give us useful results, we needed to test against our production systems – the real bank.
+To do that, we simulated real customers loading their app. Even if our test environment was an exact replica of our production systems, it wouldn’t have real customer data. And that means it’s not an accurate test: even the number of transactions you have can affect how quickly we can read them from the database.
+To maintain security and privacy while testing, we made sure not to store any customers’ data or interfere with their accounts, and gave the load testing system very restricted access. We set up our load testing system as a third “app” alongside our iOS and Android apps, and we gave it read-only access to the data we needed to test. Since the point of the test was just to create load, as soon as our framework was done with a request, it threw away the data without storing it anywhere. And because it was set up as read-only, it couldn’t make any accidental changes to anyone’s data.
+To account for a range of users in a range of situations, we needed to test against more than one customer. If we made many requests for a single customer, they wouldn’t be spread evenly across our database servers, and they’d impact the servers storing that customer’s data more than the others. We also wanted to avoid caching from interfering with the test: it’s usually a lot quicker to fetch one piece of data a hundred times, than a hundred different pieces of data once each.
+We controlled load testing with a shell script
+We deployed our load testing framework in our Kubernetes cluster alongside the rest of our platform, but on a dedicated pool of 50 EC2 nodes that we started up each day before testing.
+We saved a lot of development time by controlling the load test with a shell script. The shell script used the Kubernetes API to get the IP address of each node, and ran a curl command against each one. This curl command communicated with a simple Go HTTP that we built into our test framework. We could have written a complex system for the nodes to co-ordinate directly with each other to start and stop each test. But the shell script met our needs and was a lot quicker to build.
+We named the shell script Bingo, after one of the dogs in our office who likes destroying cardboard boxes! Since the point of the load test was to find the points where our platform breaks, the name seemed apt 😊
+
+
+
+Bingo taking a nap, after a busy day tearing up cardboard boxes
+We measured the effect on our platform with Grafana
+Load testing wouldn’t be very useful if you couldn’t see both how quickly the load testing is making requests, and how the extra load affected our systems. So we used Grafana and Prometheus to monitor requests made by our load testing nodes, since we already use both of them internally to monitor our banking systems.
+We used our internal metrics library to expose statistics to Prometheus about the requests the load tester was making, and how long each request took to get a response. This let us see both sides: the simulated app making the requests, and the bank systems responding to them. We put together a dedicated dashboard for load testing, so that we could stop the test at the first sign that the increase in load might be affecting payments.
+We used rate limits to precisely control how many app launches we simulated in parallel. This let us slowly ramp up testing, starting with a small amount of extra load and slowly edging up toward our target, fixing problems along the way.
+We used shadow traffic to add a different kind of load
+Load testing is great for inducing lots of load for small periods of time. But we also wanted to test the tweaks and improvements we’d made to our platform over longer periods like days and weeks. So as well as our load testing framework for creating fake load, we also built a system that would duplicate a percentage of real user requests. This is called “shadow traffic” because the duplicate requests are made in the background, right after the real request has been processed.
+We picked idempotent requests (requests which would be repeated without changing any state) and modified our edge servers to repeat these requests in the background (in the shadows). Immediately after the request was fulfilled, our edge handler would repeat traffic up to a number of times. If our platform saw that the shadow traffic was impacting real traffic, we added safeguards that would exponentially back-off, and eventually drop the shadow traffic entirely.
+So we could separate out the extra load in our metrics, we also propagated special headers throughout all the servers involved in handling a request, to let them know it was shadow traffic.
+Our tests convinced us we were ready
+Both load testing and shadow traffic were very useful for preparing our systems for crowdfunding.
+It helped us figure out exactly which systems we needed to scale up to cope with the extra load, and make sure that scaling them up was the only thing that we needed to do. For example, we found that some of our systems didn’t scale as well as we thought they would, and we needed to optimise them before we could scale further. The fake load also helped us focus on the right areas of our code to optimise, and make sure that our optimisations really worked.
+A lot of the improvements that we made will have benefits long past crowdfunding: they’ll help us avoid issues in the future as more and more people start using Monzo, and reduce the number of servers we have to run. It’s much better to spot problems during a controlled test, rather than having an outage when we have a spike in demand in the middle of the night!
+This work helped us fix load-related problems with our bank before they happened for real, and ultimately gave us the confidence that we could run crowdfunding without breaking the bank!
+
+
+stars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

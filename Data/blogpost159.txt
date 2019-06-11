@@ -1,0 +1,80 @@
+Title: Sharing our social media guidelines
+Author: Richard Cook
+Position: Online Community Manager
+Date: 9 Nov 2018
+
+
+In today’s workplace, everyone’s on social media. And that’s no bad thing. Employees can be great ambassadors for their companies and present the human side of a business to the rest of the world. But it comes with risks too, and companies are increasingly taking an interest in their employees’ social media.
+But too often this can feel like an afterthought. Instead of working with employees to keep them safe online, companies can force awkward, overbearing guidelines on their employees. In the worst cases these can breed resentment. Demanding that employees share all company news on their social channels, for example, doesn’t help anyone.
+Why this matters to us
+At Monzo, we’ve been thinking about this topic differently. Like all companies, we have a duty to make sure that employees control the information they post about their work. It goes without saying that as a bank we have higher-than-average standards for information and data security. And at the same time, as an employer, we have a duty to educate our team and keep them safe online.
+After all, we’re living in an era in which the audience of your social posts isn’t just your immediate followers. And where malicious groups can purposefully misconstrue your words to attack you - as we’ve seen happen increasing regularly.
+Sharing our guidelines
+All new Monzonauts now receive training from our Marketing team when they start, in a session called “(Over)sharing at Monzo”. This covers not just the social media guidelines, but external communications in general and our transparent approach. It makes sure that everyone’s on the same page from day one.
+How we decided our guidelines
+To make sure that our guidelines were fair and that everyone agreed on them, we held an internal debate to draw them up. We chatted about things like “views my own” disclaimers, and where to draw the line between what was Monzo’s business and not.
+And a few weeks ago we held an external version of this debate with our community and some expert speakers.
+
+
+
+Read our guidelines below.
+
+Using Personal Social Media at Monzo
+This is a guide to help keep you safe on social media. It’s all common sense, but the bigger we grow, the more important it is to have this written down somewhere.
+This guide covers anything you post from a personal account
+This includes: blogs, microblogs(Twitter), social/professional networks, forums, and image-sharing platforms. Remember: when you post anything online as yourself you’re indirectly representing Monzo. (So your anonymous Harry Potter fan-fiction tumblr is safe.)
+Bear in mind that your online footprint is bigger than you might think. If you share your username across sites, it’s easy to track you across the web. And people on the internet are very good at connecting the dots.
+The Golden Rule: Our Code Of Conduct
+Our Code of Conduct is the ultimate reference for how you should behave during your life at Monzo.
+To recap, that covers:
+
+Acting with integrity
+Acting with due skill, care and diligence when doing your job
+Treating customers as you would want to be treated
+Being open and fully cooperative with our regulators or other official bodies
+Observing the rules and standards of the financial markets that we operate in, and following Monzo’s Market Abuse policy
+
+Obvious stuff. But it could all apply to social media too (especially 1-3).
+Some dos and don’ts
+
+Do think about what you post. (We’re not actively reading any employee posts. But think about what the rest of the company, customers, or regulators would think if they read it.)
+    
+The ‘Daily Mail test’ (imagine your post printed on the front page of a national newspaper) is a good rule of thumb.
+
+
+Do watch this clip about how a single tweet can turn your life upside down.
+Do support transparency, diversity, and inclusion in what you say online.
+
+Do make it clear when you’re sharing your own opinion, as opposed to acting as a spokesperson. Saying “this is just my own personal opinion” will do the trick.
+
+Don’t post anything libellous, pornographic, nasty, or downright evil.
+Don’t share confidential customer information. Even anonymous data.
+Don’t comment on developing Monzo news stories without checking in with Press.
+
+Some less obvious bits
+
+We’re a bank! And a startup! So think about how our spending looks. We have a lot of fun at our social event and parties, but think about how an innocuous photo could be taken out of context.
+It’s tempting to jump into action when you see users having trouble. But we’ve got an excellent team on this full-time. So chat with them if you want to help.
+Giving out financial advice is tricky. This applies to cryptocurrencies too. Be wary of saying anything that could lose people money.
+Avoid publicly discussing details of how our security works unless approved by the Security team.
+
+Regulation
+The FCA guidance on social media and customer communications(FG15/4) talks about how employees use social media(Annex 1, Section 3.2). Here’s what they have to say:
+If an employee of a firm uses their personal social media account to send communications that could be considered an inducement or invitation, then this may constitute a financial promotion and may therefore be subject to the same rules that apply to the firm. In this instance the employee(the communicator) may be acting in the course of business because they have a commercial interest in the communication(i.e. they are trying to obtain more clients/business for their employer). If, however, the employee sends a genuine non-business communication or indeed the conversation involves groups and individuals not acting in the course of business, then this would fall outside our regulation.
+That’s a lot to take in! To put it simply: you’re free to express your own personal views, but those should be clearly separate from those made on behalf of Monzo. You just can’t use personal accounts to get around the usual rules about communications for what are considered ‘financial promotions’.
+As a rule of thumb: think about the purpose and content of the message.
+Probably ok:“@monzoemployee: We just launched in-app savings accounts! I’m so proud of our whole team.”
+Probably not ok:“@monzoemployee: Invest in one of our new savings accounts and get rich!”
+Questions
+What do I need to put in my Twitter, or other social network, bio?
+You can add “@Monzo” if you want, and you should be proud to. But it’s also ok if you don’t want to. It should be clear that you’re an employee if you’re discussing anything related to Monzo. Remember: if your name and face are visible, people will figure it out if they’re determined enough.
+We debated having a “views my own” disclaimer. But it doesn’t really offer protection for you or Monzo. We expect you to just be sensible instead.
+What about retweets?
+Nobody really thinks RTs are endorsements, or half your timeline wouldn’t be constantly RTing Donald Trump.
+However, the FCA guidance (FG15/4, 1.18) says it can consider a retweet a financial promotion “if the customer’s tweet comments on or endorses the benefits of a regulated financial product or service”. So retweets don’t stop the usual communication rules applying.
+Can I talk about our competitors?
+Sure. But do it in a Monzo way. We’d never drag someone else down to big ourselves up.
+So… can I have my own opinions?
+Yes. If you think all sheep should be banned on Wednesdays, go ahead and let the world know. Just use the above guidelines to inform your common sense.
+I have more questions!
+Get in touch with the Marketing team.

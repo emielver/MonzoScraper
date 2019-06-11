@@ -1,0 +1,30 @@
+Title: Making Monzo: Follow along as we build a bank
+Author: Richard Cook
+Position: Online Community Manager
+Date: 7 Nov 2018
+
+
+At Monzo, we’re committed to building a bank that works for everyone. And we’ve done that by building a product for and with our community. By always being transparent about what we’re doing, our community hold us accountable and make sure we’re focussing on the things that matter to them.
+That’s why we’ve always shared what we’re doing as much as possible. From our monthly updates here on the blog to our monthly Open Office events, we want you to always know what’s coming up next, and how you can get involved.
+Our transparent roadmap has played a big part in keeping you in the loop about the important milestones on our journey. And we want to build on that success to make sure you can stay informed as we continue to grow, in new and interesting ways.
+The Big List and Making Monzo
+In May we published our Big List of 14 features that our community told us they wanted us to work on before they would go #FullMonzo. As always, we posted regular updates here on the blog about how we were doing. And we also created a new Twitter account - @MakingMonzo - entirely dedicated to sharing these updates.
+And we were really blown away by the response. @MakingMonzo now has over 10 thousand followers. And the account has gone on to be an important place for us to share work-in-progress updates and ideas that wouldn’t be quite right to share on our main account yet.
+We want to keep this momentum going. And we’re doing that by expanding Making Monzo into other channels. So anywhere you see the ‘Making Monzo’ name you know you’ll be getting regular, meaningful updates on how we’re building a bank.
+Relaunching our roadmap
+To kick things off, we’re retiring our Trello-based roadmap. This has served its purpose over the years, but it’s now time for us to take our roadmap to the next level. That means building and owning our own tool, so we can guarantee a great experience for everyone.
+You can access our new Making Monzo roadmap online here.
+And you can also find it in the app in the Community section of the Help tab.
+
+
+
+On our online roadmap, you can see what’s coming up soon, what’s a little further off, and the things we’ve released recently. In the in-app roadmap, you can also follow things you’re interested in to receive regular updates directly in your feed.
+New ways to get involved
+We want you to be able to follow along with our progress with whatever channels you’re comfortable with. So in addition to the @MakingMonzo Twitter account and online roadmaps, you can also subscribe to the Making Monzo newsletter for regular email updates.
+
+
+
+The newsletter is packed with exclusive content you won’t find anywhere else, such as regular updates from product managers, so don’t miss out!
+And we want to hear your feedback too. What are you excited about? What do you think we should prioritise? The Making Monzo board in our community forum is the discussion hub for everything that’s on our roadmap. Each item on our roadmap links to a forum thread where you’ll find detailed information about what we’re planning. So come and join the conversation.
+
+We hope you’re as excited as we are about the new ways you can follow along with our progress. Whether you’re just interested in checking in every now and again, or hungry for every juicy detail, there’s plenty of ways to get involved.

@@ -1,0 +1,42 @@
+Title: #mondohack IV
+Author: Tristan Thomas
+Position: Community Manager
+Date: 21 Apr 2016
+
+
+Last weekend we hosted the fourth Mondo hackathon, #mondohack, at Makers Academy. More than 50 people came for the weekend and the ideas ranged from the sensible to the wacky. It was great to welcome more non-technical users who contributed design, product management and operations experience, resulting in some projects with an incredibly high level of polish for just 2 days of work.
+Thank you to everyone who came – we love meeting so many people every time and seeing what you build. Let’s take a look at the winning projects:
+Winner
+This hackathon’s winning project was Mondo Alfred built by Ric Burton, now the proud owner of a limited edition ‘#mondohack winner’ hoody.
+
+
+
+Ric created a beautiful integration with Alfred, the productivity app on Mac, which lets you easily and quickly access your Mondo balance and other actions from the Mac desktop. The Mondo team were big fans of the project and it won the audience vote – a well deserved win that reflected the effort Ric put in over the weekend. He’s also hoping to clean up the implementation so he can release it for others to use in the future.
+Runners Up
+Two projects drew for second place in the audience voting with six votes each, Snapdo and Kids Cash.
+
+
+
+Snapdo undeniably took the “hack” part of hackathon to heart with their Frankenstein-esque mash-up of Mondo and Snapchat. By hooking into Snapchat behind the scenes, Alex Forbes-Reed enabled the ability to ‘pay’ a friend based on the length of sent Snapchats, complete with a custom Mondo logo overlay. Congratulations guys for winning the unofficial ‘hackiest hack of the hackathon’ award.
+
+
+
+Kids Cash took a much complained about problem – pocket money – and came up with a clever answer using Mondo. Built by Kenny Grant and Duncan it lets parents view their children’s’ spending and top their card up using a P2P payment. A neat solution making them well-deserved joint runners up.
+More Projects
+There were a wide variety of other projects, ranging from bill splitting to loyalty tracking. We were particularly impressed by two of them: the TfL integration which required screen-scraping a users account and then guesstimating their likely fare, while also working around some of the idiosyncracies of TfL’s fare charging, while the Facebook Bot integration can not only tell you your balance, but also your transaction history in a particular retailer based on your location. Well done to both teams!
+
+
+
+    TfL integration built by Paul Scott, demonstrated in Kings Cross Station
+  
+
+
+
+
+    Facebook Bot integration built by Dan Green, Marc Camara and James Carter.
+  
+
+
+Thank you again to all of the participants. We’d love to see you at a mondohack in the future 😀
+
+We recently updated our name to Monzo! Read more about it here.

@@ -1,0 +1,70 @@
+Title: The Monzo Current Account Preview!
+Author: Team Monzo
+Position: With ❤️ from the whole team
+Date: 17 Jul 2017
+
+
+
+
+
+Back in April, when we received our full UK banking licence we explained that we would be taking the process of rolling out current accounts very slowly to provide the best possible experience for our customers.
+We’ve been using the Monzo current account internally and today we’re ready to invite some of our customers to join us and help put it through its paces.
+This is the very beginning, and we will be taking things slowly. Our aim is to offer a current account to all existing customers by the end of the year. Towards that goal, over the next three months we’d like to rollout between 10,000 and 20,000 current accounts to existing customers. Once we’re happy they’re working as expected, we’ll offer accounts to everyone else as quickly as possible in the months after that. If you’re an investor, please ensure you read the specific investor section further down this page.
+In the spirit of full transparency, we want you to know how many accounts we’ve rolled out so far: you can now visit monzo.com/current-account/live to see our current status! We’ll keep this updated to ensure our community is fully in the loop.
+Please don’t contact customer support to ask them to get you a current account sooner or to ask questions that are already answered here. They won’t be able to bump anyone up the queue and it will just reduce the amount of time we can spend answering other people’s urgent questions. If you have questions not answered in this article, please ask in the dedicated thread on our community forum.
+
+
+
+What’s in the Monzo current account?
+
+
+Sort code and account number, so anybody can send you money and you can receive your salary directly into your Monzo account
+
+Faster Payments, so you can send money to any other UK bank account with a sort code and account number — it will arrive within two hours but most payments only take a few seconds
+
+Direct Debits, so you can pay regular bills like rent, utilities and phone contracts
+
+Standing Orders, so you can set up regular payments out of your account for things like rent payments
+A Mastercard® debit card, so you can spend anywhere that accepts Mastercard around the world, with a direct connection in to Mastercard
+
+FSCS protection, up to a total of £85,000 eligible funds
+
+We’re still working on some parts of the account and so, for now:
+
+
+Monzo to Monzo payments through the Contacts tab do not work.
+
+Topping up your account by debit card, Apple Pay and Android Pay will not be available.
+
+Monzo.me does not work.
+
+Customer support through the in-app chat will initially only be available from 9am–6pm on weekdays when more people are available to help diagnose and fix issues. It will also take us longer to resolve your problems because we’ll need to investigate issues we’ve never seen before. By the time we launch more widely, we aim to have 24/7 support, just like now.
+
+iOS only to begin with (the Android app is approximately a couple of months behind but will catch up before we fully launch).
+The debit card you receive initially with the current account will need to be replaced at some point later this year with an updated version.
+You will download a separate Monzo app for the current account and your existing prepaid card will continue to work like normal. In the future, you’ll be able to use just one app and close your prepaid account.
+
+These are the main limitations currently and we’re working hard to bring all of these features over to the current account as soon as we can. We plan to have everything ready when we launch fully later this year.
+How do I register my interest?
+If you’re really keen to try the current account, you can register your interest below. Remember, this is not the finished product and so only register if you’re happy to use it with the limitations outlined above. If you don’t register now, it’s not a problem; we’ll be in touch later this year to offer you the full current account once we’ve brought over all of the features from the existing prepaid card and made it as amazing as we can. Switching over will then be extremely easy and seamless.
+At this early stage, in order to be eligible for the current account, you’ll need to have been a Monzo customer for at least six months, with the majority of your transactions made in GBP in the UK and be a UK resident.
+What happens if I register my interest?
+From the pool of customers who have registered their interest and are happy to deal with the limitations, we’ll invite people to sign up over the coming months. This selection will generally be random, although at times we may want to pick people based on their location or usage to help us get a broad spread of customers. If you’re a crowdfunding investor or pledged to invest earlier this year, read on below to find out when you’ll get a card.
+Initially, signing up will be at invitation-only in-person events both in London and then elsewhere around the UK. Later this quarter, once we’re confident we can roll out to larger numbers of people, we hope to be able to post your debit card to you.
+Registering your interest does not guarantee you a current account immediately. Depending on how many people register, we may not be able to give you an account for a few months. Rest assured, we want to get them out as quickly as possible but we need to balance that with ensuring our customers have the best possible experience. Please be patient — we would really appreciate it if you didn’t contact customer support about getting it quicker! They will not be able to bump anyone up the queue or provide more information than this blog post. Please ask in the dedicated thread on our community forum if you have questions not answered here.
+
+What if I’m an investor?
+Firstly, thank you! If you invested in the crowdfunding round earlier this year, we promised you priority access to the current account and we will of course be honouring that. You now have two options:
+
+
+Register now — as an investor, we will ensure you are invited to get a current account this quarter in the first group of people. However, your account will still be subject to the limitations outlined above and you won’t get your limited edition Investor debit card (because they’re not quite ready.)
+
+Wait a little — as soon as we’re confident enough to roll out current accounts en-masse and the limited edition Investor debit cards are ready, we’ll make sure you’re in the very first group to receive a card and current account. This will likely be in 3–4 months.
+
+If you pre-registered to invest in the last round but weren’t successful, as promised you will also get early access to the current account. That will mean you are in the first group of people to receive a card and current account once we start rolling out en-masse!
+OK, I’ve read everything and still want to register!
+Great — just hit the button below and fill out the form as accurately as possible! Then we ask for your patience and understanding as we begin the slow rollout of the Monzo Current Account 🎉
+
+Register Interest   (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() 
+
+It’s going to be a very busy and exciting few months for all of us here at Monzo and we can’t wait to get everyone a current account this year. Thank you for all of your support so far!

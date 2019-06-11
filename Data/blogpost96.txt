@@ -1,0 +1,19 @@
+Title: Pay anyone, with just a link
+Author: Sheri Farsani
+Position: Product Marketing Manager
+Date: 4 Feb 2019
+
+
+You can now pay anyone with just a link!
+Setting up a new payee can be a bit of a faff. We like to think we’ve made it quite easy for you to pay friends who are on Monzo, but we wanted to make it simpler to pay those who aren’t.
+So, if you don’t have someone’s bank details, and want a quick and easy way to pay them - you can now just send them a secure, personalised link.
+
+
+
+To send someone a payment with a link, tap Payments in your Monzo app, and then Send money by text or email.
+Once the recipient’s opened the link, they can then enter their details to claim the payment. They can either send it to an existing bank account by entering their sort code and account number, or open themselves a shiny new account with Monzo 😉
+
+
+
+And that’s it! The recipient will have 3 days to claim the money, and it’ll leave your account as soon as they have. If they don’t accept the payment within that time, the link will expire and the money will go back into your account.
+If you have any feedback, ideas or suggestions, we’d love to hear them! 👇

@@ -1,0 +1,68 @@
+Title: Share with us
+Author: Natalie Ledward
+Position: Vulnerable Customer Specialist
+Date: 25 Sep 2018
+
+
+It might sound surprising, but it can sometimes be helpful to tell your bank a bit more about yourself.
+If there’s anything that affects the way you deal with your money or the relationship you have with your bank, it might be worth telling us. We can use that knowledge to support you in a way that suits your needs – whether that’s letting you opt out of lending if you’ve struggled to manage debt in the past, or giving you a different way to verify your identity if you find it tricky to take selfie videos.
+So, we’ve been working with the Money Advice Trust and the University of Bristol’s Personal Finance Research Centre to develop a tool that lets you tell us about your situation from the Help tab in your Monzo app.
+How it works
+To share something with us:
+
+Head to the Help section in your app
+Type ‘Share with us’ into the search bar and you’ll see the option appear
+Tell us about your situation in as much detail as you’d like
+
+We’ll send the information you give us straight to our Vulnerable Customers team.
+
+
+
+This specialist team have plenty of experience helping customers who need extra support. But we know nobody understands the support you need like you do, so we’ll take your lead and listen to what you’d like us to do.
+If it’s appropriate, we’ll reach out to you through in-app chat to tell you the options available. And together we’ll decide how we can support you with your situation.
+If your issue’s ongoing, we can add a note to your account so that you don’t have to explain what’s happening to support staff again and again, every time you get in touch.
+Sharing information with us is only an option – a choice that’s totally in your control. We’ll always ask your permission before we make any changes to your account, and we’ll never share your information outside Monzo.
+If you want us to remove the information you shared for any reason, just let us know.
+Why might I share?
+If you’re in any situation – temporary or permanent – that affects the way you manage your finances, you might want to tell us.
+Something could be affecting your capacity to manage your finances, so you might need someone to help you with your banking. Or you might have accessibility needs and prefer to communicate with us in a certain way. There are lots of different reasons why you might want to share something with your bank. And if you tell us what’s happening and explain how we can help, we’ll use that knowledge to support you in a way that suits your needs.
+Telling us will also help Monzo become a more accessible, responsible product for everyone. We’ll use the feedback, experiences and information you share to design new product features (or change existing ones) to help other people in similar situations.
+How can we help?
+Here are some examples of what you might tell us, and how we can help.
+“I’m a compulsive gambler and I’ve chosen to self-exclude”
+If you’ve chosen to stop gambling, we can help you block gambling spending from your Monzo account.
+You can also let us know what extra support you need. For example, if you’re using cash to gamble, you might want us to reduce the limit on the amount of cash you can withdraw in a day, or point you towards free sources of support and advice.
+“I’m in debt and having difficulty getting out of it”
+If you owe money to Monzo or lenders elsewhere and don’t want to borrow more, we can remove the option to open an overdraft from the Monzo app.
+If you need help better managing your money, we can help you understand how you can use our built-in budgeting tools.
+Or if you’ve borrowed money from Monzo, we can find ways to help you get out of debt and refer you to free and independent sources of advice.
+“My health’s affecting the way I manage my money”
+Whether you’re struggling with your mental health, have a physical injury that stops you from working, or something completely different, changes to your health can have an impact on the way you manage your money.
+If something’s affecting your ability to make decisions, we can turn off your overdraft so you don’t get into debt you can’t manage, or add a bit of friction by removing the option to open an overdraft from your app, so you have to speak to customer support before we lend to you.
+Or if you’re struggling with your mental health while you’re in your overdraft, we can give you some ‘breathing space’ so you have time to focus on your recovery.
+“I have accessibility needs”
+We want everyone to be able to use Monzo to manage their money, so if you have a disability or other accessibility needs, you can choose to let us know.
+For example, if you find it easier to talk over the phone, we’ll give you a call instead of reaching out through in-app chat.
+Anything else!
+These are just a few examples, not an exhaustive list. Every situation or issue is unique to you. If you do choose to tell us, we can work together to decide if and how we can support you.
+Of course, there are a lot of situations where we can’t do anything to help, other than pointing you towards other sources of support and advice. When this happens, we’ll ask if there’s anything we might be able to do in the future to change it, and use your feedback to inform the features we build next.
+So, whether you’ve lost a job, just got married, or experienced anything else that affects the way you use your money, we might be able to help. We’ll try to support you in any way we can.
+Common questions
+Where does my information go, and what do you do with it?
+The information you share with us go straight to our Vulnerable Customers team: a small team who’ve been trained to handle some of our most difficult queries. The team have experience in mental health and addiction support services, accessibility and debt advice.
+They’ll contact you through in-app chat (or by phone or email if you prefer) to explain how we can help and talk you through all the different options.
+The information you share is sent straight to this small team of specialists, and can’t be seen by any other customer support staff.
+If this information is no longer relevant, or you want us to remove it for any reason, please let us know and we’ll erase it from our records.
+Will it affect my ability to get credit, now or in the future?
+No. Anything you tell us is strictly confidential and won’t be shared with credit agencies or any other third parties. And we’ll never use this information in a way that harms you.
+We’ll only use it to help you use Monzo in a way that suits your situation. So, unless you ask us to, we won’t restrict your ability to get credit.
+It’s more likely we will put a bit of friction in place before lending to you if we think what you have told us might affect your ability to manage money.
+Do I have to tell you?
+No, whether or not you tell us anything is completely up to you. And if you do decide to share something, we won’t make any changes to your account unless you ask us to.
+Can I let you know if my circumstances change?
+Of course! You can use Share with us to tell us if your situation changes, or let us know through in-app chat.
+Will you treat me differently?
+Only if you want us to! If you ask us to contact you by phone, block gambling transactions, or make any other changes to your account that will support you, we’ll do everything we can to help.
+Other than that, no! We won’t treat you differently or unfairly based on the information you share.
+
+We hope that by giving you the option to share with us if you want to, we can create a more accessible and responsible bank 🏦

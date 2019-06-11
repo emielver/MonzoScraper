@@ -1,0 +1,86 @@
+Title: Diversity and Inclusion at Monzo
+Author: Maria Campbell
+Position: Head of People
+Date: 9 Mar 2017
+
+
+We’re building a bank for everyone, so we need a team that represents our diverse user base and brings a range of perspectives to the table. Here’s an update on how we’re getting on.
+Why this is important to us
+In our first post on diversity we talked about the business benefits of having a diverse team with a strong sense of belonging.
+We’re fostering a culture that empowers everyone here to call on every facet of their personal identity and past experiences, because it helps us make better decisions - and it’s the right thing to do. Inclusion is critical, otherwise we would just be paying lip-service to the idea of diversity.
+The archetype of a bank is pretty far from a modern tech company, and we’re building something that combines both. Since day one, we’ve been using our differences to work out a fundamentally better way of doing things. It’s ingrained in our culture and we’ve been working hard to amplify this and to ensure that every voice is included.
+We see the benefits of diversity playing out in interesting and varied ways:
+
+Our financial crime team are combining wisdom from years of experience in traditional banks with cutting edge technology, resulting in a fraud rate that is an order of magnitude below the industry average.
+Our lending team have combined deep knowledge of industry credit risk practices with the Monzo approach of real-life user testing with overdraft pricing.
+Many of the ideas we contribute to the Extraordinary Ideas Board come from our personal experiences and those of our friends: immigrants, parents, transgender people, people who’ve run commerce businesses, people who’ve been harassed and people who face mental health issues.
+
+When people feel comfortable sharing their perspectives, diversity can be a competitive advantage; but you can’t have true diversity of perspective without visible diversity. If you’re visibly different from the person sitting next to you, those differences will have played a part in shaping previous interactions and experiences for both of you. As a result, you’ll approach solving problems differently, and together, you’ll make better decisions that don’t give undue privilege to one perspective. Visible diversity is a strong proxy for diversity of perspective.
+The numbers
+We asked the Monzo team to take part in an optional, anonymous survey to gather more information.
+Gender Identity
+We’re slowly paying back our diversity debt.
+
+
+
+Some of our team identify as non-binary; to avoid identifying individuals they’re not included in the gender-binary breakdown above. Here’s where we are right now:
+
+
+
+Our senior team broadly reflects the overall gender balance, with 75% identifying as men. Our board is more balanced, with 63% male. However in technical roles, 83% of people identify as men.
+We can supplement this to give a fuller picture: over the lifetime of our company 57% of people promoted and 67% of leavers have been male. This is using HR data on legal gender, rather than self-reported gender, so we can only give binary gender; we don’t routinely collect HR data on ethnicity so can’t report that for leavers and those promoted.
+Ethnic Background
+Again, we’re beginning to pay off our diversity debt.
+
+
+
+We still have a way to go. While an increasing number of our team work remotely, our office is in London, so this is how are team compares to London’s demographic make-up.
+
+
+
+Age
+From youngest to oldest, our team spans almost four decades in age.
+
+
+
+Education
+While most of the team have one (or more!) degrees, almost a fifth of us are not university-educated.
+
+
+
+Caring responsibilities
+
+
+
+Sexual Orientation
+
+
+
+Nationality
+We have 19 different nationalities in our team, although 61% of the team are British.
+
+
+
+
+On a lot of these metrics, we’re not where we want to be. However we are pleased that we’re moving in the right direction, and we have concrete plans to keep improving.
+What have we done?
+Inclusive job ads: No rockstars or ninjas, no superfluous requirements (like a degree or fixed number of years of experience). We aim to be transparent and realistic to reduce the impact of confidence on whether someone applies to join Monzo. We intentionally use gender-inclusive wording.
+Standardised application review: To squash unconscious bias in our candidate assessments, we’ve stopped using CVs as the main basis of application review. Instead we ask a set of questions on the application form, so that the reviewer’s initial assessment is based on easily compared answers. The CV is a secondary source of information, meaning the hiring manager’s first impression is made before they see the candidate’s name, or where they went to school.
+Hiring for empathy and difference: “Brings a new perspective to the team” is an explicit hiring criterion (along with empathy, willingness to seek and act on feedback, and other Real Skills. By emphasising diversity of thought in the hiring process, we avoid defaulting to homogeneity.
+Equal pay: We operate a fixed salary structure, which means that two people contributing to our company in the same role at the same level receive equal pay and comparable progression opportunities, regardless of their gender, age, what they were paid before, etc. This helps us eliminate ethnicity and gender pay inequality within our company. We are also Living Wage accredited and do not offer unpaid internships.
+Feedback training: Everyone joining the team learns how to elicit useful feedback from their colleagues. This empowers us to be proactive and to turn vague feedback into something actionable.
+Choose your own equipment: All new joiners choose their own set-up, including ergonomic accessories and any assistive technologies they need.
+Visa sponsorship: We secured a visa sponsorship licence so that we can hire people from outside the EU.
+Flexible working: Many of our team regularly work from home, and everyone determines how to balance their working pattern with the demands of their role, which particularly benefits those with caring responsibilities.
+In the survey, we asked everyone to give the three words they’d use to describe the Monzo team:
+
+
+
+Next steps
+Explicit inclusion: In our forthcoming careers page update, we’ll make explicit that our office is wheelchair accessible. We’ll also give more details on the usual format of our interview process, and how to notify us of reasonable adjustments we can make to accommodate your disability.
+Benefits: When we introduce more staff benefits this year, we’ll take extra care to ensure that they are inclusive: childcare vouchers, generous parental & adoption leave, sick leave, and others.
+Commitments: In May 2017 we’ll join the Women in Finance Charter, making a commitment to increase gender diversity in senior management.
+Advertising: We will ensure that every single job opening is publicised among demographics that are underrepresented in our team. We move office later this year and will use our events space to support organisations whose goals align with ours.
+Listening: We’ll continue listening to our team, experts on inclusion, and our community to make sure we keep improving.
+We’d love to hear your thoughts. If you have any feedback, suggestions or questions, please let us know on the community forum, via Twitter or get in touch with me directly by email.
+We held a Periscope Q+A with Maria following up on some of the issues and ideas raised in this blog post. You can watch it back here and find an abridged transcript here.

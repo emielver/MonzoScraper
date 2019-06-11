@@ -1,0 +1,30 @@
+Title: Automate your financial life with Monzo and IFTTT
+Author: Kieran McHugh
+Position: Backend Engineer
+Date: 7 Jun 2018
+
+
+We believe that a truly smart bank should empower people to manage their money in a way that suits them. Today, we’re proud to announce that we’re the first bank to partner with the world’s largest automation platform — IFTTT!
+Ever since Monzo was born over three years ago, we’ve believed that everybody should be able to take advantage of automation to manage their personal finances — even if they don’t know how to code. Earlier this year, we launched Coin Jar, a simple and totally automated way to help you save. Coin Jar is a great example of how automation can help us manage our finances, and with it, our customers have saved over one million pounds.
+Soon after we launched Coin Jar, our community shared lots of their own amazing automation ideas. The problem is, each one of our customers has their own unique approach to managing their money — there’s no one-size-fits-all solution. Since we could never hope to build them all, we paired up with IFTTT. This means you can now connect your Monzo account to over 500 different services including Twitter, Dropbox, Google Drive, and even Philips Hue!
+Say hello to Monzo and IFTTT
+In a nutshell, IFTTT lets you personalise how you manage your money. You can create your own rules, called Applets, to connect your Monzo account to the services you regularly use. For example, say you use the iOS Health app to log your calories. With IFTTT, you could enable our pre-made Applet that means every time you buy anything at Starbucks, you’ll automatically log 200 calories on iOS Health.
+Or, you could create a rule that means every time you visit the gym, you automatically ‘reward’ yourself by withdrawing £5 from your ‘Gym Visits’ savings Pot. We’ve got this as a pre-made Applet too, and you can enable it here!
+
+
+
+Here are some examples of other things you could do…
+
+When I attach a receipt to a transaction, forward the receipt to my expenses provider.
+Every Monday, pay me an allowance of £100 from my Student Loan pot.
+Whenever I ask Google Assistant to “Save £5”, move that amount into my Savings pot.
+Enrol in the 1p Savings challenge by turning on our pre-made Applet.
+Send me a weekly spending digest by email.
+
+Creating a custom Applet is super easy, and you can get going in a few seconds. Or, if you’re struggling for inspiration, you can browse our full collection of pre-made Applets from Monzo staff and the community. You can add them to your account with a single click.
+The logistics
+To get started, you’ll need to create an account on IFTTT and connect your IFTTT account with Monzo. Then, when you add Monzo Applets to your IFTTT account, we’ll send over details of your transactions and attachments in real time. We don’t send over any information unless you authorise IFTTT explicitly — and if you choose to opt back out of the service, we’ll stop sending stuff altogether. When you connect your account to IFTTT, we’ll let you know exactly what we’re sending to them.
+If you ask IFTTT to move money into or out of pots, it’s Monzo that will move this money on your behalf. We’ll sometimes say ‘no’. For example, if you don’t have enough money in your pot. IFTTT can’t send money out of your account. We’ll be rolling out more functionality based on your feedback, carefully considering how to make sure this integration is safe, useful and fun.
+What’s next…
+We’re hoping to add more functionality to our IFTTT integration soon, including letting you take actions based on direct debits, P2P payments, and bank transfers. We’d also like to let you annotate your purchases with notes, freeze and unfreeze your card, and upload attachments automatically.
+We’re asking for your feedback on this forum thread, and if you need any support, there’s a thread for that too. Don’t forget to show off your Applets in our Applet Showcase!

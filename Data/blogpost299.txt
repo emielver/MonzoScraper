@@ -1,0 +1,32 @@
+Title: Introducing Sneak Peeks
+Author: Naji Esiri
+Position: Community Manager
+Date: 9 May 2018
+
+
+We’ve always believed that the best way to build features that are useful and delightful, is by working closely with our users from the beginning. By sharing your ideas and feedback, and helping us understand how you use Monzo, our community has helped define what, when and how we build new features, shaping our product strategy since the very start.
+As more and more people start using Monzo, we want to find new ways for everyone to engage with what we’re doing, and make sure lots of you can get involved.
+A couple of weeks ago we launched Monzo Labs, so that more of you can test new features early, and share your feedback and ideas directly with our product teams.
+And today we’re excited to share something else! Sneak Peeks is a new way for you to stay in the loop with what we’re working on, from within the Monzo app.
+It’s a roadmap that shows you what’s coming up soon, what we’re working on right now, and a recap of what we’ve done recently.
+
+
+
+We’ll also show you which features we’re currently testing in Monzo Labs, so you can access them early and tell us what you think!
+To see Sneak Peeks, just head to the Help tab in your app!
+It’s only available on iOS at the moment, but we’ll be bringing it to Android very soon.
+
+
+
+You might have noticed that we’ve been sharing Sneak Peeks on the forum for a while: early looks at new features we’ve been working on. Your responses to those threads have been an invaluable source of feedback, and help us shape each of these new features. So we can bring these previews and updates to more of you, we’ve found a more permanent home for these updates in the app.
+How it works
+Head to the Help tab in your app and tap Sneak Peeks. There you’ll see features that we’re working on now, ones that are coming soon, and ones we’ve already finished.
+If you tap ‘Send Me Future Sneak Peeks,’ once a month we’ll send you a feed item with new sneak peaks and updates about what else is in the works.
+You can follow along as early designs become fully fledged features. And if you ‘like’ anything on the roadmap (with the hot coral heart)and have opted in to updates, we’ll send you an email when you can access it early through Monzo Labs, or to let you know once the feature’s made it into the app.
+
+
+
+What’s next?
+One of the best things about sharing Sneak Peeks on the forum is the feedback you give us on the early designs. So in the coming months we’ll be looking at new ways that you can share your feedback with us through Sneak Peeks in the app too.
+
+Give it a try and let us know what you think on the community forum! 📣

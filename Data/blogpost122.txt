@@ -1,0 +1,20 @@
+Title: Custom Monzo app icons on Android
+Author: Kavi Dhokia
+Position: Android Engineer
+Date: 21 Dec 2018
+
+
+In July, we brought custom app icons to iOS to let you personalise your Monzo experience. And today we’re excited to announce that you can now do this on Android too!
+
+
+
+The Default and Pride app icons are available to everyone right away. We’ve reserved the Alpha and Beta icons for our early testers. And Investor for folks who’ve joined in with any of our crowdfunding rounds.
+And if you fancy an exclusive Monzonaut icon… well, you’ll need to come and join the team!
+To set your custom app icon:
+
+Head to the Account tab in the app
+Tap “Profile”, and then “Settings”
+Scroll down to Customisation, and tap “Custom app icon”
+Tap the icon you’d like to use
+
+We can’t wait to see some of the colour co-ordinated home screens that you create with custom app icons. Which icon will you pick? And what icons should we add in future? Come and let us know in our community forum.

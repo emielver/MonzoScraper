@@ -1,0 +1,40 @@
+Title: How our community helps us build a better bank
+Author: Naji Esiri
+Position: Community Manager
+Date: 5 Nov 2018
+
+
+At Monzo, our community is at the core of what we do. We wouldn’t be who we are without the engagement, enthusiasm, and feedback that you bring to our online forum, the events we host, and our social media channels. Here’s why it’s so important to us.
+You help us make Monzo better
+Building a digital bank isn’t just about having cool technology. We have to remember to build that technology in a way that meets your real world needs.
+Back in 2015, the earliest Monzo users physically came to our office to pick up their cards. You told us in person what you needed from your bank, and helped us understand what we should build.
+Now, thousands of people all over the country sign up to Monzo every day. And with that scale, we’ve also scaled the ways we learn about and understand our users’ needs. We do user research, and we look at data. But the insight we get from our community is still vital. In a relationship of trust and shared understanding, we benefit from an ongoing cycle of honest and informed discussion that wouldn’t be possible in one-off focus groups.
+When we work together with our community, we make better products. Creating a feedback loop between product developers and our user community ensures that we’re building things people actually want. Our community is also a rich source of new ideas for things we might not have thought of yet.
+Pots, for example, started life as an idea on our community forum for “folders” or “buckets” where you could set aside money. Now it’s one of our most popular features!
+
+
+
+Likewise, Monzo Labs is a way to get early access to new features, and tell us what you think before we bring them to everyone. Each feature we launch in Labs has its own dedicated thread in the community forum, and the feedback you’ve shared there has helped us fine-tune features before we release them to everyone. Before we launched joint accounts, for example, our community suggested lots of improvements, like making switching between accounts super clear and easy.
+You hold us accountable and help us focus on what matters
+The good thing about transparency is that it gives you the information you need to hold us to account. Whether it’s a bug we’ve promised to fix or an update on one of our quarterly goals, we know you’ll chase us up for answers.
+That means the pressure’s on, but in a good way! Our community helps make sure that we’re consistent in our commitment to transparency. At the beginning of summer we published the Big List – fourteen features that had been hotly requested by our community that we committed to building within three months.
+As part of this project we built joint accounts, 3D Secure, a web interface for emergencies, and much more. Your engagement on the forum and on the @MakingMonzo Twitter account helped keep us on our toes.
+
+
+
+You help, support and give each other advice
+The community forum is a great place for our users to come and share thoughts on all things Monzo and beyond. Originally a home for our first few hundred customers to give us feedback on the very first Monzo app, the forum has now become home to thousands of users for conversations about everything from budgeting tips to favourite movies.
+It’s a wonderful resource of information for new customers, from customers about how to get the most from Monzo’s features and use the app in the best way for them. The Coral Crew are especially helpful and active members of our community forum. They’re an amazing example of what great user-to-user support can look like, and help make our forum a welcoming place to be.
+
+
+
+We love connecting our user community across the UK and seeing the diversity of opinions grow. The forum offers us the chance to create an inclusive environment, where people feel that they can speak and be heard, regardless of their background, location, or interests. We’re always working to make this a reality.
+We can learn from and share with other communities
+We learn so much from the communities and groups we host, support, and collaborate with on our events. Building a strong culture of community means we can draw on other community groups – and combine their expertise with our users’ experiences – to get a deeper understanding of real life problems and how we could solve them.
+For example, we want to build on the success of features like gambling block and improve the ways we identify customers who need extra support. So we hosted our first Better Banking Matters event, bringing together industry experts, charities, and community members with first-hand experience to help us better understand how to support our customers in need.
+The panel we hosted on stress during Mental Health Awareness Week helped us gain insights on workplace wellbeing that we’ve incorporated into our own company culture.
+It’s part of our vision for Monzo to become a hub for knowledge-sharing, whether that’s through our blog or hosting world-class events in collaboration with the wider community.
+It’s about building relationships
+An engaged and responsive community is something that will help us evolve in a sustainable way. As our customer base grows, we want to make sure that the diversity of our community is reflected in the products we build, the events we host, and the conversations we’re having.
+Thank you to everyone who has helped us make the Monzo community what it is today! We’re always looking for new ways to connect with you and share what we’re doing, so come say hi on the forum or check out our upcoming events.
+If you’re part of a community group and want to collaborate with us on an event, or if you’d like to help us host a Monzo meetup anywhere in the UK, get in touch!

@@ -1,0 +1,36 @@
+Title: Introducing progression.monzo.com!
+Author: Emma Northcott
+Position: Org Scaling
+Date: 7 Jan 2019
+
+
+A progression framework is a tool that maps people’s competencies (their skills and knowledge) to compensation (how they’re rewarded for them financially).
+They help us make sure we’re taking a consistent approach to the way we evaluate and pay our staff, and help people understand how to progress in their work. A framework isn’t a GPS that tells people exactly what they need to do to progress. But it’s a compass that they can use to guide them through their career at Monzo.
+We’re putting together frameworks for all the disciplines across the company (like visual design or backend engineering). And we’re collecting them on a dedicated website that we’re making public today!
+
+
+      progression.monzo.com
+  
+
+Back in June we shared progression frameworks for engineers across the company. And now we’re laying the foundations so the whole company can follow that example.
+
+
+
+Progression frameworks are useful for staff, managers, and Monzo
+progression.monzo.com is a single place where all our current and future employees can see the skills, knowledge and behaviours that we value here at Monzo.
+Progression frameworks have three purposes:
+They help everyone that works at Monzo understand where they are at the moment, and take ownership of their progression.
+If you know where you sit on a framework, you can set and work towards goals that’ll take you to the next level.
+They also better equip managers to have more productive conversations about progression with the people they manage.
+Discussing progression is easier if what’s expected of you is clear. Managers can use these frameworks to support people to set personal development goals. And it also assures everyone that all managers are using the same tools to assess their performance.
+They help us make sure we’re taking a consistent approach to the way we assess how people are performing, and how we’re paying them.
+Using frameworks and making them transparent means managers can evaluate people’s performance against a common set of criteria.
+And although it’s impossible to be totally scientific (especially when we’ve never hired for a role before or someone has specialist skills that aren’t widely available), having a guide that managers and managees share helps us make things more consistent.
+Progression frameworks are works in progress
+Progression frameworks will always be works in progress, and we’ll update them as each discipline evolves.
+We’ve added a handful of completed frameworks so far, but there are still a few disciplines that don’t have frameworks yet! As the company grows, we’ll establish new disciplines and create the frameworks to match.
+We’re storing all our frameworks in GitHub, and will be training managers that own each framework to access and update them.
+We’re making our progression framework public
+We’re committed to transparency, which means we make things public by default.
+Publishing these frameworks will also mean that people who are interested in working at Monzo will be able to understand our culture and see how we value different skills.
+And we’re always looking to improve, so we’d also love to know what you think and what’s worked for you at your own organisations!

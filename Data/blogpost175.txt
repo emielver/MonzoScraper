@@ -1,0 +1,47 @@
+Title: Making Monzo a better current account
+Author: Jami Welch
+Position: Product Manager
+Date: 16 Oct 2018
+
+
+Earlier this month we shared our company goals for the rest of the year. And one of those was to keep making Monzo the best account to use as your main account.
+That’s why we put together The Big List back in May, and worked through the features you told us were missing from Monzo, that you’d expect from a typical current account. We mainly focussed on taking some of the stress out of paying your bills (like by helping you retry failed payments easily, or displaying tomorrow’s Direct Debits in your app).
+We made a lot of progress, but there’s plenty we can still do!
+So, to build on our work so far, this quarter we’ve created a team that’s entirely dedicated to making Monzo an amazing current account. That team’s split into two smaller squads: one is working on helping you get interest paid on your savings, and the other is focussing on making the Monzo current account even better.
+We’ve used the feedback you’ve given us over the last few months to build a list of smaller things that we’ll address next.
+Here are some of the main points we’re hearing, that we’ll work on over the next few months. We know this doesn’t cover everything, but we hope it’s a good next step!
+
+
+
+You need more flexibility when you’re budgeting and making regular payments
+
+Summary only lets you budget monthly, and doesn’t work well when you’re paid early or late. We want to make sure it can understand when people are paid at different intervals, and handle exceptions better.
+Standing orders and subscriptions only support weekly, monthly, and yearly frequencies. We need to add support for more frequencies (like every two weeks, and every three months).
+
+Summary could be clearer and handle incoming payments better
+
+‘Left to Spend’ and the dial need more explaining, and can often show incorrect conclusions about whether you’re likely to run out of money or not.
+You can’t use incoming bank transfers to credit your spending budgets.
+Transfers to other accounts are treated like spending, even thought it’s just money moving from one account to another.
+Setting ‘Committed Spending’ apart from everything else can be confusing to some people, who expect a single section of spending with budgets.
+
+We need to improve joint accounts by adding a few crucial features
+
+Transfers between personal and joint accounts aren’t easy to find in the app, and don’t appear clearly in your transaction feeds. You also can’t set up repeating transfers yet.
+You can’t move existing joint bills and payments to Monzo through the Current Account Switch Service.
+And you can’t use Pots in your joint account.
+
+Managing payments, payees, and contacts could be smoother
+
+There’s no easy way to tell the difference between multiple accounts that belong to the same person.
+You should be able to add a payee without paying them first.
+The Payments tab has become quite busy, and could use a little more organisation.
+
+We’re also working on international payments, and we’ll share an update with you soon.
+We’re aiming to improve as many as we can before the year is out, and will keep working on anything we don’t manage to finish in 2019.
+You can stay up to date with our progress by following @MakingMonzo on Twitter or signing up to get monthly updates in your inbox.
+
+
+      Get the Making Monzo Email
+  
+

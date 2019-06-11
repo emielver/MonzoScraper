@@ -1,0 +1,17 @@
+Title: Bill Tracker tells you when a regular bill changes
+Author: Tim Radvan
+Position: Backend Engineer
+Date: 14 Jun 2018
+
+
+To help you stay on top of your bills, we’ve launched a new feature: Bill Tracker!
+We’ll keep track of your regular Direct Debits – like phone contracts and utility bills – and let you know if one of them changes.
+So if your energy provider raises their prices, or you rack up a big phone bill while you’re away, you’ll immediately know how much it’s cost you, as soon as the money goes out of your account.
+We’ll also tell you if a Direct Debit decreases, so you’re always aware of what’s going on.
+
+
+
+You can see when regular bills have changed and work out how that might affect your budget, or spot when you’ve been overcharged and take any action you need to.
+This is just one of the many features we’re launching over the coming months that make Monzo better when you use it as your main account. Find out more about how to switch to Monzo!
+
+We hope you find it useful! Let us know what you think on Twitter or join the discussion in the community forum 📣

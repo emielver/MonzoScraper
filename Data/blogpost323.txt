@@ -1,0 +1,45 @@
+Title: Save Spare Change with Coin Jar
+Author: Simon Vans-Colina
+Position: Engineer
+Date: 7 Mar 2018
+
+
+According to the old cliché, a little goes a long way. And we think that’s especially true when you’re saving. By putting small amounts of money aside on a regular basis, over time you’ll see your savings grow.
+To help you do this, we’re excited to say that we’ve made an early experiment available to everyone.
+By creating a pot and calling it “Coin Jar”, you can save small amounts of money automatically, every time you buy something with Monzo.
+How it works
+Whenever you make a purchase that’s over £1, we’ll round up the amount to the nearest pound, and automatically add the difference to your coin jar.
+You’ll see an item in your transaction feed confirming how much money has been moved.
+To make sure round ups don’t bring your balance below zero or take you into your overdraft, we’ll only round up transactions you make when your balance is above £10.
+Create a Coin Jar
+To start rounding up your transactions and saving your spare change, just follow these simple steps:
+
+
+Make sure you’re using the latest version of the Monzo app, and you’ve already upgraded your Monzo account.
+
+
+Head to the Account tab and create a new pot. On Android, you’ll see a “Create Pot” button at the bottom of your screen. On iOS, you just need to swipe left from your card and tap “Create Pot.”
+
+
+Name your new pot “Coin Jar” and hit “Create!”
+
+
+Add some money to start off your savings, and that’s it. You’ll see a message in your feed confirming everything’s set up.
+
+
+If you want, you can also change the name of an existing pot to “Coin Jar,” to start adding spare change to your existing savings.
+
+
+
+An early experiment
+We believe the best way to build a bank that solves your problems and meets your needs is by launching new features early, and making improvements based on your feedback.
+It helps us find out if you think something’s useful, and understand what we can do to make it better.
+Coin Jar is an early experiment, as part of our future plans for Pots. It might be a little rough around the edges, but we’d love to know what you think.
+Our plans for Pots
+We launched Pots at the end of last year, to help you save for specific plans and purposes. Whether you’re dreaming of a summer holiday, or putting money aside for a rainy day, you can create up to ten pots to help you save and organise your money.
+Right now, they’re a useful tool for saving. But we also have some big plans for Pots. You can read all about our ideas here, but we plan to use pots as the basis for exciting new features, like this one!
+Share your feedback
+We’ve launched this feature early so we can find out if you think it’s useful, and learn how we can make it better.
+Whether you love it, hate it, or have ideas about how we can improve, let us know what you think on the community forum.
+We plan to carry out a few more experiments like this in the coming weeks and months, so if you have any ideas for other ways we could help you save, we’d love to hear them!
+

@@ -1,0 +1,24 @@
+Title: Protecting customers from the Ticketmaster breach: Monzo's story
+Author: Natasha Vernier
+Position: Head of Financial Crime
+Date: 28 Jun 2018
+
+
+Last night, Ticketmaster revealed a major data breach in which tens of thousands of people had their card details stolen. We spotted signs of this breach back in early April and proactively replaced the cards of all Monzo customers who could have been affected, so our customers have nothing to worry about.
+In the spirit of transparency, we want to share what happened, and what we did to protect our customers behind the scenes.
+
+On Friday 6th April, around 50 customers got in touch with us to report fraudulent transactions on their accounts and we immediately replaced their cards. This happens every day, as banks are constantly targeted by financial criminals, so this wasn’t immediately unusual. But as always, we did some analysis to try to identify any trends that might help our customers.
+After investigating, our Financial Crime and Security team noticed a pattern: 70% of the customers affected had used their cards with the same online merchant between December of last year and April this year. That merchant was Ticketmaster. This seemed unusual, as overall only 0.8% of all our customers had used Ticketmaster.
+Within four and a half hours, the team rolled out updates to our fraud systems to block future transactions on other customers’ cards that looked suspicious in a similar way. That evening, we reached out to other banks and the US Secret Service (who are responsible for credit card fraud in the US) to let them know what we’d seen and ask if they’d seen anything similar. At the time, they hadn’t.
+Over the following weekend we saw attempted transactions on four of our customers’ cards that our fraud system automatically blocked. Of those four cards, two had previously been used at Ticketmaster. The next week, we saw four more compromised cards. All four had been used at Ticketmaster.
+Given the pattern that was emerging, we decided to reach out to Ticketmaster directly. On Thursday 12th April, members of the Ticketmaster security team visited the Monzo office so we could share the information we’d gathered. They told us they’d investigate internally.
+By the next week, another nine cards had been used fraudulently and all of them had been used to make Ticketmaster transactions. One of those cards had been previously used for an attempted transaction at Ticketmaster, but the expiry date had been typed incorrectly so the transaction had failed. That same (incorrect) expiry date was then used in an attempted fraudulent transaction on the Monday, providing further evidence that Ticketmaster was the source of the breach. We shared this information with both Ticketmaster and the US Secret Service.
+At this point we were confident that there’d been a breach, so we told Mastercard directly and decided to proactively replace every Monzo card that had been used at Ticketmaster.
+Over the course of Thursday 19th April and Friday 20th April, we sent out six thousand replacement cards to customers who had used their Monzo cards at Ticketmaster. We let them know that we were replacing their cards through their Monzo app, but didn’t name Ticketmaster as the reason at the time.
+Throughout this period we were in direct contact with Ticketmaster. On Thursday 19th April, they told us an internal investigation had found no evidence of a breach and that no other banks were reporting similar patterns.
+Last night, Ticketmaster announced they’d been breached because of malware in their customer support product. The malware was removed at the end of last week, and Ticketmaster is warning customers that all cards used on their website up until June 23rd could have been compromised. As a result, we have replaced all Monzo cards potentially affected.
+
+
+
+We’re glad to see that Ticketmaster have shared the information publicly, so their customers can take steps to protect themselves. It’s incredibly important that companies always work together to protect customers, and we’ll always work hard to make sure this is the case.
+Monzo cards that might have been affected have already been replaced or will be replaced today, so Monzo customers have nothing to worry about. We’ll of course continue monitoring for any further breaches at merchants worldwide, to protect our customers from fraud and financial crime. Ticketmaster have published a page specifically about this breach on their website for any customers wanting more information: security.ticketmaster.ie

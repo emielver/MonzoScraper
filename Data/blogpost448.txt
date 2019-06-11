@@ -1,0 +1,18 @@
+Title: View Your PIN: New Update on iOS
+Author: Tristan Thomas
+Position: Product Manager
+Date: 3 Jan 2017
+
+
+What better way to start 2017 than a Monzo update? That’s right; there is no better way! We’ve just released version 1.9.1 to the iOS App Store and you can update your app now. On the update this week:
+View your PIN in-app
+If your phone supports Touch ID (iPhone 5+), you can now check your PIN in the iOS app. If you have sent money to someone through Monzo before or you sign up for an account after this update, you may have this enabled automatically. Then, all you need to do is visit the Card screen and tap PIN:
+
+
+
+If it’s not automatically enabled, you may need to go through some short identity verification procedures with our customer support team. We’ll guide you through the process in-app after you tap on the PIN button and it won’t take more than a minute or two!
+Redesigned Card and Profile screen
+You might have noticed in the screenshot above that we made a few changes to the Card screen. It should now be easier to access features like Freeze and Settings, as well as get to your Profile page more intuitively.
+Other improvements
+We’ve added even more details of the limits your account has (within the Profile screen) and fixed a bunch of bugs, including slowness in the app if you have lots of contacts and some weirdness in the Spending screen.
+That’s it for this update! We’d love to hear what you think as we start work for 2017 on lots more exciting features. Happy New Year 🎉

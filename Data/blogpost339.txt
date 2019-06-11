@@ -1,0 +1,53 @@
+Title: An Update on Overdrafts
+Author: Maria Boghiu
+Position: Product Manager, Lending
+Date: 23 Jan 2018
+
+
+Whether you’ve made an unplanned purchase or just need a few pounds to take you to the end of the month, when used appropriately, overdrafts can be a useful way to help manage your money. But, we know it isn’t always easy to stay in control. Without really realising, you can find yourself incurring charges for going into an unauthorised overdraft, or using more of your authorised overdraft than you intended.
+We want to find a fairer, more transparent way to make overdrafts available to our customers. By offering a clear pricing model, and sending notifications so you’re always in the loop, our goal is to design overdrafts the Monzo way.
+Our progress so far
+Last August, we began our Overdrafts Preview, and since then we’ve been building the behind-the-scenes stuff that makes overdrafts work. That includes full integrations with our credit reference agency, and detailed reporting tools on our end.
+
+
+
+We’ve also been testing out our approach with customers, giving overdraft limits to small numbers of people, and asking them to share their feedback, online and in person. So far we’ve offered overdrafts to around 8,000 people.
+We’ve read through hundreds of comments on the community forum too, and learnt more about what you’re looking for in an overdraft, and what you think about our plans and progress so far. This feedback has been incredibly useful, and has already started to help us improve the experience of using overdrafts.
+Offering overdrafts to more people
+It’s taken a little longer than we hoped, but today we have some exciting news: we’re ready to begin rolling out Monzo overdrafts to a lot more people! Our aim over the next couple of months is to give as many customers as possible the option to use an overdraft.
+You’ll need to be eligible and have already upgraded your Monzo account.
+The overdraft will cost 50p each day that your account is overdrawn. There’s a £20 buffer, so you can use part of the overdraft for free, and charges will only kick in once your account balance is below –£20.
+
+
+
+Who is eligible?
+We’ll only offer overdrafts to people who meet our eligibility criteria, so this doesn’t mean you’ll definitely get one. We determine eligibility based on our own internal data, and information from our credit reference agency, Callcredit.
+At this early stage, we’re being relatively conservative when working out who’s eligible. We always want to lend responsibly, and we’re learning a lot about how we can build the best user experience for overdrafts.
+Rolling out overdrafts gradually and at lower amounts also limits the risk we take on as a company, and means we can find the best way to handle or prevent financial difficulties and fraud.
+As a result, the overdraft we offer you might be small to begin with, or we may not offer you one at all, even if you have a good credit score. We’ll keep reviewing these limits and would like to increase them in the future, in a way that’s fair for everyone.
+Responsible, transparent and fair
+The revenue we make by offering overdrafts will help us build Monzo into a sustainable business. But we only want to make them available to people who will use them appropriately, and to people who are able to repay.
+By communicating clearly and being conservative with our eligibility criteria, we want to make sure that we’re always being responsible, transparent and fair.
+If a customer finds themselves in a situation where they can’t repay, we’ll always take into account their individual circumstances and agree on a suitable arrangement together. If the customer is struggling with their finances or has debts elsewhere, we’ll refer them to free and independent sources of advice.
+If you are ever concerned about your ability to pay off your overdraft, please get in touch with us via in-app chat or email [email protected]
+
+
+
+Overdrafts are totally optional
+You won’t have an overdraft unless you actively switch it on from the Account tab in your app. It’s totally up to you: if you don’t want one, you don’t have to.
+Until you choose to switch on the overdraft, we won’t carry out any credit checks that will affect your credit score. If you do decide to switch on the overdraft, we’ve made sure it’s extra clear in the latest app versions that we are about to carry out a credit check that could affect your score.
+For more context on what a credit score is for, how it’s determined, and what impacts it, read our comprehensive Monzo University guide.
+We’ve also added a new page that explains the Monzo overdraft. Please take a look and let us know if you found it useful ⭐
+We’ve answered some common questions below, but if you have others don’t hesitate to reach out through in-app chat! 🚀
+
+Common Questions
+How do I get an overdraft?
+You don’t need to do anything right now. We’ll be rolling them out over the coming weeks and will let you know if you’re eligible, so just hold tight 🙂 We’ll keep you updated on our progress on the blog and on the forum.
+I don’t want an overdraft!
+Overdrafts are totally optional. You’ll only have one if you actively switch it on in your app.
+If you don’t want an overdraft, you don’t need to do anything. We won’t make any credit checks that affect your credit score, and you can keep using Monzo like you always have: if your account is empty, we’ll reject payments for free.
+The only exceptions are ‘offline’ payments, like those you make to TfL. We aren’t able to reject these, but if your account is empty we’ll tell you about them in advance. This gives you time to add money and avoid charges or any impact on your credit score.
+I don’t agree with the price
+We’ve always been open that this is our initial pricing model for the overdraft. We believe it’s clear, simple and easy to understand. But, it’s likely we’ll improve it over time, based on feedback from our community and data on how customers are using overdrafts.
+
+If you have any other questions, please ask us on Twitter, or share your feedback with us on the forum!

@@ -1,0 +1,31 @@
+Title: Why we made a mistake with customer support (and how we fixed it)
+Author: Luba Chudnovets
+Position: Scaling
+Date: 17 Dec 2018
+
+
+When you reach out to us for help, you should be able to get useful, delightful support within minutes. But recently, we haven’t got it right. As more and more people have started using Monzo in the last few months, we weren’t as prepared as we should have been.
+We always make sure urgent queries get quick responses, and from September through to the start of December this year we responded to 90% of urgent queries within 15 minutes. But in the same period, customers with non-urgent queries were sometimes waiting for days to get a response. We aim to answer our customers quickly, so this falls far below the standard of service we want to give you. And for that we’re really sorry.
+To fix it we’ve been hiring rapidly for months. And we’ve also been collaborating across different disciplines to find better, more effective ways of solving problems (like using data analysis and software development, not just hiring more people).
+Last week we reached a position where our customer support team were able to handle all new questions quickly. But there was still a backlog of almost 7,000 customers waiting for a response. So we called on people across the business to help out. With our support, engineers, designers, lawyers, marketers and more all stopped what they were doing and pitched in to answer customers’ simpler queries, which helped us work through the backlog and cut waiting times down.
+
+
+How we reduced the number of customers waiting for a response
+
+
+
+
+Today, we’re able to respond to all our customers quickly, and we’re doing some work to make sure this doesn’t happen again.
+What went wrong and what we’re doing to fix it
+We didn’t invest enough in accurate forecasting
+To support our customers effectively, we need to make sure the right number of people with the right skills are working at the right times. And to do that, we need to predict how many new people we need to hire to keep up with growing demand. This is known as forecasting.
+Our forecasts take into account things like how quickly our customer base is growing, how often they need our help, and how productive our customer support staff are. It’s especially tricky for us because we offer 24/7 support (which means we have to hire people who are willing to work at certain times) and because banking is complex (so we need specialists in certain areas, like lending or financial crime).
+Our forecasting team wasn’t big or experienced enough to deal with the complexity of the challenge, which meant we weren’t able to accurately predict how many people we needed to hire
+We’re now investing lots of time, effort and money into growing a world-class forecasting team and building tools to support them. We recently hired someone with more than 20 years’ experience to lead our forecasting and scheduling efforts. And next, we’re looking for another workforce planning manager. If you’re interested, apply here!
+Hiring at scale is hard, and we were out of practice
+We hadn’t been hiring people to join our customer support team at scale for a few months. So when we needed to start hiring again, it took us time to get back into the swing of things and make sure we were reaching the right candidates, interviewing as many as we can, and training successful ones effectively.
+When we first re-started hiring in August, we were only able to hire five new people a week. We’ve made some radical improvements to all parts of the process, and as a result are now able to hire and onboard 25 people a week! Since the start of October, we’ve hired 174 new people.
+To make sure we’re finding enough great people, we’ve gone to careers fairs, advertised on Facebook, tapped into other networks like Mumsnet, used a recruiter called Tempo, and offered higher referral bonuses. That increased our average number of applications from 15-20/day to 70-80/day.
+To make interviewing more effective, we set up a small, dedicated team and started holding three assessment centres a week. We’re also hiring a recruiter and hiring lead into our team to make sure we keep hiring empathetic, diverse customer support people.
+
+Thank you for your patience over the last few months. We’re working hard to make sure we can always give you the support you need, when you need it ❤️

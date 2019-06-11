@@ -1,0 +1,39 @@
+Title: Understanding how young people manage their money
+Author: Samantha Davies
+Position: User Research Lead
+Date: 7 Aug 2018
+
+
+We want to make money work for everyone, and that includes teenagers who might be managing their money for the first time. Yesterday we announced that we’ve made Monzo available to 16-17 year olds!
+As we prepared to bring accounts to younger people, we spent some time over the last few months talking to teenagers. We spoke to nine 16-18 year olds - and five of their parents - to try to understand how they think about and manage their money, and what we can do to help!
+Here’s a few things we learnt, and how we’re thinking about using it to make Monzo better for younger people.
+Managing your money for the first time can be daunting because everything is new
+Many of the teenagers we spoke to told us they didn’t feel confident managing their money. They generally looked to their parents for advice first because they trusted them and often put things off altogether.
+One teenager had an account with a legacy bank, but had never used it properly because the card reader needed to access it online confused her and setting up mobile banking was a nightmare. She also wanted to open a savings account, but didn’t know where to start. Because she found it overwhelming and confusing, she just hadn’t started using digital tools to start saving yet. She put cash aside, but recognised it wasn’t the most secure or efficient way of saving.
+One young adult said he’d opened an account with the same bank as the rest of his family so that “in case anything goes wrong, they’ll know how it all works.”. Another told us that he prefered to talk through new things with someone in a branch who could explain things in detail and help make sure he “didn’t mess things up.”.
+Because many of the teenagers we spoke to still looked to their parents for knowledge and advice about their money, we should think about how we communicate with parents as they play a very important role in helping their children choose and open a bank account.
+Opening a new bank account is a good opportunity for teenagers to learn about different banking products: onboarding experiences should clearly walk people through each feature, so they can understand how it works and fits in with their lives.
+A bank account means independence, but there are lots of unknown unknowns
+Young adults talked about the freedom that an account gives them, because it’s often associated with getting their first serious job and earning their own money. But many didn’t know much about the kinds of products and services available to them or terminology associated with banking.
+There’s a lot of information to take in when you’re learning something new for the first time, and it can be difficult to make sense of abstract concepts until you see them in practice. Most of the young adults we spoke to told us that they didn’t find any terms confusing, but couldn’t tell us what things like overdrafts or APRs were.
+And whilst some young adults feel comfortable asking for help about things they don’t know, some told us that branches were ‘intimidating’ because they wouldn’t know what to ask.
+We tend to focus our communications around Monzo features, and emphasise how they compare with other banks. But that won’t mean much to teenagers who don’t have a frame of reference yet. We need to explore different ways to communicate the benefits of Monzo.
+People can use Monzo easily through the app, and our tone of voice is clear and friendly. This experience might be more appealing to younger people who might need more time to digest new information, especially if they don’t feel confident or knowledgeable enough to ask someone in person.
+Parents need help teaching their children how to budget and save
+The parents we talked to told us that it can tricky enough to stay on top of their own spending, let alone giving their children advice on how to budget. They were also concerned about their teens learning to save money for a rainy day and not spending money as soon as it came in.
+Most teens we spoke to had previously saved up for a few months for larger purchases but hadn’t thought about saving long-term. It was something they felt they would do once they started earning a regular salary and were more independent.
+We found parents were worried that their teenagers don’t get regular enough updates about their balance, and one parent we spoke to worried that the monthly statements sent by legacy banks weren’t frequent enough. The young adults we spoke to also complained about the delay between their spending and their balance updating in their accounts, so they don’t always have a true reflection of their available balance.
+When they’re looking to give their teens guidance on how to keep track of their money, parents might find Monzo’s real-time notifications and instant balance updates reassuring, whilst teens might find these helpful in managing their spending.
+Our existing customers tell us how useful Pots are to help them budget and save because they can associate Pots with specific goals and easily move money across to them. Being able to visually separate their money and put it towards specific items might be particularly compelling to young adults in thinking about the long-term.
+Bill splitting can be tricky for teens and cash keeps things simple
+Splitting the bill can be a complicated task anyway, but we found it can be particularly hard for teens. Many of the teenagers we spoke to didn’t have bank cards because their parents gave them cash to spend. Those who did have a card still tend to use cash to pay in groups anyway because it makes it easier to settle up.
+In groups where everyone has a card, it’s rare that someone will have enough money in their account to pay the whole bill and wait for friends to pay them back. Most 18-year olds we spoke to hadn’t done a bank transfer to a friend or family member because of the hassle involved of setting up payees with legacy banks, and generally paid friends back in cash.
+Teenagers need a better bill-splitting experience, especially for large bills and big groups. We should find out how we can make splitting the bill easier for young people using money with friends.
+Peer-to-peer payments are particularly easy with Monzo compared to legacy banks and with features like ‘Nearby friends’, you can pay people without having them in your contacts list. These features might be particularly useful for young adults when they’re out and about with new friends.
+Teens prefer having their money in their accounts than carrying cash because they’re more likely to spend it
+Similarly to a lot of adults, teenagers find carrying cash inconvenient and they told us that having cash to hand meant they were more likely to spend it.
+Most of the teenagers we spoke to had done side jobs and been paid cash for these, which they generally kept in their room. They didn’t feel comfortable with more than £80-£100 of cash and wanted to be able to pay it into a bank.
+As part of our mission to Make Money Work for Everyone, we’re exploring options to help you deposit cash. Stay tuned!
+
+We recently made Monzo available to 16-17 year olds! If you’re a teenager that’s giving Monzo a try, we’d love to hear what you think. Share your thoughts with us on the community forum and we’ll use them to try and give younger people a better start to their financial lives!
+

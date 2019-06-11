@@ -1,0 +1,13 @@
+Title: New Monzo Update: Card Replacement on Android
+Author: Tristan Thomas
+Position: Android Product Manager
+Date: 26 Oct 2016
+
+
+We’ve just released version 1.1.5 of the Android app to the Google Play Store with a small, but incredibly useful feature for that horrible moment when you realise you’ve lost your Monzo card.
+We’re really proud of our Freeze feature, that lets you temporarily freeze your card if it goes missing and stop all payments going through. When you find your card (normally down the back of the sofa), you can instantly defrost it and start using it again immediately. However, unfortunately it sometimes really is lost and we know that waiting on hold to talk to your bank to order a new one is pretty painful…
+
+
+
+So now you can order a new card instantly from within the app! If you order it before 4pm Monday to Friday, it’ll be posted that very same day and often will be sitting in your letterbox the next day for you to activate and get straight back to using Monzo. Your old card will also automatically be deactivated so nobody else can use it.
+This week we’ve also been working hard on version 1.2, which we’re very excited about! Can you guess what it might be? Our transparent product roadmap might give you a clue 😉 We’d love to hear what you want to see next on Android in the community forum.

@@ -1,0 +1,48 @@
+Title: Why API-Driven Banking Matters
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 5 Nov 2015
+
+
+Have you ever used Facebook to log into another website, or given an app access to your Instagram photos? Then you’ve been using something built with an API. Almost everyone feels the impact of APIs in their daily lives without noticing.
+Put simply, APIs let developers build systems that can talk to each other without human intervention. With our second hackathon coming up, I wanted to take a moment to discuss why APIs are fundamentally important for the future of personal finance.
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+Some phenomenal innovations in the last 10 or 15 years have been enabled by APIs:
+
+
+
+The idea of your bank account interacting with other services in an intelligent way seems a long way off—retail banks exist as walled gardens. They aim to sign up customers when they are young and then sell them financial products throughout their lives. Banks often believe that if they offered products from other companies, they’d lose out on profits.
+In contrast, some of the most popular apps for today’s modern services are built by third parties. Twitter receives over 13 billion API calls every day which come from other apps and websites, while nearly half of all social logins to other websites are through Facebook. For end users, it is quick, easy, and secure to connect services together and benefit from this flow of information.
+In the same way, API-driven banking will give customers the freedom to do incredible things with their financial data.
+
+
+Have you ever filled in information on a price-comparison site to see if you’re getting the best deals on insurance, credit cards, or mobile phone contracts? APIs can make this process automatic.
+
+
+Want to take out a loan or mortgage? Lenders should be able to analyse your banking data to present you with pre-approved offers in seconds, at the lowest cost.
+
+
+Got surplus money that could be working harder for you? APIs enable computer systems to move your money between accounts to earn you more interest.
+
+
+Need to provide a paper bank statement to “prove” your identity? Instead, “Connect with Mondo” to prove your identity in a couple of clicks.
+
+
+We saw a few of these early ideas at the first Mondo hackathon – many still at “proof of concept” stage, but exciting nonetheless. Beyond these ideas, APIs enable organic, emergent behaviours that we’ve not yet even considered. People sometimes ask what we expect to be built upon the Mondo API and the honest answer is that we don’t know yet. What we do know is that the combination of open banking data and the power of technology has the potential to transform people’s financial lives.
+What will banking look like in 10 or 20 years? I’m not sure, but I’m incredibly excited to find out.
+
+We recently updated our name to Monzo! Read more about it here.

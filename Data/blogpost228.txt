@@ -1,0 +1,62 @@
+Title: Monzo Monthly Update: August
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 3 Aug 2018
+
+
+This month we made some significant improvements to Pots, and worked towards our goal of making Monzo the best bank for managing your bills. There are exciting things in the works this month too, when we’ll be launching joint accounts and helping you use Monzo, even if you aren’t 18 yet!
+Here’s your regular recap of everything that made it into Monzo last month, and what’s in store for the future!
+Done in July
+We let you save towards goals, schedule payments into Pots, and round up your purchases automatically! 🍯
+We designed Pots to help you set aside and save your money in a way that fits in with your life. And in the past few weeks we’ve added some features to make it even easier to use Pots to manage your money.
+Whether you’re buying a new phone or going on holiday, you can now set and save towards goals!
+You can set goals for existing pots or add them to brand new ones, and we’ll show you the goal for each pot underneath the amount you’ve saved so far. You can even track how you’re doing with a progress bar, and we’ll let you know once you’ve reached it so you can celebrate!
+
+
+
+To help you work towards your goals, you can now set money aside regularly by scheduling payments into Pots!
+You can set an amount, pick when you want your payments to start, when they should repeat, and when they should stop.
+
+
+
+And if your savings need a boost, you can even round up your transactions to the nearest pound and put the money in any pot!
+We’ll show you the spare change we added to your pot alongside the original transaction, so you can see what you bought as well as the amount we rounded up.
+
+
+
+We made it easier to manage your bills 📆
+We’re working to make sure Monzo is the best place to manage all your bills. Last month we added more information to your regular payments, like the amount, the frequency and the date you’ll next be charged. You can also edit scheduled payments so you don’t need to delete them when you want to make a change.
+To manage your regular payments, just head to the Payments tab and look under the Scheduled Payments section.
+We automatically add all your Direct Debits and standing orders here, as well as subscriptions like Netflix and Spotify. These regular payments with appear in your Summary as committed spending, and we’ll predict them based on the amount you were last charged.
+
+
+
+We also show you tomorrow’s Direct Debits in your feed, so you’re always aware of what’s about to come out and can avoid any nasty surprises!
+We gave you an update about receiving international payments 🌏
+When we published The Big List, we committed to giving you the ability to send and receive international payments from your Monzo account.
+In June we partnered with TransferWise and started rolling out the ability to send international payments from the Monzo app, so next on the list is helping you receive international payments.
+We shared how you can make inbound international payments to Monzo already, but explained why they aren’t as reliable as we’d like. We have some early plans to improve it, but sadly we’ll miss our Big List deadline because it’ll be a few months before we’re able to bring them to you.
+To come in August
+Bringing Monzo to younger people 🎉
+Our goal is to make money work for everyone, and we’ve always wanted to give younger people an amazing start to their financial lives.
+We’ll be ready to announce that Monzo accounts are available to 16- and 17-year-olds very soon!
+Making joint accounts available to everyone 👯
+Last month we started testing joint accounts in Monzo Labs, and this month we’ll work to make them available to everyone!
+If you can’t wait, find out how you can help us test them. Otherwise we’ll share an update in the next few weeks!
+Making it even easier to manage your bills 📆
+Following on from the improvements we’ve already made, we’ll also give you the option to retry Direct Debits when they’ve been declined.
+Making it easier to split the bill 🍰
+At the moment you can split the bill by sharing Monzo.me links with your friends. But in the next few weeks we’ll make it even easier, and let you split the bill with people from the app!
+When people pay you back for a particular purchase, we’ll also reflect that in your Summary, so it doesn’t look like you’ve spent more than you have.
+In the first version, Android users won’t be able to start a split themselves, but will be able to receive requests and pay them.
+Working through the rest of The Big List 📝
+We’re on track to add 3D Secure in the next few weeks, and we’re working on the other items that we haven’t ticked off yet.
+We’re looking at letting you categorise Direct Debits, use a PIN lock for extra privacy, and earn interest on your savings. And we’ll share updates with you over the next few weeks about how we’re doing as the deadline for The Big List approaches.
+
+At the start of every month we share updates about our progress, and plans for what’s next 📆 Have your say on how we’re doing in our community. We’d love to hear what you think!
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to get a monthly email from the product teams at Monzo.
+
+
+      Sign Up!
+  
+

@@ -1,0 +1,82 @@
+Title: Big news about small print
+Author: Harry Ashbridge
+Position: Writer
+Date: 22 May 2018
+
+
+Exciting news… we’ve revamped our Cookie and Privacy policies!
+Wait, where are you going?!
+It’s fair to say they’re not the sexiest bits of writing, and traditionally they’re something that people don’t really read. But can you blame them? The table below shows that lengthy, difficult-to-read terms are the norm, even for the newer challenger banks.
+But we’ve made a promise to really carry through our values to everything we do in writing. We outlined why we’re doing that in a post about our tone of voice back in March, but essentially it boils down to two things:
+Firstly, we have a duty to make sure customers can understand everything we say. No jargon, no over-complicated business-speak. That’s a legal requirement, but also just the right thing to do.
+And secondly, if we only write in a friendly, open, inclusive way in some places and not others, why should you believe the nice stuff is anything but a veneer? Our values are only true if we uphold them everywhere.
+So our Terms & Conditions are under 800 words, and readable by an 11 year old. (Dean, our Head of Legal & Compliance, talked about them in March too.)
+And now we’ve followed that same approach with these new policies.
+Word count
+
+
+
+ 
+Terms & Conditions
+Cookie Policy
+Privacy Policy
+
+
+
+
+Monzo
+734
+331
+995
+
+
+Average traditional banks
+20,283
+1,830
+2,058
+
+
+Average challenger banks
+11,471
+1,809
+3,053
+
+
+
+
+Readability
+
+
+
+ 
+Terms & Conditions
+Cookie Policy
+Privacy Policy
+
+
+
+
+Monzo
+77.1
+65.7
+60.5
+
+
+Average traditional banks
+56.48
+55.56
+48.72
+
+
+Average challenger banks
+58.55
+53.15
+48.45
+
+
+
+
+‘Readability’ here is based on the Flesch-Kincaid Reading Ease score. It’s a measure that checks how easy your writing is to understand first time. Basically, it looks at things like how long and complicated your words and sentences are, and the higher the score, the easier your writing is to understand. (For context, lots of William Shakespeare scores in the 40s, a score of 50 is roughly what you’d expect the Financial Times to get, and this blog post scores around 70.)For the comparisons, we looked at the current account terms and conditions, website cookie policies and privacy policies of 5 traditional banks and 4 challenger banks on 3rd May 2018.
+We don’t think there’s an excuse for anything less. People want to know what they’re signing up to, and what we will and won’t do with their data. Explaining that clearly helps them trust that we’re good stewards of their money and their information. And we don’t think that’s achievable in a long, complex document listing 5,000 terms you’ll never read.
+Of course, we also have to make sure we can live up to the promises we make in these documents. It doesn’t matter if our policies are 100 words or 100,000 if the technology and processes behind them aren’t effective. As Dean mentioned in our Ts&Cs post, we design the experience of Monzo to be as clear and intuitive as possible, so there’s less we have to cover in our policies as a result.
+We also know that, although most people don’t want pages and pages to read, some people do want to dig into the detail. So these policies aren’t everything we can possibly tell you. If you want to talk about anything they cover, you can chat to us any time. Similarly, if you think we could do a better job of explaining something, or anything isn’t clear, please tell us. These documents have to work for you, so let us know if they don’t.

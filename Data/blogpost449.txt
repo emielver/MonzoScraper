@@ -1,0 +1,28 @@
+Title: Monzo for Alexa – A Community Hack
+Author: Bailey Kursar
+Position: Marketing at Monzo
+Date: 21 Dec 2016
+
+
+
+
+
+  Sorry, your browser does not support the video tag. Please update.
+  
+
+Way back at the beginning of this year we were already very clear about the kind of bank we wanted to build. In February our CEO Tom wrote an excellent article about how we saw the future, explaining that, “integrating with innovative financial services and technology providers is an obvious step to giving customers control over their money”.
+At that point, our Alpha cards had been available for a couple of months, and we already had over 1,000 Monzonauts. At the same time, we’d also demonstrated our commitment to a marketplace bank by releasing a restful API which people could use to build awesome projects with Monzo. We’d even hosted a few hackathon events, where our community came together to see what they could build over the course of a weekend.
+Fast forward almost a year, and here we are, getting ready to launch our current accounts in 2017. Our API is still awesome (although it’s still under active development, so breaking changes should be expected). People are still building mind-bogglingly great things with Monzo.
+Here’s one of our favourites – Monzo for Amazon Alexa ❤️
+Monzo for Alexa
+Not heard of Amazon’s new virtual assistant? Alexa is the new Siri, and she’d like to think of herself as a more intelligent and plugged-in individual. She can tell you the weather, or look up someone on Wikipedia, or stream you some music – those are the basics. But you can also authenticate third party apps to work with Alexa, so she can be even more helpful. These are called ‘Skills’.
+In September, Monzonaut Rory King finally got his hands on Monzo when we launched our Android app. In the same week, he bought his Amazon Echo device and got access to Alexa. So, of course, there was only one thing to do. He built an Alexa skill for Monzo, so he could ask basic facts about his account without even picking up his phone.
+
+
+
+Want to check out Rory’s code? You can find out more on Github. A shoutout too to Matt Pye, another Monzonaut who has built a Python (Flask) implementation. You can read more about these projects and contribute to the conversation on the Amazon Echo thread on our Community Forum.
+Please bear in mind that the Monzo Alexa skill is not currently listed by Amazon, since our API is still under development. We’re just really keen to show you what’s possible when your bank has an API. If you want to enable Monzo for Alexa, you’ll have to build and maintain it yourself for now!
+Coming in 2017
+This project is just a sneak peek of what’s going to be possible come summer 2017. Once the small matter of getting current accounts out the door has come and gone, our teams will have a lot more time to focus on developing and maintaining our API.
+At that point, there’ll be more room for community-built hack projects as well as larger scale integrations with other exciting companies.
+We’re already starting to think about that new world. If you’re interested in joining our marketplace bank, you can apply to head up our partnerships team, or apply to join our engineering team from our Careers page.

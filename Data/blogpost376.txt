@@ -1,0 +1,19 @@
+Title: Splitting the bill with Monzo and Deliveroo
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 8 Sep 2017
+
+
+Whether you’re going Dutch on a date night dinner, or ordering takeaway for 10, there are plenty of times when you need to divvy up the cost of a meal. But as anyone who’s attempted it will know, collecting money can be a hassle, and often leaves you out of pocket.
+It’s part of the reason we launched Monzo.me, a handy link that allows Monzo users to request money from anyone. And it’s also an issue that our friends at Deliveroo have been thinking about for a while. “’Split the bill’ is probably one of our most requested features, and it’s been on our roadmap since I joined the company over two years ago,” writes Deliveroo designer James in a Medium post describing the project.
+Building a bill-splitting feature from scratch is a big commitment, he explains, requiring a significant amount of technical and design work. There are also a lot of outstanding questions, like whether people would prefer to split the cost evenly or pay per item, or if they’d even use the feature in the first place.
+Instead, to test how a split the bill feature might work, the team has built a simple solution that allows customers to share their Monzo.me link from within the Deliveroo app.
+
+
+
+After placing an order, Deliveroo customers are given the option to split the bill using Monzo. When first using the feature, customers are prompted to save their Monzo.me username, and then can choose to split the bill evenly with as many people as they like. Once Deliveroo has calculated the amount each person owes, a Monzo.me link is generated, with the amount owed and restaurant name already filled in. People can then share their Monzo.me link through WhatsApp, Messenger, or any other option in the Android share sheet.
+For Deliveroo, it’s a simple but effective solution that they’re using to test how a fully-fledged ‘split the bill’ feature would fare. For us, it’s an exciting example of the kinds of clever integrations that might be possible in the future.
+Here at Monzo, we’re building tools that others can connect to. That will solve people’s problems and allow us to achieve our vision of becoming the financial hub for people’s lives.
+As we heard from our Head of Partnerships, Phil, we’re starting to explore how partnering with other companies can help us do this, and the work done by the team at Deliveroo illustrates how collaborating with other companies can help us solve more problems.
+
+Join the forum discussion about our integration with Deliveroo, and connect with us on Twitter for updates on upcoming partnerships.

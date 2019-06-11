@@ -1,0 +1,62 @@
+Title: Switch to Monzo and Help us Test the Current Account Switch Service
+Author: Daniel Cannon
+Position: Senior Software Engineer
+Date: 3 Apr 2018
+
+
+With help from the Current Account Switch Service, we’re excited to say that you’ll soon be able to switch some or all of your payments over to Monzo.
+Our mission is to build an incredible bank account that gives you total visibility and control over your money, and everything it touches.
+Starting today, we’re gradually making it possible for small numbers of people to switch payments from their existing banks over to Monzo.
+So we can be confident that everything’s working as it should, we’re rolling this feature out slowly. If you’re interested in switching some or all of your payments over to Monzo, and want to help us test it out, you can opt in to switch below.
+Once we’re confident everything’s working well, we’ll make the option to switch available to everyone 🚀
+What is the Current Account Switch Service?
+We believe that everyone should be able to make an informed, active choice about the bank they use, rather than staying with the same provider for years and years just because they don’t have time to do the admin.
+The Current Account Switch Service is designed to do exactly that. It’s a service backed by the government which launched in 2013 that makes it simple to switch bank accounts.
+You can switch some or all of your payments between banks that support the service. It only takes a few taps, and eliminates all the admin and anxiety.
+How does it work?
+If you’ve already upgraded your Monzo account, you can choose to switch all or some of your payments over to Monzo by doing a full or partial switch.
+A full switch transfers all of your payments and balance over to Monzo, and closes your account at your other bank. You can choose a switch date that suits you, and they take seven working days to finish.
+A partial switch lets you choose which payments you want to move to Monzo, and which to keep where they are. Not all banks on the service support partial switches, so we’ll let you know in the app if your old bank doesn’t support your request to switch.
+The service is completely free to use and all full switches are covered by the Current Account Switch Guarantee. This means that if anything goes wrong when you switch, you  will be refunded for any interest paid or lost and any fees charged because of the failure.
+
+
+
+Help us test
+If you’re keen to switch some or all of your payments over to Monzo, we’d love you to help us test it out.
+Please let us know if you’re interested by filling in the short form below. All you need to tell us is the email address you use with your Monzo account, and whether you want to switch all or just some of your payments over.
+
+
+      I Want to Switch
+  
+
+Starting today, we’ll slowly make this feature available to a small number of people every day.
+If you tell us you’re interested, we’ll send you an email once you’re able to switch, and explain exactly how to do it.
+
+
+
+We’re looking to test with a reasonable number of people in the next few weeks, before we bring the option to switch to everyone. But if you register to switch now, there’s a chance we won’t include you in these early tests.
+But don’t worry! You’ll be able to switch once we bring the option to everyone, in the next month or two 🙂
+
+
+
+Share your feedback
+We’re rolling out the Current Account Switch Service slowly, so we can test it out with some early users and make sure everything works as we’d like it to.
+If you switch at this early stage, please bear in mind that the experience might not be perfect yet.
+But remember, all full switches are covered by the Current Account Switch Guarantee, so if anything does go wrong, any charges will be refunded so you don’t lose out.
+You can tell us about any issues and share your feedback (good or bad!) in the dedicated discussion on the community forum.
+
+Common questions
+What do I need to switch?
+You’ll need the account number, sort code and bank card for the bank you want to switch away from.
+You should also make sure that personal information (like your current address) is up to date at both banks.
+What if I don’t want to close my old account?
+If you want to switch your payments over to Monzo but keep your old account open, you can choose to do a partial switch. You can move specific standing orders and Direct Debits over without closing your account.
+You can have more than one bank account.
+Am I eligible to switch?
+​Anyone with a UK current account can use the Current Account Switch Service to switch bank accounts. Just make sure that both your existing bank and your new one support it, which you can check in this list.
+What happens if something goes wrong?
+If you have feedback about your experience, please share it with us on the community forum. We’ll use your feedback to improve the experience for everyone.
+If you need help, just start a chat with us in the app.
+All full switches are covered by the Current Account Switch Guarantee. This means that if anything goes wrong, we will refund any interest or charges you have to pay because of problems with the switch.
+I want to switch, but not while you’re testing!
+Once we’re confident that everything’s working as expected, we’ll give everyone the option to switch. We expect this to happen in the next month or two, and will tell everyone when it does! Keep an eye out on the blog, community forum and social media for updates.

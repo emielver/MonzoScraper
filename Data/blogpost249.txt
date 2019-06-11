@@ -1,0 +1,16 @@
+Title: Making recurring payments on Monzo even better
+Author: Jami Welch
+Position: Product Manager
+Date: 4 Jul 2018
+
+
+We want to make Monzo the best bank in the world for managing your Direct Debits, standing orders and other recurring payments. And today, we’re excited to share an update that gives you a better understanding of your regular payments, to help you budget and plan ahead.
+We now show you more details about your regular payments, including the amount, the frequency and the date you’ll next be charged. Just head to the Payments tab in your app and look under the Scheduled Payments section!
+We automatically add all your Direct Debits and standing orders here, as well as subscriptions to merchants like Netflix and Spotify. You can also manually add other card payments that you make regularly (like if you use the new YouTube Music, for example).
+Just find the last payment you made to that merchant and tap to turn on the “Repeating payment” switch.
+
+
+
+All these recurring payments will also appear in your Summary tab as committed spending and we’ll predict them based on the amount you were last charged, so you don’t need to be surprised by that Amazon Prime subscription again!
+Together with features like Bill Tracker, which tells you when a regular bill changes, we hope this will help you get a better understanding of where you money goes each month.
+Let us know what you think, and how we can make it more useful! We’d love to hear what else you’d like to see us add, that will make Monzo the best bank for managing your regular payments. Have your say in the commununity!

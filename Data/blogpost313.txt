@@ -1,0 +1,48 @@
+Title: Overdrafts are coming!
+Author: Maria Boghiu
+Position: Product Manager, Lending
+Date: 9 Apr 2018
+
+
+We’ve been working to design overdrafts that are fair and more transparent. That help you manage your money in a way that’s appropriate and always in your control.
+Back in January we said we’d work to give more people the option to use an overdraft. We haven’t been able to make them available as widely as we’d hoped yet. But today, we’re ready to start offering overdrafts to more of you.
+How can I get one?
+By the end of the week, all Monzo users will be able to see the option to find out more about overdrafts in the Account tab of the app. It’s already available across iOS, and is rolling out to Android this week.
+We’ll explain exactly how overdrafts work, and let you know if you’re eligible to have one:
+
+
+If you’re definitely eligible for an overdraft, you’ll already have received a notification to let you know you have the option.
+
+Some of you are likely to be eligible for an overdraft, but we need a little more information to make sure. If you want to use an overdraft, we’ll ask you to tell us your yearly income. That will help us decide if you’re eligible.
+
+Some of you won’t be eligible for an overdraft right now. That could be for a whole host of reasons, related to your credit score, a previous bankruptcy, or the amount of time you’ve been using Monzo. If you aren’t eligible, we’ll let you know why in the app.
+
+
+
+
+Who’s eligible?
+To make sure we’re lending responsibly, we only offer overdrafts to people who meet our eligibility criteria. And we work out who’s eligible based on our own data, and information from our credit reference agency, Callcredit.
+If you ever find yourself in a situation where you can’t repay, we’ll always take into account your circumstances and agree on an appropriate arrangement together. If you’re struggling with your finances or have other debts, we’ll refer you to free and independent sources of advice.
+If you’re ever concerned about your ability to pay off your overdraft, please get in touch with us via in-app chat or email [email protected]
+
+
+
+How do overdrafts work?
+Overdrafts are a short term way to borrow money from your bank. They can be helpful when you need to make unplanned or emergency purchases, or just in case you need to spend beyond your total balance for a few days before payday.
+The overdraft will cost 50p each day that your account is overdrawn. And the maximum you’ll ever pay each month is £15.50.
+We’ll send you notifications if you have upcoming payments that will take you into your overdraft. And we’ll  let you know when we’re going to charge you. This means you can choose to use your overdraft, or add money to your account from elsewhere.
+We’ve also made an allowance for when delayed transactions take you into your overdraft. If you make an offline transaction (like when you use Transport for London or buy something on a flight), it doesn’t appear in your account straight away. Instead, the money is taken later, when you’ll see it appear in your account.
+When an offline transaction like this goes through and takes you into your overdraft, we’ve added a £20 buffer so you won’t be charged up to -£20.
+
+
+
+
+We’ll soon share a detailed explanation of what using an overdraft on Monzo looks like. If you have any more questions or feedback about overdrafts, please let us know on Twitter or the community forum.
+
+Common Concerns
+I don’t want an overdraft!
+Overdrafts are totally optional. You’ll only have one if you actively switch it on in your app.
+If you don’t want an overdraft, you don’t need to do anything. We won’t make any credit checks that affect your credit score, and you can keep using Monzo like you always have: if your account is empty, we’ll reject payments for free.
+We can’t reject offline payments, but you’ll have until the end of the day to add money to your account so you can avoid charges or any impact on your credit score.
+I don’t agree with the price
+We believe that these charges are clear, simple and easy to understand. But we’ve always been open that this is our initial pricing model for the overdraft. It’s likely we’ll improve it over time, based on feedback from our community and data on how you’re using overdrafts.

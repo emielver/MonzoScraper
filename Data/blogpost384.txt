@@ -1,0 +1,14 @@
+Title: An Apology from Monzo
+Author: Tom Blomfield
+Position: Monzo CEO and cofounder
+Date: 4 Aug 2017
+
+
+About 10 minutes ago, I sent the following email to all Monzo cardholders.
+
+I’m writing to apologise for the recent card outages you’ve experienced over the last week. Our card processor has been experiencing technical issues that they haven’t yet been able to solve and so on several occasions card payments have failed, in the same way they did back in March. These incidents have lasted anywhere from a couple of minutes to over an hour (on Tuesday evening).
+These issues may continue for at least the next few days, so please ensure you carry a backup card with you from another bank. Unfortunately, we don’t know how long it will take our card processor to fix the issues, but we will always keep our status page up to date.
+People across the UK have come to rely on their Monzo cards and if at times you can’t use your card, you lose trust in us. These outages are unacceptable. I want to personally recognise that and apologise on behalf of the whole company.
+There is a glimmer of hope, though. Our in-house Mastercard card processor is now live and current account debit cards have been working well for the last couple of months, unaffected by these issues. We believe it will be a more stable base on which to run the bank.
+We’re increasing the numbers of current accounts every month, with 20,000 available by September across iOS and Android. Our aim is to make the current account available to everyone at some point in October or November.
+Thank you so much for your continued support and patience — I’m sorry for the issues you’ve had to deal with over the past few days. We’re all working as hard as we can to make sure this improves in the future.

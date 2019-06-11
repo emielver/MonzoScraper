@@ -1,0 +1,337 @@
+Title: An update on our gender pay gap, April 2019
+Author: Tara Mansfield
+Position: Head of People
+Date: 15 May 2019
+
+
+The gender pay gap is the difference in earnings between people who identify as men and women, throughout a company and across all roles. It’s a way of understanding inequality at work.
+Although it does still happen, the Equality Act makes it illegal to pay people doing the same job different amounts. The gender pay gap, on the other hand, highlights the kinds of roles men and women hold within an organisation, and the different salaries associated with those roles. It exposes when women across a company are being paid less than men on average, and forces companies to confront why that’s still the case. Often, that’s because women are underrepresented at senior levels and in higher-paid parts of the company.
+Companies that employ more than 250 people are legally required to publish a snapshot of their gender pay gap on the 5th of April each year. Last year we published our figures for the first time, for 2017 and 2018. Today, almost 800 people work at Monzo. So to meet our legal requirements, fulfil our commitment to transparency, and help you hold us accountable, we’re sharing our data for 2019.
+Our gender pay gap on 5th April 2019
+These numbers show a snapshot of Monzo employees’ pay on 5th April 2019. You can see the average hourly rates we paid people who identify as men and women on that date, and the percentage difference between them.
+We’ve also put everyone in the company into four groups (or quartiles) according to how much we pay them. You can also see the percentage of men and women in each pay quartile.
+Our gender pay gap on 5th April 2019
+
+
+
+ 
+Women
+Men
+Pay gap relative to men
+
+
+
+
+Mean hourly rate
+£18.82
+£23.33
+19.33%
+
+
+Median hourly rate
+£13.40
+£16.83
+20.35%
+
+
+Mean bonus
+£1,899.94
+£1,597.46
+-18.94%
+
+
+Median bonus
+£1,000.00
+£1,000.00
+0.00%
+
+
+Percentage getting a bonus
+16.98%
+13.79%
+-23.19%
+
+
+ 
+ 
+ 
+ 
+
+
+Lower quartile
+51.09%
+48.91%
+ 
+
+
+Lower middle quartile
+46.15%
+53.85%
+ 
+
+
+Upper middle quartile
+47.40%
+52.60%
+ 
+
+
+Upper quartile
+26.06%
+73.94%
+ 
+
+
+
+Monzo’s median pay gap is 20%, up 6% from last year
+We’re making progress towards parity in most pay quartiles, but the gap in the highest-paid quartile of the company has grown. These are generally positions held by our executive committee, engineers and people in our data discipline.
+Between 2017-18 our gap narrowed. We grew massively and also started to hire for people in more senior positions, many of which were taken up by women. We also promoted a lot of women internally.
+But between 2018-19, our gender pay gap has increased overall. That’s because we hired for a number of senior roles, many of which were taken up by men. 70% of the people we hired into the top pay quartile this year were men, and only four of the 20 highest-paid people at in the company are women.
+These fluctuations ultimately show that we don’t yet have an effective system that lets us consistently and permanently reduce the disparity between men’s and women’s pay across the company, and especially in senior and higher-paid roles.
+Our gender pay gaps over the last three years, for comparison
+2019
+
+
+
+ 
+Women
+Men
+Pay gap relative to men
+
+
+
+
+Mean hourly rate
+£18.82
+£23.33
+19.33%
+
+
+Median hourly rate
+£13.40
+£16.83
+20.35%
+
+
+Mean bonus
+£1,899.94
+£1,597.46
+-18.94%
+
+
+Median bonus
+£1,000.00
+£1,000.00
+0.00%
+
+
+Percentage getting a bonus
+16.98%
+13.79%
+-23.19%
+
+
+ 
+ 
+ 
+ 
+
+
+Lower quartile
+51.09%
+48.91%
+ 
+
+
+Lower middle quartile
+46.15%
+53.85%
+ 
+
+
+Upper middle quartile
+47.40%
+52.60%
+ 
+
+
+Upper quartile
+26.06%
+73.94%
+ 
+
+
+
+2018
+
+
+
+ 
+Women
+Men
+Gap relative to men
+
+
+
+
+Mean hourly rate
+£19.98
+£23.25
+18.34%
+
+
+Median hourly rate
+£13.89
+£16.17
+14.07%
+
+
+Mean bonus
+£587.92
+£700.81
+16.11%
+
+
+Median bonus
+£2,050.00
+£1,830.00
+-12.02%
+
+
+Proportion getting a bonus
+22.64%
+24.49%
+7.55%
+
+
+ 
+ 
+ 
+ 
+
+
+Upper quartile
+20.00%
+80.00%
+ 
+
+
+Upper middle quartile
+38.16%
+61.48%
+ 
+
+
+Lower middle quartile
+32.89%
+67.11%
+ 
+
+
+Lower quartile
+49.33%
+50.67%
+ 
+
+
+
+2017
+
+
+
+ 
+Women
+Men
+Gap relative to men
+
+
+
+
+Mean hourly rate
+£19.16
+£25.99
+26.27%
+
+
+Median hourly rate
+£13.42
+£25.63
+47.66%
+
+
+Mean bonus
+£5,000.00
+£8,166.67
+38.78%
+
+
+Median bonus
+£5,000.00
+£9,500.00
+47.37%
+
+
+Proportion getting a bonus
+3.85%
+4.62%
+16.67%
+
+
+ 
+ 
+ 
+ 
+
+
+Upper quartile
+18.18%
+81.82%
+ 
+
+
+Upper middle quartile
+13.04%
+86.96%
+ 
+
+
+Lower middle quartile
+47.83%
+52.17%
+ 
+
+
+Lower quartile
+36.36%
+68.18%
+ 
+
+
+
+
+
+
+What we’re doing to decrease our gender pay gap
+To decrease our gender pay gap, we need to do two things:
+
+Make sure Monzo is a place where talented people who identify as women can stay and progress
+Attract senior, highly-skilled women to work at Monzo, and create an environment where they’re included and supported
+
+In short, we should give women an equal chance to take on highly-paid, senior, or highly-skilled roles, whether that’s by promoting people internally or hiring from outside the business.
+To do this, we need to understand:
+How we can make sure we’re supporting women to succeed
+Lots of senior leaders in the company today have progressed into their current roles over the last four years. How do we codify this process so it’s repeatable? How can we support more women to progress into senior roles?
+How we can better support carers, so they see a job at Monzo as one that fits in with their caring responsibilities
+We’ve had offers rejected by brilliant women, who told us they felt working here wouldn’t let them fulfil their commitments to their families. We need to work out what how to change that, so working at Monzo is compatible with family life.
+Why women might not want to join Monzo
+There are people who may not have applied for jobs at Monzo in the first place, because there are things about the company that make them not want to join.
+We need to understand why talented, qualified people are choosing not to apply to work here, and address those reasons one by one.
+Over the next few months we’re going to:
+Get better data about what’s not working
+In the same way we do user research about our customers, we’ll work to understand more about our employees too. We’ll collect qualitative and quantitative data around how we’re recognising and rewarding people’s achievements, helping them learn and develop, and how our culture feels day-to-day, to understand where we’re falling short. We’ll find out what the biggest barriers to entry and progression are for people in different disciplines. We’ll work out what support people need to feel like working at Monzo and caring for family are compatible. And we’ll start recording why people reject job offers from us. We’ll act to address the issues we find.
+Offer anti-bias training to everyone
+Everyone has biases. Being aware of them means we can be conscious of them and hold ourselves to account.
+Improve the learning and development opportunities we offer people who work at Monzo
+We’re committed to making Monzo a place where people are encouraged and supported to progress. We’ll keep offering everyone who works at Monzo £1,000 a year to spend on training and give people support to make sure they take advantage of it.
+
+We’ve got a way to go to improve our gender pay gap. But we’ll keep working to decrease it and share updates with you. If you have any feedback, please share it with us in the community.

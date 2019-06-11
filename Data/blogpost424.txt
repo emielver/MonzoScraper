@@ -1,0 +1,55 @@
+Title: Transparent By Default
+Author: Jonas Huckestein
+Position: CTO & Co-Founder
+Date: 10 Mar 2017
+
+
+
+
+
+We don’t list corporate values on our website and we’ve never had a brand consultancy conduct a workshop to help define our “brand values”. Yet last week, when we asked the Monzo team “what three words would you use to describe Monzo’s values?” as part of a survey for our blog post on diversity, the most frequently cited word (by far) was transparent.
+This didn’t happen accidentally. Earlier this week, we launched our Transparency Dashboard, showcasing all the ways in which we try to openly and honestly communicate with our community — people outside the company. This inherently stems from a commitment on our part to be transparent internally too — with everyone within the company. Today, I wanted to outline some ways in which we do that and ask for your ideas and feedback.
+Why do we do internal transparency?
+At Monzo, we aim to “default to transparency.” That means we put in place policies and practices that bring information out into the open wherever possible. Over time, transparency becomes the norm, and we create a “burden of secrecy”: an argument must be made to keep something secret, rather than to make it open — a very different approach to most organisations. Some examples of information that is not shared are customer details, employee’s personal circumstances and other similarly sensitive information, as well as anything which might cause us to breach regulatory or contractual obligations. This attitude of defaulting to transparency has a number of advantages:
+
+
+Transparency builds trust: This is important both internally and externally. A 2016 EY study showed that a lack of transparency is often a key reason for lack of trust in the workplace. This in turn leads to unhappy, unproductive teams and poor employee retention.Externally, transparency also builds our customers’ trust. We need this trust if we want to ask people to deposit their money with us — a key part of our aim of building a safe, reliable and trustworthy bank. Being internally transparent forces our external transparency to also be genuine.
+
+
+Transparency helps teams make decisions independently: We believe the key to a successful business is to hire people that are smarter than you and then let them get on with their jobs. We expect our teams to make decisions independently that help them to achieve their goals, while being aware of the overall goals and direction for the company and following relevant policies and procedures. This is only possible if we supply all the information required to make such decisions.
+
+
+Transparency helps remote workers keep up to speed: While most of our team work on-site in London, we do have 10 fully remote workers and more join every month. Sharing meeting notes, team updates, and documents by default helps them stay up to speed with what is happening in the office and ensures they don’t miss out.
+
+
+Transparency helps onboard new teammates: Together with formalised joining processes, new joiners find the ability to read through old documents, meeting notes, and conversations invaluable to help get up to speed and get an instant feel for how we work.
+
+
+Transparency helps personal development: Transparency helps personal development. We’ve brought together people from a wide variety of backgrounds, including some who haven’t worked in banks before. By sharing everything internally, people can get an unfiltered view of what building an innovative and trustworthy company involves — both the good and the bad! I hope that this gives them valuable experience and context for the future when they eventually move on to work somewhere new, start their own business, or otherwise follow their ambitions.
+
+
+How do we do internal transparency?
+
+
+Meetings: Meetings are open for all to join – even if just to listen in – and everyone can view anybody else’s diary to see what’s going on.Every Wednesday we have an all-hands meeting where the whole company comes together. This meeting is organised by a different person each week (who will generally put their own humorous spin on it.) Anyone can put something on the agenda and make a presentation without prior approval or consent. Most Wednesdays our CEO Tom gives a candid update and answers questions from the team. It’s important he answers any and all questions truthfully – even when things aren’t going well. We treat everyone in the company like adults and, as such, we share occasional bad news as well as the good. There are no off-limits questions in these sessions, but in some rare cases we’ll specifically ask people not to share the information outside Monzo — for example with details around fundraising.
+
+
+Team updates: Each team at Monzo sends a weekly update email to the whole company containing what they worked on, what decisions they made, and any issues they are currently facing. The updates also contain increasingly competitive value-adds such as a commentary on the macro-economic climate or tips for which art exhibitions to visit on the weekend!
+
+
+Email transparency: By default, every email that is sent can be read by anyone in the company. This prevents information from being siloed up in any individual inbox and, perhaps more importantly, builds more trust among the team. If everyone can see others’ hastily written apologies for missed meetings, forgotten attachments, and typos in important emails, they’re able to be honest with themselves and others and don’t feel the need to present a sanitised, ‘perfect’ version of themselves to their colleagues (this is sometimes referred to as a ‘chilling-effect’ in the context of social networking).We shamelessly stole this idea from our friends at Stripe, who have written two excellent blog posts about how email transparency works technically. Emails that meet one of a small number of exclusion criteria, such as those directly related to salaries or somebody’s personal circumstances are not visible to everyone. But the default is to share.For internal communication we use Slack. While it is possible to have private conversations there, we encourage everyone to use publicly accessible channels as much as possible, which means the archives are fully searchable by everyone in the team.
+
+
+Document transparency: Similarly to email transparency, documents that are used within the company are all stored in a shared drive that is accessible to everyone. Just like with emails, some documents are excluded from this, but the default is for all documents to be openly accessible.
+
+
+Corporate governance: We aim to follow the relevant parts of the UK Corporate Governance Code and have a fair few “governance meetings”, like the monthly meeting of the Board of Directors and the weekly meeting of the Executive Committee. We share the discussions and decisions we make in those meetings internally, and encourage everyone to question the decisions we make there.
+
+
+What’s next?
+While I am incredibly proud of our efforts so far, at only two years old and 76 team members, we are only at the beginning of our journey. As we grow, we may find some of the things we do now simply don’t scale and we will certainly come up with new ideas too.
+I’ll make sure to report back in the future about how things are going. In the meantime, we would love to hear what has and hasn’t worked for you in the past? In particular, I am curious to hear about cases where sharing too much information has led to serious issues and from people who have worked in a radically transparent company.
+There’s no guarantee that this is the best way to run a company — it’s just what we believe to be a good fit for Monzo! There are many, many examples of secretive companies that have been phenomenally successful and so this is just one way.
+Let us know your thoughts in the forum, on Twitter or directly to me by email or Twitter.
+
+Special thanks to Tristan for, as ever, making the final version of this post a lot easier to read and more insightful than my original draft.

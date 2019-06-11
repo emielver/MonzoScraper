@@ -1,0 +1,24 @@
+Title: Upgrading Explained: Are overdrafts optional?
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 7 Feb 2018
+
+
+We’ll soon be bringing the Monzo Beta to an end, meaning prepaid Monzo cards will stop working on 4th April. To keep using Monzo, you’ll have to upgrade your account.
+You can see a simple summary of the benefits of upgrading in this table, and in the meantime we’ve answered one more of your common questions: are overdrafts optional?
+The short answer
+Overdrafts are 100% optional. If you upgrade your Monzo account, you won’t have one by default.
+
+
+
+The long answer
+If you don’t want an overdraft, you don’t need to do anything. We don’t give you one automatically, which means upgrading won’t affect your credit score.
+If your account is empty and you don’t have an overdraft, we’ll keep rejecting payments for free, just like we do now. The only exceptions are ‘offline’ payments, like those you make to Transport for London (TfL). We can’t reject these, but we’ll let you know if they take your balance below zero. You’ll have until midnight to add money to your account, so you can avoid charges or any impact on your credit score.
+If you do want to use an overdraft, you’ll need to actively switch it on in the app. You’ll only have the option to do this if you’re eligible for an overdraft, and have already upgraded your Monzo account.
+
+
+
+We’re in the process of giving more of our customers the option to use an overdraft if they want. If you’re interested, you can find out more about Monzo overdrafts on this dedicated page.
+And you can learn more about how we work out who’s eligible by reading this blog post.
+
+Please let us know if you found this useful, and if you have any other questions you’d like us to answer! You can tell us on Twitter or join the discussion in the community 😃

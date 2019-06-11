@@ -1,0 +1,26 @@
+Title: New iOS Update: Upload Profile Pictures!
+Author: Tristan Thomas
+Position: Product Manager
+Date: 5 Apr 2017
+
+
+It’s been awhile since our last iOS app update, so today’s update includes even more new features and improvements than normal! Download it now from the App Store.
+Profile pictures
+You can now upload your profile picture to Monzo, so friends can instantly see who they’re paying. Your picture will be shown in their Contacts tab, as well as on your Monzo.me page, and you can choose to import your existing photo from Facebook or take a new one right there with the camera.
+
+
+
+Updated Pulse graph
+We’ve overhauled the Pulse graph (the one at the top of your feed) so you can now see your spending on each day in the past and you don’t need to scroll so much to see recent months. It also now always displays at the top of your feed so you can instantly see how you’re doing.
+
+
+
+Pro tip: if you top up your Monzo account with your month’s budget at the beginning of every month, the Pulse can show you when you’ll run out of money and help ensure you stay on track with your budgeting.
+Improved Help tab
+The Help tab on the bottom right is now much more useful, showing you answers to frequently asked questions without needing to chat with our customer support team. We’re always happy to chat if you’d like to though!
+
+
+
+Other improvements
+There’s a bunch of other improvements in this update too! Request PIN via SMS is now on iOS, logging in if you have lots of transactions is now infinitely faster, the app in general should feel much faster, you can now change your home address from the app and transactions now show Google Maps instead of Apple Maps. We’ve also removed pull to refresh (because your app should always be up to date) and fixed countless annoying bugs.
+And that’s it! A huge release that we hope you love. Please let us know what you think and any reviews in the App Store go a long way to making us feel happy 😄

@@ -1,0 +1,35 @@
+Title: We've added some new categories
+Author: Hugo Cornejo
+Position: Head of Design
+Date: 9 May 2018
+
+
+We’ve recently made some changes to the way we categorise your spending!
+To cover different kinds of purchases, we’ve added two new categories: ‘Family’ and ‘Personal Care.’ And we’ve also renamed ‘Cash’ to ‘Finances,’ so you can see your savings, transfers and investments in one place.
+
+
+
+Categories help you organise your spending. They let you set targets and track your spending in different areas, because you can’t control what you can’t measure. And they also help you find old transactions faster, like restaurants you liked or expenses you need to claim.
+We used to divide your spending into 10 categories: Shopping, Entertainment, Eating Out, Groceries, Bills, Transport, Holidays, Expenses, Cash, and General for everything else. We’ve had the same categories since Monzo first started. But there are some important reasons why we needed to update them.
+Making Monzo work for everyone
+Designing a category system that works for everyone is difficult, because the way we use our money is as different as we are.
+But a lot of you told us that the current categories weren’t working for you.
+Personal Care
+Whether you’re getting a haircut or paying for your monthly gym membership, you’d see any spending around health and beauty go into the ‘General’ category. Because you make these kinds of purchases regularly, we know you’d like a better way to keep track. So we’ve added a category called ‘Personal Care.’
+Family
+We also heard from people with families, who were finding it hard to organise the spending they do for their family, like buying back to school stuff for their kids, or paying for their parents’ care. To make sure all these purchases have a place, we’ve also added a category called ‘Family.’’
+What about custom categories?
+Because creating categories that work for everyone is tricky, letting each user define their own categories might seem like a good solution. And we know it’s one that many of you have asked us to implement. Right now, we believe a fixed set of categories – along with the ability to tag transactions – makes for a more powerful and easy-to-manage model.
+The word “custom” is appealing because it suggests we’re giving users power and control. But it can also add a lot of complexity, and make Monzo harder to use. We know some of you would love to control everything yourselves. But we also have to make sure Monzo stays easy to use for everyone.
+So, to try and give that added layer of control, while making sure Monzo stays simple and easy to use, we recently added the ability to tag your transactions. This means everyone has the option to organise their spending like they want, without adding too much complexity to the app, or asking people to do extra admin when they don’t want to.
+If you’d like to know more, head to the community forum where I’ve shared a more detailed explanation of our thinking around custom categories.
+I want other categories!
+We’ll continue to improve and update these categories based on your feedback and the way you use Monzo.
+It’s likely that we’ll change or add categories in the future. We might even find an effective way to introduce custom categories. But we want to take that process slowly. Although new categories can be useful, every category we add makes Monzo a little more complex, and a little harder to use. We have to think about that trade-off whenever we amend categories.
+What’s next?
+In the coming months, we’ll also be adding the ability to switch on ‘Expenses’ or ‘Holidays’ and automatically organise all of your spending under each of those categories. So when you’re away (for business or pleasure) you can make sure your spending is sorted into the right place.
+
+
+
+
+We hope you find the new categories useful! If you’re missing a particular category, you can try using tags instead. If you don’t find that works for you, please let us know about your experience on the community forum.

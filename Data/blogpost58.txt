@@ -1,0 +1,17 @@
+Title: We're pausing our plans to let you pay in cheques with a picture
+Author: James Berry
+Position: Payment Scheme Manager
+Date: 22 Mar 2019
+
+
+Last year we announced our plans to join the Image Clearing System, which would let you pay in cheques by taking a picture. In January we shared an update with our community about having to delay joining the Image Clearing System because we were focussing on other things, and there only being a few ‘go-live’ dates throughout the year. Since then we’ve started work on a number of really exciting projects that need our focus right now like Business Banking.
+Unfortunately that means we’ve chosen to pause work on joining the Image Clearing System for now. And we can’t say when we’ll pick it back up.
+There are a few things we take into account when prioritising what we work on (you won’t be surprised to find it’s mainly focused around you 🙂). The questions we ask ourselves include:
+
+How many of our customers will benefit from this?
+Will it let our customers do something new?
+Are we working on the right thing to have the biggest impact right now?
+
+Thinking about the first question, for example, less than 0.1% of our customers have ever deposited a cheque! So there’s a good chance that, if we spend our time and effort on something else, we could build something that helps more of you.
+We’re still disappointed that we’re not going to deliver something we said that we would. But even though we’re not joining the Image Clearing System directly, you’ll still benefit from the quicker cheque clearing times that’ll come into effect soon. From Q3 2019, instead of waiting 5-6 days for us to credit your account, we’ll be able to do it within 2 working days.
+And this isn’t to say that we’re going to discount working on this entirely! As with most things at Monzo, we’ll revisit it at a later date, armed with a bit more data and re-assess the impact this will have against any other projects we’ve got coming up.

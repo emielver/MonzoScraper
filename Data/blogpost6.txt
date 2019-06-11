@@ -1,0 +1,52 @@
+Title: Why everyone at Monzo does research
+Author: Samantha Davies
+Position: User Research Lead
+Date: 30 May 2019
+
+
+We’re growing the user research practice at Monzo so every product team has support from a researcher. But we’re growing so fast that it’s a challenge to hire and onboard new joiners quick enough. Instead of pausing projects while we wait for new researchers, everyone working on the Monzo app is encouraged to do their own research if they don’t have a dedicated user researcher.
+This might sound like blasphemy to other researchers. So we wanted to explain the reasoning behind it.
+The main argument against everyone doing research is that people who aren’t trained in it won’t do it right. They might ask the wrong questions, ask leading questions (ones that encourage someone to answer in a certain way), make assumptions based on biases, involve the wrong people in the research or draw incorrect conclusions from a flawed set of data.
+Alternative research practices and what’s wrong with them
+In a fast-moving tech company like Monzo, this practice leads to a better set of overall outcomes for customers and the business than the alternatives.
+The other options are:
+1. Research is centralised and exclusively run by a small group of specialists
+Although this scenario produces the highest quality research, what usually happens is that research is seen as a checkbox exercise rather than an essential part of the process.
+Research becomes a blocker rather than an enabler, and ends up being skipped under the pretext of lack of time or involved late in the process. That can lead to bulldozing at best or shipping a feature with a terrible user experience at worst. If research is mandated, it becomes a bottleneck and slows down shipping, which can lead to a company losing its competitive advantage.
+2. Research doesn’t happen at all and decisions are made based on instinct
+In this scenario, decisions are generally left to the HiPPO (highest paid person’s opinion) in the room. User research is often misunderstood and the myth that “Steve Jobs didn’t do research” has inspired lots of product managers to build things based on their instinct alone.
+The success of a solution is dependent on certain factors – how it solves a problem, how it’s presented to people and how it fits with their lives. When you do no research at all, you assume that everyone’s needs, problems and lives are the same as yours. Even if you build quickly and test to iterate fast, you still run the risk of missing the mark entirely with the direction you’re shooting in the first place. The higher the risk to the customer and the business, and the more complex the problem you’re trying to solve, the more research you should do to understand the underlying needs, problems, context to gauge whether your solution will work.
+3. Research happens haphazardly by people with varying levels of training in disconnected pockets – nobody owns it
+In this scenario, new knowledge lights up like a candle somewhere in the company. Once someone leaves, that light leaves with them. Insight dies and research is often repeated by teams and people who don’t know what’s been done in the past. The quality of the research is extremely varied because no one specialises in it, or has the time to do it properly.
+When everyone is involved in research, everyone is closer to the customer
+The problem of “what if they do it wrong?” is an easier problem for Monzo to solve because of our lean, experimental approach to product development. We seek feedback from our customers as soon as we release a new feature – and often before we’ve released anything – and iterate changes quickly. Most importantly, we’re not afraid to scrap features that don’t work.
+Teams at Monzo who do research, tend to:
+
+Empathise better with people’s problems and get excited about them
+Create new conversations about what they have heard or seen
+Focus on the problems we’re solving rather getting attached to a solution
+Move with more direction and alignment
+
+We train everyone working on the app with the basics
+We run two hour training workshops for anyone working on the app e.g. product designers, product managers, writers, marketers, engineers. The workshop touches on cognitive psychology and its relevance to user research, the difference between research questions and interview questions, and finishes with an overview of the research toolkit, plus a game of “good question/bad question”.
+The purpose of the workshop isn’t to transform non-researchers into user researchers. The workshop has three main objectives:
+
+To help non-researchers understand the common thinking patterns and why they matter
+Understand the range of research methods available and what they’re useful for
+Recognise what good and bad research looks like
+
+The analogy we use in the workshop is that doing research is like DIY. It seems easy enough and everyone should be able to do it. But there are different levels of mastery and things can go very wrong. As the old adage goes, “if all you have is a hammer, everything looks like a nail”. If all you know is surveys and focus groups, you’ll try to apply those to every problem you see. By improving the general understanding of what best practice research looks like, non-researchers at Monzo learn that there’s a lot more than just a hammer at your disposal. They also learn to spot when they should do their own research versus when to bring in someone else to look at the problem.
+We also support Monzo colleagues in other ways
+The user research team run hour-long drop-in clinics twice a week, so any employee (we call them Monzonauts) running their own research can get advice at any stage of the project they’re working on. Since we started the initiative last year, we’ve helped teams across the company from internal to international projects. Doing this also gives us visibility of the projects happening so we can populate the findings in our centralised research database.
+We also have a #user-research channel in Slack (our internal messaging tool), where we share articles and findings from projects, and anyone can get help. We’re currently in the process of putting together a DIY kit with templates for email reach-outs and phone calls.
+It means the researchers can focus on chunkier projects
+A common concern I hear from researchers when I tell them our approach is that their value is being undermined, because part of their role is being done by someone not specialising in it. I understand where this concern comes from, but I don’t think it’s something to be worried about. Once people start doing research, they realise how time intensive it is and how easily it can go wrong – just like DIY.
+By giving people at Monzo the right tools and guidance, and showing them what ‘great’ looks like, they can quickly understand whether they’ll learn what they need themselves or whether they need help. More often than not, this means asking researchers for help, especially during the discovery phase of a project. Empowering everyone to do their own research also means that researchers can focus on early-stage research rather than optimisation-research and feedback.
+
+
+
+Three phases of research: discovery, design & build and optimisation. Each phase tends to have research methods which are best suited to answer the types of research questions.
+It means we can achieve our mission sooner
+We’ve made it our mission to make money work for everyone and we need to release products to do that. We have to be pragmatic and accept that it’s often better to deliver an imperfect solution sooner than to do research for the sake of doing research, and risk falling behind our competitors.
+If you found this interesting, come join us!
+We’ve got plenty of open roles across the company, including ones in design and research. Take a look at our careers page for more detail and to apply.

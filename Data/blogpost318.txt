@@ -1,0 +1,37 @@
+Title: Introducing the Monzo Tone of Voice
+Author: Harry Ashbridge
+Position: Writer
+Date: 27 Mar 2018
+
+
+Finance isn’t as complex as banks make it sound
+Let’s start with an unsurprising fact: people don’t really trust banks.
+A YouGov survey in May 2017 showed that only 36% of Brits trust banks to operate in their best interests. Of course, a lot of that has to do with how banks have behaved – but a lot of it comes down to how banks communicate with their customers too.
+Back in 2015, the FCA called out financial services companies for an approach to writing that “adds to consumer misunderstanding and consequently a lack of trust”.
+Sometimes, finance is a bit technical. Processes and regulations can take a bit of unpicking to explain, and there are some terms we can’t avoid using. Our head of legal and compliance, Dean, explained this neatly in a recent blog post about our award-winning Ts&Cs.
+But finance is nowhere near as difficult to understand as banks often make it.
+Research says everyone prefers clear, simple language
+There’s an assumption that when we’re writing about serious things, we have to be formal. And looking after people’s money is about as serious as it gets. Suddenly banks start “requiring the appropriate documentation”, when really they just “need the right documents”. That kind of language is what we associate with professional writing, because that’s how it’s always been.
+But it isn’t doing anyone any favours. It makes things needlessly complicated, even when we’re not writing about complicated things. And research repeatedly shows that we pretty much all prefer simpler, more natural language. Plus, of course, the FCA say banks have to be clear, fair and not misleading, which means there’s no room for fluff and jargon.
+So, to make sure we explain things in a way everyone can understand, we use the language our customers use, even when things get technical. If we don’t, then can we really claim to care about them? Why should people trust us if we write stuff they can’t make any sense of?
+All of which means our writing should be open and easy to understand. Dealing with money shouldn’t be a headache, and you shouldn’t have to wade through pages of legalese just to make sense of your finances.
+
+
+
+Clear and simple is the minimum we should be
+But while being clear and simple is crucial, it isn’t the gold star to aim for – it’s the bare minimum we should expect to reach.
+At Monzo, written words are by far the most common way you’ll interact with us. We don’t have any branches, and while you can call us, we do most of our customer service through in-app chat. So the words we put in the app, our emails, our Ts&Cs and everywhere else don’t just have to tell you what we do, they have to show you who we are.
+And who we are is 300ish people with diverse interests, hopes and dreams – and I’m not sure many of us would appreciate being summarised solely as ‘clear and simple’. So we also want our writing to let some of our personality shine through.
+That naturally came across in our writing when we were a small plucky band of would-be bankers, because only a few people held the pen. But as we grow, it gets harder to keep things consistent.
+We don’t want everyone to write like drones, but we do want our writing to have a family feel. To capture the values that we all share: being open and inclusive, being friendly, being compassionate, being ambitious. So before we grow too big to handle, we need to turn those shared values into some writing principles that everyone can follow.
+And we have.
+
+
+
+Our tone of voice captures our values in writing
+Here are our tone of voice guidelines. They’re practical principles that cover how everyone at Monzo writes, internally with each other and to the outside world. It doesn’t matter what someone’s job is, or what they’re writing about, these always apply: customer support chatting in-app; someone in our people team writing a job ad; our compliance team drafting new policies.
+They’re not rigid rules to follow, but more a framework to help people think about writing so it always works for our readers. Plus some common things we should all do so Monzo writing always reflects our values.
+To define them, we started by asking our community what they think of our writing. You can read the full thread, but the overall result was that people see us the way we see ourselves: as friendly, open, and helpful.
+The next step was to turn those vague adjectives into something practical. It’s no use to say ‘make your writing friendly’ if people can interpret that fifteen different ways. What actual linguistic things make writing friendly? That’s what you’ll find in the guidelines.
+But now we have them, the job isn’t done. Writing guidelines is just the start: they’re the bricks, but it’s up to you to tell us whether we’re building a nice house or not. So we’ve decided to make them public because we want to be held up to these high standards. We’re not perfect, and if you see us falling short anywhere then please let us know.
+Finally, if you’ve got any comments or suggestions, we’d love to hear them on the community forum.

@@ -1,0 +1,28 @@
+Title: Introducing Monzo Chat
+Author: Francisco Carvalho Araújo
+Position: Product Manager, Internal Product
+Date: 2 Nov 2018
+
+
+Up until now, all of the chats you’ve had with us in the Monzo app have been powered behind the scenes by software from a company called Intercom. Intercom have been great partners, but their software isn’t specifically designed for Monzo, how we work and what our customers need.
+So we’re introducing Monzo Chat – a completely bespoke bit of software we’ve built from the ground up to manage chats in the app.
+
+
+
+Monzo Chat
+Monzo Chat fits what we and customers need better than anything off-the-shelf could for a few reasons.
+Firstly, managing in-app chat internally, rather than with a partner, is always going to be the safest and most convenient option. We don’t have to rely on anyone else’s security, or spend time integrating with systems outside our own.
+Secondly, our customer service team are constantly coming up with ideas to help customers better and faster. Some of those ideas involve changes to the software we use, and Monzo Chat means we’ve got full flexibility to make those changes, because it’s completely ours.
+In the future, we’ll be able to do really cool things directly through Monzo Chat that we just couldn’t if we used anyone else’s software. Like letting you update your personal details, or query and even cancel transactions without leaving the chat window.
+If you’re on iOS and you opened your Monzo account after 11th October, or you’re on Android and joined us after 31st October, you’ve only ever known Monzo Chat. For everyone else, we’ve gradually been rolling out Monzo Chat for the last month or so, and around 50% of people have it now. The plan is to have everyone moved over by the end of the year at the latest.
+As ever, we’ve started with an early version to get feedback and learn, and we’re adding new stuff all the time.
+What’s new?
+You can do all the same fundamental things you could before, like have text chats, upload files and tag your messages as urgent. But some things about Monzo Chat are a little different.
+
+
+
+Monzo Chat (left) in-app chat powered by Intercom (right)
+Previously, you could have several conversations with us at the same time, and they would be in different chat windows. That made it tricky sometimes to keep track of who you’d spoken to. With Monzo Chat there’s only one conversation, in one window, where you might interact with different people from Monzo. So it’s easier for you and us to see what conversations we’ve had before.
+Another change is that any old conversations you’ve had with us won’t show up in Monzo Chat. We still have those records, and we’ll be able to see them when we need to help you with something, but they won’t show up for you.
+Also, for now, some nice touches we had in Intercom – like an indicator to show the other person is typing – won’t be there. We’ll be adding those things back in the near future, along with all the cool new stuff, but Monzo Chat will look a little more stripped back than you’re used to for a little while.
+We’d love to hear what you think! We’re really excited about the possibilities of Monzo Chat for the future, and the more you can tell us about what works for you and what you’d like to see, the better we’ll be able to make it.

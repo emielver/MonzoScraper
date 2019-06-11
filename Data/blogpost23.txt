@@ -1,0 +1,77 @@
+Title: Meet the Vulnerable Customers Team
+Author: Richard Cook
+Position: Online Community Manager
+Date: 13 May 2019
+
+
+According to the FCA, a vulnerable consumer is “someone who, due to their personal circumstances, is especially susceptible to detriment, particularly when a firm is not acting with appropriate levels of care.”
+We don’t have checklists that define what may or may not make someone vulnerable. It depends on each person’s situation at a particular time, and whether it affects the way they deal with Monzo. Anyone can find themselves a situation, at some point in their lives, that could place them in financial difficulty or make it harder for them to manage their finances.
+Our mission is to make money work for everyone. Which means we have to make sure we’re considering every customer, and finding ways to meet their needs.
+Most regulation designed to protect people – and most processes banks put in place – cater to the typical customer. But people in vulnerable circumstances are likely to have different needs.
+Our Vulnerable Customers team is here to make sure we consider everyone, and don’t exclude anyone from using Monzo.
+We met the team and shared a bit about their work last year. But since then the team has grown, so we thought we’d check in with them again to hear about the progress we’ve made so far, and their plans for the next 12 months.
+Meet the team (again!)
+Stuart, Head of Financial Difficulties & Vulnerable Customers
+
+
+
+
+Stuart leads the teams, spending most of his time supporting them and making sure we treat customers who get into financial difficulties with compassion.
+What work stands out to you from the last year?
+I’m immensely proud of the team of people across the company who worked on the gambling block. We’ve started a movement and really spurred other banks into action. It feels great that we’ve done something to push the rest of the industry to do things that help customers.
+I’m also in awe of the work Dan does behind the scenes to train our customer support team so they can identify and help customers in difficult circumstances. We treat people who find themselves in tricky situations with care and compassion. And we do it in a way that’s scalable, so it’ll be just as good when our customer base grows 10 times and beyond.
+Who inspires you?
+This is going to sound cheesy but I find the team inspiring. It’s impossible not to when you see how passionate they are and how hard they work.
+What are you looking forward to?
+We’re going to start using more data to identify and support vulnerable customers. This will give us a spring board to focus on amazing things in the future.
+Natalie, Vulnerable Customer Analyst
+
+
+
+
+Natalie works to coordinate projects that will have positive impact on vulnerable customers. She spends most of her time researching and seeking advice from expert organisations to tackle real problems that Monzo customers are experiencing. She focuses on working out which features we should build and how we make using Monzo more accessible, as well as working with our community and organising events.
+What work stands out to you from the last year?
+I’m most proud of our work on Share with us, a tool that lets people tell us about their situation through the Monzo app. When I joined the team, Stuart told me our biggest challenge is identifying vulnerable customers.
+We were usually only able to do this later after something had already gone wrong for our customers. Now, we have a tool that people can use to tell us about their circumstances if they want to. This means we can help prevent people getting into financial difficulty, and hopefully empower them to take better control of their finances.
+Who inspires you?
+I’ve met amazing organisations through our work on the gambling block. I’ve been so moved by the people who’ve shared their personal experiences with us. And I’m in awe of people who support those with gambling harm and their families. Henrietta Bowden-Jones at the National Problem Gambling Clinic is an exceptional example of this!
+What are you looking forward to?
+Improving our internal tooling so we can log the vulnerabilities, needs and outcomes for our customers. This will help us understand our customer base at scale, and tailor the support we can offer to them. For example, if we know that 20% of customers prefer alternate ways of communicating, we can prioritise work on that.
+Dan, Vulnerable Customer Analyst
+
+
+
+
+Dan works with the customer service team who are dedicated to supporting vulnerable people. He spends his time thinking through the most difficult cases alongside them, writing processes and guidance to help them do their jobs, and training our new starters to pay attention to even the most subtle signs of vulnerability.
+What work stands out to you from the last year?
+When customers are in acute distress, our team are incredible at taking these sometimes profoundly upsetting situations and turning them into the best possible resolution for everyone involved. I also love seeing the fantastic rapports people build up with our customers. Everyone cares about individual customers very much, and they do everything they can to make sure we meet their needs as well as we can.
+Who inspires you?
+As much as I’m tempted to say a superhero or a certain controversial rapper, I’m going to have to out-cheese Stuart and say my partner. Even though the world hasn’t always been kind to her she’s the kindest, sweetest person you could possibly imagine. She’s also extraordinarily smart and hard-working and diligent. She’s everything I want to be and inspires me every day to be better!
+What are you looking forward to?
+Hiring internally for more support staff, so we can help people more overnight and across the weekend. We’re so close to fulfilling our vision of 24/7 specialist support for vulnerable people, and I think it’s going to be a very exciting place to be when we’re there!
+Lew, Vulnerable Customer Analyst
+
+
+
+
+Like Natalie, Lew spends time working on projects that can improve the lives of our customers when they’re faced with difficult situations. It means he spends most of his time chatting to social enterprises to work out how Monzo can help improve financial inclusion.
+Who inspires you?
+Alex Stephany from the homeless charity, Beam. The world relies on people willing to dedicate their energy and intellect towards improving things for others. Also, all the people who are quietly, behind the scenes volunteering, caring for others and being the safety net that catches those who need it.
+What are you looking forward to?
+We’re working on a project to help support young people getting out of temporary accommodation.
+Kate, Data Analyst
+
+
+
+
+Kate is building out our vulnerable customer data strategy. Our team works to support customers with a huge spectrum of vulnerabilities. But to see the impact we’re making and learn where we can make more of a difference, we need to use data to understand the customer journey at scale. Kate helps us work out what we can do to make the app friendlier, easier, and more accessible to customers in any situation.
+Who inspires you?
+Hans Rosling was an incredible data scientist and communicator. This article (written a few years before he died) captures some of his spirit.
+What are you looking forward to?
+We’re moving toward a world of personalised banking, and I’m really excited to see people getting more control over their spending through spending blocks and other customisable tools.
+The Vulnerable Customer Support Team
+We also now have an incredible customer support team, who’ve been through extra training to support vulnerable customers. Lewis, Ben, Minnie, Clayton, Sonia, Victor, Jessica and Ken talk to vulnerable customers and support them every day.
+Coming soon…
+We want to be transparent about our progress, and share what we’re learning with other banks and organisations trying to support vulnerable customers too.
+So we’ll be publishing a report this summer that’ll detail what we’ve learnt about identifying vulnerable customers. And share what we learned from building our gambling block too.
+By making what we’re learning public and calling on other organisations to collaborate and share their knowledge too, we hope to improve how organisations are supporting vulnerable customers across the industry.

@@ -1,0 +1,17 @@
+Title: Top ups are back!
+Author: Jami Welch
+Position: Product Manager
+Date: 1 Dec 2017
+
+
+The best way to add money to Monzo is by getting your salary paid straight in or setting up a regular standing order. If you’ve already upgraded your Monzo account, you’ll have a sort code and account number which you can pass on to your employer, or use to schedule payments from your old bank account to your Monzo one.
+When we started rolling out upgraded Monzo accounts to our customers, we did so without one key feature — the ability to top up your account from another debit card, or using Apple Pay or Android Pay.
+We know that this feature gives you flexibility, and lets you add money into your Monzo account quickly. It’s also really useful if you’ve just joined Monzo and are just getting started! You can add money to your account without waiting until your next paycheck, and can start using your card straight away 💳
+We’ve listened to your feedback and we’re bringing it back! As of today, you can top up your upgraded Monzo account from another debit card, or through Apple Pay and Android Pay.
+
+
+
+However, supporting this feature is also incredibly expensive for us. Every time you top up from another debit card, Monzo has to pay processing fees, calculated at a percentage of the amount you top up. On average, this costs us around £24 per customer each year.
+Having your salary paid in or setting up a standing order from your old bank account both mean that you don’t have to think about adding money to Monzo ad hoc, and are both totally free for us to support.
+Because top ups are so expensive, we’d ask you to only use them for last minute emergencies. It isn’t sustainable for us to keep covering the costs if everyone only uses top ups to add money to their Monzo accounts. Our Product team are beginning to explore ways in which we can reduce these costs and they’ve detailed everything over on the forum here. We’d love your thoughts and feedback 😃
+Feedback on the upgraded Monzo account has been extremely good so far, and we’re excited to fill in the final missing pieces of the puzzle over the coming weeks!

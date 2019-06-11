@@ -1,0 +1,34 @@
+Title: Testing Energy Partnerships
+Author: Phil Hewinson
+Position: Head of Partnerships
+Date: 21 Sep 2017
+
+
+Whether we lack the time, find the options overwhelming, or forget about it altogether, switching energy providers isn’t at the top of anyone’s priority list. But sticking with the same supplier for a long time often means we end up out of pocket.
+According to a 2016 report by the government’s Office of Gas and Electricity Markets (Ofgem), 66% of households are on the most expensive kind of tariff, known as a standard variable tariff. Typical energy contracts are 12 months long, but many people are on a contract that has expired. This means that they are often on the most expensive tariff by default, and end up paying significantly more than they should.
+It’s an issue we’re trying our best to to tackle here at Monzo.
+Testing a solution
+We’ve always believed that the bank of the future will be a marketplace. One that helps users manage everything related to their money, and makes sure they get the best deals. It’s the reason we’re starting to partner with other companies to create new integrations and experiences.
+In the next few weeks I’ll share more about what a Monzo marketplace might look like, and the role partnerships plays within in it, but in the meantime I have an exciting announcement.
+From today, we’ll be testing a new feature that allows people to switch energy providers. In five minutes and a few clicks, people who receive the recommendation will be able to transfer their energy contracts to a new provider. That could be a supplier recommended by our partners at price comparison service Energy Helpline, or one we’re working with directly like green energy companies, Octopus Energy or Bulb.
+How it works
+Over the coming weeks, we’ll be inviting a number of people to switch providers and save money on energy through a feed item in the app.
+By entering some simple information like your postcode and whether you live in a house or a flat, you’ll be given a quote that will explain your new monthly tariff and how much you stand to save each year. If you do decide to switch, you’ll be asked to set up a direct debit from your bank account or Monzo current account.
+The energy partners we’re working with don’t accept prepaid cards, so if you’re a Monzo prepaid user you’ll have to set up a direct debit from your bank account. As we continue to roll out Monzo current accounts, more and more users will be able to set up new direct debits, and automatically switch over existing ones.
+If you receive a recommendation as part of this test and decide it’s not for you, you can delete it from your transaction feed with a single tap. If you want, you can also choose to opt-out of receiving similar recommendations in the future.
+
+
+
+Testing early
+As always, we’ll be launching early and iterating based on feedback from our community. We want these partnerships to become a significant part of what Monzo offers. To make sure we go about building them in the best way, we’re going to respond to your feedback and incorporate your ideas at every stage.
+In fact, we began testing this feature last month when we trialled an early experience with 95 Monzo current account holders. We had 13 signups from our initial test, which is really promising! You can read the original discussion about this early trial on the forum.
+Why are we doing this?
+At Monzo, we’re committed to saving people money, and making it as easy as possible for everyone to make smarter and more informed financial decisions. Building a marketplace and partnering with other companies is a large part of how we’ll do that.
+If 66% of people are on standard variable energy tariffs because their contracts have expired, there’s a good chance that many of our customers will be able to get a cheaper rate. That’s a valuable opportunity for us to help them save money.
+Partnerships like this one are also key to how we plan to build Monzo into a sustainable business. Typical commissions on switching energy range between £40 and £50 per switch, so as well as helping people save on their bills, we should also be able to make some meaningful money.
+In our first test with Bulb we split that commission, keeping half for ourselves and passing on half to the customer. In the long term, we are considering a few different models, and want to find the fairest way of being paid. If you have any opinions or suggestions about how this should work, please share your thoughts in the dedicated discussion I’ve started on the forum. We’ll always be open about how we’re making money, to make sure we’re being totally transparent.
+Tell us what you think
+We’ll improve on this experience based on your feedback. Please let us know what you think on the community forum, and ask any questions about this new feature or our future partnership plans.
+We’re starting with energy, but plan to build these kinds of experiences across all categories, from savings and investments, to insurance and mortgage switching. The goal is to help people save or make the most of their money in the most convenient, relevant ways possible – eventually at a scale of one billion people!
+
+Want to help us test out energy switching? Let us know by registering your interest and we’ll aim to prioritise you in our test groups.

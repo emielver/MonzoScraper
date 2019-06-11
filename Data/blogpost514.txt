@@ -1,0 +1,62 @@
+Title: 3 Second Sandwich
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 2 Dec 2015
+
+
+Mondo recently rolled out our Alpha program to 500 lucky testers. If you weren’t in the first group, don’t worry—we’ll be distributing more cards soon. You can get on the waiting list here.
+Our Alphas have been asking a lot of questions about how debit cards work, so we decided to write a blog post exploring some of the more interesting ins-and-outs of the card networks.
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+Let’s start with the basics. You want to buy a sandwich at a cafe, so you stick your debit card into a point-of-sale terminal (POS) in a cafe and are prompted for the PIN. This PIN is checked against encrypted data stored on the card’s chip. The chip counts the number of failed attempts, and will block further attempts if you get this wrong 3 times in a row.
+
+
+
+Assuming your PIN is correct, the POS will create an Authorization Message (Auth), including details of the payment, the merchant and the card that you provided. This Auth is immediately sent by the POS up to a Merchant Acquirer via a data connection (perhaps a phone line or internet connection).
+The Merchant Acquirer is usually a bank that’s registered with several Card Networks (Visa, MasterCard, AmEx etc) and offers services to help merchants collect payments. The cafe taking payment will have a merchant account with the Acquirer. The Acquirer will do a small number of preliminary checks—declining certain types of prepaid card and doing basic fraud/validation checks—before deciding whether to forward on the message to the appropriate Card Network (MasterCard, Visa etc).
+After the Auth gets into the Card Network, it is then routed to the appropriate Card Issuer based on the Bank Identification Number (BIN)—the first 6 digits of your 16-digit card number (PAN). Card Issuers are normally banks who provide current accounts to their customers, along with a physical payment card.
+When the Card Issuer gets the Auth message, it has a choice to Accept or Decline the payment. It will look up the customer’s account and perform a number of checks before accepting the Auth; verifying the account is open, funds are available, whether it looks like a fraudulent transaction. Once an Auth is accepted by the Issuer, the message returns via the same path, all the way back down to the POS terminal in the shop. This entire process normally takes a second or two, end-to-end.
+You’re now free to walk out of the cafe and enjoy your sandwich!
+But that’s not the end of the story.
+Approximately 48 hours later, the Card Network (Visa, MasterCard, AmEx etc) will group together all the payments from a given time period and send them to the Card Issuer as a batch “Presentment” file. There might be thousands of payments in this file. At this point, the Card Issuer will debit the money from each of its customers’ accounts according to the Presentment file and make a bulk payment to the Card Network for the entire Presentment amount. In turn, the Card Network will divide up the funds and distribute the money back to the appropriate Card Acquirers, who will distribute it to their merchants in turn.
+This is why card payments often only show up in your bank account a couple of days after you made a payment, making it very hard to keep track of your balance. Most legacy banks will debit your account based on the batch Presentment file, rather than the real-time Auth, but this isn’t always clear to the customer.
+
+
+
+Contactless Transactions
+Mondo cards will work contactlessly at the approximately 300,000 contactless terminals in the UK, as well as many more abroad. The maximum payment value has just been increased to £30. In principle, the payment flow works exactly as above, but there’s no need to input your PIN.
+TfL, who run the tubes and buses in London, have a special implementation of contactless payments, since the payment amount depends on your travel during the day. When you first tap in each day, TfL will authorise a £0.10 payment. But they will later present the full amount for collection. We’re working on keeping your travel data constantly synced with tfl.gov.uk, so you can see where you’re up to in realtime.
+Offline Transactions
+Sometimes, POS terminals aren’t able to establish a data connection to their Merchant Acquirer. Typically, this happens on aeroplanes and trains. In such a case, the card chip can be programmed to work in “offline” mode for a limited number of transactions. When the POS re-establishes a data connection (eg the aeroplane lands), the payments are uploaded to the Acquirer. The first the Issuer sees of this payment is in the “Presentment” file, which may be a day or two later.
+How is Mondo different?
+At Mondo, we’re trying to provide our customers with information that’s as useful and timely as possible.
+The first thing we do is to take all of the data sent by the Card Network. There are hundreds of pieces of information available, including the postcode and category of the merchant. Some of this is really useful for customers trying to identify the merchant, but most legacy banks simply discard it because their old IT systems can’t store the data.
+
+
+
+
+    The information on a transaction in a legacy banking app (left) and Mondo (right)
+  
+
+For each transaction, we then go out and collect as much additional data as we can. We’ve written algorithms which will attempt to identify the merchant on Foursquare, Google Places, Yelp, Twitter, and Facebook, and then pull all the available information into your transaction overview. If you want to upload photos or add notes to help you identify the merchant, you can do that too.
+The third thing is real-time notifications. Since we’ve built our core technology systems in-house, we accept the real-time Auth notifications and use them to trigger useful push notifications and app updates.
+
+
+
+
+When you put your card into a POS machine, a sequence of messages are triggered that cross the globe and hit at least three different authorization checks. The technology that powers this global payments network means that you can buy sushi in Japan and receive a notification from Mondo in less than 3 seconds, safely and securely. We’re working to make this even faster and easier—we would love you to join us!
+
+We recently updated our name to Monzo! Read more about it here.

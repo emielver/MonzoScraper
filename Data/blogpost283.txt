@@ -1,0 +1,15 @@
+Title: Just Landed: See your flight details inside your Monzo app
+Author: Richard Dingwall
+Position: Engineer
+Date: 25 May 2018
+
+
+We’re always looking for ways to show you more useful information about your purchases.
+From today, when you use your Monzo card to buy plane tickets, you’ll now see the flight number and booking reference in your feed!
+
+
+
+How does it work?
+When a transaction settles, sometimes the airline or travel agent sends additional passenger booking information to the cardholder’s bank.
+Normally customers don’t see this information, and the amount of detail varies from airline to airline, but when we receive it, we’ll make sure you see it in your feed! If you don’t see anything, we probably haven’t received the information unfortunately.
+We really love this feature, and hope you do too. Do remember to be careful if you plan to share this on social media. While flight booking references are just numbers and letters, to us, they hold a lot of more information when paired with things like your name or flight number. If you do want to share this publicly, we recommend hiding your flight number and booking reference for safety.

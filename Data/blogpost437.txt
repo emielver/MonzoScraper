@@ -1,0 +1,35 @@
+Title: Meet Irina: Internal Product Engineer
+Author: Zainab Khan
+Position: Community Manager
+Date: 8 Feb 2017
+
+
+
+
+
+Meet Irina, the the newest member of our Internal Product team. She joined just over a month ago and has already made a big impact on how we organise and manage customer support interactions.
+
+Tell us about what you do here?
+I work on the internal tools as a part of the Internal Product team. We make sure the team functions smoothly “behind the scenes” and provide a “second line of support” for our customers.
+How did you find yourself in the world of coding?
+I was a teenager when I first got into programming. When I was 13, I wrote a game with a friend in which you had to squash a cockroach on a tile floor. I found building software to be an amazing mix of maths, engineering, creativity and problem solving. It’s like being paid to play with LEGO all day!
+I went on to complete a Master’s in Computer Science in Moscow and then worked at a couple of startups there, before moving to Edinburgh. Two years ago, I took a break from regular developer work to join a coding bootcamp as a coach, helping more people get into the profession.
+After that, I wanted something more out of my comfort zone from an engineering point of view, and also something that would have a genuine positive effect on people’s lives. I found both here. Everytime I see someone using our card, it makes me proud to be a part of this team.
+On a day-to-day basis, who do you work with and how does the team run?
+For my first few weeks here, I’ve worked closely with Dan and Ed – they showed me the ropes and are getting me up to speed. We also have weekly meetings with the Operations team to keep in touch and set our priorities.
+It’s only week 4 – what have you learned here?
+I’ve learned loads about the architecture of the platform. How different Go is from the other languages I’ve worked with, and how this difference affects the engineering culture. I have 
+definitely have gained more knowledge about how banks and debits cards work than I ever expected to. This domain is really interesting and I’m excited to learn more about it.
+What are you most proud of?
+In my second week, I fixed and pushed something into production. Knowing that your code will affect so many people in their daily lives is exciting – you fix a problem before the customer even has a chance to notice it. Currently, I’m working on a tool that will allow the support team to take calls straight from a browser.
+If you weren’t at Monzo, what would you be doing?
+Studying Maths in some dark university corner. Definitely better off here 🙂
+3 words to describe Monzo
+Intense, resourceful, fun.
+Weekend Hobby:
+Roller Derby – less face punching than Whip It would suggest!
+Unexpected Fact:
+I played tambourine in a folk-rock band.
+Links
+Twitter: @jafrog
+Blog: http://jafrog.com

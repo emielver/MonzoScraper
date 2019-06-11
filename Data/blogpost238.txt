@@ -1,0 +1,34 @@
+Title: Try setting goals for Pots in Monzo Labs!
+Author: Jami Welch
+Position: Product Manager
+Date: 19 Jul 2018
+
+
+You can now try out an early version of a feature that lets you set goals for your pots and save towards them!
+Pots are designed to help you set money aside within your main Monzo account. You might use them to set money aside regularly, just for a rainy day. But you can also use them to save for specific things, like going on holiday or buying a big purchase.
+So, to help you do that, we’re trying out a feature that lets you set an amount you’d like to save, and track your progress towards your goal.
+How it works
+If you turn on Pots Goals in Monzo Labs, you’ll be able to set goals for existing pots or add them to brand new ones.
+We’ll show you the goal for each pot underneath the amount you’ve saved so far. And you can also track how you’re doing with a progress bar.
+Once you reach your goal, we’ll let you know so you can celebrate!
+
+
+
+To get started:
+
+Turn the feature on in Monzo Labs by heading to the Account tab in your app and tapping on your profile. There you’ll find Monzo Labs where you can turn on the switch for Pots Goals
+Then, go to the Account tab in your app and swipe left to see your pots
+You can set a goal when you create a new pot, or add a goal by editing an existing one
+
+You can add money to your pots ad hoc, or set up automatic payments so you don’t have to remember to add money regularly!
+What’s next?
+This is a very basic version of a feature you’ve requested and we wanted to try out. It’s a little rough around the edges, which is why it’s in Monzo Labs.
+Right now, you can edit a goal once you’ve set it, you can’t remove it yet. We’ll be fixing this next week, so you can remove goals after you’ve set them.
+The current version on Android doesn’t show a progress bar, but we’ll also be adding it next week!
+Give it a go and let us know what you think! If you like it, we’ll spend some time improving it. And we’ll use your feedback to work out how!
+So far, we’ve had a few ideas:
+
+We could let you set a date or deadline for when you’d like to reach your goal
+Once you set a goal, we could help you set up regular payments that’d help you reach your goal by a certain date or in a set period of time
+
+But we want to hear more! Let us know how you’re using it, and what we could do to improve in this dedicated thread on the community forum.

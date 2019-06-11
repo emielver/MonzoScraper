@@ -1,0 +1,27 @@
+Title: Schedule payments into Pots!
+Author: Vuokko Aro
+Position: Lead Product Designer
+Date: 16 Jul 2018
+
+
+We launched Pots last November as a way of letting you set aside money for different purposes. Since then, we’ve been experimenting with new features to make them even more useful, like turning them into a Coin Jar to help you save your spare pennies.
+Today we’re announcing a new way to add money to your pots! You can now set up scheduled payments to put money aside automatically, on a regular basis.
+Why we built this
+Remembering to set aside some money every month can feel like a challenge, and having to do it manually can make it so much harder. That’s why we think making it automatic (like the Coin Jar roundup) is a great way to help you reach your savings targets.
+This also paves the way for even more exciting things to come with Pots. What if you could automatically schedule some money to go into a Pot that you use for your bills, coming out every pay day? You’d never have to worry about bills again (well, almost!). And we’re sure there are dozens of other uses our community will come up with too.
+How it works
+Setting up scheduled payments into a Pot couldn’t be simpler.
+When you create a Pot:
+
+Tap Set scheduled payment at the bottom of the screen
+Set an amount, start date, when it should repeat, and when it should stop
+
+Tap Schedule
+
+
+
+
+
+You can change or cancel the scheduled payment whenever you want. And you can always withdraw the money if you decide you want it back in your main balance.
+Let us know what you think!
+We hope you find setting up scheduled payments into Pots really helpful. And we’d love to hear what you’ll be using it for. So come and join the discussion on our forum, and share your thoughts with the rest of our community.

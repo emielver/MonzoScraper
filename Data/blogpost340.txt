@@ -1,0 +1,22 @@
+Title: More Beautiful Direct Debits in Your Monzo Account
+Author: Daniel Cannon
+Position: Senior Software Engineer
+Date: 19 Jan 2018
+
+
+We all want our Monzo feeds to look a bit like this:
+
+
+
+But recently, they’ve looked a bit more like this:
+
+
+
+Because you can now pay Direct Debits through your Monzo account, there’s a whole new range of merchants that people are paying — for things like phone bills, utility bills and mortgages.
+Behind the scenes, we’ve been hard at work taking the long, ugly sentences we receive from the payment network and converting them into clear, understandable company names and logos, so we can display them in your feed. So far, we’ve taken the top 50 companies that customers are paying via Direct Debit and beautified them.
+As of later today, you should see them in the Recurring Payments section (provided you’re on the latest version of the Android or iOS app). Past transactions won’t be updated in your feed, but all future ones will be. We’ve also beautified some Direct Credits, so if you receive money from companies like AirBnB, Etsy, Apple or Amazon, these should look much nicer.
+
+
+
+We’re also working to bring our full crowdsourcing system to Direct Debits and Credits so you can report ugly or incorrect information and we fix it for everyone. It’s not quite ready yet but should be coming to iOS in the next few updates. We also want to bring the crowdsourcing of all merchant data to Android, but don’t have a timeline right now — but don’t worry, all improvements made will be visible in your feed!
+We’ll continue to improve more Direct Debit data as more and more people switch to Monzo and we see which are the most popular — this first 50 is just the start!

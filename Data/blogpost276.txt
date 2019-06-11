@@ -1,0 +1,51 @@
+Title: What’s the exchange rate on Monzo?
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 5 Jun 2018
+
+
+We believe everyone should be able to use their debit cards to spend money abroad, without having to pay rip-off fees on each transaction.
+So, we pass the Mastercard exchange rate directly onto you.
+How do I check the exchange rate?
+You can see the current exchange rates on the Mastercard website:
+
+Open Mastercard’s Currency Conversion Calculator
+
+Choose the currency you want to convert to
+Enter a ‘Transaction Amount’ (write ‘1’ if you just want to find out the rate)
+Type ‘0.00%’ when you’re asked to enter the ‘Bank Fee’
+And choose Great British Pound (GBP) as your ‘Card Currency’
+Tap ‘Calculate’ to see the current exchange rate!
+
+The rate you see is the one we pass on directly to you.
+But remember, we’ll use the exchange rate at the time the transaction settles (usually a few days after you make it), rather than the one you see at the time you actually make the transaction. Read this short guide for more information about how transactions work.
+You can check how the Mastercard rate measures up to other exchange rates by using Visa’s exchange rate calculator, a currency converter like XE or Reuters, or by giving it a Google!
+
+
+        Want to take the stress out of spending abroad? Try Monzo today!
+    
+
+        Download Monzo
+    
+
+
+
+
+Should I pay in local currency or GBP?
+When you use ATMs or pay with card machines abroad, you’ll be asked whether you want to pay in Pounds or in the local currency.
+To make sure you get the Mastercard exchange rate when you’re using Monzo, always choose to pay in local currency.
+This means Monzo converts your money at the Mastercard exchange rate, instead of the merchant or ATM doing it at their own rates.
+If you’re using other debit cards abroad, paying in local currency might not necessarily help you get the best rate. It depends on the exchange rate and markups your other bank might make, so it’s worth checking what they offer.
+Are there any other charges for using my Monzo card abroad?
+Paying with your card abroad is totally free, and we always pass on the Mastercard exchange rate.
+If you want to withdraw cash from ATMs abroad, there’s a £200 limit every 30 days. After that, we’ll charge you 3%.
+
+Find out more about travelling with Monzo and share your tips and stories on the community forum.
+
+
+        Monzo makes spending while you're abroad simple and transparent.
+    
+
+        Download Monzo
+    
+

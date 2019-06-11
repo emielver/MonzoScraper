@@ -1,0 +1,44 @@
+Title: #mondohack: More Projects
+Author: Tristan Thomas
+Position: Community Manager
+Date: 30 Nov 2015
+
+
+This is the second of our posts about the most recent Mondo Hackathon, with some more of the great projects to showcase.
+
+
+
+Last week we published a selection of the amazing projects from the second Mondo Hackathon and it was great to see the responses come in on Twitter. Since then, one of the attendees, James Allison published a new blog post titled My bank has an API so I built online banking. We highly recommend giving it a read! This week we wanted to show you some more of the awesome #mondohack projects.
+We’ll be holding our next hackathon in January—register your interest here and we’ll let you know as soon as we have fixed dates.
+
+Monflow—Visualising historical transactions through a city
+
+
+
+Computer science student Kieran McHugh built this beautiful visualisation of transactions throughout a day on Oxford Street. Using 10,000 transactions, he animated and mapped every one as it happened to create a pulsing graphed map of transaction data within the city.
+
+Integration with email receipts
+
+
+
+
+Richard Dingwall and Jelmer Snoeck came back to this hackathon with an even more ambitious idea than Richard’s project last time. Their app connects securely to your Gmail account and attaches a snapshot of your receipts from Amazon, Not On The High Street and many other retailers to the corresponding Mondo transaction, allowing you to see exactly what you bought and when you can expect it to arrive, all from within your banking app.
+You can also see the slides from Richard’s demo here.
+
+Apple TV Integration
+
+
+Final shot of my #AppleTV transaction explorer hack at @getmondo #mondohack. Blog post with details coming soon! pic.twitter.com/MDzkS2KuUp— Alexander Baxevanis (@futureshape) November 15, 2015
+
+
+
+Alexander Baxevanis brought his brand new Apple TV on Saturday and immediately began bringing Mondo to the big screen. With some tips from Hugo Cornejo, our designer, he designed and built this beautiful new way to interact with your bank account. His blog post about the project is here.
+
+Voice activated banking, card delivery by drone and elastic search integration
+
+
+
+Simon Vans-Colina, as usual, decided to go big and built three hacks over the weekend. Voice activated banking, card delivery by drone and realtime mapping of all an individual’s transactions all featured, which you read more about in his post on Medium here.
+Another huge thank you to everyone who came—we can’t wait for the next one in January! Register your interest here and we’ll post more of the projects next week.
+
+We recently updated our name to Monzo! Read more about it here.

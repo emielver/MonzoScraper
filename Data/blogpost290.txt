@@ -1,0 +1,31 @@
+Title: Welcome to Monzo 2.0
+Author: Team Monzo
+Position: Monzo HQ
+Date: 21 May 2018
+
+
+This week, we released version 2.0 of Monzo to the Google and Apple app stores. In app development, ‘whole number’ versions are a big deal, and usually mean there’s been some kind of major change or new feature. But what does that mean when you’re a bank?
+Don’t worry, version 2.0 is still the same Monzo you know and love, with some extra bits added to make managing your money easier.
+
+
+
+We’ve come a long way.
+We launched Monzo three years ago. And we’ve come a long way since. In April this year we ended the prepaid card beta. Over 350,000 of you upgraded to a full current account, with the features you’d expect, like Apple Pay, overdrafts and Direct Debits. As well as some entirely new things, like Nearby Friends, testing out new products in Monzo Labs, and Coin Jar.
+We feel that our app, and the overall Monzo banking experience, has progressed far enough for it to be called Monzo 2.0. Of course, this is just a milestone on a much longer journey. You can never ‘finish’ building a bank. We want to mark this update as a celebration of our progress so far and share what’s up next for Monzo.
+Focussing on the things that matter.
+But just adding more features doesn’t make us a better bank. We really want to use the ’2.0’ milestone to focus on our core values and beliefs.
+The things that really matter to us include:
+
+Building a bank account that solves everyday problems
+Giving you control of your money
+Being transparent and fair
+
+Our dedication to the things we care about most is visible throughout Monzo, from our easy-to-read terms and conditions, to our fair and transparent overdraft fees. We want to build a bank that fits seamlessly into your everyday life and we’re thrilled with the progress we’re making.
+Coming this week.
+All this week, on our blog and in the Community, we’ll be talking about what ‘Monzo 2.0’ means to us. We’ll be sharing how the things that are important to us translate to our product; and what we’ve got planned next. Here’s what we’ve got planned:
+
+Tuesday: What we’re doing to make Monzo even better
+Wednesday: What’s in v2.0 of the app
+Thursday: How we’re working to improve merchant acceptance, and
+Friday: What community means to Monzo. A round up of the events we’re hosting in Liverpool, Cardiff and Edinburgh.
+

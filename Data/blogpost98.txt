@@ -1,0 +1,37 @@
+Title: See your receipts in Monzo with Flux
+Author: Kieran McHugh
+Position: Backend Engineer
+Date: 31 Jan 2019
+
+
+Thanks to our partnership with Flux, you’ll now be able to see receipts for purchases at selected retailers in your Monzo app!
+Right now, you can see receipts whenever you shop at EAT., Itsu, Pure and Pod.
+
+
+
+This is just the beginning. Over the next few months, we’ll be working with Flux to include even more retailers. Some stores also bundle loyalty offers and rewards into their receipts,  so next time you’re out grabbing lunch, make sure to try it out!
+Say goodbye to paper
+To get started, make sure you’ve downloaded the latest version of the Monzo app. Then, simply visit one of the shops we mentioned, and make a purchase using your Monzo card.
+When you tap on the transaction in your feed, you’ll see the option to connect your account to Flux. Have a read of the details, and when you’re ready, you can set yourself up with a single tap.
+
+
+
+It’s that simple! After that, you’ll see receipts for all of your future visits in the transaction details screen. We’ll also do our best to dig out the receipts for any purchases you’ve made in the past 90 days.
+How it works
+When you connect your Monzo account, Flux will get access to information on the purchases you’ve made at retailers they support. They won’t see details of other transactions, like payments at other retailers, payments you’ve made to friends on Monzo, or bank transfers.
+To find your receipt, Flux will use details like the shop’s location, time of your purchase, and parts of your 16-digit card number. They’ll then send the receipt over to us. The whole process usually takes less than a couple of seconds!
+
+
+
+Like Monzo, Flux is regulated by the Financial Conduct Authority (FCA), and will treat your data securely and with your privacy in mind.
+If you’d like to learn more about how we built our integration with Flux, you can watch our Open Office event to hear our engineers and product managers share their insights.
+Help us improve our integration
+We’ve put our new integration through its paces, and we’ll be keeping a close eye on it to make sure it’s all running smoothly. As always, we need your feedback to make it even better and help us improve. If you have any issues with:
+
+seeing the option to connect your account to Flux
+missing receipts after you’ve bought something
+
+…then chat to us in the app, or email [email protected], and we’ll sort it out.
+Making money work for everyone
+Monzo’s vision is to make money work for everyone. We think a huge part of this is being able to bring your financial life together in one place, making it effortless to manage and keep track of your spending. We’ve got lots of exciting plans for new partnerships and product features in 2019, and we can’t wait to share more.
+If you have any feedback, ideas, or suggestions — drop us a message in the community forum thread!

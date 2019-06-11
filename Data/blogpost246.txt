@@ -1,0 +1,40 @@
+Title: Set a monthly spending budget with Summary
+Author: Jami Welch
+Position: Product Manager
+Date: 5 Jul 2018
+
+
+In the first version of Summary, your budget was defined by your account balance, and how much committed spending you had for the month. This works well if you earn monthly, and put the money you don’t want to spend into Pots or other bank accounts.
+But if you’re paid more frequently, work freelance or get benefits, you often don’t start each month with all the money you need.
+So we’ve added the option to set a spending budget, that Summary will use to track your progress through the month, instead of your account balance.
+How does it work?
+Instead of working out how much of your account balance is left, when you set a spending budget, Summary will show you how much of your budget you’ve spent.
+Upcoming committed spending and moving money in and out of pots won’t affect your budget.
+
+
+
+When should I use it?
+Setting an overall budget is an option you can choose to use if it works for you. There are a few situations where you might find it useful.
+If you get paid weekly, but you still want to budget month-to-month
+If you pay your bills, rent or mortgage monthly, but get paid every week or at irregular intervals, it might be useful to set an overall budget.
+It lets you plan how much you want to spend throughout the month, even if you aren’t paid on a monthly basis. Your dial won’t turn red and you won’t be told you don’t have anything left to spend, just because your account balance is low at the time.
+If you manage your monthly budget with Pots
+To avoid overspending, we know some people like to take their monthly spending money, and keep it in specific pots until they need it. If you set a spending budget, you’ll no longer be told you’re low on money if you have enough but it’s all in pots.
+If you’re trying to get out of your overdraft
+If you’re using your overdraft, setting an overall budget means you can still use Summary to manage your spending.
+When you’re in your overdraft, the dial in Summary is red by default and tells you you have nothing left to spend. But if you set a spending budget, Summary will tell you if you’re on track to spend within your budget instead. Your dial will start out green (even though your balance is negative) and we’ll show you how much of your overall budget you have left throughout the month.
+This is especially handy if you’re working to get out of your overdraft, and want to set a small, strict spending budget and use Summary to help you stick to it.
+How do I set a spending budget?
+Setting a spending budget is easy!
+
+Go into the Summary tab and tap on ‘Budgets’
+Enter an amount at the top to set your spending budget
+
+You can still set budgets for individual spending categories as usual, if you’d like to keep an eye on how much you’re spending on certain things.
+Do I have to use it?
+Only if it works for you! Setting an overall budget is an option that you can choose if you want.
+It might make more sense for you to budget and manage your money according to the total balance in your account, which is simple. Just put the money you don’t want to spend in a pot, then set budgets for each category and we’ll track them through the month.
+What’s next?
+Right now you can set budgets for each category, that in total can exceed your overall budget. We know that isn’t very useful, so in the next few weeks we’ll be making an update so that your spending budget can’t be lower than your category budgets combined.
+
+We’ll be sharing tips on how to use Monzo to budget and manage your money. Tell us what you’d like to see and share your own advice with us in the community!

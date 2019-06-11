@@ -1,0 +1,43 @@
+Title: You can now switch energy supplier through Monzo!
+Author: Benji Portwin
+Position: Product Manager
+Date: 8 May 2019
+
+
+According to energy regulator Ofgem, more than half of consumers are on poor-value default tariffs, and more than 60% of people have only changed energy supplier only once, or not at all.
+So we’re rolling out the option to switch energy suppliers in just a few taps, straight from the Monzo app!
+
+
+
+You can switch to a different energy supplier, through Monzo
+We’re launching with two energy suppliers: OVO Energy and Octopus Energy.
+Both companies offer renewable energy, and meet our high expectations for customer service and fair pricing. In fact, OVO was named uSwitch energy supplier of the Year this year, while Octopus was named Which?’s recommended energy supplier this year.
+They might not always be the cheapest on the market, but we’ve chosen them because they offer competitive pricing with the level of customer service you expect.
+
+
+
+How to get started
+We’ve started rolling out the option to switch energy provider to our customers today. You’ll see a message about the feature at the top of your home screen once it’s ready.
+You can start a switch in a matter of minutes – just under six on average!
+
+Enter a few details about your home and the type of meter you have
+Choose from the quotes provided by our trusted suppliers (and get a more accurate quote if you tell us your energy usage)
+Choose to pay from your personal or joint account
+
+We’ll send your information to your chosen supplier and they’ll handle the switch for you. That’s it!
+Not ready to switch yet? You can set yourself a reminder to review your energy tariff when the time’s right, so you don’t forget when your existing contract expires!
+Once you’ve switched through Monzo, we’ll keep an eye on the energy market and let you know if anything changes that means you aren’t getting a fair deal.
+
+
+
+We want to give everyone the option to switch through Monzo, but in the first version of this feature there are still a few exceptions:
+
+
+If you pay for your energy using a prepayment meter, we won’t be able to help you switch energy supplier through Monzo yet, because the process is a bit trickier behind the scenes. But you can still sign up with OVO Energy or Octopus Energy directly through their sites.
+
+If you live in Northern Ireland this feature won’t work for you, as Northern Ireland has its own energy supplier market and we’re yet to partner with any providers there.
+
+What’s next?
+We started testing energy switching earlier this year, to find out if a feature like this would be useful, what you wanted from it, and if you trusted us to help you switch. Your feedback on our first version was promising, so we made some quick improvements before bringing the feature to everyone.
+Giving you a convenient way to get a good deal on your energy is just the beginning. We want to take away all the anxiety and painful admin involved in making the most of your money. To make every Monzo customer feel financially savvy, without having to think about it.
+So we’ll be working on more features that simplify your financial life and save you money. Keep an eye out for what’s next and keep sharing your feedback and ideas in our community!

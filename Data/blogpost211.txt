@@ -1,0 +1,64 @@
+Title: How to manage your bills with Monzo
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 15 Aug 2018
+
+
+Using Monzo to manage your bills is easy. Here are five ways we can help you keep track of your bills and other regular payments.
+
+
+
+See what you need to set aside for bills, and the disposable income you have left to spend
+The Summary tab in your app gives you an overview of your money.
+It works out how much of your money goes on things you need to pay, like bills, rent or mortgage payments, and subscriptions to stuff like Netflix. We call this your ‘committed spending’.
+We’ll also show you how much you have left to spend each month on other things, like eating out, shopping or going on holiday! You’ll see what you spent on each category, and can set budgets for each one.
+To track your spending from payday to payday, just tap “This Month” at the top of the Summary tab to tell us the last time you were paid.
+
+
+
+Keep track of your regular payments
+Head to the Payments tab in your app and look under the Scheduled Payments section. There you’ll see an overview of all your Direct Debits, standing orders and other recurring payments (like subscriptions to Netflix or Spotify). We show you the amount, the frequency, and predict the date you’ll next be charged.
+
+
+
+You can also manually add other card payments that you make regularly (like if you use YouTube Music, for example). Just find the last payment you made to that merchant and tap to turn on the “Repeating payment” switch.
+We’ll even show you tomorrow’s upcoming Direct Debits at the top of your feed, so you can see exactly which bills you’re scheduled to pay the next day (or on Monday if it’s the weekend).
+
+
+
+We predict your committed spending for the month ahead
+To help you understand how much money’s coming out (and avoid any surprises), we use last month’s regular payments to predict how much you need to factor into your committed spending each month.
+For example, if you paid £20 last month by Direct Debit to your energy provider, we’ll factor £20 into your committed spending this month.
+You can see these predictions in the Summary tab.
+We’ll tell you when a regular bill changes
+Direct Debits are flexible, which means the amount you’re charged can change each month. Sometimes your Direct Debits are fixed amounts (like council tax or gym memberships). But sometimes the amount you pay can change (like with your gas and electricity bills).
+To help you keep track of your regular Direct Debits, we’ll let you know if one of them changes.
+So if your energy provider raises their prices, or you rack up a big phone bill while you’re away, you’ll immediately know how much it’s cost you, as soon as the money goes out of your account.
+
+
+
+Try again when a Direct Debit fails
+We show you tomorrow’s Direct Debits, to help you prepare when you need to make a payment. But if we try to take a Direct Debit in the morning and you don’t have enough money account, we’ll try to pay it again at 2pm the same day.
+You’ll see the first attempt in your feed, as well as the afternoon’s upcoming retry. And you can manually retry a failed Direct Debit before then, by tapping the button on the transaction screen.
+This’ll help you avoid missing payments, and eliminate the admin of trying again when you do.
+
+
+
+Automatically set money aside to pay for your bills
+Because we predict how much you need to spend on things like bills and rent, you can try setting the money aside in a pot so it’s separate from your spending money.
+You can even schedule payments into pots, to move the money automatically. For example, you could schedule a payment into a pot on the day that you get paid, that sets aside the money you need for bills and rent.
+When you need to make your payment, just remember to move the money out of your pot.
+
+
+
+This is a good way to set money aside so you don’t spend it. But if you do this right now, Summary will tell you that you don’t have enough to cover your bills for the month. We’re working to improve this so you can set money aside for your committed spending while still using Summary to keep track.
+What’s next?
+One of our company goals for the quarter is to make Monzo the best bank account to use as your main account. And we want to keep making it easier to use Monzo to manage your bills.
+Next up we’ll look at letting you schedule withdrawals out of Pots as well, but we’d love to hear how else we can help you manage your bills. Share your ideas in the community forum 💡
+
+Want to go #FullMonzo? Making Monzo your main account is easy with the Current Account Switch Service. Find out more here. Or if you’re reading this on your phone, you can start your switch to Monzo now!
+
+
+      Switch to Monzo Now!
+  
+

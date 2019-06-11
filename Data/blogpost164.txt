@@ -1,0 +1,41 @@
+Title: Introducing the Monzo naming system
+Author: Harry Ashbridge
+Position: Writer
+Date: 6 Nov 2018
+
+
+Which of these two shapes below would you name ‘Ketiti’, and which would you name ‘Manouna’?
+
+
+
+If you’re like the vast majority of people, you’ll call the right one Manouna, and the left Ketiti. Why? Because we associate the K and T sounds with sharp angular shapes, and the M and N sounds with soft round ones.
+It doesn’t stop there. Research suggests ‘E’ sounds make us think something is small (think ‘wee’, ‘petite’ and even ‘baby’), and ‘B’ sounds make us think of explosions (‘big’, ‘boom’, ‘bang’).
+That’s because when you make a B sound it’s a big explosive movement of your mouth – you sort of pop your lips. Whereas to make an E you have to contract your throat, making it smaller. So the physical movement of making the sound affects, at least in part, the meaning we give things and how certain words make us feel.
+That leads us into the weird and slightly unnerving world of naming.
+Companies have known for a long time that the names they give themselves and their products have a big impact on whether people like them, and crucially whether they sell. As behavioural economist Daniel Kahneman says: ‘People don’t choose between things, they choose between descriptions of things.’
+And as the Ketiti-Manouna example above shows, getting it right is more complicated than you might think. Even individual sounds within words can influence how we feel about something.
+To make matters worse, as companies grow they come up with names for more products and features. Alongside making sure that your individual names don’t give people the wrong idea about the product, you need to bear in mind how a set of names fit together and make sure they sound like they come from the same company.
+So a few people together in a room spitballing some names isn’t usually enough to make sure you’re considering everything you need to.
+How do you fix all that? With a naming system. And here’s ours.
+
+
+      Read Our Naming System
+  
+
+As with our tone of voice, we’re making this public because we believe everyone has the right to know how and why we make decisions about the language we use.
+All the detail is in the document, but here’s a quick summary of the key rules we follow when we’re naming something new.
+We keep it brief: no more than two words without a really good reason
+Why? To protect the character count in the app, and because short names are more memorable.
+We make things easy for people: don’t sacrifice clarity for catchiness
+Why? A name that’s intuitively easy to understand is more important than a fun one – but a name that’s both is best of all.
+We use real words: don’t invent abstract names for things
+Why? Because we’re transparent – a name should give some idea of what the thing is.
+We respect our name: no riffing on Monzo
+Why? All of the things we create and release are part of Monzo, and shouldn’t compete with or dilute our name.
+We use words customers use: strictly no financial jargon
+Why? Because we don’t use any elsewhere.
+Caveat! Some bits of jargon are so widely used that we risk making things more complicated if we avoid them altogether. For example, ‘Direct Debit’, or even ‘ISA’. But we should always have the debate about common terms before we use them, to see if there might be a better way to frame things.
+We avoid aggressive language: no military metaphors
+Why? We’re positive, friendly and inclusive. They’re just not Monzo.
+We don’t mush: no sticking words together
+Why? We can’t do it with every name, so it leads to inconsistency.

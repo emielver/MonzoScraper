@@ -1,0 +1,70 @@
+Title: Joining Monzo as a backend engineer
+Author: Kieran McHugh
+Position: Backend Engineer
+Date: 28 Jun 2018
+
+
+In the last three months, we’ve hired a whopping 30 backend engineers, and most of them are already getting stuck in and making a big impact on our product. In the next few months, we’ll be welcoming even more backend engineers to the team, to work closely with our mobile engineers, product designers, and product managers to build awesome features and help us move even faster.
+If you’re thinking of applying to Monzo or you’re just about to start, here’s what you can expect in your first few weeks – from getting your offer and choosing your kit, right through to your very first day when you start learning the ropes!
+Getting your offer
+Congratulations! You’ve made it into Monzo!
+Once you’ve made it through the application process and we’ve offered you a job, we’ll send you a formal offer along with some important documents. You’ll get your contract, information about our benefits, and a guide on ‘How to Monzo’, which tells you everything you need to know about how we operate. We’ll ask you to review these documents and answer any questions you might have.
+You’ll also find out your salary and choose how many share options you’d like, depending on your risk appetite.
+Getting set up
+Once you’ve signed your contract, we’ll set you up with a Monzo email address, a calendar, and access to Slack, and ask you to introduce yourself in our “Welcome to Monzo” channel.
+You’ll be able to see your schedule for your first few weeks, and get to know your colleagues before you start. You can even join our Slack discussions and read weekly email updates from each team, but feel free to do this as much or as little as you like!
+We hope getting access to everything before you begin might help take away some of the inevitable uncertainty and stress of starting a new job.
+We’ll also introduce you to your manager and your team lead over email. You can find out more about what each role means and how they’ll help you here.
+We’ll pair you up with a buddy, who’ll help support you through your first few weeks. They’ll answer any questions you have and help you settle in. Your buddy might be an engineer as well, or they might have a completely different role. Let us know if you have a preference!
+Choosing your kit
+Before you join, we’ll ask you to choose the equipment you’d like to use. Tell us the laptop, monitor, keyboard, and mouse or trackpad you’d prefer and our Technical Operations team will make sure everything’s ready when you start!
+Most of our engineers use a 13” or 15” MacBook Pro (with Touch Bar, of course!), and an LG UltraFine 5K display.
+Your first day
+On your first day, your manager and team lead will treat you to breakfast on us. It’s a nice chance to get to know them both and fuel up for the day ahead!
+After breakfast, you’ll meet up with your buddy who’ll give you a tour of the office and make plans for lunch. Then, our Technical Operations team will set you up with your new kit and make sure you have access to all the right systems.
+You’ll also introduce yourself to the rest of the company at our weekly All-Hands meeting, which happens every Wednesday.
+
+
+
+Introduction sessions
+To help you get to grips with what’s going on, you’ll attend a range of different induction sessions in your first couple of weeks.
+Monzo is a company of more than 300 people. So we can work effectively together, we all need to understand what each team does, and how our work fits into the bigger picture. From Marketing to Legal, and Payments to Platform, you’ll be introduced to each team and learn about what they do.
+You’ll also go to other sessions to make sure you have the context, skills and information you need to get started. Here are some of my favourites:
+
+
+Getting useful feedback — Giving and receiving timely, actionable feedback is deeply ingrained in our culture. You’ll get some practical tips on how best to go about getting and giving good feedback.
+
+Being a bank — Deputy CEO Paul explains how we got our banking licence and what it means to be a bank. He also offers lots of wisdom on our relationship with the regulators and the important role they play in the industry.
+
+Writing slightly betterly — Writer Harry explains Monzo’s Tone of Voice, and offers tips that even the most astute communicators will find useful!
+
+The history of Monzo — Our co-founder Jonas shares some hilarious inside stories about the early days of Monzo, and explains why we first started on our mission to make banking better.
+
+Every new joiner is also trained to support our customers through in-app chat. As an engineer, speaking to our customers really reminds us who we’re writing software for, and helps us understand how they’re using Monzo every day.
+Training for everyone
+Working in a bank is a big responsibility. Every day, millions of pounds flow through our network, and our customers depend on us to look after their money. We’re tasked with protecting our customers from financial crime, and being there whenever they need help, day or night.
+Backend engineers design, write, and maintain the services that allow our product – and the rest of the business – to operate effectively. This means we need to make sure all engineers who join us are equipped with the right training and skills.
+It’s especially important because a lot people at Monzo have never worked in a bank before. (Source: this super-scientific straw poll!)
+
+
+
+So, during your first couple of weeks, you’ll complete some training in your own time to learn about how the bank operates, what’s expected of us, and what all those new acronyms mean!
+Learning the ropes
+We know that starting a new job can be daunting: you don’t know anyone, and you might be completely unfamiliar with the tech stack. So you’ll also be paired up with another engineer for your first two weeks, or longer if you like.
+Your partner will guide you through the process of designing, building, deploying, and maintaining backend services on our platform.
+They’ll teach you the ropes in a way that works best for both of you, and we give each engineer the freedom to choose the work you’ll do together, and how you’ll get it done.
+I’m a big believer that the best way to learn is by jumping in and designing some new services from scratch, so when I work with new engineers I prioritise these things:
+
+Making sure I have a good project planned before they arrive.
+Adding them to the right Slack channels so they can find the context and information they need.
+Making sure they have all the permissions they need to do their job, including access to our AWS and GitHub environments, and permissions to deploy code in production.
+Completing our Engineering Onboarding Checklist to set up their development environment. This checklist covers how to set up the software we need to write, build, and deploy software.
+Going through the basics of our technology stack, and explaining how we structure code.
+Learning how to review code and spot common pitfalls.
+And, crucially, getting some new services into staging and production as soon as possible!
+
+Working and learning together like this is much more interesting and much more useful than sitting in a classroom or following a rigid training course. It also means you can start working on real projects and make impact from day one.
+By taking this approach to learning, we often find that even engineers who have no experience with any of the technologies we use become valuable, independent contributors really quickly.
+
+Whether you’ve just joined a new organisation or are in charge of onboarding new starters, we’d love to hear your experiences. Join the discussion in the community! 📣
+We’re looking for more backend engineers to join us, to help us build the best bank in the world! Find out more about the role here.

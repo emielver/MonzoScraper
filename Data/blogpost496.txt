@@ -1,0 +1,19 @@
+Title: Crowdsourcing Merchant Data
+Author: Tristan Thomas
+Position: Community Manager
+Date: 11 Apr 2016
+
+
+
+
+
+Every time a Mondo user makes a purchase, our system tries to find a match for the retailer elsewhere on the internet so that we can provide ‘enriched’ information on every transaction. We want to provide the correct name, location, category and logo on every purchase a user makes as one part of our approach to making banking easier to use and more accessible. Once we find a match for the retailer, we store the details so we can display that information to Mondo users who purchase from them in the future.
+However sometimes we can’t immediately find a match. That happens for a variety of reasons, but generally involves newly setup retailers, merchants that have set up their point of sale units incorrectly or shops in foreign countries where we have less data. When that happens, your Mondo feed looks much less pretty and much more like your legacy bank!
+Today we are launching the first version of our merchant data crowdsourcing initiative with our most recent App Store update. Every Mondo user can now instantly provide us with feedback on the transaction data we display and provide us with the correct information. Using the Google Maps database, as well as extra sources like retailer websites and Twitter accounts, a Mondo employee will review every crowdsourced suggestion and make any required changes. We will also automatically review popular merchants once more than five people have purchased from them to expand our coverage and reduce effort for users.
+
+
+The new merchant feedback flow in four taps
+
+This is the very first version of our merchant data crowdsourcing efforts and we have lots of plans to improve and expand on it in the future. Please let us know what you think and any suggestions you have in the dedicated thread on the community forum.
+
+We recently updated our name to Monzo! Read more about it here.

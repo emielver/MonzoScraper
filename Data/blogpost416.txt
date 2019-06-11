@@ -1,0 +1,36 @@
+Title: Meet Dan: Software Engineer
+Author: Naji Esiri
+Position: Community Manager
+Date: 6 Apr 2017
+
+
+
+
+
+Dan spends his time improving our internal tools to ensure customer support interactions are seamless and easy to manage.
+
+
+What do you do at Monzo?
+I’m a software engineer here, and I work on tools that help the Customer Operations team at Monzo do their jobs, especially all the wonderful people that  look after our customers day to day. If we want to help people as efficiently and effectively as possible, good tools and processes are very important!
+How did you get into engineering?
+I studied Music Technology at university after an unencouraging time at school with computers (a situation I hear could have been better following changes to computing education in the UK). I’d taught myself some bits of programming over the years, starting with QuickBASIC as a kid, and I’ve worked my way up. Before Monzo I worked at a digital product consultancy called Made by Many where we designed and built products from start to finish. It was a very interesting view of the whole process, and a great bunch of people. Before that, I worked for a small communications technology company called Wireless Innovation. My role was varied, involving everything from running existing services to interfacing with new, odd hardware to manage the office network. Both jobs taught me a lot! I’m not sure programming is my life’s ambition as such, but I’ve always been fascinated by it, I have some amount of talent for it, and it allows me to be involved in interesting things 🙂
+Can you tell us a bit about what you’re working on this week?
+I’m working on our internal task queue, improving it so that we can slice and dice the stream of tasks more effectively, sending them to the right person, and making them more searchable. Internal tasks include things like investigating incorrect merchant data or verifying a customer’s identity.
+Who do you work with most, and how does your team run?
+I work mostly with Ed, Irina, Fred, Robin, and Valerio who make up the Internal Product team I’m part of, along with Leah and the rest of our Operations team. I usually focus on new improvements to our tooling on the front-end user interface and the platform that sits behind it. Our team runs a Kanban-style task board, and we have a chat about it every Monday morning to make sure nothing’s fallen off the radar. On Fridays we review the week to note things that have gone well and see if there’s anything we can improve on. I think it works pretty well!
+What are you excited about working on over the few months?
+I don’t tend to approach my work with a long term viewpoint — I’m always just interested in how to make things better than how they are now, and to react to changing requirements. We have, however, started on some significant improvements to our internal task queue. I’m also looking forward to helping the rest of the engineers contribute more easily to the tools we build.
+Why do you think it’s important to have an engineering team dedicated to tools for internal use specifically?
+If your organisation has as much (or more!) going on behind the scenes as Monzo does, you need one. The way your organisation works internally isn’t separate to your external face; they mesh closely with each other.
+What impact does your work have on the final customer experience?
+A top complaint I and many others have about existing banks is the standard of customer service. Even if it is polite and friendly, many of the actual processes seem stuck in the 80’s. We can vastly improve customer service – either by improving the experience when you get in touch, or building things that negate the need for you to get in touch with us in the first place.
+What three words would you use to describe Monzo (the team / company / culture)?
+Excited, bright, caring.
+What do you do for fun?
+I dabble with musical things, on the piano and other electronic bleepy things. I make fun noises, record them, and then don’t get around to making them into songs because my attention span is poor. I read too much about politics, and then some fiction as a pressure release. I get our cat to chase a laser pointer. I watch silly things on Netflix because the rest of the world is a bit much sometimes, isn’t it? I’ve been getting into calligraphy (I’m not very artistic otherwise). I get lost in Wikipedia, especially in linguistics topics. I really like art galleries.
+If you weren’t at Monzo, what would you be doing?
+If I’d had artistic talent growing up, I’d have at least tried to study typography; I’ve always loved writing systems. I’d love to be a traditional sign writer, the kind that is not at all in demand these days!
+Tell us something unexpected about you
+In a previous life I was in a church choir, and I believe I’m still technically a Bishop’s Chorister (I have the purple ribbon to prove it!). I’ve long since left the church, but really miss the repertoire.
+Links
+I’m @stompydan on Twitter so follow me if you like! I mostly retweet people who are more eloquent than me.

@@ -1,0 +1,51 @@
+Title: How international payments work: Sending money across Europe
+Author: James Berry
+Position: Payment Scheme Manager
+Date: 24 Jul 2018
+
+
+Sending or receiving money from abroad means moving money from one bank account to another. This sounds simple, but because the banks are in different countries, it’s done a little differently.
+We explain what happens behind the scenes as your money moves around the world. And first up, we’ll focus on sending Euros around Europe!
+
+
+
+SEPA helps you send and receive money across Europe
+When you transfer money across borders in Europe, there are a few different ways your bank can actually move that money from one account to another.
+A type of bank transfer called a SEPA Credit Transfer is the most common method banks use. They’re usually what happens when you transfer Euros between different countries in Europe.
+What is SEPA?
+The Single Euro Payments Area (SEPA) was set up to make it simpler to move money around Europe. Sending Euros between bank accounts in different countries in the area is now as cheap, secure and fast as sending money between accounts in the same country.
+It lets you pay for services in any other SEPA country, without setting up a bank account there. And you can use it whether you’re a business or an individual.
+It includes most countries in Europe
+The EU’s 28 member states (including the UK) are all part of SEPA, along with members of the European Free Trade Association, plus Monaco and San Marino for good measure!
+It means moving money around the continent is quick, secure and cheap
+Before SEPA was created in 2009, each country had its own rules and fees for processing payments. Because the system was so fragmented, customers would be charged wildly different prices for sending money around Europe, depending on the country you were sending money to and from.
+Now, because most countries in Europe use the same system, you can move money around the continent quickly, securely and for a fair price (if not for free!)
+There are various payment schemes within SEPA, that let you make most of the payments you’ll be familiar with from the UK, like Direct Debits, bank transfers (called SEPA Credit Transfers) and Instant Credit Transfers (almost-instant payments, a lot like Faster Payments in the UK).
+An IBAN identifies your account around the world
+An International Bank Account Number (IBAN) is a unique identifier used to distinguish your personal bank account from any other bank account around the world. You need it to make a payment to or from any country outside the UK.
+Every single bank in Europe and around the world also has a Bank Identifier Code (BIC). This code identifies the financial institution and its location (sometimes down to a specific branch). It’s unique to each bank and used to identify it around the world.
+You can combine your bank’s BIC with its sort code and your account number to generate an IBAN, like this:
+
+
+
+What actually happens when you make a payment?
+When you make a transfer between two different bank accounts that are both connected to SEPA, you move money between the accounts of each bank.
+This process involves two key parts: clearing and settlement.
+
+Clearing is the process of arranging for a payment to be sent
+Settlement is the act of actually transferring the payment between the two banks’ accounts
+
+Clearing is facilitated by a financial institution called a clearing house, and settlement happens through a settlement system. Individual banks access the settlement system by holding a ‘settlement account’ at one of the national central banks within SEPA.
+Here’s an example
+Take Tom and Anna. They live in two different SEPA countries, and have accounts with different banks. Tom wants to transfer €10 to Anna, so he sends the money from his bank account and it arrives in Anna’s the next day.
+A few things happened behind the scenes to get the money from his bank account to hers.
+
+Tom’s bank sends a message to the clearing house to ask them to move €10 to Anna’s bank.
+A few times each day, the clearing house will take all the payments people want to make to and from each bank, and work out how much each bank needs to be debited or credited overall. The right amount of money is then moved to or from each bank’s settlement account.
+As part of this process, Tom’s €10 has been transferred to Anna’s bank, which then makes sure the money is credited to Anna’s personal bank account.
+
+Tom and Anna both have IBANs, which let banks identify their personal bank accounts and make sure the money’s debited from and credited to the right accounts.
+Tom’s bank and Anna’s bank also both have BICs, which they use to send messages between banks.
+With help from SEPA, the money’s moved from Tom’s account to Anna’s in just one day!
+
+We hope you found this useful! To find out how you can send and receive international payments through Monzo at the moment, and what we’re doing to improve it in the future, read this!

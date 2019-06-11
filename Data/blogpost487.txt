@@ -1,0 +1,32 @@
+Title: Ask Us Anything -  Join the Conversation on Our Forum
+Author: Bailey Kursar
+Position: Head of Marketing
+Date: 3 Jun 2016
+
+
+Today we’re taking the next step towards opening out our community forum. We’re linking every post here on the blog to conversation threads in the forum to make it even easier for you to comment and ask questions.
+
+
+
+As you might have already gathered, we love hearing your feedback. And you seem to love giving it!
+You Speak, We Listen
+Since we launched the forum back in November, over 2,500 people have signed up as members. On an average day we see around 250 people visit the site to browse or contribute. Every member of the Mondo team is also an active member (some very active!), and as far as possible we try to incorporate your ideas into our roadmap and take any views on board.
+Just as an example, take the product roadmap that we made public on Trello last week. That was a great idea raised by community member SladdinCJ about a month ago. A couple of weeks back, jzw95 asked us why we displayed a 💵 rather than a 💷 whenever we display emoji against a cash withdrawal transaction. Was it a secret plot to get the whole world using dollars? Nope, just an oversight. Within a couple of days Matt, on our engineering team, had pushed a fix live.
+Now, wherever you withdraw cash, anywhere on the planet, we try and use the most appropriate emoji. Thanks jzw95! 💷 💵 💶 💴
+We also use the forum to give our community sneak peeks on upcoming features and projects. This week our Head of Design, Hugo Cornejo, posted some early designs for the Android app which is proving a pretty popular thread. You can even read juicy details on how to get a banking licence, courtesy of our Deputy CEO, Paul Rippon.
+Get Involved
+If you’re not already familiar with the forum, it might look a little intimidating. We get it. After all, there are now over 4,500 posts grouped into 750+ topics.
+If you’re new, a great place to start is with the hottest topics this week. You easily see what everyone’s currently talking about, pick whatever you’re most interested in, and then read the existing comments. Show your fellow forum members some love by liking their comments, and submit replies when you want to ask questions. To add to an existing thread, use the red Reply button on the right or at the bottom.
+If you have a specific idea, or want to give us some product feedback, the best thing to do is to search for similar terms or phrases using the search bar in the top right hand corner. You’ll then see a list of all the existing posts so that you can judge where your comment might sit best.
+
+
+
+Search is also great if you’re just looking to be nosy. Want to read about some Mondo travel experiences? Search for ‘travel’. Wishing we had custom categories? Search for ‘category’ and you can read about the work we’re doing there.
+Also, as of today, you can now interact with the forum via any blog post. Simply scroll to the bottom 👇👇 to view the comments section. Over on the forum, we’ll try and make sure all threads related to the blog post are linked to the discussion, so you can get up to speed on that topic as easily as possible.
+Ask Us Anything
+If you have questions for the Mondo team, you can always find us on the forum. Don’t know who to ask about what? Recently we started a thread where each of us took turns writing a daily diary, and it’s a great place to read about what everyone is working on. From engineering to design, operations to product management, hiring to support - we now have people in our team doing all kinds of exciting and interesting things.
+Really want to grill us? We’re hosting a special live Q&A with our CEO, Tom, next week. Join us on Twitter and Periscope on Thursday 9th June at 12.30 using #AskMondo. Want a reminder on the day? Fill in this form.
+PS. We’ve just updated the design for our blog too! We hope you like it 😀
+Shameless plug - we’re hiring a Community Manager! Think you have what it takes? Apply here.
+
+We recently updated our name to Monzo! Read more about it here.

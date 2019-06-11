@@ -1,0 +1,62 @@
+Title: The First Mondo Hackathon
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 1 Oct 2015
+
+
+
+
+
+A few weeks ago we released the Mondo API, allowing people to access their Mondo banking data. APIs let developers build systems that can talk to each other without human intervention. If you’ve ever used Facebook to log in to another website or given an app access to your Instagram photos, you’re using something built with an API.
+The last few years have seen a huge growth in interest in banking APIs, with the Treasury recently leading the Open API Standards consultation and a change in European Law called “PSD2” on the horizon. These APIs have the potential to cause an explosion of tools and add-ons built on top of your bank account, integrating with the apps you use every day.
+A week and a half ago we hosted our first ever hackathon at Mondo Towers. 20 developers and designers assembled to see what they could build on top of the Mondo API, fueled by pizza, wifi, and a love for banking APIs.
+Our next hackathon will be in November—sign up for places now!
+Here’s a look at what they came up with!
+
+Mondo—Uber Integration by @dingwallr
+
+
+
+
+Every time you take an Uber trip and pay with Mondo, this app annotates the transaction with a map of your journey. When you open that transaction within your Mondo account, your Uber trip map is immediately visible.
+This concept can be expanded to a whole range of loyalty and membership data using the Mondo API—pull in your Amazon receipts or update your transactions with Clubcard or Nectar points when you shop in a supermarket.
+
+Expense Reporting by @iNeil and @t_blom
+
+
+
+
+This tool takes all transactions tagged #expenses, and produces a monthly expenses report to send to your company’s finance department. It will even let you take photos of your receipts and attach them to transactions. Down the road, we’ll look to support integrations with popular expense reporting software.
+Perfect for anyone who travels with work or has to entertain clients—no more manual expense submissions!
+
+Mondo Map by Alvis Duong and Tony Qin
+
+
+
+
+Plot your transactions on a map of your home city, using the merchant’s geolocation data and logo, available on every transaction in Mondo. In future, the developers plan to integrate web hooks to generate a real-time spending map across London which updates as you spend.
+
+Mondometer by @simonvc
+
+
+
+
+A physical “Internet of Things” money-meter, made on a 3D printer. The gauge shows “Full” when you’ve just been paid, and then moves down towards “Empty” as you spend money. Real-time web hooks mean the gauge updates the second your balance changes.
+
+Zeet by David at @ZeetCo
+
+
+
+
+Zeet pushes receipts from physical and online points-of-sale into banks statements when making a card payment. This example shows a purchase from a furniture shop appearing in the Mondo App. The Zeet technology doesn’t require any changes to the banking system—it’s a simple merchant integration. This opens up opportunities from proof of purchase for insurance claims through to fully automated accounting.
+
+Apple Watch Integration by Tim Duckett
+
+
+
+
+Check your balance from your shiny new Apple Watch! See the balance change in real-time, using a web hooks integration and know when to stop spending.
+We’d like to say a huge thank-you to everyone who came along—we had a great time hosting you all and got some great feedback.
+Our next hackathon will be in November—sign up for places now!
+
+We recently updated our name to Monzo! Read more about it here.

@@ -1,0 +1,47 @@
+Title: The Monzo Current Account Preview comes to Android!
+Author: Tristan Thomas
+Position: Head of Marketing & Community
+Date: 7 Aug 2017
+
+
+Three weeks ago today, we announced the beginning of the Monzo Current Account Preview, with which we began the slow rollout of our current account. This has gone really well so far and as of this minute, 676 people are helping us put the current account through its paces having come to events at our offices to get their new debit cards.
+When we announced the Preview, it was only available on iOS and we were working to bring the Android app up to speed as quickly as possible. Today, we’re extremely excited to announce that Android users can register their interest in the Preview and get involved! 🎉
+All of the same caveats still apply as before and you must fully read this blog post if you’d like to register. To recap:
+What’s in the Monzo current account on Android?
+
+
+Sort code and account number, so anybody can send you money and you can receive your salary directly into your Monzo account
+
+Faster Payments, so you can send money to any other UK bank account with a sort code and account number — it will arrive within two hours but most payments only take a few seconds
+
+Direct Debits, so you can pay regular bills like rent, utilities and phone contracts
+
+Standing Orders, so you can set up regular payments out of your account for things like rent payments
+A Mastercard® debit card, so you can spend anywhere that accepts Mastercard around the world, with a direct connection in to Mastercard
+
+FSCS protection, up to a total of £85,000 eligible funds
+
+We’re still working on some parts of the account and so, for now:
+
+
+Monzo to Monzo payments through the Contacts tab do not work.
+
+Topping up your account by debit card, Apple Pay and Android Pay will not be available.
+
+Monzo.me does not work.
+
+Customer support through the in-app chat will initially only be available from 9am–6pm on weekdays when more people are available to help diagnose and fix issues. It will also take us longer to resolve your problems because we’ll need to investigate issues we’ve never seen before. By the time we launch more widely, we aim to have 24/7 support, just like now.
+The debit card you receive initially with the current account will need to be replaced at some point later this year with an updated version.
+You will download a separate Monzo app for the current account and your existing prepaid card will continue to work like normal. In the future, you’ll be able to use just one app and close your prepaid account.
+The Android app doesn’t have all of the existing features of the iOS app (like the Pulse or Targets). For now, these features are a lower priority than getting everything else ready for the current account.
+
+These are the main limitations currently and we’re working hard to bring all of these features over to the current account as soon as we can. We plan to have everything ready when we launch fully later this year.
+How do I get an account?
+We’re running events in our offices every week to give out the current account to as many people as we possibly can! For now, that means you’ll need to be in London or able to travel to London if you’re invited to an event. We’ve even got some events coming up with only Android users coming, which should be fun.
+In the future, we’ll be able to post cards out and we’re exploring running events outside of London too. From the pool of customers who have registered their interest and are happy to deal with the limitations, we’ll invite people to sign up over the coming weeks and months.
+Registering your interest does not guarantee you a current account immediately. Depending on how many people register, we may not be able to give you an account for a few months.
+If, having read all of the details above and everything in the blog post here, you’d still like to register your interest, please fill out the form below and we’ll be in touch!
+
+Register Interest   (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() 
+
+Thank you! We can’t wait to get as many Android friends on board as we possibly can 🤖 ❤️

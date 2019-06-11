@@ -1,0 +1,26 @@
+Title: Fighting Fraud with Machine Learning
+Author: Daniel Chatfield
+Position: Lead Security Engineer
+Date: 3 Feb 2017
+
+
+Financial crime costs the UK £52bn each year. At Monzo, we dedicate a lot of effort to detecting and preventing all types of financial crime, and work closely with the police and National Crime Agency to help prosecute criminals.
+We launched a prepaid debit card in November of 2015 whilst working to become a fully authorised bank. These cards can be topped up using another debit card and then the money can be spent as normal in shops and online. There are now more than 100,000 of these cards in issuance.
+Like any business that accepts card payments, we are susceptible to card fraud. A criminal can purchase stolen card details online, top up a Monzo card, and then spend that money that originally came from a stolen card in a shop or withdraw cash from an ATM. We will then later receive a chargeback from the real cardholder and are therefore out of pocket for that amount. Prepaid card schemes are especially attractive to criminals for this reason — it allows them to convert stolen card details into a physical card very easily.
+Over the last six months we have significantly reduced our rate of fraudulent top ups using a combination of rules and machine learning based fraud systems. Our fraud prediction model is built using Google’s Tensorflow library and analyses a large number of metrics including links between users and behavioural patterns.
+The current rate of fraud is an order of magnitude lower than the financial services industry average.
+
+
+
+3D Secure
+3D Secure (MasterCard SecureCode or Verified by Visa) is an additional step in the payment process that an acquiring merchant can decide to enable. If enabled, the customer will be redirected to the bank that issued the card for further authentication. This typically consists of entering several characters from a password. Transactions that go through 3D Secure can’t be charged back to the acquiring merchant because the bank that issued the card is doing their own authentication as well. Instead, liability for fraud is normally shifted to the issuing bank. Despite the benefits of 3D Secure, merchants are often reluctant to use it because of the poor user experience.
+When a Monzo card is topped up with money from another debit card, Monzo is the acquiring merchant for that transaction. We don’t want to require all of our users to go through 3D Secure every time they want to top up because it’s a poor experience. Instead, our fraud engine makes a decision based on how risky it thinks a particular top up is and only puts a small percentage of top ups through 3D Secure. Our fraud engine is now sufficiently accurate that monthly financial losses are less than 0.01% of the total top up volume, compared to a high of 0.84% in June.
+
+
+
+False Positives
+We want to build the world’s best bank, and that means we need to combat financial crime in a way that doesn’t impact our genuine customers. One metric we keep a very close eye on is the number of false positives, where we mistakenly ban a genuine customer. In May and June of 2016, we were banning 6 genuine users for every 3 fraudsters where as now we ban only 1 genuine user for every 3 fraudsters. We are pretty happy with this result but will continue to look for ways to reduce this further.
+
+
+
+Financial crime is always evolving and we have to continually work to stay one step ahead. Transparency is very important to all of us at Monzo, we are looking forward to sharing more information in the future about how we protect your money and fight financial crime. If fighting fraud is something you’re interested in, or if you have any questions then please get in touch via Twitter, the community forum or by e-mail at [email protected]

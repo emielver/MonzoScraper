@@ -1,0 +1,83 @@
+Title: How we put together our progression frameworks
+Author: Emma Northcott
+Position: Org Scaling
+Date: 7 Feb 2019
+
+
+We’ve been putting together progression frameworks for all the different disciplines across the company. They help us make sure we’re taking a consistent approach to the way we evaluate and pay our staff, and help people understand how to progress in their work.
+Last month we launched progression.monzo.com, a public site where we’re collecting all our frameworks. And it’s been amazing to see the community’s reaction!
+
+
+
+But what does it take to build a progression framework? And how do you put them into practice? For other companies considering introducing something similar, here are the five steps we followed.
+We’ve also just redesigned the site to make it easier for everyone to use the frameworks. So head to progression.monzo.com to find the ones we’ve put together so far!
+
+
+      progression.monzo.com
+  
+
+Step 1: Understanding our organisation
+To help us understand how our company works, we started by drawing up it’s structure. Up until this point, we had loosely structured ourselves as a matrixed organisation, inspired by many of the concepts Spotify uses in their engineering culture. This means we work in cross-functional teams (of engineers, designers, product managers etc.), each focussed on a different project or feature. We wanted to make this structure official, and find out how to improve it.
+Our goal was to give everyone a place in a vertical (the work they’re doing day-to-day) and a horizontal (the discipline they’re in).
+For example, take a backend engineer working in our lending squad. Day-to-day they might work on lending products and report to our Chief Credit Officer. But because they’re a backend engineer, they’d also be managed by an engineering manager, sit on the engineering horizontal and use the backend engineering framework to measure their progression.
+What we discovered:
+
+We identified areas that fell between the cracks, and were able to assign clear ownership of different domains. For example, we have a squad that works on collections, reaching out to customers who owe Monzo money. They were working somewhere between our operations and lending teams, but they now sit within the lending team and report to our Chief Credit Officer.
+There are a handful of people in the company that we couldn’t map to a discipline, because they’re the only person doing a very specific job. These people are an exception to this structure.
+
+Stage 2: Reviewing existing frameworks
+Before we started making formal progression frameworks for the whole company, a few teams had already created their own. So next, we took a look at all the existing frameworks to understand what they included and how they worked.
+What we found out:
+
+
+Some disciplines had them, some disciplines didn’t. Because they’re bigger and have more people to organise, larger disciplines (like operations or engineering) tended to have more structure than small ones.
+
+Disciplines that had them didn’t always use them. People weren’t sure what level they were on, and managers weren’t using frameworks in discussions about progression.
+
+Some frameworks had more levels than others. The number of levels in each framework varied wildly, between 4 and 8. And the size and range of responsibilities within a discipline tended to have the most influence on the number of levels in that framework.
+
+Similar disciplines were using different frameworks, and weren’t paying people consistently. This means we could be paying people with similar skills different amounts, depending on the discipline they were in. For example, our Hiring and People teams were using two different frameworks, even though the skills you need for these roles is similar. We noticed that this was even motivating some people to move to other disciplines.
+
+Stage 3: Building the generic framework
+The lack of consistency showed us we needed to standardise certain parts of progression frameworks, so we could have clear expectations of people who were working at the same level across the company.
+So we brought future framework owners together to understand what kind of skills, qualities, behaviours and experience they expected people in their discipline to have at each level. We used these to define the five competencies of a ‘generic framework’ and what we expect across each levels.
+Framework owners use this generic framework when they want to update a progression framework or create a new one. They’ve got creative licence to define the key competencies of a framework so they’re relevant to the discipline. But what we expect of people should still be consistent across levels on different frameworks. For example, an operations analyst and product designer at level 3 should both be successfully executing large, complex projects with little support. We can also use the generic framework as a tool to compare frameworks.
+Stage 4: Governance
+Our existing frameworks were really inconsistent because we didn’t have a proper process for creating new ones, or updating existing ones. Each discipline essentially did their own thing. So we had to introduce a system for creating and updating frameworks so they’d stay consistent across the company.
+We’d also grown to a size where the current promotions process for many areas of the business wasn’t scalable. Execs were getting promotions proposals for people they’d never worked with before, which didn’t seem like a sensible process.
+We introduced a Calibration Committee
+Because each discipline was building a new framework, it was a good chance to set up a new process for approving frameworks. So, we established a Calibration Committee (CalCo) which includes all our executives.
+The responsibilities of CalCo:
+
+
+Approving major changes to compensation frameworks. This includes approving compensation for levels and frameworks (not individuals), new frameworks (including splitting and merging of frameworks) and new framework owners.
+
+Monitoring compensation and progression data. Framework owners are responsible for promoting people within their own discipline. But CalCo keeps an eye on how we’re promoting people across the company so we can spot anything unusual, like one discipline promoting people at a much higher rate than the rest of the company.
+
+Approving promotions for people who aren’t on a discipline specific progression framework. This is the only case where we’d bring an individual’s pay to CalCo. If someone isn’t on a progression framework, we’ll bring their promotions or calibration proposal to CalCo. They’ll be represented by their manager, framework owner and the accountable exec for the framework (this may or may not be the same person).
+
+We introduced framework owners
+To make sure the right people were making promotions and calibration decisions, each framework has an owner. These are usually leaders across the company. For example, our VP of Design Hugo owns Design’s progression framework.
+Framework owners have the following responsibilities:
+
+
+Maintaining their framework: Framework owners can make non-material changes to their framework without asking for approval. That includes adding examples and changing relevant tools or knowledge for the role. If they’d like to change the salaries within a framework (usually if market rates have changed) they need to write a proposal and ask CalCo to approve it.
+
+Educating managers and managees. They help managers understand the framework, so they can have accurate, informed conversations with their managees about progression. This helps managees understand where they are on the framework and what they need to do to get to the next level.
+
+Managing promotions within the framework. The framework owner is responsible for deciding whether to promote someone and move them up to the next level on the framework.
+
+We’ve built a toolkit to help framework owners to manage these responsibilities. And someone from the People team goes to all promotion and calibration meetings to make sure the meetings and promotions proposals are made properly.
+Stage 5: Building the frameworks
+Once we worked out the structure, process and tools for progression frameworks, we were able to start building them. So we’ve been helping people across the company create the frameworks for their own discipline. That involves deciding what skills they expect at each level, showing them what data to use to set salaries, and coaching them on how to write a CalCo proposal.  We’ll be adding each new framework to progression.monzo.com once they’re ready!
+What’s next?
+There are a few more things to do on this project:
+
+
+Train all framework owners to add and edit their frameworks on GitHub. We want to make sure all framework owners, regardless of technical ability, can confidently add new frameworks or edit existing ones.
+
+Train all managers to use the progression framework. We’ll be working with our learning and development squad to make sure our managers have the skills they need to have useful conversations about compensation and performance.
+
+Make sure we’re measuring data about our team’s progression. We want to make sure we have the data available to understand progression at Monzo. For example, we should be able easily see the rates that we’re promoting people in each discipline.
+
+As Monzo continues to grow we’ll constantly improve how we manage progression and performance. We’re excited to see how it’ll evolve over time!

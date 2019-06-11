@@ -1,0 +1,48 @@
+Title: Why are foreign card  payments such a mess?
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 15 Dec 2015
+
+
+Making card payments abroad has always been a painful experience.
+For me, the first struggle is the moment I inevitably get my card blocked for fraud. I’m not sure if I’m on some kind of list at my bank, but they seem to block my card every time I land in a new country. At best, it’s a 15-minute international call to get the card unblocked. At worst, it remains blocked for days. I’ve had to survive in a foreign city for 48 hours with less than $4 to spend on food, which is a miserable experience. I’ve tried phoning in advance to leave a note on the account, but it never helps. “The systems just don’t talk to each other, sir.”
+The second problem is the fees and charges. Even worse than getting screwed on foreign exchange is not knowing for several days how hard I’m being screwed. I come back from holiday and look at my statement, wincing. I just can’t understand how it costs so much.
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+Here’s the secret: foreign card payments don’t cost much. The banks have been using them as a hidden profit-centre for decades.
+Fraud
+Card fraud peaked at around 0.14% (or 14p for every £100 spent) of total transaction value in 20041. Card fraud has since fallen to 0.075% (or 7.5p for every £100 spent), largely due to the rollout of Chip & PIN, since the chip is much harder to clone than a magnetic stripe. In 2004 nearly half of card fraud was due to counterfeit or stolen cards, whereas more recently 70% of card fraud occurs when the “cardholder is not present” (e.g. online purchases).
+In a pre-smartphone world, the banks’ standard response to foreign card-present fraud was a fairly simple rule: if you made a foreign transaction, they’d stop your card until you called up to confirm it really was you. It helped solve the banks’ problem, but was a pretty crappy customer experience.
+In the 21st century, we have a wealth of information at our fingertips to help solve this problem in a more customer-friendly way. When you make any card transaction, the authorisation message contains the location of the merchant, often down to the street address. Your smartphone has access to GPS, so it knows where it’s located at the time of the transaction. It’s then trivial to compare the geolocation of a purchase with the geolocation of your phone. If the two locations are within 500m of each other, it’s probably a legitimate transaction.
+If the banks wanted to be even smarter, they’d be able to get the name of the passengers, the date of travel and the destination on any airline ticket you buy. So they can even know in advance that you’re going to be in New York next Tuesday.
+Finally, the response to suspected fraud could be a whole lot better. We’ve heard situations where banks have irrevocably cancelled cards in response to suspected card fraud. They then post a new card out to the customer’s home address, which is not much help when the customer is travelling abroad. Instead, we’ll send you a push notification asking you to confirm any suspicious transaction, using only your thumbprint.
+
+
+
+Fees
+Fees and charges are the second area that really get me worked up. I went to Croatia over the summer and couldn’t believe how much I ended up paying in fees. International calls used to cost the earth until some smart people figured out that it’s just a stream of data that can be sent around the world via the internet for free. Card payments aren’t too dissimilar, except they get sent around the world via the card networks, predominantly Visa or MasterCard.
+There are two main costs to any foreign exchange transaction: a fixed processing fee, and a “spread” on the exchange rate.
+For example, on the 4th December 2015, my bank gave me a rate of 10.47 Croatian Kuna for 1 GBP – around 1.1% off the mid-market rate which hovered between 10.55 and 10.62 on that day – but they then charged me an additional foreign purchase fee of £2.85 per £100. So it cost me a total of £3.95 extra to pay £100.
+At the same time, Travelex.co.uk were quoting 9.88 Kuna for 1 GBP – 7% worse than the mid-market rates. Put simply, for every £100 you spent abroad, you’d be £7 worse off if you changed your money on Travelex’s website before leaving, versus using the MasterCard costs. And this is an online rate – if you wait to change money in the airport, you’ll sometimes see charges of 15%+, even though the money desks will claim “no fees.”
+
+
+
+Some retailers and ATMs will offer what’s called “Dynamic Currency Conversion” – they’ll do the foreign exchange themselves and present a GBP charge to your bank. Every example we’ve seen of this gives the customer a terrible rate – always choose to be billed in the local currency and have your bank do the exchange.
+If you made this payment with Mondo, we’d pass the MasterCard exchange rate straight through to you. This rate is very close to the midmarket rate for most currencies. So if you spend £100 abroad with Mondo, it might cost 5 or 10 pence. We’ll also welcome you on arrival in a new country, giving you the exchange rate at a glance. So foreign payments cost you practically nothing extra.
+I’ve not yet managed to find better exchange rates anywhere else. So enjoy using your card abroad!
+1: Financial Fraud Action Group
+
+We recently updated our name to Monzo! Read more about it here.

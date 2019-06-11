@@ -1,0 +1,14 @@
+Title: Pay people with your fingerprint on Android!
+Author: Kavi Dhokia
+Position: Android Engineer
+Date: 5 Jul 2018
+
+
+One of the last missing pieces in our Android app (that iOS users have) is fingerprint support for paying other people, either instantly to other Monzo customers or through bank transfers and international payments.
+As of today, it’s here! You can now pay other people using just your fingerprint, without needing your PIN (provided your phone has a fingerprint reader).
+
+
+
+To use this, make sure that you’ve updated to the latest app version from the Play Store and then go to Settings (via the Account screen) and hit the ‘Use fingerprint for authentication` switch. It’s as easy as that 🙂 You can always use your PIN if your fingerprint isn’t working for some reason.
+This completes our “Bring Android fully up to speed with iOS” box on The Big List and we’re happy to say that all major features are now the same across both platforms! There’ll always be a few small differences (like custom app icons on iOS and NFC card activation on Android) and sometimes we’ll release features on one platform a few weeks before the other, but overall you should have the same experience — but customised and native to each platform.
+Check it out now and get paying your friends back for those meals!

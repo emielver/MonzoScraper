@@ -1,0 +1,38 @@
+Title: Making Monzo Work in More Places
+Author: Louis Cox
+Position: Payment Operations
+Date: 25 May 2018
+
+
+Since we launched the current account last year, we’ve processed over 50 million transactions, across 1 million different merchants (shops and businesses), in over 160 countries. Still, there are sometimes issues that can cause transactions to fail. Some customers have found that their card doesn’t always work in a certain country, or on a particular website. And others have found that they can’t set up Direct Debits or their account details aren’t recognised.
+While most Monzo customers won’t ever experience this, it’s important that all our customers can rely on us as their main bank account. While these issues are almost always beyond our control, we’ve been working with merchants and our partners to fix them.
+We believe in transparency, so we wanted to shed some light on these issues and what we’re doing to fix them.
+Why payments fail.
+Monzo cards are on the Mastercard network, and should work anywhere that accepts Mastercard. Sometimes Monzo cards get declined when customers try to pay in-stores, online, and at automated machines - even when there’s money in the account. We have solved the main issues here, but we still get a few reports of Monzo cards not being accepted - mainly from businesses outside the UK or online.
+Here’s a few common causes:
+
+BIN Tables
+
+If a business doesn’t accept your Monzo card, in almost all cases it’s because our BIN (Bank Identification Number) and sort code are relatively new, and not updated in every merchant’s system. This means the person or business you’re trying to pay can’t verify us as a bank, and their system rejects the payment.
+The BIN is the first 6 digits of your long card number, and is unique to Monzo. Often merchants, or the systems they use to take payments, will have checks. This means they need to recognise the issuing bank for the transaction to work. If BIN tables aren’t kept up to date, then new BINs, like ours, might not be recognised, and payments fail.
+
+Shops refusing to accept Monzo
+
+There are a few reasons that merchants might refuse your Monzo card. Some still think it’s a prepaid or credit card. The most common reason though, is that a customer has walked off before the transaction has declined. Unlike other banks, our card transactions default to online processing (which we use for things like: instant notifications, spending updates, card freezing, security and much more.) This means our cards can take a little longer to approve or decline. As our cards are so recognisable, it’s understandable merchants refuse them after this happens a couple of times.
+
+Sort code acceptance
+
+Monzo accounts support bank transfers (through Faster Payments), Direct Debits and Direct Credits. If any of these don’t work, then there’s probably a sort code acceptance issue with the business you’re trying to pay. This mostly affects customers who are trying to set up Direct Debits, but we’ve seen other banks fail to recognise our sort code when customers try to make a bank transfers too.
+These issues are mostly caused by out of date sort code tables. Many merchants will check the validity of an account before setting up a Direct Debit. If the table they check against is out of date and doesn’t contain our relatively new sort code, then this can fail.
+How we’re fixing these problems.
+On the face of it, resolving these issues should be simple: get in touch with the business or bank and ask them to update their systems. In reality, it’s not always that easy.
+There are many different steps involved in getting a card transaction approved, or a bank account verified. Each uses a different system or references different tables, that are created and managed by different companies. The merchants probably have very little to do with these third parties day-to-day, so it’s sometimes difficult to figure out where the problem is.
+Even when we find the problem, third parties can take a while to fix it. All in all, this can result in some issues taking months to resolve.
+Limited information can make this even harder. To investigate a card acceptance issue, we need to know exactly when and where the payment was declined. And it’s a lot to ask our customers to remember all that!
+Recently, we received reports customers were experiencing card acceptance issues in Portugal. Unfortunately, most of the reports lacked the detail needed to investigate. We got to the bottom of the issue when Monzonaut, Julio went back to Portugal to visit his family, and rigorously tested his Monzo card! He kept the receipts from successful transactions made with another card after his Monzo card declined. We compared these receipts, and found a common name on all of them - it turned out to be the payment processor. They had not updated their BIN tables, impacting many merchants in Portugal. Even after discovering this, it took months for them to fix it.
+What’s next.
+We have a dedicated member of the team working through acceptance cases raised by customers through our in-app chat. We’ll continue to do this, and encourage customers to get in touch with any problems they come across. Even if it’s a known issue, please do let us know, as new cases are often easier to investigate.
+We also want to help merchants resolve these issues, so we’ve produced a quick fact sheet, explaining what Monzo is, what should work, and they can contact us if something goes wrong:
+One Minute Guide to Monzo for Merchants
+If you have an issue using your Monzo card, feel free to show or send this guide to the merchant. We’ll also make it available in the app, so it’s easy to find!
+We know it can be really inconvenient when you can’t use your Monzo account, so we owe a big thanks to all of our customers who have reported their issues to us, and to the community for being so proactive in reaching out to merchants themselves 💪

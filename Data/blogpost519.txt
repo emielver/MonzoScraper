@@ -1,0 +1,48 @@
+Title: We're Ready
+Author: Tom Blomfield
+Position: Mondo CEO
+Date: 30 Oct 2015
+
+
+We are incredibly excited to announce the start of the Mondo Alpha Preview. We’ll shortly be rolling out our MasterCard® Prepaid Debit Mondo cards. Here are all the details.
+Over the last few months, the Mondo team has been working tirelessly on a public roll-out. We’ve partnered with key suppliers to get cards printed and connected up to the MasterCard network. At the same time, we’ve been inviting hundreds of you into our offices to play with the app—the same app you’ve seen in our screenshots and videos on social media. This feedback has been invaluable, so I’d like to thank everyone who participated.
+
+
+
+      In the UK and want to try it out?
+    
+
+
+
+
+
+
+
+
+
+
+Today, I’m delighted to announce that we’re now ready to distribute live cards!
+
+
+
+    Introducing the Hot Coral Mondo card</a>
+  
+
+When can I get one?
+Head over to our website to sign up to the waiting list and check your eligibility. To be in the first wave of 500 alphas, you’ll need to live in London, be at least 18 years old, and own an iPhone. If you help spread the word about Mondo by tweeting or posting to Facebook, we’ll even bump you up the list.
+Once we’re happy that the first 500 cards are working as anticipated, we’ll release further waves. In total, we’ve got 3000 limited edition “Mondo Alpha” cards to give out over the the next three months or so. They look pretty awesome! After this, we’ll move into a wider public “Mondo Beta”.
+Why only London? Why no Android? Why are you so ageist?
+We’ve got to start somewhere. Sorry!
+We’ll quickly be looking to expand to cities outside London and our Android app will follow next year. We’re also hoping to add accounts for under-18s in the future.
+What’s an “Alpha”? What should I expect?
+As we mentioned in our first blog post, Mondo aims to provide a current account that lives on your smartphone and gives you control of your money. We’re in the process of obtaining a banking licence, but we won’t be regulated until 2016. So we’re not a bank yet—that’s important! We’ll be giving you access to a prepaid debit card and the Mondo iPhone app.
+From day one, our philosophy has always been to focus on making something people want. To achieve that, we’re committed to launching prototypes early to see how people react. We can then iterate and improve, but that inevitably means the product won’t be 100% polished and bug-free, at least initially.
+Internet companies often release “Beta” products, indicating a degree of incompleteness. “Alpha” indicates more than a degree of incompleteness. You will experience problems with this product, especially early on. Things will inevitably not work as expected and you may even temporarily lose access to the money on the card. But we’ll work hard to fix those problems as quickly as we can. We also guarantee that you will never lose money as a result—we’ll refund any mistakes that deplete your balance. And there will be zero fees or charges for using the card, even abroad.
+You’ll initially get access to a MasterCard card. You’ll be  able to load money onto it and use it in stores, online and at contactless terminals (including TfL). You’ll also get access to all of the features you’ve seen in our videos over the last few months like instant payment notifications, spending summaries, and the ability to temporarily freeze your card if you lose it, as well as access to our API if you’re into that kind of thing.
+You won’t have access to Faster Payments, Direct Debit, or peer-to-peer payments, at least initially. So don’t ditch your old bank account quite yet! We will be looking to add these features as soon as we can, along with plenty more.
+We started Mondo because we believe that banking can be better. We’re tired of hidden fees and charges, endless paper forms, and nothing quite working in the way we’d expect. So we’re trying to build a bank that we’d want for ourselves, our friends, and our families. This is your chance to be a part of that mission. We’ll listen to your feedback and suggestions, and we’ll release new features on a weekly basis.
+I’d like to invite you to contact us any time with ideas and questions. You can reach us on Twitter (@monzo) or email me personally ([email protected]). Even if you don’t make the first wave of testers, do get in touch ([email protected]) for a chance to come and see a demo of the app in person.
+This is your opportunity to be part of the conversation and help shape the future of banking.  Welcome to Mondo!
+MasterCard is a registered trademark of MasterCard International Incorporated. The Card is issued by Wirecard Card Solutions Ltd (“WDCS”) pursuant to licence by MasterCard International Inc. WDCS is authorised by the Financial Conduct Authority to conduct electronic money service activities under the Electronic Money Regulations 2011 (Ref: 900051).
+
+We recently updated our name to Monzo! Read more about it here.

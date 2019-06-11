@@ -1,0 +1,29 @@
+Title: To a Billion and Beyond: Building Products to Help Us Scale
+Author: Valerio Magliulo
+Position: Head of Internal Product
+Date: 26 May 2017
+
+
+If you read Emma’s recent blog post about our awesome Customer Operations team (aka COps), you’ll know how focussed we are on delivering top notch customer support. To ensure we dedicate the same energy to operational efficiency as to building the best product experience, we have set up a team whose goal is to build products that support the COps team - welcome to the world of the Internal Product team!
+Our long-term goal is to support 100,000 customers per COps agent. That’s a lot! By comparison, the average UK retail bank supports roughly 2,500 customers per agent - we aim to be 40 times more operationally efficient. We are still a long way from reaching our goal, currently supporting 5,000 customers per agent.
+We’re working towards our goal by looking at it from a demand and supply perspective; in our case, the demand being the number of customer support queries we receive and the supply being the productivity of our COps team.
+Building the tools that give our COps team super powers
+How quickly do you expect your bank to solve your enquiry? In a world accustomed to the convenience provided by the likes of Uber and Amazon, everything happens at the tap of a button and our expectations have adjusted accordingly over time. We want you to have the same experience with your bank. Here are some of the common issues that disrupt your customer support experience:
+
+Long waiting times with annoying elevator style music 😕
+Your enquiry escalated to several levels within the same phone call 😡
+Unclear split of several support channels by type of operations (some actions can be done only in branch, others only online) 😫
+
+While hiring incredibly talented COps agents is key, our goal as a team is to equip them with the best tools to carry out the level of customer support that you expect from your bank in 2017. Our team spends most of their time building software that powers everything that goes on in COps, from identity verification tasks to customer management tools. By collecting constant feedback from our COps team and running dedicated user testing sessions, we always look for new features or improvements that drive productivity.
+As a young company, we have naturally developed processes to deal with specific issues and these require tedious manual work from time to time. As we grow and scale our operations, it’s key that we look for every opportunity to automate these processes to both reduce the workload for the wider team and remove the potential for human error. One great example is how we process your top ups via bank transfers. With hundreds of top ups completed every day, manually loading the money into your individual cards became a draining task for members of the COps team and meant we could run the process only once a day as it required an hour of intensive work in a spreadsheet. As a result, we built a tool which drastically reduces the effort required to process all bank transfers. The new tool reads all the bank transfers we’ve received since the last top up, automatically matches them up with the correct recipient, and tops up their card. The reduced complexity and workload meant more COps agents have been trained up to run the process and we are able to do so anytime we need to and much more often.
+Reducing customer support queries by way of automation
+In an ideal world, there wouldn’t be any need for you to contact us for help, as our product and service would be flawless! In the real world some things will always require our intervention, for example investigating a tricky transaction issue or approving a change to your account details. However, other queries could be prevented by providing a better product experience. We know we can improve these in future iterations of the app, but in the meantime we have to do our best to explain why things that aren’t perfect to our users.
+We thoroughly review all of our customer support queries on a weekly basis and are constantly collecting feedback from our COps team. We then use this feedback to design product features that can solve our users’ problems without them needing to get in touch. Some solutions you will never get to experience first-hand, because they are designed to eliminate the root cause of the problem and usually involve making changes to how we process payments and display the information in your app.
+Other solutions are meant to provide you with the tools to quickly solve your query without getting in touch with us. A great example is the ability to view the PIN in-app. In the early days of Monzo, users had to contact us if they forgot their PIN - you’d be surprised to hear how often that actually happens! Now it takes 10 seconds to do yourself.
+
+
+
+As many tech companies take to chat bots to reduce their costs of running a large customer support team, we are cautious about replacing human touch with machines. Financial matters can be very sensitive and speaking to a computer can lead to further frustration and distress in many cases. By increasing the amount of things you can do yourself within the app, we aim to release some pressure off the COps team and focus on providing human to human support for the trickier problems when you really need to speak to someone directly.
+
+I’d love to hear what you think — what would you like to see us implement in the app to make your life easier? When do you want to be able to instantly chat directly with us? Let me know in the comments section.
+Valerio will be exploring the topics covered in this blog post further, in his presentation and Q+A session at next week’s Open Office event. We released another 50 tickets for this event today so snap them up quick if you’d like to come along!

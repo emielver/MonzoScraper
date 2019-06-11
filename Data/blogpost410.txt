@@ -1,0 +1,18 @@
+Title: Pay in 15 seconds with Android Pay on Monzo.me!
+Author: Tristan Thomas
+Position: Head of Marketing
+Date: 8 May 2017
+
+
+
+
+
+Monzo.me just got an upgrade! From today, if you visit a Monzo.me page on a phone or tablet that has Android Pay, you’ll be able to pay your friends and family even faster. No typing required and it should take less than 15 seconds.
+
+
+
+    Your browser does not support the video tag.
+  
+
+We’ve also built in support for Chrome’s new Payment Request API, so that even if you don’t have have Android Pay on your device, you can still send money through Monzo.me using card details you have stored in Chrome, as well as add new cards to Chrome to use in the future on Monzo.me and other websites. It should work like magic 🎉
+And for those of you asking about topping up your Monzo card with Android Pay in the app…well, let’s just say you’re going to like our next app update. We’d love to hear what you think! Please let us know on Twitter or the forum and get your friends to try it out.

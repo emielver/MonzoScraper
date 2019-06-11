@@ -1,0 +1,54 @@
+Title: Working towards our quarterly goals: The finances
+Author: Julie Oey
+Position: Financial Planning Analyst
+Date: 18 Jul 2018
+
+
+
+
+
+Earlier this month we published our 2018 Annual Report which tells the story of our year in numbers. And last week we made our company goals public, to share what we want to achieve in the near future. But it isn’t always easy to understand what these numbers actually mean, or how the finances of a company like Monzo even work in the first place! So, in simple, straightforward terms, I wanted to show you how we think about our finances, and how we’ll make money work for Monzo.
+Revenue
+Revenue is the money we earn for providing you with a service. Right now  we earn revenue from lending you money through our overdraft (which costs £0.50 per day), or charging 3% after the first £200 when you withdraw cash from ATMs abroad.
+We also earn extra revenue such as Point of Sale (POS) interchange or deposit interest. POS interchange is money we earn through our card provider Mastercard, who pay us a small percentage fee on all the purchases you make with your Monzo card. We earn deposit interest by placing cash from your deposits at the Bank of England, which currently pays 0.5% interest.
+Expenses
+Our expenses are things we pay for to provide you with our product and to run the company.
+We divide expenses into two groups, ‘variable’ and ‘fixed’, depending on whether or not they’re linked to the number of customers we have.
+Variable expenses
+Variable expenses are the ones that change depending on the number of customers we have or the things they do. They include:
+
+Fees for transactions we pay when you use various payment methods
+The charges we pay when you withdraw cash from an ATM
+The charges we pay when you add money to your account by topping-up with another debit card
+Salaries and benefits for our Customer Operations teams, who are available to help you 24/7 when you need them
+Creating and distributing our hot coral cards
+
+Fixed expenses
+A fixed expense is money we spend on everything else! They include:
+
+Paying all our other staff, outside of customer operations
+Renting our office
+Business insurance
+The money we spend on technology like our cloud servers
+
+While these costs can also increase as our business grows, they’re not directly linked to the number of customers we have.
+These are the things we see as ‘variable’ or ‘fixed’ costs, but each company can define these differently, depending on what their business is and how it works.
+Profitability
+Profitability comes when our revenue is higher than our expenses. Monzo isn’t profitable yet, but achieving profitability will be one of our goals in the medium term.
+We see this as a two-step process:
+Achieve profitability at the customer level
+This is when the average revenue we make on an individual customer is more than the average expense for each customer, otherwise known as our variable expense. We’re on track to achieve customer profitability by the end of this year.
+Achieve profitability company-wide
+Once we achieve profitability at a customer level, we can focus on achieving profitability as a company.  That means  earning enough revenue to cover all our expenses, including all our fixed expenses.
+How will we do it?
+We’ll reach profitability by increasing revenue and managing our expenses. We’re doing this by:
+Offering valuable products and features
+If we can build great features that improve your financial life and convince you to go #FullMonzo, we’ll also be able to create new sources of revenue. In Q3 we’ll power through The Big List, continue building on our lending products, and explore more ways we can help you manage your money.
+Managing variable expenses
+We’re focused on managing all our variable expenses, but two large costs are debit card top-ups and providing customer support.
+Now that we offer a full UK current account, you can add money to your account by making a bank transfer, setting up a standing order, or getting your salary paid straight in. Users who upgraded from the prepaid card can still use them when they need to, but we’ve turned off card top-ups for new users.
+Our customer operations team are also working hard to improve productivity and our in-app help tools, but without ever compromising on the quality of service you expect from us.
+Growing our customer base!
+Our mission is to make money work for everyone, and we want to bring Monzo to a billion people and beyond! If we achieve customer profitability, each new customer that joins Monzo will help us grow our revenue a little more. As we bring Monzo to more and more people, we’ll also get closer to profitability as a company.
+
+We hope this gives you a useful insight into how we picked our goals for this quarter. If you missed it, our CEO Tom recently answered some questions from our community about it, which you can watch back here. We’d love to hear what you think about this deep-dive into our finances. Head over to our community, and join the conversation!

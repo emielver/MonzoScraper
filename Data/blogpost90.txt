@@ -1,0 +1,29 @@
+Title: You can now switch your joint accounts to Monzo!
+Author: Sheri Farsani
+Position: Product Marketing Manager
+Date: 7 Feb 2019
+
+
+Last year, we made it possible to switch your personal accounts to Monzo with the Current Account Switch Service, letting you go #FullMonzo in just a few taps. We’re pleased to say that you can now do the same with your joint accounts!
+How does it work?
+The Current Account Switch Service makes it simple to switch bank accounts. It’s supported by the government, completely free to use, and designed to eliminate all the admin and anxiety from switching.
+With Monzo, switching only takes a few taps. You can choose to switch all of your joint payments over to Monzo by doing a full switch. A full switch transfers your balance and all your payments (including direct debits and standing orders) to Monzo, and closes your account at your other bank. Any payments sent to your old account will be automatically forwarded to your Monzo account. You can choose a switch date that suits you, and it takes seven working days to finish.
+
+
+
+All full switches are covered by the Current Account Switch Guarantee. So if anything goes wrong when you switch, you’ll be refunded for any interest paid or lost and any fees charged because of the issue.
+
+
+
+How do I switch?
+When viewing your joint account within Monzo, head to your Profile (by tapping on your details at the top of the Account tab), and then tap ‘Switch to Monzo’ on iOS, or ‘Current Account Switch Service’ on Android.
+You’ll need:
+
+The account number and sort code of the account you want to switch from
+The last 5 digits of your old account’s bank card
+The last 5 digits of the other person’s old bank card
+
+
+
+
+If you have any feedback, ideas or suggestions, we’d love to hear them! 👇

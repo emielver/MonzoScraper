@@ -1,0 +1,54 @@
+Title: Monzo Monthly Update: November
+Author: Beatrice Borbon
+Position: Content Manager
+Date: 12 Nov 2018
+
+
+It’s been a busy few weeks, which is brilliant! But it means your update’s more than a little late this month 🙈
+Catch up on what we achieved in October (and the first weeks of November!) and find out what’s in store for the rest of the month too.
+Done in October (and the start of November!)
+We brought better bill splitting to everyone 🍰
+You can now split bills with people easily, through the Monzo app!
+It works with people who are and aren’t on Monzo, and you can split the bill evenly or edit the amounts yourself.
+Find out how it works here.
+
+
+
+We launched Savings Pots 💰
+We’re working with another bank called Investec to help you earn interest on your savings through Monzo!
+We’re rolling them out gradually, to understand how you’re using them and see if they work well. If you don’t have access yet, you can find out how they work here, and we’ll send you an email once we’re ready for you to use them.
+
+
+
+If you’re new to Monzo on iOS, we’ll help you start using Monzo immediately after you sign up ⌚
+If you sign up to Monzo on iOS, you’ll be able to add your Monzo card to Apple Pay instantly, add money to your account by making a bank transfer, then start spending straight away!
+That means you can buy something with your Monzo account less than five minutes after you signed up, while you wait for your hot coral card to arrive in the post.
+We launched Making Monzo 👀
+Our transparent roadmap lived on Trello, and we’d keep it updated with what we were working on now and next. Now, we’ve taken our roadmap to the next level and built our own tool to help you keep track of what we’re working on from the Monzo app.
+You can access our new Making Monzo roadmap online here, and find it in the Help tab in your app.
+
+
+
+We built our own customer support software 💬
+To give us the flexibility and control we need to keep giving you great support, we’ve built Monzo Chat: our own software for managing chats in the app.
+Next time you talk to us, you might see a few things have changed already. And in the future, it’ll open up loads of new possibilities, like letting you update your personal details, or query and even cancel transactions without leaving the chat window.
+
+
+
+To come in November
+Helping you pay cash into your Monzo account 💸
+We’ve been working on a way to let you pay cash into your Monzo account, and we’re getting ready to bring it to everyone later this month.
+Helping you plan ahead 🔜
+We already show you tomorrow’s Direct Debits, direct credits (like your salary), and scheduled Pot movements at the top of your feed. It helps you avoid any nasty surprises, and know what’s coming next.
+This month we’re going to add your upcoming standing orders and bank transfers too.
+Making improvements to Pots 🍯
+We’re working to bring Pots to joint accounts, so you can use them to manage your money together.
+And to help you stick to your savings goals, we’re also going to work on letting you ‘lock’ Pots or add a little extra friction, so it’s harder to move money out.
+Making budgeting with Summary more flexible 📆
+We’ll be releasing the first of a few updates to make Summary more flexible.
+If your budgeting month is due to start again on a weekend or bank holiday, we’ll adjust it automatically so it reflects when you get paid instead.
+And we’ll also add the option to budget in four week periods, rather than by calendar month.
+
+
+
+To stay in the loop with the newest feature releases, exclusive Sneak Peeks and behind the scenes blog posts, sign up to the monthly Making Monzo email in your app, via the Community section of your Help screen. View this month’s version here.

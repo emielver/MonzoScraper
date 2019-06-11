@@ -1,0 +1,32 @@
+Title: We're making it easier to manage your bills
+Author: Jami Welch
+Position: Product Manager
+Date: 8 Aug 2018
+
+
+The smallest parts of banking can make the biggest difference. By addressing little pain points, we hope to turn frustrating experiences into positive ones. That’s why we committed to improving recurring payments in our recent Big List of features we wanted to build.
+Last month we shared some updates on our progress with this. But we’ve built even more features since then, which we’d like to share today.
+Why do we want to make paying bills easier?
+On the face of it, making bills easier to pay doesn’t seem as important as something big like joint accounts or supporting Apple Pay. But it can be the smallest parts of banking that make the biggest difference. Those little pain points - or moments of delight - can turn a frustrating experience into a positive one.
+You might have seen that we recently published our goals for the rest of the quarter. One of those is to Make Monzo the best account to use as your primary account. And to do that, we wanted to build the best bill-paying experience around too.
+Three ways we’ve made paying bills easier
+1. Making standing orders editable
+Instead of having to recreate a standing order from scratch every time something changes, you can now just tap into it and make the change. It’s a small improvement, but removes just that extra bit of work you’d have to do otherwise.
+
+
+
+2. Showing you tomorrow’s Direct Debits
+We care a lot about improving the Direct Debit experience, which we’ve heard from our community can be very frustrating. We now show tomorrow’s upcoming payments, so there are never any nasty surprises. This also works across weekends, so you’ll see your bills going out on Monday and know how much you’ll have to spend over the weekend.
+
+
+
+3. Letting you manually retry failed Direct Debits
+And we’ve improved how we try to take Direct Debits when you don’t have enough money in your account to cover them. Before, we tried to take them early in the morning, and if they failed that was it.
+Now, if your balance is low in the morning and a Direct Debit fails, we’ll try to pay it again at 2pm. You’ll see the first attempt in your feed, as well as the afternoon’s upcoming retry. And you can manually retry a failed Direct Debit at any time by tapping the button on the transaction screen.
+
+
+
+What’s next?
+We’ll keep working to make it easier to manage your bills through Monzo. And we’ve got lots more ideas to come! What if you could set up a dedicated Pot to put your committed spending money aside, and transfer it into your balance for each payment? Watch this space…
+What else do you think we should be doing to improve the recurring payments experience? We’d love to hear from you on our community forum!
+

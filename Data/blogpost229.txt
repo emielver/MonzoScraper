@@ -1,0 +1,34 @@
+Title: Tell us when your question's urgent
+Author: Sam Watkin
+Position: Operations Analyst
+Date: 2 Aug 2018
+
+
+
+
+
+We believe that good customer support is led by the customer. Every single person that uses Monzo is different, and we want to deliver the service that you want, not the service that we think you want.
+That’s why we listen to feedback from our community, carry out user research, and analyse data about how you use the app. But the simplest way to understand how we can serve you best is often just to ask you!
+If you reached out to customer support in the past few months, you might have noticed that we ask you if you need a reply urgently, or if you’re prepared to wait a little while.
+Prioritising helps us deal with growing demand
+When you reach out to customer support, you come with all kinds of questions. You might want to tell us that we showed you the wrong logo on your transaction, share an idea for an amazing new feature, or ask for help because your card’s been stolen.
+We’d love to reply to every one of your questions instantly, but that’s becoming harder as our customer base grows. In the last year we’ve seen the number of queries we get almost double! So we need to find the best way to deal with demand, to make sure everyone can keep getting the answers they need as we grow even more.
+One way of doing that is by prioritising the most urgent questions and answering them first. But that raises another problem: how to work out which ones we should prioritise!
+Tell us how urgent your question is
+Based on the content of your question, we can roughly predict how urgent your message might be already. But whatever your question, there’s no way for us to understand exactly how you feel, or what’s going on.
+So, rather than trying to predict how urgent your question is, we think you’ll know best and trust you to tell us.
+As an early experiment, we added a feature to in-app chat that lets you tell us whether or not your question is urgent.
+When you mark your query as urgent, we put it into a separate ‘queue’ of questions. Whenever someone in our support team is ready to start a new conversation with a customer, we prioritise urgent queries above everything else.
+
+
+
+What we learnt
+Handing over control to customers like this comes with a few risks. There’s always a chance we could end up seeing loads of customers marking every conversation as urgent, and we aren’t able to deal with the demand and answer every question quickly!
+But we found that just under a third of people marked their queries as urgent, and the average time we took to respond was less than five minutes.
+For questions that weren’t marked as urgent, the average time we took to respond was less than an hour, so no one had to wait for ages either way.
+We also surveyed customers after each conversation, to find out if they were satisfied with the service. Our average customer satisfaction score for urgent queries was 94%, and non-urgent queries were slightly higher at 96%.
+What’s next?
+We found that the feature helped us prioritise your questions effectively, without compromising the quality of your experience. So we’ll be keeping the feature in the app!
+We aim to reply to 90% of urgent queries within five minutes, and 90% of non urgent queries within an hour. And we’ll keep using it to learn how we can improve the way we support you.
+
+All week we’ve been sharing an insight into how we’re working to make sure Monzo’s ready to support one billion customers! Join the discussion on the community forum and keep an eye out on the blog and Twitter for updates 👀

@@ -1,0 +1,37 @@
+Title: Round up your Monzo purchases automatically!
+Author: Robin Bilgil
+Position: Engineer
+Date: 18 Jul 2018
+
+
+Back in March, we launched an early experiment called Coin Jar. It lets you round up transactions and set the spare change aside by creating a pot and calling it ‘Coin Jar’. Since then, more than 50,000 people have used it, to save a combined total of more than £1.5 million!
+Today, we’re improving Coin Jar so you can round up transactions to the nearest pound and put money aside into any pot. So, if you buy a coffee for £1.79 at your favourite cafe, we can round it up to £2 and add 21p to a pot.
+How it works
+Whenever you make a purchase that’s over £1, we’ll round up the amount to the nearest pound and automatically put the spare change in a pot.
+To start rounding up your transactions:
+
+Head to the Account tab in your app
+Edit an existing pot of yours or create a new one
+Turn on the switch to ‘Round up transactions’
+
+We’ll show you the spare change we added to your pot alongside the original transaction, so you can see what you bought as well as the amount we rounded up.
+You can only choose to add the spare change to one pot at a time.
+If your balance is low, remember that round ups could take you into your overdraft or below your limit. As usual we’ll tell you when that happens, and you can turn off round ups at any time by tapping on the pot and turning off the switch.
+How we’ve improved round ups so far
+Coin Jar took one of our engineers a couple of days to build and, because it was an early experiment, it was a little rough around the edges. We’ve used the feedback you shared with us to make some improvements that make it easier for everyone to round up transactions and set the spare change aside.
+You can round up transactions for any pot
+Because the first version of Coin Jar was an experiment, we didn’t make it very easy to find. To create one, you’d need to specifically name one of your pots ‘Coin Jar’, and know it was possible in the first place!
+Now we’ve made it much easier by adding a switch that lets you turn on round ups. Whenever you create or edit a pot, you’ll see the option to to ‘Round up transactions.’ Your pot can be called whatever you like and, when the switch is turned on, we’ll help you save your spare change there.
+Remember, you can only switch on round ups for one pot at a time!
+
+
+
+Rounding up won’t clutter up your feed
+If you used Coin Jar to round up your transactions, you’ll know that every single purchase you made created two different items in your feed: one for the original purchase and one for the amount we rounded up.
+Many of you told us that this was cluttering up your feed, so we’re happy to say that we fixed it!
+
+
+
+Any time we round up a purchase, you’ll see the icon of the pot we’ve added the money to alongside the original transaction. If you tap into the original transaction, you’ll see how much was rounded up and exactly how much you’ve saved so far.
+Share your feedback
+We made these improvements based on all the amazing feedback you gave us on our community forum. So we’d love to hear what you think of these updates and what you’d like to see us doing with round ups next!

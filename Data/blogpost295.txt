@@ -1,0 +1,79 @@
+Title: Supporting people to self-exclude from gambling
+Author: Natalie Ledward
+Position: Vulnerable Customer Specialist
+Date: 16 May 2018
+
+
+One of the most common ways that mental health and money problems intersect is gambling. According to the Royal College of Psychiatrists, people with gambling problems are more likely to have a range of mental health problems including low self-esteem, stress-related disorders, depression, anxiety and substance misuse.
+Gambling disorder and debt are inextricably linked: 80% of people seeking help for a gambling addiction also reported being in debt, according to GambleAware.
+In Britain, around 0.8% of people (aged 16+) identify as a problem gambler, which means it’s likely that more than 5,000 Monzo customers are affected by gambling disorder.
+That’s why we’re doing some work to improve what we do to help people with gambling problems.
+What we do now
+Right now at Monzo, we aim to do the following things to support customers who are vulnerable because of gambling problems.
+
+
+Identify when someone has a gambling disorder: Often customers tell us themselves if they have a gambling problem. If we notice patterns in spending that suggest a customers has a gambling disorder, and there is an opening to a discuss this we might decide to open up a conversation.
+
+Intervene to see what we can do to support them: Where appropriate, start a sensitive, tactful conversation with people we believe have a gambling problem, and find out what we can do to help
+
+And point them towards support: Point people towards trusted sources of advice, that can help them address their gambling problems and the financial problems they might have as a result
+
+Right now, we’re only able to help these people once we find out that they’re struggling with gambling issues, which is usually once they’re already experiencing problems with their money.
+But we want to do more to preempt and prevent people from having financial problems as a result of gambling, instead of just supporting them once they’re already in trouble.
+Supporting self-exclusion
+Self-exclusion is a powerful way for people who have decided to stop gambling for at least six months to get support with their decision.
+At the moment, when someone tells us they’ve decided to self-exclude from gambling, we point them to a charity called GamCare, which provides free software that blocks online gambling sites, to prevent you from gambling online.
+Casinos and bookmakers are also required to support self-exclusion in person, and will be part of schemes that allow you to make a single request to self-exclude from everywhere that offers the same kind of gambling in your area.
+These are both really effective ways for people to get support with self-exclusion. But we believe that banks should play an important role in supporting these people. Rather than just pointing people towards outside sources of support, we want to let people self-exclude directly from their bank account, through the Monzo app.
+What we’re building
+A paper from the Money and Mental Health Policy Institute recommends that card providers offer customers the option to block gambling spending, to give people the power to help protect themselves from harm.
+We’ve been working on a feature that lets people block transactions to gambling sites from being made on their Monzo account.
+
+
+
+People will be able to switch on the feature in the settings of their app, or by reaching out to someone in our customer support team.
+Turning the feature on will mean that we block any payments you try to make to gambling merchants through Monzo, online and in person.
+When you buy something with your Monzo account, each transaction is tagged with a code, that helps us identify the type of merchant you’re paying. We usually use these codes to sort your spending into categories.
+So we can block specific transactions, we’ve put together a list of codes that will help us identify when your transactions are related to gambling. When the feature’s turned on, we’ll do our best to block any payments you try to make to these merchants.
+
+
+
+To remove the block, you’ll need to chat with customer support first. We’ll use that conversation to ask questions like, “Has your situation changed since you first switch the restrictions on?”
+If you do decide to turn off the block, we’ll give you 48-hours before you can switch it off from the app yourself.
+These measures add elements of ‘positive friction’ to the process, asking you to make some extra effort to lift the restrictions. We want to prevent people from switching it off impulsively, and give them the chance to understand the implications and make a considered decision.
+Of course this isn’t a perfect or catch-all solution. It won’t work for everyone, and there will always be ways for people to access their money and use it to gamble. We’ll continue to improve it once it’s launched. And in combination with other features, other self-exclusion schemes and the right support, we hope it will help.
+Why are we doing this?
+We want to develop features that prevent financial problems caused by gambling, rather than trying to support people once they’ve already happened. If we’re able to help people avoid or minimise problem debt, they’ll be able to avoid the stress and anxiety that come with financial difficulties. And if they’re able to stay out of debt, it means we don’t lose out as a business.
+We believe allowing customers to manage their self-exclusion directly from their bank account will also give them more independence ownership over their recovery. And if our goal is to give people choice and control over their money, that includes giving you the option to choose how not to spend it.
+Switching on the block directly from the app means that, once you’ve made the choice to self-exclude, you can block all gambling-related transactions from happening, straight from the source. We hope this will work well alongside other self-exclusion schemes.
+What’s next?
+We’ve already started work on the gambling block, and hope to bring it to the apps in the next few weeks.
+But this is only just the start. There’s plenty more that we can do to support people with gambling problems, and we plan to work on more features that address different parts of the problem.
+GambleAware sets out a list of signs of gambling related harm:
+
+Spending more money than you can afford
+Finding it hard to manage or stop gambling
+Lying about gambling or hiding it
+Chasing losses or gambling to get out of financial trouble
+Gambling until all of your money is gone
+Not paying bills
+
+And here are some of our early ideas for how to address them:
+
+
+Setting a 30-day rolling gambling limit: Rather than blocking you from gambling entirely, we could let you set a limit on the money you’re prepared to spend on gambling every 30 days, so that you can’t spend more than you can afford
+
+
+Have a ‘trusted friend’ who authorises gambling transactions: If you want someone else to support you with your spending, we could add a feature that requires betting transactions to be approved by a nominated person. We could also take this further, so that a chosen person can impose other restrictions on your account on your behalf.
+
+
+Lower your limits for cash withdrawals and other payments: One of the ways people might work around the block is by making cash withdrawals or transfers to friends or other bank accounts. Lowering your daily or monthly limits for cash withdrawals and other payments could help manage the impact of impulse spending: you wouldn’t be able to spend significant amounts if you have access to a limited amount of money.
+
+
+Warn you that your balance is low: Notifications and visual indicators can help make people more aware of what they’re spending, and the impact it’s having on their finances. Notifying you that your balance is low could encourage you to think twice before acting on a gambling impulse.
+
+
+Set money aside for bills: If you tell us (or we’re able to predict) the amount you need to spend on things like rent, bills and food, we could help you set it aside. By moving the money you need to spend on essentials into a protected pot and making sure you have enough set aside to meet your obligations, it could mean that you’re less at risk of getting into financial difficulty. And, if you’re able to see how much money is left over after paying for those essentials, it could help you make more informed decisions about what you do with the rest.
+
+
+We’d love to hear what you think about the solutions we’ve suggested, and if you have any ideas of your own. Please share them in the dedicated discussion on the community forum.

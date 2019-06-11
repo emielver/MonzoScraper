@@ -1,0 +1,30 @@
+Title: Asking Some Customers To Do Additional Identity Verification
+Author: Tristan Thomas
+Position: Head of Marketing and Community
+Date: 13 Jun 2017
+
+
+tl;dr (the short version)
+
+Due to new European money laundering regulations, we need to carry out additional identity verification on some customers.
+If you need to submit additional information you’ll be notified via the Monzo app and via email. Less than 10% of customers are affected by this — the vast majority will have to do nothing.
+If you do need to submit additional information, you’ll have until June 25 to do so. If you don’t submit the information in time, we will have to temporarily freeze your account. We will keep you fully updated.
+If this happens, don’t worry — your money is still safe! You can reactivate your account at any time by submitting the information requested or ask for a refund.
+Full details are below — please read them and feel free to ask any questions! 👓
+
+
+If you have a Monzo account, you can currently be on one of three levels of identity verification — standard, full or enhanced. We call these “before identity verification”, “after identity verification” and “enhanced identity verification” in the app. Each of these levels corresponds to different payment and withdrawal limits on your Monzo account. For example, if you’re “before identity verification,” the maximum balance you can hold on your account is £2,000, whereas “after identity verification” it’s £10,000. You can see details of all those limits in your app or in our terms.
+Earlier this year, new money laundering regulations were introduced — the snappily named Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017, all as part of the EU 4th Anti-Money Laundering Directive. This means we can no longer offer our base level of verification — ‘standard’.
+Therefore, we are asking all customers on this lower level to complete the identity verification process so we can move them up to the next level and in the spirit of full transparency, we wanted to explain in detail. This affects around 20,000 customers, all of whom will receive a push notification and item in their feed in their app over the next few days to explain the process. It should only take a minute or two to complete — snap a photo of your ID (passport or driving licence ideally) and a 5 second video of yourself and we’ll then verify your identity. Once this is done, you’ll receive another notification to let you know it was successful. If there are any issues, we will of course get in touch with you.
+
+
+
+The new regulation comes into force on Monday June 26th and so all identity verification must be completed by then. If you don’t complete it in time, we’ll temporarily freeze your account until you’re able to do it — don’t worry, nothing will happen to your money! As soon as you complete verification, your account will be active again. Alternatively, you can ask us to close your account and return any remaining money to you, at no charge.
+As well as having access to higher transaction and withdrawal limits, the additional benefit of going through identity verification now is it should mean you don’t need to do it again when you switch to a current account later this year.
+How do I know if my identity has been verified?
+
+
+
+It’s really simple. Just go to your Settings, then tap Top up and spending limits. In the header, you should see one of “Before identity verification”, “After identity verification” or “Enhanced identity verification”. If it’s either “after” or “enhanced”, you don’t need to worry. If it’s “before”, tap on the big blue button at the bottom of the screen titled “Request Higher Limits” to do identity verification.
+We hope this is a clear explanation of what’s happening. We’re sorry to those customers that have to go through extra steps — we’re here to help you get that done as quickly and easily as possible!
+If you have any questions, please don’t hesitate to get in touch with us — through the in-app chat, by email or on Twitter.

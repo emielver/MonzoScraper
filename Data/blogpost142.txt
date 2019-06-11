@@ -1,0 +1,39 @@
+Title: The Refactathon: Cleaning up old code
+Author: Jack Kleeman
+Position: Backend Engineer
+Date: 4 Dec 2018
+
+
+The way we write software has changed a lot over the last three years, which means that older code often controls some of our most important services (like the one that stores transaction data). This code works well, and is certainly battle-tested. But it can look really unusual to newer engineers. That creates a learning hurdle, which decreases productivity and increases stress!
+So, a couple of weeks ago a group of five engineers took the entire week off from their teams and ongoing projects to work on a project we lovingly named the ‘refactathon’. Instead of trying to build new features, we decided to spend the week ‘refactoring’ old code. This means that we restructured the code to make it more similar to our new code. We took over a bank of desks in our offices, and treated it like an internal hackathon.
+Over the course of the week, we opened 183 pull requests across 108 microservices, two of our internal web tools and 6 software libraries. 11 engineers contributed code, and an additional 27 engineers engaged in code review, across 382 reviews. In total, we added 26,948 lines of code, and deleted 116,835!
+
+
+
+Why is cleaning up old code important?
+Technical debt is useful, but shouldn’t be permanent
+We regularly introduce new development practices – sometimes because we think of new ideas, and more often because we hire new engineers with fresh perspectives. But when we first introduce a new way of doing something, we rarely go and migrate all the instances of the old style. This is because the time and effort required to do so would add inertia to the process, and stop us from working on new features.
+But by letting old code persist, we’re taking on technical debt. That means we’re consciously, carefully making the decision to delay the work until later. Technical debt is a tool, that lets us work and learn quickly. But it’s also critical that we come back later on and clean things up, or our platform will be full of relics from the past, which most engineers won’t understand.
+Old code creates a steep learning curve
+Companies enforce style in their code to make it easier for new engineers.
+As an engineer at Monzo, once you have seen a handful of our microservices, we hope you’ll know what to expect from 90% of them. This means that all our backend engineers are able to confidently make bug-free modifications to the vast majority of our services, without having to talk to their original creator.
+But there’s another 10% of services that look unusual to a new joiner. And even experienced engineers can feel uneasy working on these services because they may have already forgotten their quirks.
+What did we change?
+Monzo engineering headcount has doubled in recent months, and so we have a lot more capacity to work on debt-repaying projects.
+We focussed on two things during our refactathon:
+1. Removing an old microservice framework
+87 services (out of 700+) still used mercury, our old microservice framework (code we use to help our services talk to each other), instead of typhon, which is the standard for new services. These services are totally compatible with the rest of our platform, but require code to manage this compatibility, and this code has caused problems in the past.
+These services are also structured in a different way, and often require more ‘boilerplate’ code which engineers are no longer used to writing, meaning they’re more likely to make mistakes.
+2. Upgrading our security mechanism
+34 services still used our old authorisation mechanism (code we use to determine who is allowed to do what, both internally and externally). This was still totally secure, but our new library gives us more granular permissions and offers a better experience for developers.
+What impact have our changes made so far?
+There’s less for new engineers to learn
+Now we’ve finished the refactathon, new joiners won’t have to learn about our old technologies and styles, just to interact with a small percentage of services that were using old code.
+A new engineer will never even know the old mechanisms existed, as we’ve totally removed both of them. Pretty much every engineer used to ask ‘What’s mercury?’ at some point in their on boarding - not any more!
+Life is easier for existing engineers
+Existing engineers won’t have to spend as much time dealing with boilerplate, and they won’t have to remember the quirks of the old systems.
+Dealing with our old services was always a source of anxiety, but now it’ll be no different to dealing with new ones.
+We’ll ship fewer bugs
+More uniformity in our code means that unusual code will stick out more, making it easier for us to spot bugs. That means we’ll ship fewer bugs to our customers, and make Monzo a better for everyone!
+
+Let us know how you handle old code at your own companies. And if you like the sound of what we’re working on, we’re hiring!

@@ -1,0 +1,63 @@
+Title: Inflation: how can it affect your money?
+Author: Peggy McGregor
+Position: Content Writer
+Date: 30 Oct 2018
+
+
+Inflation happens when the general price of goods and services goes up. It means your money won’t go as far as it used to.
+Take a pint of milk for example: this cost an average of 25p in 1990, but these days the price is almost double that at 44p.
+How is inflation measured?
+The UK’s official measure of inflation is the Consumer Price Index (CPI). It’s published every month by the Office for National Statistics (ONS).
+The ONS gets an idea of current prices by looking at a ‘basket’ of around 700 goods and services. This includes everything from your morning coffee to an airline ticket. It works out the average cost per product by considering roughly 180,000 prices from a range of retailers.
+It then compares today’s prices to the ones from 12 months ago, using the same products to compare like with like. It calculates the difference as a percentage called the ‘inflation rate’. For example, if the inflation rate is 2% then goods and services are generally 2% more expensive than last year.
+Interestingly, not every product impacts the inflation rate in the same way. This is because the CPI treats a product as more important when we spend more on it. So, the price of petrol will affect the rate more than the price of teabags.
+It’s worth noting that the CPIH – another inflation index – is simply an extension of the CPI that includes rent costs.
+You may also have heard of the Retail Price Index (RPI). This was used to measure inflation for many years, but it lost its official status in 2013. But  it’s still calculated by the ONS and used to determine interest rates on things like student loans.
+How can inflation affect me?
+Inflation can affect your finances in several ways, from how much you spend to how much you pay to borrow. Here are four ways inflation can have an impact on your money:
+Inflation and your buying power
+As we’ve seen, inflation means your money won’t go as far as it used to. So, if your wages don’t rise with inflation you may find it harder to cover your usual costs.
+Here’s an example: say you earn £30,000 per year and the current inflation rate is 2.2%. Your salary would need to increase by £660 to keep up with rising prices.
+Inflation and your benefits
+Some state benefits are linked to the CPI, such as Attendance Allowance and Personal Independence Payment. This means that the amount you get is adjusted in line with inflation every September.
+This used to be true of ‘working age’ benefits too, such as Jobseeker’s Allowance and Universal Credit. But these are currently frozen until April 2020, so you won’t see any increase until then.
+State pensions are ‘triple-locked’. This means they’ll rise with either the CPI, average earnings or by 2.5% – whichever is highest.
+
+Inflation and your student loan
+If you took out your student loan before 2012, the interest rate is either the Retail Price Index (RPI) or the Bank of England base rate plus 1% – whichever is lower.
+If you started your course after 2012, interest will start being added to your student loan as soon as you get it. The interest rate will be the RPI plus 3% while you study – and the same or less once you graduate, depending on your income.
+The Student Loans Company adjusts its interest rates according to the RPI every March. If the RPI’s inflation rate has risen, you’ll pay more interest on your loan. If it’s gone down, you’ll pay less.
+Inflation and your savings, mortgage and other accounts
+Inflation can change how much interest you pay or earn. Here’s how you might be affected if the inflation rate rises:
+
+It may become more expensive to take out credit
+Your existing monthly payments for credit – including your mortgage – may go up if you have a variable interest rate. (A fixed interest rate will protect you, but only until the term ends)
+You may earn more interest on your savings
+
+
+The opposite may happen if the inflation rate drops.
+To put it simply: high inflation is typically good for savers and bad for borrowers, and vice versa.
+Importantly, the link between inflation and interest rates isn’t a simple one. We’ve explored this in more detail below.
+How does inflation affect interest rates?
+To understand why inflation can impact interest rates, you need to know about the Bank of England’s base rate.
+The base rate is the UK’s official interest rate. Commercial banks have to pay the base rate when they borrow from the Bank of England. And they earn the same rate when they lend to it.
+The Bank of England uses the base rate to influence inflation. It tries to keep the inflation rate at 2%, as it generally considers this healthy for the economy.
+Here’s what may happen if the Bank thinks inflation’s about to go over 2%:
+
+The Bank increases the base rate – making it better for commercial banks to lend it money, but more expensive for them to borrow
+Commercial banks raise their own interest rates in response (this lets them pass on some of the extra costs or savings to customers)
+As their customer, you see it’s a good time to save and an expensive time to borrow. This means you reduce your day-to-day spending
+Retailers drop prices to encourage you to buy more from them again
+Lower prices mean the inflation rate drops
+
+On the other hand, if the Bank expects inflation to dip below 2%, it may lower the base rate. This should get people to spend more, allowing retailers to put prices up and the inflation rate to rise.
+
+We hope you’ve found this guide useful! Next, you might want to check out our guides on interest and savings accounts.
+
+For more comprehensive guides and helpful tips on how to make the most of your money, follow Monzo Money Tips on Facebook!
+
+
+      Follow Monzo Money Tips
+  
+
+

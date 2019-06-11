@@ -1,0 +1,27 @@
+Title: Pay on the go using Monzo with Apple Pay
+Author: Daniel Cannon
+Position: Lead Engineer
+Date: 17 May 2018
+
+
+We’re incredibly excited to say that you can now use your Monzo card with Apple Pay!
+Apple Pay is an easier, safer way to pay in stores, in apps and online, with the Apple devices you use every day.
+We’d really love to have done this sooner and we’re sorry it’s taken so long. Apple Pay has been by far the most requested feature over the last few months, and we’re glad that it’s finally here!
+
+
+
+Get started
+Adding your card to Apple Pay is easy. You can do it from your Wallet, or from your Monzo app.
+From your Wallet on iPhone:
+Open the Wallet and tap +
+Follow the instructions to add your Monzo card
+From your Monzo app:
+Open your Monzo app this morning and you’ll see the option to add Monzo to your Wallet. Just follow the instructions!
+If you don’t want to set it up straight away, you can go to the Account tab in your app at any time and tap settings to see the option to add Monzo to your Wallet.
+To make Monzo your default way to pay, just drag your hot coral card to the front of your Wallet – we’d highly recommend it! 😉
+How it works
+You can find everything you need to know about how it works and how to use it on our dedicated Apple Pay page.
+Find out more here
+You’ll also find instructions on how to add your Monzo card to Apple Pay on Apple Watch, iPad and MacBook Pro, and the answers to some common questions.
+
+We hope you love using Monzo with Apple Pay!

@@ -1,0 +1,38 @@
+Title: Meet Natasha
+Author: Zainab Khan
+Position: Community Manager
+Date: 1 Feb 2017
+
+
+
+
+
+The team at Monzo are a special bunch! We’re constantly looking for new ways to connect our customers and the team behind the scenes, in an effort to get to know each other better. Our new profile series, launching today, focuses on the individuals who make amazing things happen at Monzo everyday. As part of Security and Fincrime Week, we’re shining a spotlight on the sharpest pair of eyes in the house, Natasha Price! 💪
+
+Natasha! Tell us what you do for Monzo.
+I work in the Financial Crime Team (Fincrime), where I focus on finding any suspicious activity on customer accounts. Much of my time is spent with our engineers and data team building our financial crime detection system based on a machine learning engine. In addition, we’ve been working on our financial crime policies and procedures for when we launch current accounts later this year.
+How did you get into Fincrime?
+I started with law, became an accountant at Ernst & Young where I worked in corporate finance, moved to a corporate finance boutique selling companies, and then quit to learn to code in San Francisco.
+When I joined Monzo I was quickly aligned with the Operations team, where I set up our card distribution system (I literally packaged and posted our first cards). When we saw our first pieces of financial crime we needed someone to jump in head first and sort it out. It sounded like something for me, as a perfect mix of law, accountancy and coding!
+I find the investigative side of my job fascinating - finding connections between accounts, people, and companies makes me feel like an actual superhero.
+On a day-to-day basis, who do you work with and how does the team run?
+I work most closely with Sarah, our new Fincrime analyst, and Gemma, our Head of Financial Crime. Sarah and I handle the day to day operational work, while Gemma and I wrote the procedures for when we are a bank. I also work closely with our Customer Support team if they run into something that looks a bit fishy, and our security engineers to keep on top of the new fraud types that we see.
+What have you been working on this week?
+For the last month, I have actually been working remotely from San Francisco (another awesome perk of working at Monzo is the flexible working). so I’ve been catching up with a lot of people this week now I’m back. I am also working on some reports for the National Crime Agency about people we suspect are money laundering, meeting with our sponsoring bank, and working with Sarah to get her totally up to speed.
+What have you learned in your time here and what are you most proud of?
+So much! Too much to say. Obviously the Fincrime specific things. Then also an incredible amount around how a prepaid card programme and a bank work. But, more importantly, it is the stuff you pick up working with such incredibly smart people. I am sure that every area of my life has benefited; the way I think about the world, as well as the way I think about money and banking and financial crime.
+The thing I am really proud of is how I’ve made this job my own. Going from never having done Fincrime before to being the key operational person at a bank is really exciting.
+What are you most excited about in the coming months?
+At the moment we are really pressed for time, but I am looking forward to when we can spend more time analysing patterns and trends between fraudulent accounts, and finding some more of those exciting connections!
+We will also do some ‘typology’ analysis, where we look for new types of potential criminal behaviour and see whether we are at risk from them. This is Gemma’s favourite thing in the world, and I am sure I’ll find it as fascinating as she does!
+If you weren’t doing this, what would you be doing?
+The realistic alternative job: coding in San Francisco.
+The unrealistic dream job: living in Utah, skiing fresh powder in the morning and coding in the afternoon.
+3 words to describe Monzo:
+Ahead of everything.
+Outside the office:
+I love to ski and play tennis. I read a lot, and love cooking. I am also currently re-watching The Gilmore Girls with my fiancée, and it is long (and hilarious).
+Unexpected Fact:
+I have ice-picked my way out of a crevasse at 5000 metres, on a glacier.
+Links:
+I am on twitter at @natashaslprice, but I rarely tweet.

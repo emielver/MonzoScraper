@@ -1,0 +1,45 @@
+Title: Announcing the Monzo Overdrafts Preview
+Author: Venkat Srinivasan
+Position: Head of Lending
+Date: 24 Aug 2017
+
+
+Today we welcomed our 1,686th customer on to the Current Account Preview! As we continue to roll it out as quickly as possible, we’ve also been working hard to bring new features to the current account and ensure existing services are rock solid and stable. We’re aiming to get to 20,000 customers by the end of September and then all of our 370,000+ users by the end of the year.
+Today, as part of that work, we’re excited to offer a preview of the Monzo Overdraft on iOS! This, like the rest of the current account, is very much in the early stages and will be improved and changed significantly over the coming months, based on feedback from our community.
+When we started thinking about overdrafts, we knew we wanted to do them differently to traditional banks. Overdrafts in their current form at most banks are hard to understand, meaning people often don’t really know what they’re paying or how to reduce their reliance on their overdraft. We’ve tried to solve these problems with the Monzo Overdraft.
+
+
+
+Overdrafts at the moment
+With traditional banks, customers often ‘slip’ into their overdraft and only realise this is the case when they receive charges in later monthly statements. This is especially true of unauthorised overdrafts, where you haven’t agreed on an overdraft limit with the bank in advance. Research from the FCA suggests that customers don’t necessarily see overdrafts as debts and can quickly become accustomed to using it. Furthermore, the language used when talking about overdrafts is often needlessly complex and confusing, making it even more difficult to understand.
+StepChange, the debt advice charity, said the following earlier this year:
+Persistent overdraft debt, where what is designed as short-term credit becomes long-term
+borrowing is a serious concern with more than half (52%) of our clients having overdraft
+debts. This can arise because households on tight budgets are regularly going overdrawn,
+reaching or going over their overdraft limits, and experiencing the build-up of interest and
+charges. These charges then make it even more difficult to escape from the cycle of
+overdraft use.
+We want to build something better than this.
+How it works
+Over the last six months, we’ve been running testing sessions with both customers and people who’ve never heard of Monzo to find a model that is easy to instantly understand. Time and time again, they told us that the traditional way of charging a percentage based interest rate is really hard to understand — it’s difficult to predict what you might pay over a month and complex to work out what your charges at the end of the month were for.
+So we’ve chosen the simplest model we could. Remember, we are likely to tweak and improve this over time based on both feedback and usage — the amount and charging structure is not set in stone, but we will of course communicate that as transparently and openly as always.
+
+
+
+For the preview, the overdraft will cost 50p for each day your account is overdrawn. We’ve also built in a £20 buffer so that you can use £20 of the overdraft with no charges, for as long as you need. Charges will only kick in once you go below -£20 on your account balance. Again, we’d love your thoughts around this charge — as with everything we do, we’ll iterate and improve on it based on feedback from our community.
+Every day you use your overdraft, you’ll see the charges so far for that month at the top of your feed. You’ll also see your overdraft limit reflected in the Pulse graph at the top, tinted yellow to indicate that you’ll be charged. Charges will then be accumulated over the month and your account will be charged on the 1st of the next month. NB: We charge based on when a transaction is ‘presented’, not when it’s ‘authorised’, so at times you’ll appear to be overdrawn but won’t be charged. We’ll make this clear in the overdraft feed item though and we’re aiming to make this even clearer in the future. If you’re interested, you can read more about authorisations and presentments on Monzo University.
+Unauthorised overdrafts
+We’re doing our best to make unauthorised overdrafts a thing of the past. Time and time again, we hear from customers who’ve been stung by extortionate fees because they’ve accidentally gone into a negative balance or gone over their overdraft limit. This table from Which?, the consumer magazine, suggests the best bank accounts for unauthorised overdrafts charge you more than £10 just for accidentally going into your overdraft for two days in a month. We think that’s unfair and a rip-off.
+Instead, we’ll reject payments that would take you over your overdraft limit or into overdraft if you haven’t applied for an overdraft with us. Rejected payments won’t cost you a thing. In the future, we’ll also notify you in advance when it looks like this might happen so you can choose ahead of time whether you’d like an overdraft or to reject payments.
+There are a few cases where your account might still go overdrawn without you expecting it — most notably with delayed transactions from organisations like TfL or bills from hotels that come in late that we can’t reject (because they’re presentments — more detail here). Most of the time, these payments should fall within your £20 buffer, but if they don’t, we’ll notify you through the app and give you at least until midnight of that day to clear it. If you don’t clear it, we’ll just treat it like the normal overdraft and you’ll be charged 50p/day. This will also be reported to credit reference agencies. Long term, we’d like to make the whole process around these delayed transactions even easier and clearer!
+Effect on credit score
+We’re very keen to minimise any impact on your credit score from using Monzo. When you sign up for a current account with us, we do a “Quotation search”, more commonly known as a soft credit check. That means we can work out whether we can offer you an overdraft, but it has no affect on your credit score otherwise.
+If you then take out an overdraft with us, we’ll do a full credit search and report the fact you now have an overdraft to credit reference agencies. This may affect your credit score.
+We of course outline all of the details before you apply to take out an overdraft with us in-app and if you ever have any questions, we’re always here to help.
+Why iOS only?
+Believe it or not, it’s not because we hate Android! We can’t wait to bring overdrafts to Android, but wanted to launch the first version as soon as possible to start gathering feedback. We’ll then use those learnings to build an even better experience on Android in the coming months. It’s very likely we’ll do the opposite for other features in the future and bring them to Android first, get feedback and make improvements and then bring it to iOS too. We just have to start somewhere.
+So, how do I get a Monzo overdraft?
+If you’re already on the Current Account Preview on iOS, look out for an email in your inbox later today with detailed instructions on how to get involved if you want to. In the future, it’ll be as easy as tapping the “Overdraft” button on the Card screen, but for now it might take a bit longer so please be patient.
+If you’re not already on the Current Account Preview, don’t worry! You can register your interest from this post. We’re planning to roll out significantly more accounts over the next few weeks, so stay tuned.
+
+And that’s it! We’d love to hear your comments, thoughts and feedback in the dedicated post on our community forum and of course, if you have any questions you’d like to ask privately, drop us a message through in-app chat or by email.

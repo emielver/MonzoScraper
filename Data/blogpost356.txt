@@ -1,0 +1,70 @@
+Title: Very Robust etcd
+Author: Filipe Varela
+Position: Backend Engineer
+Date: 29 Nov 2017
+
+
+Monzo’s backend platform powers the bank, and we know that our service needs to be extremely reliable. Our aim is for our platform to be able to automatically tolerate the failure of services, servers, and even entire zones with no impact on our customers or internal users.
+Our overall architecture is described in more detail in our post from last year, but at its base is a Kubernetes cluster responsible for ensuring our services are up and running. Kubernetes is one of our most important systems, and is in large part the secret sauce to how we can tolerate the various types of failure that can occur. To do its job, the Kubernetes control plane relies on etcd to store information about the state of the cluster. If etcd becomes unavailable, we can tolerate it for a period of time, but it leaves us in a vulnerable position that we’d very strongly prefer to avoid. This means our requirements for etcd’s availability are very strict:
+
+
+Tolerate the simultaneous loss of an entire zone and another node
+Because we may be performing maintenance on a node at the same time as a zone failure occurs, it’s conceivable that a zone and an additional node may become unavailable at the same time. etcd must remain available if this happens.
+
+
+No dependence on discovery mechanisms outside our VPC
+A common mechanism to bootstrap an etcd cluster is to use the public discovery service over the internet. While this is convenient, this is not acceptable to us because we have no control over the security or availability of this service.
+
+
+Fully automatic replacement of failed nodes
+Because the availability of our etcd clusters is so critical to us, we do not want humans to have to intervene when failures occur.
+
+
+Fully automatic recovery of a failed cluster
+While extremely unlikely, there are scenarios in which the entire cluster could become unavailable. We accept that this may mean some downtime, but we want the cluster to be restored automatically.
+
+
+To satisfy all of these requirements, we’ve had to implement a fair amount of custom logic and we thought it might be helpful for the community to see how we’ve done it.
+Implementation
+In etcd, consensus is possible if a majority (n/2 + 1) of nodes are available, so the only setup which satisfies our first requirement is to run the cluster across three zones with three nodes in each zone. In this nine-node cluster, quorum can be achieved even with four unavailable members (a zone + a node), providing a level of robustness exceeding even the maximum described in the etcd documentation.
+To satisfy our second requirement of not relying on external mechanisms to bootstrap cluster members, we use a DNS discovery mechanism. This roughly translates to providing etcd with a domain name so it can retrieve an SRV record at a well-known location containing a set of peers. This list is fixed and contains hostnames formatted as peer-n.domain.com.
+A common way to replace failed nodes automatically for our third requirement is to use an Auto Scaling Group with a fixed size. When a node fails, the group automatically starts a new one to compensate. This method is effective, but treats nodes as completely fungible: when the new node starts, it is not provided with any information that would allow it to determine which of the nine nodes it is. In this situation, replacing a node requires:
+
+Calling the etcd membership API to remove the terminated node
+Calling the etcd membership API to register the new node
+Starting the new node with the result of the previous call, which contains the current cluster topology. This is required so that each new node knows the addresses of its peers.
+
+As a direct consequence of this approach – one which we’ve read many blog posts about – the etcd membership API must be available when the new nodes are attempting to join the cluster. This API is itself based atop the internal Raft log, meaning that loss of a majority of nodes would result in a loss of quorum, barring the old nodes from being removed or the new nodes being added. This would result in an unrecoverable cluster, violating our fourth requirement.
+It is possible to recover a cluster from a state where consensus is not possible by starting a single node using one of the existing on-disk data stores with a special flag which forcibly adds peer removal operations to the Raft log (--force-new-cluster). This node can then be restarted and the peers can be re-added, effectively forming a new cluster with the old data. While our Platform team is comfortable with the procedure – we’ve used it before to upgrade from etcd2 to etcd3 – it must be performed by a human operator, and we can’t accept a loss of consensus or the unavailability of the Kubernetes control plane as a designed outcome of our automation.
+This implies that we want to replace nodes without changes to the cluster’s membership. We’ve achieved this by using an ASG per-node (each group has a capacity of one), coupled with a Lambda function to populate DNS discovery entries, and persistent EBS storage that survives node loss and migrates from victim to replacement nodes.
+DNS Setup
+Each member’s IP address is assigned by AWS when the nodes start and changes when a node is replaced. We have a Lambda function which populates A records in Route 53 for each member with names like peer-1.k8s-master-etcd3.eu-west-1.i.prod.prod-ffs.io. The Lambda function is triggered by auto scaling events (recall from earlier that each peer is contained within its own ASG.) This means that when a node joins the cluster, only the IP in its A record changes; because it has the same name, the etcd cluster membership does not change.
+A static SRV record contains pointers to each of these nine A records, and is passed to etcd on startup using its DNS discovery mechanism. All of this means that the cluster’s topology is completely static as far as etcd is concerned, so a loss of majority does not mean a loss of the ability to recover nodes automatically.
+Node bootstrap
+We use Terraform to deploy all of our AWS infrastructure, and for etcd we leverage its count feature and use the modulo operator to automatically spread our workloads over a set of subnets, one per zone. As EBS volumes are located within a zone and can only be mounted by nodes within that zone, we use the same mechanism to colocate volumes with their node.
+This creates a cluster with this topology:
+subnet-0
+peer-0, peer-3, peer-6
+ vol-0,  vol-3,  vol-6
+
+subnet-1
+peer-1, peer-4, peer-7
+ vol-1,  vol-4,  vol-7
+
+subnet-2
+peer-2, peer-5, peer-8
+ vol-2,  vol-5,  vol-8
+
+Each peer runs etcd v3 on CoreOS using the inbuilt etcd-member systemd service. We have configured the service to depend on the successful execution of our custom bootstrapping binary. This binary is passed the node’s identity and performs a number of steps before passing control to etcd-member:
+
+Using the EC2 API, attach the correct volume for this peer number to the node.
+Make sure a valid filesystem exists on the now-attached volume. If not, assume this is the first boot and create one.
+Mount the volume’s filesystem at /var/lib/etcd
+
+
+Try it for yourself
+We have published a standalone version of our Terraform manifests. This sets up an etcd3 cluster in the same way, and you can try it yourself: monzo/etcd3-terraform.
+Conclusion
+This setup is more complex than many other published approaches and relies on some logic we’ve had to write ourselves for node replacement, but it meets our requirements for availability and automation which are more demanding than others we have come across. Using EBS underneath etcd involves a performance trade-off, but we’re willing to accept this to get the reliability we want, and we manage its impact by tweaking the iops provisioning of each volume and using EBS-optimised EC2 nodes.
+We have performed a number of tests on this setup to simulate the various failure modes we have designed for. These tests have demonstrated that we can survive the loss of up to 4 nodes simultaneously (a zone + a node) with no impact on the ability to read and write to the key-value store. We’ve also tested terminating the entire cluster at once, and seen it recover to full health automatically within a matter of minutes. We’re very happy with this and we’re confident that this setup will provide the level of robustness we demand for our Kubernetes installation.
+🚀 If you find distributed systems as fascinating as we do, you should consider coming to work with us.

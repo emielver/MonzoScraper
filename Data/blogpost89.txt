@@ -1,0 +1,61 @@
+Title: How to protect your money from authorised push payment fraud
+Author: Daniel Chatfield
+Position: Financial Crime Lead
+Date: 7 Feb 2019
+
+
+Authorised push payment fraud (APP fraud) is the fastest growing type of fraud in the UK. Over 35,000 people lost a total of £145 million to it in the first half of 2018.
+This guide explains what APP fraud is, how to avoid it and what we’re doing to protect you.
+What is authorised push payment fraud?
+Authorised push payment fraud is where someone tricks you into sending them money from your account. They often do this by contacting you via phone, email or social media and pretending to be someone else – such as your bank, a contractor, an estate agent or the police.
+Authorised push payment fraud can happen to anyone. These fraudsters often create very complex and convincing scams. Some will say they’re calling from your bank’s fraud team about a security issue. Others are even more sophisticated, and might try and get you to pay an invoice to them instead of a contractor you hired.
+Getting your money back can be very difficult if you’ve been scammed into making a bank transfer. This type of payment is instant, meaning it’s almost impossible to cancel. And the fraudster can quickly move the stolen money elsewhere before they’re caught.
+Who’s protecting me from authorised push payment fraud?
+The financial services industry is working together to give people better protection from APP fraud. Here are some of the changes you can expect to see in 2019:
+Complaints to the receiving bank
+In the past, you could only complain to your own bank if you were scammed into transferring money. But the FCA (the financial regulator) is changing this.
+After 31 January 2019, you can also complain to the bank that received your money. In other words, you can complain directly to the bank that the fraudster used. And if you’re not happy with their response, you can refer your complaint to the Financial Ombudsman.
+The FCA decided to introduce this new rule to encourage banks to do more to identify when a fraudster is using their services.
+Confirmation of Payee
+When you make an online payment to someone, you have to enter their name, sort code and account number. At the moment, banks only check that the sort code and account number match up – they don’t check the name on the account.
+Confirmation of Payee will change this. If the name you’ve entered isn’t the same as the name on the account you’re paying, you’ll get a notification telling you about it. You can then choose to approve the payment or cancel it. This means you can be sure who’s receiving your money.
+The regulator has asked all banks to get Confirmation of Payee up and running this year.
+What can I do to protect myself?
+Here are some important tips to help you avoid getting scammed by an authorised push payment fraudster:
+Question unexpected approaches and requests.
+Remember that your bank or the police will never:
+
+Call to ask you for your PIN or full banking password
+Ask you to withdraw or transfer money for safekeeping
+Send someone to your home to collect cash, a PIN number, cards or cheque books
+Ask you to buy something on your card and hand it over for safekeeping
+
+If you use Monzo, we’ll also never:
+
+Call you without arranging it through in-app chat first
+Ask you to share any sensitive information about yourself or your account, like your PIN
+Ask you to move your money out of Monzo and into a different account
+
+Question who you’re talking to. Remember that fraudsters may know basic details about you and can fake phone numbers, names and email addresses. Hang up the phone and get in touch with the company directly using known contact details if you’re not sure (you can usually find the right contact details on the back of your debit card) .
+Take your time. Fraudsters will often try to scare you into sending money or revealing details. An organisation you trust will never try to panic you, stop you from talking to friends or family, or force you into making a bank transfer on the spot.
+Have the confidence to say no. Listen to your instincts and leave the conversation if something feels off. A trustworthy person shouldn’t make you feel embarrassed or guilty.
+What to do if you’ve been scammed
+If you think you’ve sent money to a fraudster:
+Tell your bank or financial services provider immediately (make sure the contact details you use are genuine).
+If you use Monzo, freeze your card right away from the Account tab in your app, and contact us through in-app chat or by ringing 0800 8021 281.
+Report the problem to Action Fraud, or call Police Scotland on 101 if you live in Scotland.
+What we do to protect you
+It’s upsetting to see someone lose a large amount of money, and in some cases their life savings to these scams. So in the Financial Crime team here at Monzo, we spend a lot of our time building and continually improving systems to detect when people make bank transfers into Monzo accounts after being scammed.
+The nature of the systems we use means it’s easier for scammers to evade detection if they know exactly how they work. So we can only give a high level overview of what we do.
+Whenever a Monzo customer receives or spends money, our systems have to decide whether to approve or decline the payment. There are hundreds of different reasons a payment might decline, but for authorised push payment fraud we’re looking for activity that might indicate that the bank transfer into a Monzo account  was the result of a scam.
+As part of this, we look at all relevant transactions across all of the user’s accounts. We feed these transactions into a model that tells us how likely it is that the account activity indicates financial crime. This model considers dozens of transactional signals and several properties about the customer.
+We don’t have very long to decide whether we want to decline the transaction, so this system has to be really fast. To speed things up, we precompute a lot of data.
+For example, on every inbound bank transfer we compare the name the sender entered when they sent the payment with the actual name on the account and store the result of this comparison. If the person sending the bank transfer used a different name than the one on the customer’s account, that could indicate they’ve been tricked into paying the wrong person.
+More often than not though, it’s a legitimate payment where either: the recipient goes by multiple names, the sender didn’t understand and entered their own name, or they’ve written something unrelated like “Monzo”, “mum” etc.
+No system is perfect. And it’s a constant challenge to strike the balance between impacting genuine Monzo customers and protecting the victims of these scams. On the one hand, restricting someone’s access to their own money can cause lots of problems. But on the other hand, we want to help victims get their money back if we can. For every legitimate customer that our controls affect, there’s more than one victim that we helped get their money back.
+
+Authorised push payment fraud isn’t the only way criminals can take your money. Learn how to protect your data to avoid identity theft and fraud.
+For more tips on how to save and budget better, head to Monzo Money Tips👇
+
+
+

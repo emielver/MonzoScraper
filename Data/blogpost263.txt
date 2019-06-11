@@ -1,0 +1,55 @@
+Title: Our plans to help you pay in cheques, just by taking a picture
+Author: James Berry
+Position: Payment Scheme Manager
+Date: 21 Jun 2018
+
+
+Update: We’ve paused our plans to join the Cheque Imaging Scheme to focus on other projects that will benefit more of our customers. Read more about why we decided to do this here.
+Fewer and fewer cheques are cashed each year, but they aren’t going away without a fight. In 2017, over 400 million cheques were cashed in the UK, and the banking industry is committed to providing customers with cheques for as long as they’re needed.
+When you’ll be sent a cheque
+They might seem old school, but cheques are used a lot more than you might think. A few places still issue them, like:
+
+Utility companies
+Government organisations like the DVLA or HMRC
+
+Insurers or other companies that need to reimburse you
+Banks
+
+They’ll usually send you a cheque if they’re giving you a refund, rebate or some kind of compensation.
+Paying cheques into Monzo now
+Even though we don’t have branches, you can pay cheques into your Monzo account by sending them to us.
+
+Write your account number on the back of the cheque, in the top-left corner
+Put your cheque in an envelope and write FREEPOST MONZO on the front (nothing else!)
+
+Find your nearest post box and pop it in
+Wait a few days for your cheque to reach us
+We’ll tell you once we’ve received it through the in-app chat
+Five days after we get it, you’ll see the money in your account
+
+
+
+
+For extra peace of mind, you can also choose to send them to us by using a delivery method you can track. Our address is:
+Monzo
+38 Finsbury Square
+London
+EC2A 1PX
+Paying cheques into Monzo in the future
+We’ve tried to make putting your cheques in the post as easy as possible. But we know the process isn’t as convenient or secure as it could be.
+As part of our plans to make Monzo better, we’re working to help you cash cheques quicker using the Image Clearing System: a new processing system for cheques that all banks and building societies will soon be using. This system will let us offer you a new way to deposit cheques - just by taking a picture.
+You’ll be able to:
+
+Take a picture of your cheque from your Monzo app
+Get your money the very next day!
+
+To offer this easy way of depositing cheques into your Monzo account, we need to integrate with the new Image Clearing System. Getting set up with a new payment system takes time, but we’re working to offer this feature at the start of 2019.
+
+
+
+    We believe we can give you everything you need from a bank, without having branches. Which means we can keep costs low, and pass the benefits onto you!
+    
+
+        Download Monzo
+    
+

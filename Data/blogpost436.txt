@@ -1,0 +1,34 @@
+Title: Launching Settings on Android!
+Author: Tristan Thomas
+Position: Product Manager
+Date: 9 Feb 2017
+
+
+Version 1.4 of the Android app is now live in the Play Store, complete with a brand spanking new Settings screen! We’ve crammed a bunch of useful features in here.
+
+
+
+View limits
+Every Monzo card has top up, spending and withdrawal limits and these can be different for different people, depending on whether you passed our identity verification process. It’s a pain if you hit those limits without knowing, so you can now tap in to see your personal up-to-date limits.
+
+
+
+You can also complete the identity verification process from within this screen. It only takes a couple of minutes and means you’ll be on our higher limits (and have an easier time moving to the Monzo current account later this year!)
+Magstripe ATMs
+We’ve now brought magstripe ATM support to Android (that thing where you have to swipe your card)! Use this toggle to allow withdrawals from magstripe ATMs around the world for 24 hours — it turns off automatically to protect you from fraud. This is incredibly useful in countries like the US, where most of the ATMs wouldn’t have worked previously.
+User number
+This is the most important feature! Scroll right to the bottom of the Settings screen to see when you joined Monzo and which number user you are.
+
+
+
+Other features
+There’s a bunch of other useful tidbits in Settings:
+
+Toggle notifications on and off
+Turn Payments on and off
+Log out
+Close account (though hopefully you never need this)
+See your registered address
+A little preview of our next big update, which is great for receiving money…
+
+We hope you like this update! Let us know what you think and we’d love a review in the Play Store — we read every single one and they really help 😍

@@ -1,0 +1,11 @@
+Title: We’re experiencing problems with some bank transfers
+Author: Tristan Thomas
+Position: Head of Marketing and Community
+Date: 30 May 2019
+
+
+Update: We’ve now fixed the issues with inbound and outbound transfers. Please contact us through the in-app chat if you need any more help.
+We’re currently experiencing some issues with some incoming and outgoing bank transfers and wanted to provide an update for our customers here. We’re making sure that customers aren’t left out of pocket as a result of this.
+The company we use to connect to the Faster Payments system (which processes bank transfers between banks in the UK) have an issue and are working to fix it as quickly as possible. This doesn’t affect the Bacs system, which most salaries are paid through.
+About a quarter of incoming bank transfers are currently failing — anyone affected by this, will see an error message from the sending bank and the payment will appear the Monzo account and then be reversed within a minute or two. If the payment is successful, the money will appear in the Monzo account immediately but it’s worth waiting a minute or two to make sure it isn’t automatically reversed. Outbound transfers from Monzo to other banks are delayed by a few minutes, but will go through.
+We’re really sorry for this and any problems it causes. We’ll continue to update our status page and will also provide a full explanation of the issue once the problems are solved.

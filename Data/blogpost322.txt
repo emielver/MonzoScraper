@@ -1,0 +1,28 @@
+Title: Unlock the Android App with your Fingerprint!
+Author: Beatrice Borbon
+Position: Content and Press Manager
+Date: 15 Mar 2018
+
+
+If you want some extra privacy when you’re using Monzo on Android, you can now choose to unlock the app with the power of your fingerprint.
+We know many of you would like to have an extra level of privacy when you’re using your Monzo app — we’ve received hundreds of requests through customer support for it! So we’ve added the ability to unlock the Android app using just your fingerprint 👆
+To turn it on, simply follow these steps:
+
+Open your Monzo app and go into the Account tab
+Tap on the gear icon in the top right corner
+From there you can choose to unlock the app with your fingerprint
+
+
+
+
+This helps make sure you’re the only one who’s able to unlock your app. This will obviously only work if your Android phone has a fingerprint reader!
+It’s worth noting that this doesn’t mean that you can use your fingerprint to authorise payments, though this is something we want to add in the future!
+Extra privacy 🔐
+You can also choose to hide the contents of your Monzo app from your phone’s recent apps screen.
+Switching it on is simple:
+
+After you turn on fingerprint unlock, an option to “Hide Monzo from recent apps” will appear underneath it
+Tap to turn this toggle on
+
+Android adds an extra layer of privacy, so if you turn on this option you won’t be able to take screenshots of your Monzo app.
+We know that screenshots can sometimes come in useful, like if you have an issue and want to explain it to customer support. So, if you want to keep taking screenshots, you’ll need to switch this second option off.

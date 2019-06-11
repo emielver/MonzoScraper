@@ -1,0 +1,52 @@
+Title: Live updates: Monzo customers and the Marriott group data breach
+Author: Natasha Vernier
+Position: Head of Financial Crime
+Date: 30 Nov 2018
+
+
+The Marriott hotel group just announced that more than 500 million customers have been affected by a data breach.
+Based on what we know so far, you shouldn’t be at greater risk of financial fraud because no unencrypted card details have been leaked.
+But we’re keeping a close eye on what’s happening and will let you know if that changes.
+What we know so far
+The Marriott hotel chain has said that around 500 million of their customers have been involved in a data breach. News reports say that someone had been able to access the guest reservation database of its Starwood division since 2014.
+They were able to access a combination of 327 million people’s personal information, including their name, mailing address, phone number, email address, passport number, date of birth, gender, arrival and departure information, reservation date, communication preferences, and the information on their ‘Starwood Preferred Guest’ account.
+And for some of those people, they were also able to access payment card expiration dates, and encrypted payment card numbers.
+How does this affect you?
+The compromised card numbers were encrypted. That means that the information can’t be seen or used without a decryption key, and there isn’t any information to suggest that this key was compromised. That makes it very unlikely that anyone would be able to actually find out and use your card details, meaning you’re not at greater risk of financial fraud.
+Based on what we know so far, you shouldn’t be at greater risk of fraud, even if you used your Monzo card at a Starwood hotel.
+But we’re keeping a close eye on the news and checking to see if there’s been more fraud on Monzo cards that people have previously used at Marriott hotels.
+If anything changes, we’ll update this post and take precautions to protect you if we need to.
+Starwood is a brand that owns and operates the following hotel chains:
+
+Westin Hotels
+Sheraton Hotels and Resorts
+Four Points by Sheraton
+W Hotels
+St. Regis Hotels
+Le Méridien
+Aloft Hotels
+Element Hotels
+Design Hotels
+
+FAQ
+What should I do if I recently spent at one of the Marriott hotel group hotels?
+If you used the same password for the Marriott website or your Starwood Preferred Guest login, and other online logins, you should consider changing all those passwords.
+You can find out more about how to pick strong passwords and protect yourself against fraud in this blog post.
+Because no unencrypted card details have been leaked, you shouldn’t worry about your bank card. But if we’ll update this blog post with further advice and take precautions to protect your account if we need to.
+Why aren’t you replacing my card immediately?
+At the moment there’s no information to suggest that your unencrypted card details have been compromised, which means you’re not at greater risk of fraud.
+If this changes or we see more fraud on cards previously used at Marriott we’ll update this blog post and take precautions to protect you.
+What is the Marriott International hotel group, and what specifically has been hacked?
+The Marriott International group is an American company that manages and franchises a broad range of hotel chains. The breach mentioned here relates specifically to the Starwood division of the Marriott International hotel group.
+Starwood is a brand that owns and operates the following hotel chains:
+
+Westin Hotels
+Sheraton Hotels and Resorts
+Four Points by Sheraton
+W Hotels
+St. Regis Hotels
+Le Méridien
+Aloft Hotels
+Element Hotels
+Design Hotels
+

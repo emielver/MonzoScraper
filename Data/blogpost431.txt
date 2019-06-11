@@ -1,0 +1,43 @@
+Title: Monzo's Response to Cloudbleed
+Author: Oliver Beattie
+Position: Head of Engineering
+Date: 24 Feb 2017
+
+
+Last night, Cloudflare and Google’s Project Zero published details of a security incident affecting websites and apps that use Cloudflare, nicknamed “Cloudbleed.” The bug can lead to the compromise of sensitive data from websites and APIs that use Cloudflare. There is no risk to the vast majority of Monzo customers. However, we strongly believe in being transparent with our community, so we’re publishing a full report about the incident’s effect on our service.
+Cloudflare sits between many web services and their users to optimise content loading speeds and mitigate attacks. Because Cloudflare is very widely used – by some estimates they see as much as 10% of all internet traffic – the problem deserves immediate attention by the internet community to safeguard users.
+The Monzo apps for iOS and Android are not affected by the vulnerability because they use APIs which are not behind Cloudflare. Our two websites, monzo.com and monzo.me, as well as our beta API for external developers do use Cloudflare so we wanted to be fully transparent with the steps we’re taking as a result of this bug. Overall, we believe the risk to any of our customers to be extremely low but we’re taking steps to minimise that risk even further, detailed below.
+We are publishing our technical internal incident report below for those interested. If you have any questions or concerns, please don’t hesitate to reach out! You can reach our security team directly at [email protected].
+
+Summary
+A bug in a module used by Cloudflare’s edge proxies meant that approximately 1 in every 3.3 million requests resulted in memory leaking from the edge proxy. The contents of this memory might include sensitive information from any site which uses Cloudflare.
+Risk
+Internal APIs for Monzo apps
+Our apps (for Android and iOS) use APIs which do not go via Cloudflare. As such, there is no risk to customers or their information from use of our apps.
+Websites
+Our websites (monzo.com, monzo.me) sit behind Cloudflare with all traffic to those domains being proxied through them.
+Monzo.com does not process any sensitive information and thus there is no risk to personal information.
+Monzo.me does process sensitive information (name and email) but uses an internal API that is not behind Cloudflare. Payment information entered into Monzo.me is sent directly to our payment provider Stripe, who are not affected by this vulnerability. Therefore there is also no risk to personal information.
+Developer API
+Our developer API does sit behind Cloudflare with all of its traffic proxied through their service. That means that apps that developers have built using this API to connect to Monzo have potentially leaked sensitive information. Data sent to and from our developer API may contain the following information:
+
+Access tokens – used by API developers to identify both their apps and users who have authenticated to their apps. These tokens are only valid for a very limited period of time
+Client secrets – used to identify an API client (not an individual user) when requesting an access token
+Transaction information
+Customers’ personally identifiable information
+
+We believe the risk to customer data from use of the developer API to be very low for the following reasons:
+
+Only clients of the developer API are affected.
+We do not yet allow apps built using our beta developer API to be made publicly available, so usage is very low – specifically, only developers themselves and a limited number of users they explicitly whitelist can use the API.
+If any access tokens were leaked, they are only valid for up to 2 days.
+If a refresh token was leaked there is a high chance that it will be used within 2 days. A refresh token may only be used once – after it has been used, a new one is generated and the old one becomes invalid.
+
+Actions
+Despite the low risk, we have taken several additional steps to further mitigate the risk:
+
+As of 11:16 this morning, we revoked all existing access and refresh tokens for clients that used the developer API. This will affect a very small number of applications and will require their users to log in again.
+We have also taken steps to identify which third-party services we use and believe may have been affected to mitigate any risks. For every third party provider we use, we have checked whether they use Cloudflare, and if they do, we have rotated our credentials for these services so the old ones are no longer valid. This list includes Mailgun, Crowdcube, JudoPay, and Pingdom.
+
+
+I also want to thank everyone on the Monzo team who helped with our fast response to this incident. In particular, Daniel, Priyesh, Richard, Simon, Tristan, and Matt.

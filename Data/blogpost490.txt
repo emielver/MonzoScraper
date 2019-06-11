@@ -1,0 +1,30 @@
+Title: Mondo on Android
+Author: Tristan Thomas
+Position: Product
+Date: 25 May 2016
+
+
+
+
+
+When Mondo started in 2015, we focussed on building the iOS app first. Starting with one platform meant that we were able to release our Alpha version and make improvements very quickly.
+The time has now come to expand our efforts. Today we are announcing that version 0.1 of the Mondo Android app is available to download in the Google Play Store – the first glimpse of our plans for the full app later this year.
+Why version 0.1?
+This is not yet the full Mondo app. You can reserve your place in the queue and improve your position by inviting friends. If you reach the top of the waiting list, you’ll be one of the very first to get the full Android app when it’s ready, together with a Mondo Beta MasterCard® Prepaid Debit card.
+
+
+
+
+
+We wanted to release this early version to show that we’re serious about bringing Mondo to Android. As we did with the iOS app, we’ll release updates as often as we can, so you’ll see the app developing in front of your eyes. We’ll try to involve you as much as possible in this process. The app is only available for Android versions 5+ – this has allowed us to build a more solid base and invest in security for the future.
+When is the full app coming?
+Soon! We’ve just hired an Android team and will be pushing the first test builds out in the next month or two. We’re aiming to release a fully-featured version later this summer.
+What about Windows Phone, BlackBerry, and other platforms?
+For now, we will be focussing on iOS and Android to build the best banking app we possibly can. However, we’d love to see apps for other platforms connecting to Mondo through our open API. If you have any ideas of questions, join our Developers’ Slack channel.
+What if I’m an investor?
+Thank you! As soon as we have the full app, we’ll bump you to the top and send you a card as soon as we can.
+Where can I ask other questions?
+Come and join us in the Android section of the community forum. We’ll post progress updates, ask for testers, and chat with users so you’re always kept informed. As always, if you have further questions, drop us an email to [email protected] or @monzo on Twitter :)
+MasterCard is a registered trademark of MasterCard International Incorporated. The Card is issued by Wirecard Card Solutions Ltd (“WDCS”) pursuant to licence by MasterCard International Inc. WDCS is authorised by the Financial Conduct Authority to conduct electronic money service activities under the Electronic Money Regulations 2011 (Ref: 900051).
+
+We recently updated our name to Monzo! Read more about it here.

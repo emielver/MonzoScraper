@@ -1,0 +1,25 @@
+Title: Launching Early Access to Travel Reports
+Author: Tristan Thomas
+Position: Product
+Date: 16 Aug 2016
+
+
+It’s sunny summer time and we’ve loved seeing so many Mondo cards being used around the world. We really think it’s the best card to use abroad, with no fees, a great exchange rate, instant notifications and now…travel reports! We’re beta testing these now and will be slowly rolling them out over the coming weeks to everyone, but you can get early access below.
+
+
+
+What are travel reports?
+When you arrive abroad, we’ll automatically send you a welcome notification with the current exchange rate, details about travelling with Mondo and the option to automagically categorise your transactions as holidays or expenses.
+While you’re away, you’ll see live exchange rate information and daily spend amounts in both GBP and the foreign currency. Then when you get back home we’ll send a report of your trip, with info on how much you spent and the exchange rates while you were away.
+We’ll be bringing the full travel reports experience to Android later this year. In the meantime, Android users will also receive the travel push notifications and both the GBP and foreign currency amounts on transactions abroad.
+
+
+
+Get early access
+If you’re taking a trip soon with your iPhone, and are up for helping us test it, we’d love to give you early access. We’ll ask for your email address and send you a feed item to enable location access. Then you’re ready to go!
+
+Get early access to travel reports
+(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()
+We’d love to hear your feedback on travel reports in the community forum or directly via in-app chat. We’ll update this post once we’ve enabled travel reports for all users. Safe travels 🛫
+
+We recently updated our name to Monzo! Read more about it here.
